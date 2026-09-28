@@ -86,7 +86,7 @@ closed at market. To run one by hand: Actions, then Paper trading shift, then Ru
 ## Honest limits of v1
 
 - It does not read Twitter directly. The X API is paid; trending data from
-  DexScreener and CoinGecko stands in for it. The X API is paid; that's a v2 decision.
+  DexScreener and CoinGecko stands in for it.
 - Bundle detection is a heuristic built from on-chain trades and top holders.
 - Paper fills are an estimate. Real trades land later and can fill worse.
 - The `--sim` market is made up. Its profits mean nothing. Only live paper
