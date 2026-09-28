@@ -1,0 +1,43 @@
+name: Paper trading shift
+
+on:
+  schedule:
+    # 01:07 UTC daily = 8:07 PM Central (busy US evening hours)
+    - cron: "7 1 * * *"
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "How many minutes to run"
+        default: "60"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-run
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run the bot (paper money only)
+        env:
+          HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
+        run: python bot.py --minutes "${{ github.event.inputs.minutes || '60' }}"
+      - name: Save logs to the repo
+        if: always()
+        run: |
+          git config user.name "pumpbot"
+          git config user.email "pumpbot@users.noreply.github.com"
+          git add logs
+          git diff --cached --quiet && exit 0
+          git commit -m "Paper run $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase
+          git push

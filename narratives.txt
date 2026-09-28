@@ -1,0 +1,12 @@
+# Narrative keywords - one per line, lowercase.
+# A token whose name, ticker, or description contains any of these gets +10 score.
+# This is the "Twitter" dial for v1: update it with whatever is trending on X /
+# DexScreener that day, and delete stale ones. Fewer, sharper words work better.
+
+ai
+agent
+trump
+elon
+quant
+tokeniz
+sibos
