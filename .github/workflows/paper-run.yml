@@ -2,13 +2,14 @@ name: Paper trading shift
 
 on:
   schedule:
-    # 01:07 UTC daily = 8:07 PM Central (busy US evening hours)
-    - cron: "7 1 * * *"
+    # Five 10-minute shifts spread across Asia / Europe / US hours (UTC).
+    # Central time: 2:07 AM, 7:07 AM, 12:07 PM, 5:07 PM, 9:07 PM
+    - cron: "7 2,7,12,17,22 * * *"
   workflow_dispatch:
     inputs:
       minutes:
         description: "How many minutes to run"
-        default: "60"
+        default: "10"
 
 permissions:
   contents: write
@@ -20,7 +21,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -30,7 +31,7 @@ jobs:
       - name: Run the bot (paper money only)
         env:
           HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
-        run: python bot.py --minutes "${{ github.event.inputs.minutes || '60' }}"
+        run: python bot.py --minutes "${{ github.event.inputs.minutes || '10' }}"
       - name: Save logs to the repo
         if: always()
         run: |

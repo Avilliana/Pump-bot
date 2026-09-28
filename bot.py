@@ -129,6 +129,7 @@ class Bot:
         self.session = None
         self.clock = 0.0            # virtual time in sim mode
         self.run_minutes = 0.0
+        self.buy_cutoff = 0.0       # no new buys after this time (timed shifts)
         self.last_dash = 0.0
         self.helius_key = os.environ.get("HELIUS_API_KEY", "").strip()
         self.stats = {"seen": 0, "rejected": 0, "dropped": 0, "bought": 0}
@@ -427,7 +428,9 @@ class Bot:
             if not ok:
                 decision, reason = "reject", why
         if decision == "buy":
-            if len(self.positions) >= self.cfg["max_open_positions"]:
+            if self.buy_cutoff and self.now() >= self.buy_cutoff:
+                decision, reason = "wait", "shift ending"
+            elif len(self.positions) >= self.cfg["max_open_positions"]:
                 decision, reason = "wait", "max positions open"
             elif self.balance_sol * self.cfg["position_pct"] < self.cfg["min_trade_sol"]:
                 decision, reason = "wait", "balance too low"
@@ -663,6 +666,7 @@ class Bot:
                      (self.ws_loop(), self.ticker(), self.price_updater())]
             if self.run_minutes:
                 log(f"Running for {self.run_minutes} minutes")
+                self.buy_cutoff = time.time() + max(0.0, self.run_minutes - 3) * 60
                 await asyncio.sleep(self.run_minutes * 60)
                 self.close_all("shift ended")
                 self.dashboard()

@@ -67,6 +67,14 @@ python bot.py
   what happened to those tokens, and see which numbers separated winners from
   rugs. Then change `config.json`.
 
+## Cloud shifts (GitHub Actions)
+
+`.github/workflows/paper-run.yml` runs the bot five times a day for 10 minutes
+(2:07 AM, 7:07 AM, 12:07 PM, 5:07 PM, 9:07 PM Central) and commits `logs/` back
+to the repo. The paper account carries over between shifts (`logs/state.json`).
+No new buys in the last 3 minutes of a shift; anything still open at the end is
+closed at market. To run one by hand: Actions, then Paper trading shift, then Run workflow.
+
 ## Tuning
 
 - `config.json` holds every threshold. Change one thing at a time and give it a
