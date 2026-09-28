@@ -79,13 +79,15 @@ closed at market. To run one by hand: Actions, then Paper trading shift, then Ru
 
 - `config.json` holds every threshold. Change one thing at a time and give it a
   day, or you won't know what helped.
-- `narratives.txt` is the manual "Twitter" dial. Put in words that are trending
-  today (one per line) and remove stale ones. Matching tokens get +10.
+- `narratives.txt` is the "Twitter" dial. Words you add above the AUTO line stay
+  forever; the AUTO section is refreshed every morning from DexScreener and
+  CoinGecko trending data by `update_narratives.py`. Matching tokens get +10.
 
 ## Honest limits of v1
 
-- It does not read Twitter yet. The X API is paid; that's a v2 decision.
-- Bundle detection is a heuristic. The optional Helius check makes it much stronger.
+- It does not read Twitter directly. The X API is paid; trending data from
+  DexScreener and CoinGecko stands in for it. The X API is paid; that's a v2 decision.
+- Bundle detection is a heuristic built from on-chain trades and top holders.
 - Paper fills are an estimate. Real trades land later and can fill worse.
 - The `--sim` market is made up. Its profits mean nothing. Only live paper
   results count.

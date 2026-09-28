@@ -91,7 +91,7 @@ def load_narratives(path: str) -> List[str]:
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip().lower()
-            if line and not line.startswith("#"):
+            if line and not line.startswith("#") and line not in out:
                 out.append(line)
     return out
 
