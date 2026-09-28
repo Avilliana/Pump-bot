@@ -236,7 +236,7 @@ class Bot:
 
     def stamp(self) -> str:
         t = self.now()
-        return time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(t))
+        return time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(t))
 
     # ---------------- network extras (live only) ----------------
 
@@ -681,6 +681,20 @@ class Bot:
         with open(self.state_path, "w", encoding="utf-8") as f:
             json.dump(st, f)
 
+    def log_equity(self) -> None:
+        """One row per finished shift - feeds the phone dashboard's chart."""
+        if self.sim:
+            return
+        eq = self.equity()
+        n = len(self.closed)
+        wins = sum(1 for x in self.closed if x["pnl_sol"] > 0)
+        self.append_csv(os.path.join(LOG_DIR, "equity.csv"), {
+            "time": time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()),
+            "equity_sol": round(eq, 5), "equity_usd": round(eq * self.sol_usd, 2),
+            "return_pct": round((eq / self.start_balance_sol - 1) * 100, 2),
+            "closed_trades": n, "win_rate_pct": round(wins / n * 100, 1) if n else 0,
+            "tokens_seen": self.stats["seen"]})
+
     def close_all(self, reason: str) -> None:
         for p in list(self.positions.values()):
             t = self.tokens.get(p.mint)
@@ -781,6 +795,7 @@ class Bot:
                 await asyncio.sleep(self.run_minutes * 60)
                 self.close_all("shift ended")
                 self.dashboard()
+                self.log_equity()
                 log("Shift over. Open positions closed at market (paper).")
                 for x in tasks:
                     x.cancel()
