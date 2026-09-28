@@ -1,1 +1,1 @@
-{"start_balance_sol": 0.41816509157815507, "balance_sol": 0.41816509157815507, "closed": [], "stats": {"seen": 226, "rejected": 168, "dropped": 0, "bought": 0}, "reject_reasons": {"dev": 21, "no traction": 147}}
+{"start_balance_sol": 0.41816509157815507, "balance_sol": 0.40260801355665565, "closed": [{"symbol": "GACHACAT", "pnl_sol": -0.015557078021499377, "pnl_pct": -37.2, "reason": "stop loss -35%", "held_s": 34}], "stats": {"seen": 488, "rejected": 377, "dropped": 11, "bought": 1}, "reject_reasons": {"dev": 186, "no traction": 186, "bundled": 4, "top10": 1}}

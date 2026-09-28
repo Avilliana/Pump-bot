@@ -1,0 +1,3 @@
+time,mint,symbol,action,reason,price,sol,pnl_sol,pnl_pct,mcap_usd,balance_sol
+2026-09-28 13:41:56,q6WC9dtsNfc1dvbgUNXwPbf6SDLkmmHk6mqRzeiBZfs,GACHACAT,BUY,score 74.5,0.000000080035,0.04182,,,9160,0.37635
+2026-09-28 13:42:30,q6WC9dtsNfc1dvbgUNXwPbf6SDLkmmHk6mqRzeiBZfs,GACHACAT,SELL,stop loss -35%,0.000000051864,0.02626,-0.01556,-37.2,6345,0.40261
