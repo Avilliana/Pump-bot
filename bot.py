@@ -20,6 +20,9 @@ Logs go to ./logs:
 
 import argparse
 import asyncio
+import base64
+import hashlib
+import struct
 import csv
 import json
 import os
@@ -30,7 +33,43 @@ import time
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional, Set
 
-WS_URL = "wss://pumpportal.fun/api/data"
+WS_URL = "wss://pumpportal.fun/api/data"           # new launches (free)
+PUMP_PROGRAM = "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+TRADE_EVENT = hashlib.sha256(b"event:TradeEvent").digest()[:8]
+DEFAULT_WSS = "wss://api.mainnet-beta.solana.com"  # free public Solana node
+DEFAULT_RPC = "https://api.mainnet-beta.solana.com"
+B58 = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
+
+
+def b58encode(b: bytes) -> str:
+    n = int.from_bytes(b, "big")
+    out = ""
+    while n:
+        n, r = divmod(n, 58)
+        out = B58[r] + out
+    pad = len(b) - len(b.lstrip(b"\0"))
+    return "1" * pad + out
+
+
+def decode_trade(data: bytes) -> Optional[dict]:
+    """Decode a pump.fun TradeEvent (from 'Program data:' logs) into the same
+    shape the rest of the bot uses. Only the stable leading fields are read."""
+    if len(data) < 8 + 32 + 8 + 8 + 1 + 32 + 8 + 8 + 8 or data[:8] != TRADE_EVENT:
+        return None
+    o = 8
+    mint = b58encode(data[o:o + 32]); o += 32
+    sol, tok = struct.unpack_from("<QQ", data, o); o += 16
+    is_buy = data[o] == 1; o += 1
+    user = b58encode(data[o:o + 32]); o += 32
+    o += 8  # timestamp
+    vsol, vtok = struct.unpack_from("<QQ", data, o)
+    vsol_f, vtok_f = vsol / 1e9, vtok / 1e6
+    return {"txType": "buy" if is_buy else "sell", "mint": mint,
+            "traderPublicKey": user, "solAmount": sol / 1e9,
+            "tokenAmount": tok / 1e6, "vSolInBondingCurve": vsol_f,
+            "vTokensInBondingCurve": vtok_f,
+            "marketCapSol": (vsol_f / vtok_f * TOTAL_SUPPLY) if vtok_f else 0.0,
+            "pool": "pump"}
 TOTAL_SUPPLY = 1_000_000_000  # every pump.fun token has 1B supply
 HERE = os.path.dirname(os.path.abspath(__file__))
 LOG_DIR = os.path.join(HERE, "logs")
@@ -132,6 +171,14 @@ class Bot:
         self.buy_cutoff = 0.0       # no new buys after this time (timed shifts)
         self.last_dash = 0.0
         self.helius_key = os.environ.get("HELIUS_API_KEY", "").strip()
+        self.pp_key = os.environ.get("PUMPPORTAL_API_KEY", "").strip()
+        self.rpc_wss = os.environ.get("SOLANA_WSS", "").strip() or DEFAULT_WSS
+        self.rpc_http = os.environ.get("SOLANA_RPC", "").strip() or DEFAULT_RPC
+        # trades for mints we haven't seen created yet (launch-block bundles
+        # often arrive before the create message) - replayed on create
+        self.pending: Dict[str, List[tuple]] = {}
+        self.chain_msgs = 0
+        self.chain_trades = 0
         self.stats = {"seen": 0, "rejected": 0, "dropped": 0, "bought": 0}
         self.reject_reasons: Dict[str, int] = {}
         os.makedirs(LOG_DIR, exist_ok=True)
@@ -222,10 +269,11 @@ class Bot:
     async def holder_check(self, t: Token):
         """Optional: real top-holder concentration from chain (needs HELIUS_API_KEY).
         Catches bundle wallets the live feed missed."""
-        if self.sim or not self.helius_key or self.session is None:
+        if self.sim or self.session is None:
             return True, ""
         try:
-            url = f"https://mainnet.helius-rpc.com/?api-key={self.helius_key}"
+            url = (f"https://mainnet.helius-rpc.com/?api-key={self.helius_key}"
+                   if self.helius_key else self.rpc_http)
             payload = {"jsonrpc": "2.0", "id": 1,
                        "method": "getTokenLargestAccounts", "params": [t.mint]}
             async with self.session.post(url, json=payload, timeout=8) as r:
@@ -283,7 +331,10 @@ class Bot:
             t.meta = d["meta"]
         self.tokens[mint] = t
         self.stats["seen"] += 1
-        await self.send({"method": "subscribeTokenTrade", "keys": [mint]})
+        if self.pp_key:
+            await self.send({"method": "subscribeTokenTrade", "keys": [mint]})
+        for _, ev in self.pending.pop(mint, []):
+            self.on_trade(ev)
         if t.meta is None:
             asyncio.create_task(self.fetch_meta(t))
 
@@ -457,7 +508,21 @@ class Bot:
     def forget(self, t: Token) -> None:
         t.status = "done"
         self.tokens.pop(t.mint, None)
-        self.fire({"method": "unsubscribeTokenTrade", "keys": [t.mint]})
+        if self.pp_key:
+            self.fire({"method": "unsubscribeTokenTrade", "keys": [t.mint]})
+
+    def on_chain_trade(self, ev: dict) -> None:
+        mint = ev["mint"]
+        if mint in self.tokens:
+            self.on_trade(ev)
+        elif len(self.pending) < 20000:
+            self.pending.setdefault(mint, []).append((self.now(), ev))
+
+    def prune_pending(self) -> None:
+        cutoff = self.now() - 20
+        for m in list(self.pending):
+            if self.pending[m][-1][0] < cutoff:
+                del self.pending[m]
 
     # ---------------- paper execution ----------------
     # Fills use the real bonding-curve math, so a big order pays real price
@@ -566,6 +631,8 @@ class Bot:
             elif t.status == "bought":
                 self.check_exit(t)
         every = 1800 if self.sim else self.cfg["dashboard_seconds"]
+        if not self.sim:
+            self.prune_pending()
         if now - self.last_dash >= every:
             self.last_dash = now
             self.dashboard()
@@ -587,7 +654,8 @@ class Bot:
         log(f"--- equity {eq:.3f} SOL (${eq*self.sol_usd:,.2f}, {ret:+.1f}%) | "
             f"open {len(self.positions)} | closed {n} | win rate {wr:.0f}% | "
             f"watching {len(self.tokens)} | seen {self.stats['seen']} "
-            f"rejected {self.stats['rejected']} bought {self.stats['bought']}")
+            f"rejected {self.stats['rejected']} bought {self.stats['bought']}"
+            + ("" if self.sim else f" | chain trades {self.chain_trades}"))
         summary = {
             "updated": self.stamp(), "sol_usd": self.sol_usd,
             "start_balance_sol": round(self.start_balance_sol, 5),
@@ -629,7 +697,8 @@ class Bot:
         backoff = 1
         while True:
             try:
-                async with websockets.connect(WS_URL, ping_interval=20, ping_timeout=20,
+                url = WS_URL + (f"?api-key={self.pp_key}" if self.pp_key else "")
+                async with websockets.connect(url, ping_interval=20, ping_timeout=20,
                                               max_size=None) as ws:
                     self.ws = ws
                     backoff = 1
@@ -651,19 +720,61 @@ class Bot:
                 await asyncio.sleep(backoff)
                 backoff = min(backoff * 2, 60)
 
+    async def chain_loop(self) -> None:
+        """Every pump.fun trade, read straight from Solana program logs."""
+        import websockets
+        backoff = 1
+        sub = {"jsonrpc": "2.0", "id": 1, "method": "logsSubscribe",
+               "params": [{"mentions": [PUMP_PROGRAM]}, {"commitment": "processed"}]}
+        while True:
+            try:
+                async with websockets.connect(self.rpc_wss, ping_interval=20, ping_timeout=30,
+                                              max_size=None) as ws:
+                    await ws.send(json.dumps(sub))
+                    backoff = 1
+                    log("Connected to Solana trade stream")
+                    async for raw in ws:
+                        self.chain_msgs += 1
+                        try:
+                            msg = json.loads(raw)
+                            val = msg["params"]["result"]["value"]
+                        except Exception:
+                            if "error" in str(raw)[:200]:
+                                log(f"Solana node said: {str(raw)[:200]}")
+                            continue
+                        if val.get("err"):
+                            continue
+                        for line in val.get("logs") or []:
+                            if not line.startswith("Program data: "):
+                                continue
+                            try:
+                                ev = decode_trade(base64.b64decode(line[14:]))
+                            except Exception:
+                                ev = None
+                            if ev:
+                                self.chain_trades += 1
+                                self.on_chain_trade(ev)
+            except Exception as e:
+                log(f"Solana stream disconnected ({e}); reconnecting in {backoff}s")
+                await asyncio.sleep(backoff)
+                backoff = min(backoff * 2, 60)
+
     async def run_live(self) -> None:
         import aiohttp
         async with aiohttp.ClientSession() as session:
             self.session = session
             await self.refresh_sol_price()
             self.init_balance()
-            if self.helius_key:
-                log("Helius key found: on-chain holder check ON")
+            if self.pp_key:
+                log("Trade data: PumpPortal (paid key)")
             else:
-                log("No HELIUS_API_KEY set: on-chain holder check OFF (optional)")
+                log(f"Trade data: Solana logs via {self.rpc_wss.split('?')[0]}")
+            log("Holder check: " + ("Helius" if self.helius_key else self.rpc_http.split('?')[0]))
             log(f"Narrative keywords loaded: {len(self.narratives)}")
-            tasks = [asyncio.create_task(x) for x in
-                     (self.ws_loop(), self.ticker(), self.price_updater())]
+            loops = [self.ws_loop(), self.ticker(), self.price_updater()]
+            if not self.pp_key:
+                loops.append(self.chain_loop())
+            tasks = [asyncio.create_task(x) for x in loops]
             if self.run_minutes:
                 log(f"Running for {self.run_minutes} minutes")
                 self.buy_cutoff = time.time() + max(0.0, self.run_minutes - 3) * 60
