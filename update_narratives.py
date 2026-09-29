@@ -45,7 +45,7 @@ community project official launch launched chain network web3 dex dexscreener
 holders holder buy sell price market cap mc ca contract twitter telegram tg
 website site join now today next time world people everyone every most much
 make made built build home here back real true life love good big king ever
-com www https http app org xyz net
+com www https http app org xyz net day days gets getting got going gonna want need let lets take give keep year years week also still even never always
 """.split())
 
 
