@@ -131,6 +131,13 @@ class Token:
     seen_first_trade: bool = False
     migrated: bool = False
     meta: Optional[dict] = None
+    create_slot: int = 0            # Solana slot of the launch
+    dev_buy_matched: bool = False   # dev's launch buy already counted from the create msg
+    slot_buyers: Set[str] = field(default_factory=set)   # bought in the launch slot(s)
+    early_sizes: List[float] = field(default_factory=list)
+    twitter_handle: str = ""
+    twitter_kind: str = ""          # none | profile | tweet | community
+    fresh_top5: int = -1            # fresh wallets among top-5 holders (-1 = not checked)
     cp_idx: int = 0
     status: str = "watching"   # watching | bought | done
 
@@ -180,6 +187,8 @@ class Bot:
         self.pending: Dict[str, List[tuple]] = {}
         self.chain_msgs = 0
         self.chain_trades = 0
+        # twitter handle -> mints that linked it (copycat / recycled-account detection)
+        self.handles: Dict[str, List[str]] = {}
         self.stats = {"seen": 0, "rejected": 0, "dropped": 0, "bought": 0}
         self.reject_reasons: Dict[str, int] = {}
         os.makedirs(LOG_DIR, exist_ok=True)
@@ -205,6 +214,7 @@ class Bot:
                 self.closed = st.get("closed", [])
                 self.stats.update(st.get("stats", {}))
                 self.reject_reasons = st.get("reject_reasons", {})
+                self.handles = st.get("handles", {})
                 if not self.sol_price_live and st.get("sol_usd"):
                     # All price sources down: last known price beats the stale config fallback
                     self.sol_usd = float(st["sol_usd"])
@@ -232,12 +242,26 @@ class Bot:
             asyncio.create_task(self.send(obj))
 
     def append_csv(self, path: str, row: dict) -> None:
-        new = not os.path.exists(path)
-        with open(path, "a", newline="", encoding="utf-8") as f:
-            w = csv.DictWriter(f, fieldnames=list(row.keys()))
-            if new:
+        if os.path.exists(path):
+            with open(path, "r", newline="", encoding="utf-8") as f:
+                header = next(csv.reader(f), [])
+            missing = [k for k in row if k not in header]
+            if missing:
+                # new columns: rewrite the file once with the wider header
+                with open(path, "r", newline="", encoding="utf-8") as f:
+                    old = list(csv.DictReader(f))
+                header = header + missing
+                with open(path, "w", newline="", encoding="utf-8") as f:
+                    w = csv.DictWriter(f, fieldnames=header)
+                    w.writeheader()
+                    w.writerows(old)
+            with open(path, "a", newline="", encoding="utf-8") as f:
+                csv.DictWriter(f, fieldnames=header, extrasaction="ignore").writerow(row)
+        else:
+            with open(path, "w", newline="", encoding="utf-8") as f:
+                w = csv.DictWriter(f, fieldnames=list(row.keys()))
                 w.writeheader()
-            w.writerow(row)
+                w.writerow(row)
 
     def stamp(self) -> str:
         t = self.now()
@@ -289,6 +313,57 @@ class Bot:
                 t.meta = await r.json(content_type=None)
         except Exception:
             t.meta = {}
+        self.note_twitter(t)
+
+    FAMOUS = {"elonmusk", "realdonaldtrump", "potus", "whitehouse", "cz_binance", "binance",
+              "coinbase", "pumpdotfun", "solana", "vitalikbuterin", "saylor", "aeyakovenko",
+              "rajgokal", "jupiterexchange", "phantom", "dexscreener", "kanyewest", "ye",
+              "barackobama", "nasa", "openai", "sama", "tesla", "spacex", "x", "twitter"}
+    NOT_HANDLES = {"i", "intent", "home", "search", "hashtag", "share", "explore"}
+
+    def note_twitter(self, t: Token) -> None:
+        """Read the token's X/Twitter link: what kind it is, and whether the
+        same account has been attached to other launches (a recycled or copied
+        account is a common rug sign)."""
+        tw = str((t.meta or {}).get("twitter") or "").strip()
+        if not tw:
+            t.twitter_kind = "none"
+            return
+        m = re.search(r"(?:twitter|x)\.com/i/communities/(\d+)", tw, re.I)
+        if m:
+            t.twitter_kind, t.twitter_handle = "community", "community:" + m.group(1)
+        else:
+            m = re.search(r"(?:twitter|x)\.com/([A-Za-z0-9_]{1,15})(/status/\d+)?", tw, re.I)
+            if not m or m.group(1).lower() in self.NOT_HANDLES:
+                t.twitter_kind = "other"
+                return
+            t.twitter_handle = m.group(1).lower()
+            t.twitter_kind = "tweet" if m.group(2) else "profile"
+        mints = self.handles.setdefault(t.twitter_handle, [])
+        if t.mint not in mints:
+            mints.append(t.mint)
+            del mints[:-20]
+
+    async def fresh_wallet_check(self, t: Token) -> None:
+        """How many of the 5 biggest non-dev holders are brand-new wallets.
+        Bundlers usually fund fresh wallets right before launch."""
+        if self.sim or self.session is None:
+            return
+        top = sorted(((b, w) for w, b in t.balances.items() if w != t.creator and b > 0),
+                     reverse=True)[:5]
+        limit = int(self.cfg.get("fresh_wallet_tx_limit", 20))
+        fresh = 0
+        for _, w in top:
+            try:
+                payload = {"jsonrpc": "2.0", "id": 1, "method": "getSignaturesForAddress",
+                           "params": [w, {"limit": limit}]}
+                async with self.session.post(self.rpc_http, json=payload, timeout=8) as r:
+                    data = await r.json()
+                if len(data.get("result") or []) < limit:
+                    fresh += 1
+            except Exception:
+                return          # don't guess on RPC trouble
+        t.fresh_top5 = fresh
 
     async def holder_check(self, t: Token):
         """Optional: real top-holder concentration from chain (needs HELIUS_API_KEY).
@@ -353,6 +428,7 @@ class Bot:
             t.balances[t.creator] = dev_buy
         if "meta" in d:              # sim mode injects metadata directly
             t.meta = d["meta"]
+            self.note_twitter(t)
         self.tokens[mint] = t
         self.stats["seen"] += 1
         if self.pp_key:
@@ -390,6 +466,22 @@ class Bot:
             t.mcap_sol = float(mc)
         t.peak_mcap_sol = max(t.peak_mcap_sol, t.mcap_sol)
         t.last_trade = now
+
+        slot = int(d.get("slot") or 0)
+        # The dev's launch buy shows up twice (in the create message and as an
+        # on-chain trade). Count it once, and use it to learn the launch slot.
+        if (tx == "buy" and trader == t.creator and not t.dev_buy_matched
+                and t.dev_initial > 0 and abs(tok - t.dev_initial) <= 0.02 * t.dev_initial):
+            t.dev_buy_matched = True
+            if slot:
+                t.create_slot = slot
+            return
+        if slot and not t.create_slot:
+            t.create_slot = slot
+        if (tx == "buy" and trader != t.creator and slot and t.create_slot
+                and slot <= t.create_slot + int(self.cfg.get("bundle_slot_window", 1))):
+            t.slot_buyers.add(trader)
+            t.early_sizes.append(sol)
 
         if tx == "buy":
             t.buys += 1
@@ -433,6 +525,12 @@ class Bot:
         top10 = sum(sorted(t.balances.values(), reverse=True)[:10]) / TOTAL_SUPPLY * 100
         early_pct = sum(t.balances.get(w, 0.0) for w in t.early_buyers) / TOTAL_SUPPLY * 100
         growth = (t.mcap_sol / t.prev_mcap_sol - 1) * 100 if t.prev_mcap_sol else 0.0
+        slot_pct = sum(t.balances.get(w, 0.0) for w in t.slot_buyers) / TOTAL_SUPPLY * 100
+        sizes = sorted(t.early_sizes)
+        twins = sum(1 for i, x in enumerate(sizes)
+                    if any(abs(x - y) <= 0.01 * max(x, 1e-9) for j, y in enumerate(sizes) if j != i))
+        reuse = len([m for m in self.handles.get(t.twitter_handle, []) if m != t.mint]) \
+            if t.twitter_handle else 0
         return {
             "age_s": round(now - t.created),
             "mcap_usd": round(t.mcap_sol * self.sol_usd),
@@ -452,6 +550,14 @@ class Bot:
             "telegram": bool(socials.get("telegram")),
             "website": bool(socials.get("website")),
             "narrative": "|".join(hits),
+            "same_slot_buyers": len(t.slot_buyers),
+            "same_slot_pct": round(slot_pct, 2),
+            "twin_buys": twins,
+            "fresh_top5": t.fresh_top5,
+            "twitter_kind": t.twitter_kind or ("none" if t.meta is not None else ""),
+            "twitter_handle": t.twitter_handle,
+            "handle_reuse": reuse,
+            "twitter_famous": t.twitter_handle in self.FAMOUS,
         }
 
     def score(self, f: dict) -> float:
@@ -487,13 +593,39 @@ class Bot:
             if not (f["twitter"] or f["telegram"] or f["website"]):
                 return "reject", 0, "no socials"
         s = self.score(f)
+        for rule, why in self.extra_rules(f):
+            if c.get("enforce_" + rule, False):
+                return "reject", 0, why
         if f["mcap_usd"] < c["min_mcap_usd"]:
             return "wait", s, "mcap below min"
         if f["unique_buyers"] < c["min_unique_buyers"]:
             return "wait", s, "too few buyers"
         if s >= c["buy_score"]:
+            if f["age_s"] < c.get("min_buy_age_seconds", 0):
+                return "wait", s, "too early (launch spike)"
             return "buy", s, "passed"
         return "wait", s, "score below threshold"
+
+    def extra_rules(self, f: dict):
+        """Newer anti-bundle / Twitter checks. Each one only rejects when its
+        enforce_<name> switch is true in config.json; otherwise it is recorded
+        in the shadow_flags column so the nightly review can see whether it
+        would have avoided losing trades before it gets switched on."""
+        c = self.cfg
+        out = []
+        if (f["same_slot_buyers"] >= c.get("max_same_slot_buyers", 3)
+                or f["same_slot_pct"] >= c.get("max_same_slot_pct", 10)):
+            out.append(("same_slot", f"bundled: {f['same_slot_buyers']} wallets in launch block "
+                                     f"own {f['same_slot_pct']:.0f}%"))
+        if f["twin_buys"] >= c.get("max_twin_buys", 3):
+            out.append(("twin_buys", f"bundled: {f['twin_buys']} identical-size launch buys"))
+        if f["fresh_top5"] >= c.get("max_fresh_top5", 3):
+            out.append(("fresh_wallets", f"bundled: {f['fresh_top5']} of top 5 holders are fresh wallets"))
+        if f["handle_reuse"] >= c.get("max_handle_reuse", 1):
+            out.append(("twitter_reuse", f"twitter account reused by {f['handle_reuse']} other launches"))
+        if f["twitter_famous"]:
+            out.append(("twitter_famous", "twitter link points at a famous account (fake association)"))
+        return out
 
     async def evaluate(self, t: Token, final: bool) -> None:
         f = self.features(t)
@@ -502,6 +634,10 @@ class Bot:
             ok, why = await self.holder_check(t)
             if not ok:
                 decision, reason = "reject", why
+        if decision == "buy":
+            await self.fresh_wallet_check(t)
+            f = self.features(t)
+            decision, s, reason = self.decide(t, f)
         if decision == "buy":
             if self.buy_cutoff and self.now() >= self.buy_cutoff:
                 decision, reason = "wait", "shift ending"
@@ -518,6 +654,7 @@ class Bot:
             row = {"time": self.stamp(), "mint": t.mint, "symbol": t.symbol,
                    "decision": decision, "score": s, "reason": reason}
             row.update(f)
+            row["shadow_flags"] = "|".join(r for r, _ in self.extra_rules(f))
             row["link"] = f"https://pump.fun/coin/{t.mint}"
             self.append_csv(self.cands_path, row)
         if decision == "reject":
@@ -701,7 +838,8 @@ class Bot:
             return
         st = {"start_balance_sol": self.start_balance_sol, "balance_sol": self.balance_sol,
               "closed": self.closed, "stats": self.stats,
-              "reject_reasons": self.reject_reasons, "sol_usd": self.sol_usd}
+              "reject_reasons": self.reject_reasons, "sol_usd": self.sol_usd,
+              "handles": dict(list(self.handles.items())[-3000:])}
         with open(self.state_path, "w", encoding="utf-8") as f:
             json.dump(st, f)
 
@@ -776,6 +914,7 @@ class Bot:
                         try:
                             msg = json.loads(raw)
                             val = msg["params"]["result"]["value"]
+                            slot = int(msg["params"]["result"].get("context", {}).get("slot") or 0)
                         except Exception:
                             if "error" in str(raw)[:200]:
                                 log(f"Solana node said: {str(raw)[:200]}")
@@ -790,6 +929,7 @@ class Bot:
                             except Exception:
                                 ev = None
                             if ev:
+                                ev["slot"] = slot
                                 self.chain_trades += 1
                                 self.on_chain_trade(ev)
             except Exception as e:

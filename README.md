@@ -57,6 +57,20 @@ python bot.py
    - 3 minutes with no trades
    - Token migrates off the curve
 
+## Extra checks (shadow mode)
+
+Newer anti-bundle and Twitter checks are computed for every token and written
+to `candidates.csv` (`shadow_flags` column), but they only reject tokens when
+their `enforce_...` switch in `config.json` is `true`:
+
+- `same_slot`: several wallets bought in the same Solana block as the launch
+- `twin_buys`: launch buys of identical size (scripted)
+- `fresh_wallets`: brand-new wallets among the top 5 holders
+- `twitter_reuse`: the token's X account was attached to other launches
+- `twitter_famous`: the X link points at a famous account (fake association)
+
+The nightly review switches one on once the data shows it would have avoided losers.
+
 ## Reading results (the `logs` folder)
 
 - `summary.json`: the scorecard, with equity, return, win rate, best and worst
