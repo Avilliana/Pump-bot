@@ -161,6 +161,7 @@ class Bot:
         self.tokens: Dict[str, Token] = {}
         self.positions: Dict[str, Position] = {}
         self.sol_usd: float = float(cfg["fallback_sol_usd"])
+        self.sol_price_live = False   # True once a real price was fetched
         self.balance_sol = 0.0
         self.start_balance_sol = 0.0
         self.closed: List[dict] = []
@@ -204,6 +205,10 @@ class Bot:
                 self.closed = st.get("closed", [])
                 self.stats.update(st.get("stats", {}))
                 self.reject_reasons = st.get("reject_reasons", {})
+                if not self.sol_price_live and st.get("sol_usd"):
+                    # All price sources down: last known price beats the stale config fallback
+                    self.sol_usd = float(st["sol_usd"])
+                    log(f"Using last known SOL price ${self.sol_usd:.2f}")
                 log(f"Resumed paper account: {self.balance_sol:.3f} SOL, "
                     f"{len(self.closed)} past trades")
                 return
@@ -240,16 +245,35 @@ class Bot:
 
     # ---------------- network extras (live only) ----------------
 
+    # Free SOL/USD sources, tried in order. CoinGecko often returns 403 to
+    # GitHub Actions IPs, so there are exchange-ticker backups.
+    SOL_PRICE_SOURCES = [
+        ("coingecko", "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd",
+         lambda d: d["solana"]["usd"]),
+        ("coinbase", "https://api.coinbase.com/v2/prices/SOL-USD/spot",
+         lambda d: d["data"]["amount"]),
+        ("kraken", "https://api.kraken.com/0/public/Ticker?pair=SOLUSD",
+         lambda d: next(iter(d["result"].values()))["c"][0]),
+        ("binance", "https://api.binance.us/api/v3/ticker/price?symbol=SOLUSDT",
+         lambda d: d["price"]),
+    ]
+
     async def refresh_sol_price(self) -> None:
         if self.sim or self.session is None:
             return
-        try:
-            url = "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd"
-            async with self.session.get(url, timeout=10) as r:
-                data = await r.json()
-                self.sol_usd = float(data["solana"]["usd"])
-        except Exception as e:
-            log(f"SOL price fetch failed ({e}); using ${self.sol_usd:.2f}")
+        errors = []
+        for name, url, pick in self.SOL_PRICE_SOURCES:
+            try:
+                async with self.session.get(url, timeout=10) as r:
+                    data = await r.json(content_type=None)
+                    px = float(pick(data))
+                if px > 0:
+                    self.sol_usd = px
+                    self.sol_price_live = True
+                    return
+            except Exception as e:
+                errors.append(f"{name}: {e}")
+        log(f"SOL price fetch failed ({'; '.join(errors)}); using ${self.sol_usd:.2f}")
 
     async def price_updater(self) -> None:
         while True:
@@ -677,7 +701,7 @@ class Bot:
             return
         st = {"start_balance_sol": self.start_balance_sol, "balance_sol": self.balance_sol,
               "closed": self.closed, "stats": self.stats,
-              "reject_reasons": self.reject_reasons}
+              "reject_reasons": self.reject_reasons, "sol_usd": self.sol_usd}
         with open(self.state_path, "w", encoding="utf-8") as f:
             json.dump(st, f)
 
