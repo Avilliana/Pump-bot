@@ -603,6 +603,8 @@ class Bot:
         if s >= c["buy_score"]:
             if f["age_s"] < c.get("min_buy_age_seconds", 0):
                 return "wait", s, "too early (launch spike)"
+            if f["age_s"] > c.get("max_buy_age_seconds", 10**9):
+                return "wait", s, "past buy window (late mover)"
             return "buy", s, "passed"
         return "wait", s, "score below threshold"
 
