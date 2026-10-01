@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-01 13:46:06",
-  "sol_usd": 117.43,
+  "updated": "2026-10-01 14:45:11",
+  "sol_usd": 117.81,
   "start_balance_sol": 0.41817,
   "equity_sol": 0.19399,
-  "equity_usd": 22.78,
+  "equity_usd": 22.85,
   "return_pct": -53.61,
   "closed_trades": 79,
   "wins": 21,
   "win_rate_pct": 26.6,
   "best_trade_pct": 167.4,
   "worst_trade_pct": -42.3,
-  "tokens_seen": 37422,
-  "rejected": 33123,
-  "dropped": 1998,
+  "tokens_seen": 38191,
+  "rejected": 33815,
+  "dropped": 2040,
   "bought": 79,
   "reject_reasons": {
-    "dev": 21557,
-    "no traction": 10894,
-    "bundled": 396,
-    "top10": 261,
-    "mcap too high (late)": 15
+    "dev": 21976,
+    "no traction": 11159,
+    "bundled": 400,
+    "top10": 264,
+    "mcap too high (late)": 16
   }
 }
