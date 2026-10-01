@@ -352,18 +352,21 @@ class Bot:
         top = sorted(((b, w) for w, b in t.balances.items() if w != t.creator and b > 0),
                      reverse=True)[:5]
         limit = int(self.cfg.get("fresh_wallet_tx_limit", 20))
-        fresh = 0
-        for _, w in top:
-            try:
-                payload = {"jsonrpc": "2.0", "id": 1, "method": "getSignaturesForAddress",
-                           "params": [w, {"limit": limit}]}
-                async with self.session.post(self.rpc_http, json=payload, timeout=8) as r:
-                    data = await r.json()
-                if len(data.get("result") or []) < limit:
-                    fresh += 1
-            except Exception:
-                return          # don't guess on RPC trouble
-        t.fresh_top5 = fresh
+
+        async def is_fresh(w):
+            payload = {"jsonrpc": "2.0", "id": 1, "method": "getSignaturesForAddress",
+                       "params": [w, {"limit": limit}]}
+            async with self.session.post(self.rpc_http, json=payload, timeout=5) as r:
+                data = await r.json()
+            if "result" not in data:
+                raise RuntimeError(str(data.get("error"))[:80])
+            return len(data["result"]) < limit
+
+        try:
+            res = await asyncio.gather(*(is_fresh(w) for _, w in top))
+        except Exception:
+            return              # don't guess on RPC trouble
+        t.fresh_top5 = sum(res)
 
     async def holder_check(self, t: Token):
         """Optional: real top-holder concentration from chain (needs HELIUS_API_KEY).
@@ -375,7 +378,7 @@ class Bot:
                    if self.helius_key else self.rpc_http)
             payload = {"jsonrpc": "2.0", "id": 1,
                        "method": "getTokenLargestAccounts", "params": [t.mint]}
-            async with self.session.post(url, json=payload, timeout=8) as r:
+            async with self.session.post(url, json=payload, timeout=5) as r:
                 data = await r.json()
             vals = sorted((float(v.get("uiAmount") or 0) for v in data["result"]["value"]),
                           reverse=True)
@@ -632,14 +635,27 @@ class Bot:
     async def evaluate(self, t: Token, final: bool) -> None:
         f = self.features(t)
         decision, s, reason = self.decide(t, f)
+        check_s = 0.0
         if decision == "buy":
-            ok, why = await self.holder_check(t)
+            # On-chain checks run in parallel with a hard time cap, and the
+            # buy-window rules use the token's age at the checkpoint, so a
+            # slow public RPC can never push a good token "past the window".
+            age_at_check = f["age_s"]
+            t0 = time.time()
+            try:
+                (ok, why), _ = await asyncio.wait_for(
+                    asyncio.gather(self.holder_check(t), self.fresh_wallet_check(t)),
+                    timeout=self.cfg.get("check_timeout_seconds", 6))
+            except asyncio.TimeoutError:
+                ok, why = True, ""
+                log(f"on-chain checks timed out for {t.symbol}; buying on feed data only")
+            check_s = round(time.time() - t0, 1)
             if not ok:
                 decision, reason = "reject", why
-        if decision == "buy":
-            await self.fresh_wallet_check(t)
-            f = self.features(t)
-            decision, s, reason = self.decide(t, f)
+            else:
+                f = self.features(t)
+                f["age_s"] = age_at_check
+                decision, s, reason = self.decide(t, f)
         if decision == "buy":
             if self.buy_cutoff and self.now() >= self.buy_cutoff:
                 decision, reason = "wait", "shift ending"
@@ -657,6 +673,7 @@ class Bot:
                    "decision": decision, "score": s, "reason": reason}
             row.update(f)
             row["shadow_flags"] = "|".join(r for r, _ in self.extra_rules(f))
+            row["check_s"] = check_s
             row["link"] = f"https://pump.fun/coin/{t.mint}"
             self.append_csv(self.cands_path, row)
         if decision == "reject":
