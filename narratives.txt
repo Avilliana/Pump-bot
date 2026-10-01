@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-launchpad
-ai
-inu
-goes
-host
+super
 around
-viral
-his
-fee
-trade
-stocks
-trading
-tokenized
-stonk
+inu
 fees
+building
+rewards
+dev
+meet
+little
+energy
+cat
+trump
+cape
+through
+fuel
