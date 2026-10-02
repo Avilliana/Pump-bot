@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-super
-around
-inu
-fees
-building
-rewards
-dev
-meet
-little
-energy
+ai
+hold
 cat
-trump
-cape
-through
-fuel
+bitcoin
+face
+rewards
+earn
+fees
+agent
+followers
+millions
+moments
+online
+views
+viral
