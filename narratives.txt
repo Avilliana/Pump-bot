@@ -13,17 +13,13 @@ sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
 ai
-hold
 cat
-bitcoin
-face
 rewards
-earn
-fees
-agent
-followers
-millions
-moments
-online
-views
+inu
 viral
+live
+born
+right
+creator
+something
+mind
