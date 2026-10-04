@@ -12,14 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
+fees
 ai
-cat
-rewards
+trading
+protocol
+bot
+ecosystem
+transactions
+turn
+moves
 inu
-viral
-live
-born
-right
-creator
-something
-mind
+powered
+energy
+super
+christmas
+private
