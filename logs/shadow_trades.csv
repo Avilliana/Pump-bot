@@ -1,0 +1,45 @@
+time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_up_pct,max_down_pct,held_s
+2026-10-05 21:33:16,42qtpExoZm9NwuhGdYwcHZGZvQig9dxbDZ3auUY8pump,Black Death ,BUY,dev sold,0,0.1,,,11387,,,
+2026-10-05 21:33:40,5oV4K2tGkWR6X7xmPofZfvsadPXXYPdVyDUwz8JDpump,Dino,BUY,dev sold,0,0.1,,,10023,,,
+2026-10-05 21:34:00,5oV4K2tGkWR6X7xmPofZfvsadPXXYPdVyDUwz8JDpump,Dino,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,6915,14.0,-31.0,20
+2026-10-05 21:34:58,42qtpExoZm9NwuhGdYwcHZGZvQig9dxbDZ3auUY8pump,Black Death ,SELL,dev sold,0,0.06101,-39.0,stop loss -38%,7540,23.7,-33.8,101
+2026-10-05 21:35:40,B2P77TiUhvrpLWJ7eCMyYbK1Lo6SzCw6rGrWkZgppump,CRYPTO,BUY,dev sold,0,0.1,,,32438,,,
+2026-10-05 21:36:15,BgVroj6nPNXTpP24MnzYJPtF7NC18R44bqrTrU7Bpump,millionaires,BUY,dev sold,0,0.1,,,13385,,,
+2026-10-05 21:36:23,BgVroj6nPNXTpP24MnzYJPtF7NC18R44bqrTrU7Bpump,millionaires,SELL,dev sold,0,0.06309,-36.9,stop loss -36%,9162,8.5,-31.5,8
+2026-10-05 21:38:50,CjHrxqcWCBiVS7TqfQssGXCi74YFC75CwJwo8yuJpump,CAPY,BUY,bundled: 8 launch wallets own 41%,0,0.1,,,9325,,,
+2026-10-05 21:38:55,7r2reRRR6UAieYqCSv6MWmcHbr5YGATybSyWorRmpump,OA,BUY,past buy window (late mover),66.6,0.1,,,9347,,,
+2026-10-05 21:40:25,B2P77TiUhvrpLWJ7eCMyYbK1Lo6SzCw6rGrWkZgppump,CRYPTO,SELL,dev sold,0,0.14159,41.6,no trading (stale),49581,52.8,-4.9,286
+2026-10-05 21:40:32,7r2reRRR6UAieYqCSv6MWmcHbr5YGATybSyWorRmpump,OA,SELL,past buy window (late mover),66.6,0.06291,-37.1,stop loss -36%,6383,0.7,-31.7,97
+2026-10-05 21:41:11,6XaZBpuZ2tji3K8hSJ3aZPCRV6MYwx9yBDcBpad7pump,swordtrump,BUY,dev sold,0,0.1,,,9483,,,
+2026-10-05 21:41:25,6XaZBpuZ2tji3K8hSJ3aZPCRV6MYwx9yBDcBpad7pump,swordtrump,SELL,dev sold,0,0.03899,-61.0,stop loss -60%,4032,10.0,-57.5,14
+2026-10-05 21:41:40,3wNXBkPWq83Rc6dUAJnc1t24J5AMA95EngASGUwJ6Kdy,George,BUY,dev sold,0,0.1,,,11350,,,
+2026-10-05 21:42:31,CpCeYbZAk2aLPRGhm75ZQtLbYJdSFnnz2ssLGKpvpump,Ark,BUY,past buy window (late mover),62.7,0.1,,,34892,,,
+2026-10-05 21:42:33,8SqnEmwVwEgm4QtJjFf5yVwg3T8uWN9jrDcShz1XPTrf,LACY,BUY,dev sold,0,0.1,,,11425,,,
+2026-10-05 21:42:36,3wNXBkPWq83Rc6dUAJnc1t24J5AMA95EngASGUwJ6Kdy,George,SELL,dev sold,0,0.06264,-37.4,stop loss -36%,7710,82.2,-32.0,56
+2026-10-05 21:42:47,8SqnEmwVwEgm4QtJjFf5yVwg3T8uWN9jrDcShz1XPTrf,LACY,SELL,dev sold,0,0.0602,-39.8,stop loss -39%,7466,0.7,-34.6,13
+2026-10-05 21:43:03,EsmmPdxfrP9pCiesNQYvDS6bQJN4sy4o51A7natUpump,LACY,BUY,dev sold,0,0.1,,,24799,,,
+2026-10-05 21:43:09,CpCeYbZAk2aLPRGhm75ZQtLbYJdSFnnz2ssLGKpvpump,Ark,SELL,past buy window (late mover),62.7,0.05979,-40.2,stop loss -39%,22618,0.0,-35.2,38
+2026-10-05 21:43:12,EsmmPdxfrP9pCiesNQYvDS6bQJN4sy4o51A7natUpump,LACY,SELL,dev sold,0,0.02355,-76.5,stop loss -76%,6412,3.3,-74.1,9
+2026-10-05 21:43:27,6vMQSJdPZFsuxTUE5EnSf1G4kZjU1MwbUQnCy6SBpump,swordtrump,BUY,dev sold,0,0.1,,,12358,,,
+2026-10-05 21:43:35,6vMQSJdPZFsuxTUE5EnSf1G4kZjU1MwbUQnCy6SBpump,swordtrump,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,8467,13.5,-31.5,7
+2026-10-05 21:43:37,14sXAakVzCSY34QDjnoB4V2pBpxpJdi367vWQt4ufued,fued,BUY,score below threshold,46.5,0.1,,,12640,,,
+2026-10-05 21:43:48,DpQxP3BjuPwqAbAKJiyVgZaoj3tMWGdK4Un2Shj9opVX,ASS,BUY,dev sold,0,0.1,,,15373,,,
+2026-10-05 21:44:34,DpQxP3BjuPwqAbAKJiyVgZaoj3tMWGdK4Un2Shj9opVX,ASS,SELL,dev sold,0,0.06252,-37.5,stop loss -36%,10426,24.3,-32.2,46
+2026-10-05 21:44:49,35uRa6rHfiiLxDYPXSZGAv7CZkZwY7oCfgjt54rcpump,swordtrump,BUY,dev sold,0,0.1,,,11021,,,
+2026-10-05 21:45:44,4VLbuGDHxiT3bGXXssLTS96ufedkJQxeDJbc4b7ipump,BITROBIN,BUY,dev sold,0,0.1,,,24660,,,
+2026-10-05 21:45:46,BJuqmHJMhDaYuCZk4dL5jFcUCJVJQRJkmRnoA6Lbpump,ASS,BUY,dev sold,0,0.1,,,15487,,,
+2026-10-05 21:46:52,BJuqmHJMhDaYuCZk4dL5jFcUCJVJQRJkmRnoA6Lbpump,ASS,SELL,dev sold,0,0.06305,-36.9,stop loss -36%,10592,51.6,-31.6,66
+2026-10-05 21:47:17,7zqV1SKkJMMUgLbXydJGfwyLhW7Yjtt7R27kLu1fight,FIGHT,BUY,top10 hold 38%,0,0.1,,,46293,,,
+2026-10-05 21:47:22,CjHrxqcWCBiVS7TqfQssGXCi74YFC75CwJwo8yuJpump,CAPY,SELL,bundled: 8 launch wallets own 41%,0,0.06397,-36.0,dev sold,6471,94.6,-30.6,512
+2026-10-05 21:48:17,ByVboMm5ajxQoHspi3Ga2Hf9G96z73DeNCyV3ChKZFva,Trading,BUY,dev sold,0,0.1,,,18284,,,
+2026-10-05 21:48:39,ByVboMm5ajxQoHspi3Ga2Hf9G96z73DeNCyV3ChKZFva,Trading,SELL,dev sold,0,0.06259,-37.4,stop loss -36%,12412,3.6,-32.1,22
+2026-10-05 21:48:51,H3tSpvGUNvddLq1zy3mmEf7B463vuP3AyyiCRW99VJG7,Trader,BUY,dev sold,0,0.1,,,9685,,,
+2026-10-05 21:49:03,8EyyS4WBz3fKMo2gm9dPPYzAtYVuV7e99osMD9MxTech,CLAIMR,BUY,dev sold,0,0.1,,,13108,,,
+2026-10-05 21:49:08,H3tSpvGUNvddLq1zy3mmEf7B463vuP3AyyiCRW99VJG7,Trader,SELL,dev sold,0,0.06247,-37.5,stop loss -36%,6567,2.3,-32.2,17
+2026-10-05 21:49:23,8EyyS4WBz3fKMo2gm9dPPYzAtYVuV7e99osMD9MxTech,CLAIMR,SELL,dev sold,0,0.06223,-37.8,stop loss -36%,8852,24.1,-32.5,20
+2026-10-05 21:49:40,4VLbuGDHxiT3bGXXssLTS96ufedkJQxeDJbc4b7ipump,BITROBIN,SELL,dev sold,0,0.18618,86.2,no trading (stale),49548,100.9,0.7,236
+2026-10-05 21:50:31,7zqV1SKkJMMUgLbXydJGfwyLhW7Yjtt7R27kLu1fight,FIGHT,SELL,top10 hold 38%,0,0.09906,-0.9,no trading (stale),49548,7.0,-18.6,194
+2026-10-05 21:50:40,CcN3oKtDTd7Uf9iZP4MvtkCoub5sVEnCrqbitfsZXkY9,WORRY,BUY,bundled: 16 launch wallets own 33%,0,0.1,,,11632,,,
+2026-10-05 21:51:47,CcN3oKtDTd7Uf9iZP4MvtkCoub5sVEnCrqbitfsZXkY9,WORRY,SELL,bundled: 16 launch wallets own 33%,0,0.06172,-38.3,stop loss -37%,7791,8.0,-33.0,67
+2026-10-05 21:51:56,14sXAakVzCSY34QDjnoB4V2pBpxpJdi367vWQt4ufued,fued,SELL,score below threshold,46.5,0.0818,-18.2,shift ended,11201,2.5,-11.5,499
+2026-10-05 21:51:56,35uRa6rHfiiLxDYPXSZGAv7CZkZwY7oCfgjt54rcpump,swordtrump,SELL,dev sold,0,0.28081,180.8,shift ended,43216,292.1,-0.0,428
