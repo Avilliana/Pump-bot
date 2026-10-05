@@ -19,7 +19,7 @@
   "max_buy_age_seconds": 90,
   "check_timeout_seconds": 6,
   "min_unique_buyers": 12,
-  "min_mcap_usd": 6000,
+  "min_mcap_usd": 8000,
   "max_mcap_usd": 60000,
   "require_socials": false,
   "max_dev_hold_pct": 8,
