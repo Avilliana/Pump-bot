@@ -43,3 +43,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-05 21:51:47,CcN3oKtDTd7Uf9iZP4MvtkCoub5sVEnCrqbitfsZXkY9,WORRY,SELL,bundled: 16 launch wallets own 33%,0,0.06172,-38.3,stop loss -37%,7791,8.0,-33.0,67
 2026-10-05 21:51:56,14sXAakVzCSY34QDjnoB4V2pBpxpJdi367vWQt4ufued,fued,SELL,score below threshold,46.5,0.0818,-18.2,shift ended,11201,2.5,-11.5,499
 2026-10-05 21:51:56,35uRa6rHfiiLxDYPXSZGAv7CZkZwY7oCfgjt54rcpump,swordtrump,SELL,dev sold,0,0.28081,180.8,shift ended,43216,292.1,-0.0,428
+2026-10-05 23:21:46,9ycJV1ucuNTQXqgRru3N5tAABCc4QBsHCdUB1BYppump,swordbull,BUY,dev holds 10.2%,0,0.1,,,12551,,,
+2026-10-05 23:25:05,7G8FeKWSYr3tQ5Sw2feSVWTZmTLHmbEp6jJsDVpspump,MATRIX,BUY,bundled: 38 launch wallets own 17%,0,0.1,,,13463,,,
+2026-10-05 23:26:02,86accCAbfheeMFYCwGmRxUr7tzQMFhpeTb6QMgDSys52,WWL,BUY,bundled: 14 launch wallets own 12%,0,0.1,,,10288,,,
+2026-10-05 23:26:06,7G8FeKWSYr3tQ5Sw2feSVWTZmTLHmbEp6jJsDVpspump,MATRIX,SELL,bundled: 38 launch wallets own 17%,0,0.06353,-36.5,stop loss -35%,9279,72.5,-31.1,61
+2026-10-05 23:26:39,86accCAbfheeMFYCwGmRxUr7tzQMFhpeTb6QMgDSys52,WWL,SELL,bundled: 14 launch wallets own 12%,0,0.06071,-39.3,stop loss -38%,6782,32.5,-34.1,36
+2026-10-05 23:27:22,7BNiBkk5sVKZNNaV42rdMcQYnx9YkUGPms61czAAdXx9,Squidward,BUY,dev sold,0,0.1,,,8575,,,
+2026-10-05 23:27:53,F9fTptNCRCVN2bD5rCXG7VWFYriV814vnxnvoey6hype,HYPE,BUY,bundled: 32 launch wallets own 29%,0,0.1,,,12048,,,
+2026-10-05 23:28:26,7BNiBkk5sVKZNNaV42rdMcQYnx9YkUGPms61czAAdXx9,Squidward,SELL,dev sold,0,0.06268,-37.3,stop loss -36%,5836,17.7,-31.9,63
+2026-10-05 23:29:17,2xdpA4thtTXKiy2vckuHbnmw4beMVijjrxHYHPFMpump,Icon,BUY,bundled: 47 launch wallets own 26%,0,0.1,,,19721,,,
+2026-10-05 23:29:39,F9fTptNCRCVN2bD5rCXG7VWFYriV814vnxnvoey6hype,HYPE,SELL,bundled: 32 launch wallets own 29%,0,0.22284,122.8,dev sold,32217,257.4,-17.4,105
+2026-10-05 23:29:55,2vDubgvtkYCBkdA5x4kuuNq6YcpcppsqCiithAasUbcg,Patrick,BUY,dev sold,0,0.1,,,10046,,,
+2026-10-05 23:31:10,EbWUtFZHJsHEUSwZG27Ctu7v6rHjqPCcJjpJwL5vpump,Ronalduks,BUY,dev sold,0,0.1,,,52522,,,
+2026-10-05 23:32:22,FKcuvH3E9DtUdpk8FKzW44LabPqgrE6R4dgeAtrmpump,Yajucoin,BUY,dev sold,0,0.1,,,12740,,,
+2026-10-05 23:32:43,2vDubgvtkYCBkdA5x4kuuNq6YcpcppsqCiithAasUbcg,Patrick,SELL,dev sold,0,0.06214,-37.9,stop loss -37%,6777,68.3,-32.5,168
+2026-10-05 23:33:44,EbWUtFZHJsHEUSwZG27Ctu7v6rHjqPCcJjpJwL5vpump,Ronalduks,SELL,dev sold,0,0.09264,-7.4,no trading (stale),52522,0.0,0.0,154
+2026-10-05 23:33:49,9Mt5bsGgUSgBqsfhcBzpA1dGvmnAh7uovTLHnZ2wpump,Patrick,BUY,score below threshold,51.1,0.1,,,49647,,,
+2026-10-05 23:33:55,2xdpA4thtTXKiy2vckuHbnmw4beMVijjrxHYHPFMpump,Icon,SELL,bundled: 47 launch wallets own 26%,0,0.21569,115.7,no trading (stale),49647,151.7,-18.1,278
+2026-10-05 23:34:07,FKcuvH3E9DtUdpk8FKzW44LabPqgrE6R4dgeAtrmpump,Yajucoin,SELL,dev sold,0,0.20757,107.6,trailing stop,28302,222.3,-0.0,105
+2026-10-05 23:35:07,9Mt5bsGgUSgBqsfhcBzpA1dGvmnAh7uovTLHnZ2wpump,Patrick,SELL,score below threshold,51.1,0.09252,-7.5,no trading (stale),49647,0.0,0.0,77
+2026-10-05 23:35:51,9ycJV1ucuNTQXqgRru3N5tAABCc4QBsHCdUB1BYppump,swordbull,SELL,dev holds 10.2%,0,0.21871,118.7,trailing stop,32508,286.3,-2.8,845
+2026-10-05 23:37:24,CZX6gkwLUpgaehQCcs5tF2nG4FaagBduv2bPzaD1b9EM,1f916,BUY,dev sold,0,0.1,,,8047,,,
+2026-10-05 23:37:39,CZX6gkwLUpgaehQCcs5tF2nG4FaagBduv2bPzaD1b9EM,1f916,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,5489,12.4,-31.8,15
