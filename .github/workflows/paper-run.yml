@@ -3,12 +3,18 @@ name: Paper trading shift
 on:
   schedule:
     # 20-minute shift every hour, starting at :07 (public repo = free minutes).
+    # A Claude scheduled task also starts a shift at :17 if GitHub skipped this one;
+    # the "already ran this hour" check below stops the two from doubling up.
     - cron: "7 * * * *"
   workflow_dispatch:
     inputs:
       minutes:
         description: "How many minutes to run"
         default: "20"
+      force:
+        description: "Run even if a shift finished recently"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,22 +28,56 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
+      # Always start from the newest main, not the commit from when this run
+      # was queued - a queued run would otherwise resume stale paper state
+      # and then fail to push.
       - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Skip if a shift already ran this hour
+        id: gate
+        run: |
+          python - <<'PY'
+          import json, os, time, calendar
+          skip = False
+          try:
+              s = json.load(open("logs/summary.json"))
+              t = calendar.timegm(time.strptime(s["updated"], "%Y-%m-%d %H:%M:%S"))
+              age_min = (time.time() - t) / 60
+              print(f"last shift finished {age_min:.0f} min ago")
+              skip = age_min < 35
+          except Exception as e:
+              print("no previous shift info:", e)
+          if os.environ.get("FORCE") == "true":
+              skip = False
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"skip={'true' if skip else 'false'}\n")
+          print("skip =", skip)
+          PY
+        env:
+          FORCE: ${{ github.event.inputs.force }}
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != 'true'
         with:
           python-version: "3.11"
-      - run: pip install -r requirements.txt
+      - if: steps.gate.outputs.skip != 'true'
+        run: pip install -r requirements.txt
       - name: Run the bot (paper money only)
+        if: steps.gate.outputs.skip != 'true'
         env:
           HELIUS_API_KEY: ${{ secrets.HELIUS_API_KEY }}
         run: python bot.py --minutes "${{ github.event.inputs.minutes || '20' }}"
       - name: Save logs to the repo
-        if: always()
+        if: always() && steps.gate.outputs.skip != 'true'
         run: |
           git config user.name "pumpbot"
           git config user.email "pumpbot@users.noreply.github.com"
           git add logs
           git diff --cached --quiet && exit 0
           git commit -m "Paper run $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          exit 1
