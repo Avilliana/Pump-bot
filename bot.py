@@ -154,6 +154,8 @@ class Position:
     peak_price: float
     tp_hit: bool = False
     realized_sol: float = 0.0
+    low_price: float = 0.0          # lowest price seen while held (for exit analysis)
+    entry_mkt_price: float = 0.0    # market price when bought (before our own impact)
 
 
 # --------------------------------------------------------------------------
@@ -731,7 +733,8 @@ class Bot:
         tokens = self.curve_buy(t, net) * (1 - c["slippage_pct"])
         entry = size / tokens
         self.balance_sol -= size
-        self.positions[t.mint] = Position(t.mint, t.symbol, self.now(), entry, tokens, size, s, t.last_price)
+        self.positions[t.mint] = Position(t.mint, t.symbol, self.now(), entry, tokens, size, s,
+                                          t.last_price, entry_mkt_price=t.last_price)
         t.status = "bought"
         self.stats["bought"] += 1
         mcap_usd = t.mcap_sol * self.sol_usd
@@ -762,7 +765,12 @@ class Bot:
             "price": f"{px:.12f}", "sol": round(proceeds, 5),
             "pnl_sol": round(pnl, 5) if closing else "", "pnl_pct": pnl_pct,
             "mcap_usd": round(t.mcap_sol * self.sol_usd),
-            "balance_sol": round(self.balance_sol, 5)})
+            "balance_sol": round(self.balance_sol, 5),
+            # price path while held, vs the market price at entry - lets the
+            # review test other stop-loss / take-profit levels on real trades
+            "max_up_pct": round((p.peak_price / p.entry_mkt_price - 1) * 100, 1) if p.entry_mkt_price else "",
+            "max_down_pct": round(((p.low_price or p.entry_mkt_price) / p.entry_mkt_price - 1) * 100, 1) if p.entry_mkt_price else "",
+            "held_s": round(self.now() - p.entry_time)})
         if closing:
             self.closed.append({"symbol": p.symbol, "pnl_sol": pnl, "pnl_pct": pnl_pct,
                                 "reason": reason, "held_s": round(self.now() - p.entry_time)})
@@ -777,6 +785,7 @@ class Bot:
         now = self.now()
         price = t.last_price
         p.peak_price = max(p.peak_price, price)
+        p.low_price = min(p.low_price or price, price)
         # value if we sold everything right now, vs what we paid
         exit_val = self.curve_sell(t, p.tokens) * (1 - c["slippage_pct"]) + p.realized_sol
         change = (exit_val / p.cost_sol - 1) * 100 if not p.tp_hit else (price / p.entry_price - 1) * 100

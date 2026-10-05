@@ -2,7 +2,7 @@
   "start_balance_usd": 50,
   "fallback_sol_usd": 85,
   "position_pct": 0.1,
-  "max_position_sol": 0.5,
+  "max_position_sol": 0.1,
   "max_open_positions": 4,
   "min_trade_sol": 0.02,
   "fee_pct": 0.0125,
