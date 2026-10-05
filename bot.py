@@ -156,6 +156,9 @@ class Position:
     realized_sol: float = 0.0
     low_price: float = 0.0          # lowest price seen while held (for exit analysis)
     entry_mkt_price: float = 0.0    # market price when bought (before our own impact)
+    shadow: bool = False            # what-if trade on a token the filters skipped
+    skip_reason: str = ""
+    dev_sold_at_entry: bool = False
 
 
 # --------------------------------------------------------------------------
@@ -169,6 +172,7 @@ class Bot:
         self.sim = sim
         self.tokens: Dict[str, Token] = {}
         self.positions: Dict[str, Position] = {}
+        self.shadow: Dict[str, Position] = {}    # what-if trades (no effect on balance)
         self.sol_usd: float = float(cfg["fallback_sol_usd"])
         self.sol_price_live = False   # True once a real price was fetched
         self.balance_sol = 0.0
@@ -199,6 +203,7 @@ class Bot:
         self.cands_path = os.path.join(LOG_DIR, f"candidates{suffix}.csv")
         self.summary_path = os.path.join(LOG_DIR, f"summary{suffix}.json")
         self.state_path = os.path.join(LOG_DIR, f"state{suffix}.json")
+        self.shadow_path = os.path.join(LOG_DIR, f"shadow_trades{suffix}.csv")
 
     # ---------------- time / io helpers ----------------
 
@@ -514,7 +519,7 @@ class Bot:
         if pool and pool != "pump":
             t.migrated = True
 
-        if t.mint in self.positions:
+        if t.mint in self.positions or t.mint in self.shadow:
             self.check_exit(t)
 
     # ---------------- judging ----------------
@@ -661,9 +666,10 @@ class Bot:
         if decision == "buy":
             if self.buy_cutoff and self.now() >= self.buy_cutoff:
                 decision, reason = "wait", "shift ending"
-            elif len(self.positions) >= self.cfg["max_open_positions"]:
+            elif not self.cfg.get("unlimited_paper") and len(self.positions) >= self.cfg["max_open_positions"]:
                 decision, reason = "wait", "max positions open"
-            elif self.balance_sol * self.cfg["position_pct"] < self.cfg["min_trade_sol"]:
+            elif not self.cfg.get("unlimited_paper") and \
+                    self.balance_sol * self.cfg["position_pct"] < self.cfg["min_trade_sol"]:
                 decision, reason = "wait", "balance too low"
             else:
                 self.open_position(t, s)
@@ -678,14 +684,26 @@ class Bot:
             row["check_s"] = check_s
             row["link"] = f"https://pump.fun/coin/{t.mint}"
             self.append_csv(self.cands_path, row)
-        if decision == "reject":
-            self.stats["rejected"] += 1
-            key = reason.split(":")[0].split(" ")[0] if reason.startswith(("bundled", "dev", "top10")) else reason
-            self.reject_reasons[key] = self.reject_reasons.get(key, 0) + 1
-            self.forget(t)
-        elif decision == "drop":
-            self.stats["dropped"] += 1
-            self.forget(t)
+        if decision in ("reject", "drop"):
+            if decision == "reject":
+                self.stats["rejected"] += 1
+                key = reason.split(":")[0].split(" ")[0] if reason.startswith(("bundled", "dev", "top10")) else reason
+                self.reject_reasons[key] = self.reject_reasons.get(key, 0) + 1
+            else:
+                self.stats["dropped"] += 1
+            if self.shadow_worthy(f):
+                self.open_position(t, s, shadow=True, skip_reason=reason)
+            else:
+                self.forget(t)
+
+    def shadow_worthy(self, f: dict) -> bool:
+        """Skipped tokens that still got real traction get a what-if trade, so
+        we learn whether each filter is skipping winners or dodging losers."""
+        c = self.cfg
+        return (c.get("shadow_trading", False) and not self.sim
+                and f["unique_buyers"] >= c["min_unique_buyers"]
+                and c["min_mcap_usd"] <= f["mcap_usd"] <= c["max_mcap_usd"]
+                and len(self.shadow) < c.get("max_shadow_positions", 150))
 
     def forget(self, t: Token) -> None:
         t.status = "done"
@@ -723,18 +741,32 @@ class Bot:
         k = t.vsol * t.vtok
         return t.vsol - k / (t.vtok + tokens)
 
-    def open_position(self, t: Token, s: float) -> None:
+    def open_position(self, t: Token, s: float, shadow: bool = False, skip_reason: str = "") -> None:
         c = self.cfg
-        size = min(self.balance_sol * c["position_pct"], c["max_position_sol"])
+        if shadow or c.get("unlimited_paper"):
+            size = c["max_position_sol"]          # fixed size, balance doesn't limit it
+        else:
+            size = min(self.balance_sol * c["position_pct"], c["max_position_sol"])
         fee = size * c["fee_pct"]
         net = size - fee - c["priority_fee_sol"]
         if net <= 0 or t.last_price <= 0:
             return
         tokens = self.curve_buy(t, net) * (1 - c["slippage_pct"])
         entry = size / tokens
+        pos = Position(t.mint, t.symbol, self.now(), entry, tokens, size, s,
+                       t.last_price, entry_mkt_price=t.last_price, shadow=shadow,
+                       skip_reason=skip_reason, dev_sold_at_entry=t.dev_sold)
+        if shadow:
+            self.shadow[t.mint] = pos
+            t.status = "shadow"
+            self.append_csv(self.shadow_path, {
+                "time": self.stamp(), "mint": t.mint, "symbol": t.symbol, "action": "BUY",
+                "skip_reason": skip_reason, "score": s, "sol": round(size, 5),
+                "pnl_pct": "", "exit_reason": "", "mcap_usd": round(t.mcap_sol * self.sol_usd),
+                "max_up_pct": "", "max_down_pct": "", "held_s": ""})
+            return
         self.balance_sol -= size
-        self.positions[t.mint] = Position(t.mint, t.symbol, self.now(), entry, tokens, size, s,
-                                          t.last_price, entry_mkt_price=t.last_price)
+        self.positions[t.mint] = pos
         t.status = "bought"
         self.stats["bought"] += 1
         mcap_usd = t.mcap_sol * self.sol_usd
@@ -753,6 +785,19 @@ class Bot:
         proceeds = max(0.0, gross - gross * c["fee_pct"] - c["priority_fee_sol"])
         p.tokens -= qty
         p.realized_sol += proceeds
+        if p.shadow:
+            if fraction >= 0.999 or p.tokens <= 0:
+                up = (p.peak_price / p.entry_mkt_price - 1) * 100 if p.entry_mkt_price else 0
+                down = ((p.low_price or p.entry_mkt_price) / p.entry_mkt_price - 1) * 100 if p.entry_mkt_price else 0
+                self.append_csv(self.shadow_path, {
+                    "time": self.stamp(), "mint": p.mint, "symbol": p.symbol, "action": "SELL",
+                    "skip_reason": p.skip_reason, "score": p.score, "sol": round(p.realized_sol, 5),
+                    "pnl_pct": round((p.realized_sol / p.cost_sol - 1) * 100, 1), "exit_reason": reason,
+                    "mcap_usd": round(t.mcap_sol * self.sol_usd), "max_up_pct": round(up, 1),
+                    "max_down_pct": round(down, 1), "held_s": round(self.now() - p.entry_time)})
+                self.shadow.pop(p.mint, None)
+                self.forget(t)
+            return
         self.balance_sol += proceeds
         closing = fraction >= 0.999 or p.tokens <= 0
         pnl = p.realized_sol - p.cost_sol if closing else ""
@@ -778,7 +823,7 @@ class Bot:
             self.forget(t)
 
     def check_exit(self, t: Token) -> None:
-        p = self.positions.get(t.mint)
+        p = self.positions.get(t.mint) or self.shadow.get(t.mint)
         if p is None:
             return
         c = self.cfg
@@ -789,7 +834,7 @@ class Bot:
         # value if we sold everything right now, vs what we paid
         exit_val = self.curve_sell(t, p.tokens) * (1 - c["slippage_pct"]) + p.realized_sol
         change = (exit_val / p.cost_sol - 1) * 100 if not p.tp_hit else (price / p.entry_price - 1) * 100
-        if t.dev_sold and c["exit_if_dev_sells"]:
+        if t.dev_sold and not p.dev_sold_at_entry and c["exit_if_dev_sells"]:
             return self.sell(t, p, 1.0, "dev sold")
         if t.migrated and c["exit_on_migration"]:
             return self.sell(t, p, 1.0, "migrated off curve")
@@ -817,7 +862,7 @@ class Bot:
                 if t.cp_idx < len(cps) and now - t.created >= cps[t.cp_idx]:
                     t.cp_idx += 1
                     await self.evaluate(t, final=(t.cp_idx == len(cps)))
-            elif t.status == "bought":
+            elif t.status in ("bought", "shadow"):
                 self.check_exit(t)
         every = 1800 if self.sim else self.cfg["dashboard_seconds"]
         if not self.sim:
@@ -886,7 +931,7 @@ class Bot:
             "tokens_seen": self.stats["seen"]})
 
     def close_all(self, reason: str) -> None:
-        for p in list(self.positions.values()):
+        for p in list(self.positions.values()) + list(self.shadow.values()):
             t = self.tokens.get(p.mint)
             if t:
                 self.sell(t, p, 1.0, reason)
