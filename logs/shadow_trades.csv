@@ -429,3 +429,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 14:38:09,5g7ancoJQK65c6c1ZaEfq2LxfT7J9PSJpj553Enbpump,XLIFT,SELL,dev sold,0,0.06316,-36.8,stop loss -36%,8292,66.6,-31.5,71
 2026-10-06 14:38:49,H3kLjbRfq6hmKAsvshs2GYjS1Ur8hrScVRafF6C1pump,XLT,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,6714,97.4,-31.1,108
 2026-10-06 14:39:19,4xZeCUZc8k9Hkj614ALxJVibtCSEp1jS43uTtmBfpump,XDOG,SELL,dev sold,0,0.17465,74.6,shift ended,19453,88.8,0.1,126
+2026-10-06 15:20:21,9VxvD4DHwqAd6SL7uY36x4BGkkhnrMAvMKFXLmTGpump,RADAR,BUY,dev holds 10.0%,0,0.1,,,8182,,,
+2026-10-06 15:20:26,9VxvD4DHwqAd6SL7uY36x4BGkkhnrMAvMKFXLmTGpump,RADAR,SELL,dev holds 10.0%,0,0.06546,-34.5,dev sold,5814,0.3,-28.9,4
+2026-10-06 15:24:01,34d8wivF5KLQBtEckJmnEMxkDutz9qEU6s4xacFLpump,CZ,BUY,dev sold,0,0.1,,,27699,,,
+2026-10-06 15:27:16,34d8wivF5KLQBtEckJmnEMxkDutz9qEU6s4xacFLpump,CZ,SELL,dev sold,0,0.16738,67.4,no trading (stale),50037,80.6,-9.9,195
+2026-10-06 15:32:50,BAAiF1NpX5ujUZzBZvWfXRosM7Q93GZLxSUkMCUGkF53,CHONK,BUY,dev holds 15.2%,0,0.1,,,10798,,,
+2026-10-06 15:33:30,25HkohYin45HYqUPf2ds8StV2EuGy1m9qCZsJGFipump,Local,BUY,dev sold,0,0.1,,,14407,,,
+2026-10-06 15:34:19,BAAiF1NpX5ujUZzBZvWfXRosM7Q93GZLxSUkMCUGkF53,CHONK,SELL,dev holds 15.2%,0,0.11109,11.1,dev sold,12980,61.8,2.3,88
+2026-10-06 15:34:41,AqXz4ck1i53ms65ziJRRJnUZPpqC2bR6ASLkqSDRpump,BUREAU,BUY,dev sold,0,0.1,,,20403,,,
+2026-10-06 15:34:51,AqXz4ck1i53ms65ziJRRJnUZPpqC2bR6ASLkqSDRpump,BUREAU,SELL,dev sold,0,0.0625,-37.5,stop loss -36%,13827,4.7,-32.2,10
+2026-10-06 15:35:01,25HkohYin45HYqUPf2ds8StV2EuGy1m9qCZsJGFipump,Local,SELL,dev sold,0,0.05874,-41.3,stop loss -40%,9185,29.9,-36.2,92
+2026-10-06 15:37:10,4BhK8zBuX9KFLiFVBRARyTqzyMueymfemMVBUNMFpump,Bagworkwif,BUY,bundled: 12 launch wallets own 78%,0,0.1,,,49893,,,
+2026-10-06 15:37:50,AppUrnDCmTwLh6c5uwhUqF7CqRtBESCmG1CGEqsppump,BIT,BUY,bundled: 56 launch wallets own 18%,0,0.1,,,12612,,,
+2026-10-06 15:39:08,4BhK8zBuX9KFLiFVBRARyTqzyMueymfemMVBUNMFpump,Bagworkwif,SELL,bundled: 12 launch wallets own 78%,0,0.09252,-7.5,shift ended,49893,0.0,0.0,118
+2026-10-06 15:39:08,AppUrnDCmTwLh6c5uwhUqF7CqRtBESCmG1CGEqsppump,BIT,SELL,bundled: 56 launch wallets own 18%,0,0.09872,-1.3,shift ended,13475,28.0,-4.0,78
