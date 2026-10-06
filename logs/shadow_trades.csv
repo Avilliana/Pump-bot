@@ -279,3 +279,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 09:37:31,3tFcLr2La4TMigfR6BjUSyd1zu6vaW3ZzP8RX2sypump,PUP,BUY,top10 hold 36%,0,0.1,,,33138,,,
 2026-10-06 09:37:44,3tFcLr2La4TMigfR6BjUSyd1zu6vaW3ZzP8RX2sypump,PUP,SELL,top10 hold 36%,0,0.06238,-37.6,stop loss -36%,22405,7.2,-32.4,13
 2026-10-06 09:37:49,9XZ2vwV93DZ6imZo8UjyzkgBAnvCvY1g5VMdmQEqpump,RATE,SELL,bundled: 57 launch wallets own 15%,0,0.08032,-19.7,shift ended,12998,27.5,-14.9,228
+2026-10-06 10:20:59,FJXkLq4n8UdX96YM3P7ZFAn1xCvEmXEpFF4WznXYpump,Neila,BUY,dev sold,0,0.1,,,20101,,,
+2026-10-06 10:21:03,4hpSmr7KRZHvJxaAMBbRNwq77QNr3oGQUQCKTx6PqUE4,BRUK,BUY,bundled: 5 launch wallets own 12%,0,0.1,,,12847,,,
+2026-10-06 10:21:35,FJXkLq4n8UdX96YM3P7ZFAn1xCvEmXEpFF4WznXYpump,Neila,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,13781,0.1,-31.4,37
+2026-10-06 10:22:12,4hpSmr7KRZHvJxaAMBbRNwq77QNr3oGQUQCKTx6PqUE4,BRUK,SELL,bundled: 5 launch wallets own 12%,0,0.07316,-26.8,dev sold,10187,34.1,-20.7,69
+2026-10-06 10:23:37,4QkCw5fQmZgz68gYT9Zz5qTzFRtVHuqEwrDk5X5Mpump,SPAWN,BUY,bundled: 57 launch wallets own 33%,0,0.1,,,10336,,,
+2026-10-06 10:24:26,4QkCw5fQmZgz68gYT9Zz5qTzFRtVHuqEwrDk5X5Mpump,SPAWN,SELL,bundled: 57 launch wallets own 33%,0,0.09073,-9.3,dev sold,10157,13.4,-5.6,49
+2026-10-06 10:25:50,ADjCx2Bd8jeXtp4GiptsgSJzKDdXt4vbjiuynzXEpump,SQ,BUY,bundled: 14 launch wallets own 13%,0,0.1,,,8754,,,
+2026-10-06 10:26:27,ADjCx2Bd8jeXtp4GiptsgSJzKDdXt4vbjiuynzXEpump,SQ,SELL,bundled: 14 launch wallets own 13%,0,0.06577,-34.2,dev sold,6249,0.5,-28.6,37
+2026-10-06 10:28:25,3sTb8f4G9X5zccDmbjGPc6UdoSQxmb4VzFbzBS7xpump,STUDYO,BUY,bundled: 43 launch wallets own 17%,0,0.1,,,10441,,,
+2026-10-06 10:29:23,3sTb8f4G9X5zccDmbjGPc6UdoSQxmb4VzFbzBS7xpump,STUDYO,SELL,bundled: 43 launch wallets own 17%,0,0.06247,-37.5,stop loss -36%,7072,17.7,-32.2,58
+2026-10-06 10:30:45,52L763SJfoHFYAbMaUqxV21o55ZWbvfsNf7NxT2bpump,USDP,BUY,top10 hold 38%,0,0.1,,,46473,,,
+2026-10-06 10:30:51,Dke4Z5SmSfpLbonWh1DpWvGQXyW1TPiDAKs4NjkLVLJr,CAM,BUY,dev sold,0,0.1,,,11131,,,
+2026-10-06 10:31:11,Dke4Z5SmSfpLbonWh1DpWvGQXyW1TPiDAKs4NjkLVLJr,CAM,SELL,dev sold,0,0.06319,-36.8,stop loss -36%,7633,3.6,-31.4,20
+2026-10-06 10:33:46,52L763SJfoHFYAbMaUqxV21o55ZWbvfsNf7NxT2bpump,USDP,SELL,top10 hold 38%,0,0.09808,-1.9,no trading (stale),49252,6.0,4.9,181
+2026-10-06 10:35:44,9REPB367ocF3CKFK4yY7EEAuFHo93gXmbY3R3ahCpump,Tiger,BUY,dev sold,0,0.1,,,9049,,,
+2026-10-06 10:37:59,7VPUiVuXPoB66en7Cj3gcnhTVBMM3Umj13ryBRowEQ8s,ADOG,BUY,dev sold,0,0.1,,,8636,,,
+2026-10-06 10:38:33,9REPB367ocF3CKFK4yY7EEAuFHo93gXmbY3R3ahCpump,Tiger,SELL,dev sold,0,0.10891,8.9,shift ended,10669,29.4,-24.5,169
+2026-10-06 10:38:33,7VPUiVuXPoB66en7Cj3gcnhTVBMM3Umj13ryBRowEQ8s,ADOG,SELL,dev sold,0,0.07573,-24.3,shift ended,7092,3.7,-17.9,34
