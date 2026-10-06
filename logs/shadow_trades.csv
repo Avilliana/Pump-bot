@@ -251,3 +251,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 07:31:55,79bhwBDRcNJ7nhX2WkAK6LxfBRyajZms9jeYtoqEpump,PLAGUEBULL,SELL,bundled: 13 launch wallets own 78%,0,0.10139,1.4,no trading (stale),49228,9.5,-2.9,191
 2026-10-06 07:32:01,9ggWC1yWf5qrvaA9JNdWjHwuq4yiyfc9gNfyRVWJpump,POKESLAB,SELL,past buy window (late mover),59.8,0.06242,-37.6,stop loss -36%,5473,7.1,-32.2,56
 2026-10-06 07:33:22,8CZETunGnDnpKPQkP4HRbUMwV5Shvw7LyQku5VsQpump,DabCat,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,8527,0.8,-31.0,226
+2026-10-06 08:24:23,BfG5S6NofZGvS8Mb7sJxkSvLbEweYbKzgW934Ypapump,saru,BUY,bundled: 10 launch wallets own 48%,0,0.1,,,14436,,,
+2026-10-06 08:24:32,By3Epvtn2an3gTSCshhECNcj8TZoLyuxjsmb6V71pump,AHUB,BUY,bundled: 44 launch wallets own 25%,0,0.1,,,9503,,,
+2026-10-06 08:24:50,BfG5S6NofZGvS8Mb7sJxkSvLbEweYbKzgW934Ypapump,saru,SELL,bundled: 10 launch wallets own 48%,0,0.09017,-9.8,dev sold,14091,4.0,-2.4,28
+2026-10-06 08:25:15,CHx22R8snRUhyxFbnNToPsdbMu1LpNWkzxai911Sr9mw,oushi,BUY,dev sold,0,0.1,,,9990,,,
+2026-10-06 08:25:22,J1fbr1p9XMiQG54iGEAk9dPfQueBFHfs2aFwMdWPpump,MI,BUY,dev sold,0,0.1,,,22116,,,
+2026-10-06 08:25:29,By3Epvtn2an3gTSCshhECNcj8TZoLyuxjsmb6V71pump,AHUB,SELL,bundled: 44 launch wallets own 25%,0,0.06345,-36.5,stop loss -35%,6545,50.7,-31.1,57
+2026-10-06 08:28:52,J1fbr1p9XMiQG54iGEAk9dPfQueBFHfs2aFwMdWPpump,MI,SELL,dev sold,0,0.06198,-38.0,stop loss -37%,14864,87.2,-32.8,210
+2026-10-06 08:29:12,CHx22R8snRUhyxFbnNToPsdbMu1LpNWkzxai911Sr9mw,oushi,SELL,dev sold,0,0.17837,78.4,trailing stop,16436,140.8,-13.1,237
+2026-10-06 08:31:40,3gJ22iK9mzQiMGcddtPjEZfCcFBfy6pYGSaUU5iUpump,kujira,BUY,dev sold,0,0.1,,,9032,,,
+2026-10-06 08:34:21,3gJ22iK9mzQiMGcddtPjEZfCcFBfy6pYGSaUU5iUpump,kujira,SELL,dev sold,0,0.06088,-39.1,stop loss -38%,5971,43.5,-33.9,160
