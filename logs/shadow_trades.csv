@@ -297,3 +297,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 10:37:59,7VPUiVuXPoB66en7Cj3gcnhTVBMM3Umj13ryBRowEQ8s,ADOG,BUY,dev sold,0,0.1,,,8636,,,
 2026-10-06 10:38:33,9REPB367ocF3CKFK4yY7EEAuFHo93gXmbY3R3ahCpump,Tiger,SELL,dev sold,0,0.10891,8.9,shift ended,10669,29.4,-24.5,169
 2026-10-06 10:38:33,7VPUiVuXPoB66en7Cj3gcnhTVBMM3Umj13ryBRowEQ8s,ADOG,SELL,dev sold,0,0.07573,-24.3,shift ended,7092,3.7,-17.9,34
+2026-10-06 11:22:33,86zZerpagN6hDbFGecwQQjCmksASfBwM41rmxoPJpump,SPAWN,BUY,dev sold,0,0.1,,,12769,,,
+2026-10-06 11:27:42,FRSx3FnUYuPL2CJGUX143mv6YzwGpLYJvVxNik27pump,ERAHS,BUY,bundled: 15 launch wallets own 31%,0,0.1,,,10069,,,
+2026-10-06 11:28:03,4f7ayNUEMUvKb9gEyFfPQFBMAeWxomXGe8Hq8EG4ZsFo,CHUNGUS,BUY,dev sold,0,0.1,,,9473,,,
+2026-10-06 11:28:08,4f7ayNUEMUvKb9gEyFfPQFBMAeWxomXGe8Hq8EG4ZsFo,CHUNGUS,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,6218,0.0,-34.4,5
+2026-10-06 11:29:15,EoydkUFYC3pkhbJkWE7RkzZARpoVg1XB4ct3BEisVHcr,Nikolai,BUY,dev sold,0,0.1,,,8741,,,
+2026-10-06 11:30:49,EoydkUFYC3pkhbJkWE7RkzZARpoVg1XB4ct3BEisVHcr,Nikolai,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,6031,35.0,-31.0,94
+2026-10-06 11:31:03,4aX4nDpKfzu8hH73G8RKwb3rRxjR3rehJrDnWFWfFYUw,bob,BUY,dev sold,0,0.1,,,8499,,,
+2026-10-06 11:32:34,4aX4nDpKfzu8hH73G8RKwb3rRxjR3rehJrDnWFWfFYUw,bob,SELL,dev sold,0,0.0604,-39.6,stop loss -38%,5575,46.2,-34.4,91
+2026-10-06 11:32:42,86zZerpagN6hDbFGecwQQjCmksASfBwM41rmxoPJpump,SPAWN,SELL,dev sold,0,0.19073,90.7,trailing stop,25477,187.9,-26.1,609
+2026-10-06 11:33:49,6r6DNDXxdHTicXrM2rmyKgoLyvtBYn9siqA7bm8ZapN,COMMODITIES,BUY,dev sold,0,0.1,,,10167,,,
+2026-10-06 11:34:01,FRSx3FnUYuPL2CJGUX143mv6YzwGpLYJvVxNik27pump,ERAHS,SELL,bundled: 15 launch wallets own 31%,0,0.19992,99.9,trailing stop,20979,208.2,-4.7,379
+2026-10-06 11:34:09,2ebwT4Rrz9XXLVvrGrEo7oKMFijbBzNbAtovLE8YDjXF,Commodities,BUY,dev sold,0,0.1,,,18289,,,
+2026-10-06 11:34:53,2ebwT4Rrz9XXLVvrGrEo7oKMFijbBzNbAtovLE8YDjXF,Commodities,SELL,dev sold,0,0.06066,-39.3,stop loss -38%,12035,35.6,-34.2,43
+2026-10-06 11:35:30,GyWBFAiYJfwoRormtV89zBXNmKm3YkzMpoZGzJ1VE1A3,commotitties,BUY,dev sold,0,0.1,,,8960,,,
+2026-10-06 11:36:38,GyWBFAiYJfwoRormtV89zBXNmKm3YkzMpoZGzJ1VE1A3,commotitties,SELL,dev sold,0,0.06367,-36.3,stop loss -35%,6193,51.2,-30.9,67
+2026-10-06 11:37:25,6NacV6FimYMT6kkgUu4V5CCXFxc5rk5wWdivnFH2pump,Chain,BUY,bundled: 67 launch wallets own 27%,0,0.1,,,12339,,,
+2026-10-06 11:38:32,62KY3UhCE2Pb3AnESijck9JeUAVdQw6Pj3KYWdyin6ko,Oscar,BUY,dev sold,0,0.1,,,8105,,,
+2026-10-06 11:38:46,62KY3UhCE2Pb3AnESijck9JeUAVdQw6Pj3KYWdyin6ko,Oscar,SELL,dev sold,0,0.06249,-37.5,stop loss -36%,5499,11.2,-32.1,15
+2026-10-06 11:38:53,2d9ZWo81SbNRMq43Lowq6Jub7mhFNBRFHLcqECkJpani,PABLO,BUY,dev sold,0,0.1,,,8632,,,
+2026-10-06 11:38:53,6r6DNDXxdHTicXrM2rmyKgoLyvtBYn9siqA7bm8ZapN,COMMODITIES,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,6672,102.2,-34.4,304
+2026-10-06 11:39:02,2d9ZWo81SbNRMq43Lowq6Jub7mhFNBRFHLcqECkJpani,PABLO,SELL,dev sold,0,0.06365,-36.3,stop loss -35%,5965,0.0,-30.9,10
+2026-10-06 11:39:12,6NacV6FimYMT6kkgUu4V5CCXFxc5rk5wWdivnFH2pump,Chain,SELL,bundled: 67 launch wallets own 27%,0,0.10847,8.5,shift ended,14480,37.9,-1.4,107
