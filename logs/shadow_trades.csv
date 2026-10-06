@@ -169,3 +169,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 03:38:44,3MbuMzzgFcheKrRTdW2C9Vu5V3Vsim47JtNkTSC2pump,BEYOND,SELL,dev holds 26.4%,0,0.08427,-15.7,shift ended,7430,0.0,-8.7,8
 2026-10-06 03:38:44,3oPoBcWu5RjuwdiMvE1csCkHguDW7dkApxd75Rv4pump,Pixlo,SELL,past buy window (late mover),60.9,0.10504,5.0,shift ended,11921,16.7,-4.5,7
 2026-10-06 03:38:44,CFKsLbgzEcsEq4EtDSguqoM5MduanXEkBUXWyrbapump,HALLOCAT,SELL,dev holds 35.5%,0,0.09234,-7.7,shift ended,10419,0.0,0.0,5
+2026-10-06 04:21:39,9ZDtQL9inSf5ZtqcnnKRBePaKPWxkktwLhraNcL2pump,Chungus,BUY,dev sold,0,0.1,,,13565,,,
+2026-10-06 04:23:07,9ZDtQL9inSf5ZtqcnnKRBePaKPWxkktwLhraNcL2pump,Chungus,SELL,dev sold,0,0.21193,111.9,trailing stop,32765,247.4,-8.5,89
+2026-10-06 04:23:31,82m71aR7LsxFevssiC6cV1reMHyQC1FqsPT45guDPFV2,Ada,BUY,bundled: 27 launch wallets own 26%,0,0.1,,,22008,,,
+2026-10-06 04:24:01,82m71aR7LsxFevssiC6cV1reMHyQC1FqsPT45guDPFV2,Ada,SELL,bundled: 27 launch wallets own 26%,0,0.06348,-36.5,stop loss -35%,15146,8.7,-31.2,30
+2026-10-06 04:26:35,9n7tkdsU2sJtCSBw3eU4QmtDQbmnk9XCoJAh1ZvbLnk,,BUY,dev holds 15.2%,0,0.1,,,19509,,,
+2026-10-06 04:28:05,5vxa2pFQ8vB9tm8gCaTFCbFieDhdXPqvotGUqxnYpump,POPI,BUY,dev sold,0,0.1,,,8438,,,
+2026-10-06 04:28:15,9n7tkdsU2sJtCSBw3eU4QmtDQbmnk9XCoJAh1ZvbLnk,,SELL,dev holds 15.2%,0,0.04052,-59.5,stop loss -58%,8613,0.0,-55.9,100
+2026-10-06 04:28:22,CkB1QmPVdB6R52yAxxHBJheXr3MA2d53tWrJYLJtpump,NOUS,BUY,dev sold,0,0.1,,,9603,,,
+2026-10-06 04:28:27,5vxa2pFQ8vB9tm8gCaTFCbFieDhdXPqvotGUqxnYpump,POPI,SELL,dev sold,0,0.04136,-58.6,stop loss -58%,3803,13.5,-54.9,22
+2026-10-06 04:29:41,CkB1QmPVdB6R52yAxxHBJheXr3MA2d53tWrJYLJtpump,NOUS,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,6500,43.9,-32.3,79
+2026-10-06 04:31:50,WeDQkNXnDuEXi8rZuVjVHpDdyPiGR2zhQvjvhXppump,MEMEROOM,BUY,bundled: 22 launch wallets own 18%,0,0.1,,,16781,,,
+2026-10-06 04:31:51,8yVv9NphgPoqvTnr2dnBStBd2Rtj51PEid891YYjpump,Og,BUY,top10 hold 62%,0,0.1,,,33463,,,
+2026-10-06 04:31:56,8yVv9NphgPoqvTnr2dnBStBd2Rtj51PEid891YYjpump,Og,SELL,top10 hold 62%,0,0.04502,-55.0,stop loss -54%,16366,39.0,-51.1,6
+2026-10-06 04:33:50,1VSQE8Zaq5MdEiJTfSDFEok7uoXzgnkgcLdPbGRpump,inu,BUY,dev sold,0,0.1,,,13164,,,
+2026-10-06 04:33:51,WeDQkNXnDuEXi8rZuVjVHpDdyPiGR2zhQvjvhXppump,MEMEROOM,SELL,bundled: 22 launch wallets own 18%,0,0.06219,-37.8,stop loss -37%,11319,5.4,-32.5,122
+2026-10-06 04:34:34,47DSCZPEn3fubvwN8Z7YA4cTe4TvN7cNyePNQvPrQH1t,UpOnly,BUY,dev sold,0,0.1,,,19908,,,
+2026-10-06 04:35:06,1VSQE8Zaq5MdEiJTfSDFEok7uoXzgnkgcLdPbGRpump,inu,SELL,dev sold,0,0.04674,-53.3,stop loss -52%,6693,87.9,-49.2,76
+2026-10-06 04:35:13,47DSCZPEn3fubvwN8Z7YA4cTe4TvN7cNyePNQvPrQH1t,UpOnly,SELL,dev sold,0,0.0622,-37.8,stop loss -37%,13429,68.1,-32.5,39
+2026-10-06 04:36:37,HcRQeMDuK2AUu364h6P1X5ukjHet32TDsvRx9sHPpump,Babushka,BUY,dev sold,0,0.1,,,10064,,,
+2026-10-06 04:36:40,7S994nR3RLqnRnSKDSqZDj8w56pYfnWLT3F2WjPpVZha,MOONAH,BUY,dev sold,0,0.1,,,8027,,,
+2026-10-06 04:36:51,7S994nR3RLqnRnSKDSqZDj8w56pYfnWLT3F2WjPpVZha,MOONAH,SELL,dev sold,0,0.06142,-38.6,stop loss -37%,5355,1.5,-33.3,11
+2026-10-06 04:37:31,HcRQeMDuK2AUu364h6P1X5ukjHet32TDsvRx9sHPpump,Babushka,SELL,dev sold,0,0.04995,-50.1,stop loss -49%,5467,103.8,-45.7,54
