@@ -239,3 +239,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 06:38:09,73ZSuWrSMdC9mvhsxbBYhmM1QoJXvSA3TMmUwBnXpump,Nut,SELL,dev sold,0,0.16778,67.8,trailing stop,15108,114.5,-6.7,69
 2026-10-06 06:38:52,BzeSDn915xy5T8PUkH5FZYxwitAg59yZLtbsVJZopump,Rabies,BUY,dev sold,0,0.1,,,10207,,,
 2026-10-06 06:38:55,BzeSDn915xy5T8PUkH5FZYxwitAg59yZLtbsVJZopump,Rabies,SELL,dev sold,0,0.08043,-19.6,shift ended,8897,0.0,-12.8,3
+2026-10-06 07:20:10,J5PNBr8m1s5AxWML33Wum8LAizng2sJPrTfcgm8r4hRe,MOOTHONG,BUY,dev sold,0,0.1,,,8013,,,
+2026-10-06 07:21:48,J5PNBr8m1s5AxWML33Wum8LAizng2sJPrTfcgm8r4hRe,MOOTHONG,SELL,dev sold,0,0.06317,-36.8,stop loss -36%,5497,49.4,-31.4,97
+2026-10-06 07:26:37,aHQGZsRjfFUhnBHJEurxSa4DUmkE222azdSYubJpump,FIND,BUY,bundled: 35 launch wallets own 20%,0,0.1,,,9983,,,
+2026-10-06 07:28:01,aHQGZsRjfFUhnBHJEurxSa4DUmkE222azdSYubJpump,FIND,SELL,bundled: 35 launch wallets own 20%,0,0.07206,-27.9,dev sold,7801,43.4,-21.9,84
+2026-10-06 07:28:43,79bhwBDRcNJ7nhX2WkAK6LxfBRyajZms9jeYtoqEpump,PLAGUEBULL,BUY,bundled: 13 launch wallets own 78%,0,0.1,,,44937,,,
+2026-10-06 07:29:35,8CZETunGnDnpKPQkP4HRbUMwV5Shvw7LyQku5VsQpump,DabCat,BUY,dev sold,0,0.1,,,12362,,,
+2026-10-06 07:30:50,EmJYUgVYbnWkSYXeadk3v5eK8rwpYaJWx5noihktpump,DMA,BUY,past buy window (late mover),69.8,0.1,,,10647,,,
+2026-10-06 07:31:05,9ggWC1yWf5qrvaA9JNdWjHwuq4yiyfc9gNfyRVWJpump,POKESLAB,BUY,past buy window (late mover),59.8,0.1,,,8074,,,
+2026-10-06 07:31:39,EmJYUgVYbnWkSYXeadk3v5eK8rwpYaJWx5noihktpump,DMA,SELL,past buy window (late mover),69.8,0.0853,-14.7,dev sold,9839,10.4,-7.6,49
+2026-10-06 07:31:55,79bhwBDRcNJ7nhX2WkAK6LxfBRyajZms9jeYtoqEpump,PLAGUEBULL,SELL,bundled: 13 launch wallets own 78%,0,0.10139,1.4,no trading (stale),49228,9.5,-2.9,191
+2026-10-06 07:32:01,9ggWC1yWf5qrvaA9JNdWjHwuq4yiyfc9gNfyRVWJpump,POKESLAB,SELL,past buy window (late mover),59.8,0.06242,-37.6,stop loss -36%,5473,7.1,-32.2,56
+2026-10-06 07:33:22,8CZETunGnDnpKPQkP4HRbUMwV5Shvw7LyQku5VsQpump,DabCat,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,8527,0.8,-31.0,226
