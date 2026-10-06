@@ -65,3 +65,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-05 23:35:51,9ycJV1ucuNTQXqgRru3N5tAABCc4QBsHCdUB1BYppump,swordbull,SELL,dev holds 10.2%,0,0.21871,118.7,trailing stop,32508,286.3,-2.8,845
 2026-10-05 23:37:24,CZX6gkwLUpgaehQCcs5tF2nG4FaagBduv2bPzaD1b9EM,1f916,BUY,dev sold,0,0.1,,,8047,,,
 2026-10-05 23:37:39,CZX6gkwLUpgaehQCcs5tF2nG4FaagBduv2bPzaD1b9EM,1f916,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,5489,12.4,-31.8,15
+2026-10-06 00:20:59,Cv3XpFocPkMtSM8wSe1ykmnEqjvP51vrpJ8EP1jMpump,Chara,BUY,dev sold,0,0.1,,,18045,,,
+2026-10-06 00:21:47,Cv3XpFocPkMtSM8wSe1ykmnEqjvP51vrpJ8EP1jMpump,Chara,SELL,dev sold,0,0.06252,-37.5,stop loss -36%,12235,14.0,-32.2,48
+2026-10-06 00:25:08,D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump,CAST,BUY,score below threshold,42.6,0.1,,,11220,,,
+2026-10-06 00:26:09,7Bj95Bnt83k7xeStALjFcdLTMYV9rcpXJvsb55dhpump,LI,BUY,dev sold,0,0.1,,,12035,,,
+2026-10-06 00:26:18,7Bj95Bnt83k7xeStALjFcdLTMYV9rcpXJvsb55dhpump,LI,SELL,dev sold,0,0.02847,-71.5,stop loss -71%,3752,2.0,-68.8,9
+2026-10-06 00:29:31,A2wjfGRb53TpqMEo31PuC7pQztcJ6Ng14ra4xHeemcyf,mp,BUY,dev sold,0,0.1,,,15673,,,
+2026-10-06 00:30:21,A2wjfGRb53TpqMEo31PuC7pQztcJ6Ng14ra4xHeemcyf,mp,SELL,dev sold,0,0.06203,-38.0,stop loss -37%,10546,31.5,-32.7,50
+2026-10-06 00:30:59,4t1zzTeC6jE4ebPuxwSSCw3d35MHAFNSeqJwH3NbwYt2,nomophobe,BUY,dev sold,0,0.1,,,12438,,,
+2026-10-06 00:31:23,4t1zzTeC6jE4ebPuxwSSCw3d35MHAFNSeqJwH3NbwYt2,nomophobe,SELL,dev sold,0,0.06361,-36.4,stop loss -35%,8584,2.8,-31.0,24
+2026-10-06 00:32:04,6W8zNBGajvX9vqEgZq2nXskZ6TvLyD2fEYn7oVP1pump,inutile,BUY,dev sold,0,0.1,,,10871,,,
+2026-10-06 00:32:14,6W8zNBGajvX9vqEgZq2nXskZ6TvLyD2fEYn7oVP1pump,inutile,SELL,dev sold,0,0.03499,-65.0,stop loss -64%,4152,0.0,-61.8,10
+2026-10-06 00:33:54,ARCBeUyYshEkeUeDtYrwVZdxAziXeEqqKRLFW6U7D7HX,Arcade,BUY,dev sold,0,0.1,,,10516,,,
+2026-10-06 00:34:58,D5X4EM9nSAWKrFZdChmqHSDQDFqGDcZRsKfJsKUWpump,CAST,SELL,score below threshold,42.6,0.06299,-37.0,stop loss -36%,7667,101.1,-31.6,589
+2026-10-06 00:35:40,FmCHPggGH1TM6UMb5J11tHipjwB1X74dyXBEqV9iNwsJ,YALL,BUY,dev holds 15.3%,0,0.1,,,11300,,,
+2026-10-06 00:36:12,FmCHPggGH1TM6UMb5J11tHipjwB1X74dyXBEqV9iNwsJ,YALL,SELL,dev holds 15.3%,0,0.06338,-36.6,stop loss -35%,7772,21.2,-31.2,32
+2026-10-06 00:37:57,9VzAjtyHFgkgebXkNAvzNjVS42dnPBMMzq2KJVPMAP8D,peniaphobia,BUY,dev sold,0,0.1,,,10829,,,
+2026-10-06 00:38:19,9VzAjtyHFgkgebXkNAvzNjVS42dnPBMMzq2KJVPMAP8D,peniaphobia,SELL,dev sold,0,0.05876,-41.2,stop loss -40%,6909,4.4,-36.2,22
+2026-10-06 00:39:15,ARCBeUyYshEkeUeDtYrwVZdxAziXeEqqKRLFW6U7D7HX,Arcade,SELL,dev sold,0,0.20922,109.2,shift ended,24592,186.5,-12.8,321
