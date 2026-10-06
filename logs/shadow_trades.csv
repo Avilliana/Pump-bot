@@ -515,3 +515,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 17:38:15,J1LbXAKtbXVuxyYcdfd28K5PiNe5X3siEdS8emMXpump,user,SELL,score below threshold,48.1,0.18214,82.1,shift ended,35192,97.2,-7.6,231
 2026-10-06 17:38:15,6trEANar2bn3p7kixNV5L6tEcCxEbABAU1NDv8BQaYr5,CASPER,SELL,dev sold,0,0.19092,90.9,shift ended,22622,123.4,-9.6,161
 2026-10-06 17:38:15,7m8VbovNMVBap1puP6GgC1a5CbR8MwAXfr3yxRyr8ZQV,FORTPAD,SELL,bundled: 64 launch wallets own 31%,0,0.07703,-23.0,shift ended,21754,17.6,-19.5,149
+2026-10-06 18:21:02,5CzCLCnov9Dy6yAk6v6fq3nDcDwMtDk7WA2p7T53B9XW,slopcannon,BUY,dev sold,0,0.1,,,49753,,,
+2026-10-06 18:22:22,eXhqNE1p43cBBD5DjbZYpeNH9RUsrGS6SUwSyAXpump,slopcannon,BUY,dev sold,0,0.1,,,28983,,,
+2026-10-06 18:23:13,2imTYzneSK6TStn5XuCfHiG23RsHZydezT8wfrNb3zLZ,EXTRACTOR,BUY,past buy window (late mover),72.1,0.1,,,24015,,,
+2026-10-06 18:23:16,2imTYzneSK6TStn5XuCfHiG23RsHZydezT8wfrNb3zLZ,EXTRACTOR,SELL,past buy window (late mover),72.1,0.0634,-36.6,stop loss -35%,16507,0.0,-31.3,2
+2026-10-06 18:23:38,HWDGKt3Y2nFnJVH8urhDK6N2cU73He3NLXGj6xtd7vdH,slopcannon,BUY,dev sold,0,0.1,,,20283,,,
+2026-10-06 18:23:58,eXhqNE1p43cBBD5DjbZYpeNH9RUsrGS6SUwSyAXpump,slopcannon,SELL,dev sold,0,0.06305,-36.9,stop loss -36%,19807,58.6,-31.7,96
+2026-10-06 18:24:01,5CzCLCnov9Dy6yAk6v6fq3nDcDwMtDk7WA2p7T53B9XW,slopcannon,SELL,dev sold,0,0.09252,-7.5,no trading (stale),49753,0.0,0.0,178
+2026-10-06 18:25:22,AResR4Gxo2hR7LVFrjjaQBoJxbRabtxtfY9E79PZS46v,OCTOPUX,BUY,dev sold,0,0.1,,,8771,,,
+2026-10-06 18:26:42,DmyAhnqLTbqYBk8F4fotJGPXzzpBc6AY5AzR9SHjpump,Casino,BUY,bundled: 36 launch wallets own 24%,0,0.1,,,15656,,,
+2026-10-06 18:26:59,DmyAhnqLTbqYBk8F4fotJGPXzzpBc6AY5AzR9SHjpump,Casino,SELL,bundled: 36 launch wallets own 24%,0,0.06351,-36.5,stop loss -35%,10785,0.3,-31.1,17
+2026-10-06 18:27:14,46ygziZH3oww4D2r6BriCnfarbMnHj1LjDLRbDE85SAr,RHEM,BUY,past buy window (late mover),83.5,0.1,,,34441,,,
+2026-10-06 18:27:42,HWDGKt3Y2nFnJVH8urhDK6N2cU73He3NLXGj6xtd7vdH,slopcannon,SELL,dev sold,0,0.21686,116.9,no trading (stale),49753,145.3,-30.6,243
+2026-10-06 18:28:40,46ygziZH3oww4D2r6BriCnfarbMnHj1LjDLRbDE85SAr,RHEM,SELL,past buy window (late mover),83.5,0.06311,-36.9,stop loss -36%,23534,1.0,-31.6,85
+2026-10-06 18:30:16,ADkhiFfrWEGaUyc4AiT1bEJhdEMzWVUqLak9EumQpump,LUNCH,BUY,bundled: 6 launch wallets own 21%,0,0.1,,,9668,,,
+2026-10-06 18:30:39,ADkhiFfrWEGaUyc4AiT1bEJhdEMzWVUqLak9EumQpump,LUNCH,SELL,bundled: 6 launch wallets own 21%,0,0.07494,-25.1,dev sold,7856,10.1,-18.7,23
+2026-10-06 18:32:34,7GgD3tH88aTGPpxhp2HLyAMZNDUC99fV6Nh6YyDD13PS,Fonk,BUY,bundled: 13 launch wallets own 13%,0,0.1,,,19855,,,
+2026-10-06 18:32:54,BcWmeGgM5u6NnJhgftRn1Vm3D7CvKbB6nBpxahfgpump,ESRAVIL,BUY,bundled: 11.8 SOL bought in launch block,0,0.1,,,12382,,,
+2026-10-06 18:33:08,7GgD3tH88aTGPpxhp2HLyAMZNDUC99fV6Nh6YyDD13PS,Fonk,SELL,bundled: 13 launch wallets own 13%,0,0.06132,-38.7,stop loss -37%,13205,71.6,-33.5,33
+2026-10-06 18:33:52,BjW9Lrt7tPCv8NyYKr3pQu919HAVBGtM22HRnwmMam4g,Fonk,BUY,bundled: 10 launch wallets own 24%,0,0.1,,,18931,,,
+2026-10-06 18:34:14,AResR4Gxo2hR7LVFrjjaQBoJxbRabtxtfY9E79PZS46v,OCTOPUX,SELL,dev sold,0,0.06233,-37.7,stop loss -36%,5930,83.6,-32.3,532
+2026-10-06 18:34:52,BcWmeGgM5u6NnJhgftRn1Vm3D7CvKbB6nBpxahfgpump,ESRAVIL,SELL,bundled: 11.8 SOL bought in launch block,0,0.06318,-36.8,stop loss -36%,8488,19.4,-31.4,117
+2026-10-06 18:35:01,BjW9Lrt7tPCv8NyYKr3pQu919HAVBGtM22HRnwmMam4g,Fonk,SELL,bundled: 10 launch wallets own 24%,0,0.0598,-40.2,stop loss -39%,12280,19.6,-35.1,69
+2026-10-06 18:35:42,3bmD4fq58xWAEsCSLzkJzEnvPpBHWKLcQEtwUPLipump,TRAVIS,BUY,bundled: 43.8 SOL bought in launch block,0,0.1,,,12169,,,
+2026-10-06 18:35:44,3bmD4fq58xWAEsCSLzkJzEnvPpBHWKLcQEtwUPLipump,TRAVIS,SELL,bundled: 43.8 SOL bought in launch block,0,0.06093,-39.1,stop loss -38%,8048,0.3,-33.9,1
+2026-10-06 18:37:19,7WN9cZsa8ha2tgv6FpvWr8UyPZuCwdyo5zFrnEt1Dm1x,GEEL,BUY,dev sold,0,0.1,,,11619,,,
+2026-10-06 18:37:33,A4wjA1ixxEc84C8y83mtcx4dF3FBgej149GzFDkYpump,NUBI,BUY,top10 hold 37%,0,0.1,,,13382,,,
+2026-10-06 18:38:05,7WN9cZsa8ha2tgv6FpvWr8UyPZuCwdyo5zFrnEt1Dm1x,GEEL,SELL,dev sold,0,0.0807,-19.3,shift ended,10160,34.5,-14.2,46
+2026-10-06 18:38:05,A4wjA1ixxEc84C8y83mtcx4dF3FBgej149GzFDkYpump,NUBI,SELL,top10 hold 37%,0,0.14174,41.7,shift ended,20503,53.2,-0.0,32
