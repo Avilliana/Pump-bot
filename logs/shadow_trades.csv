@@ -721,3 +721,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-06 22:35:43,6p8kJ4gHNHDkGJ7EUKVJiGaGAf1NybqU82L7rV5Zpump,FOLIO,BUY,past buy window (late mover),57.2,0.1,,,11297,,,
 2026-10-06 22:35:44,8qMP74MedCQ7YPXixrwpgBPQWiHhkjCw2bFUz1oHWALK,STRIDE,SELL,score below threshold,51.0,0.06159,-38.4,stop loss -37%,6376,4.7,-33.1,104
 2026-10-06 22:38:04,6p8kJ4gHNHDkGJ7EUKVJiGaGAf1NybqU82L7rV5Zpump,FOLIO,SELL,past buy window (late mover),57.2,0.13592,35.9,shift ended,16604,111.2,-7.4,140
+2026-10-06 23:19:15,D9FCvJ2pV4BpxfwWEwko422nFgBs8z7e7iWjVbiK8Pad,PAD,BUY,dev sold,0,0.1,,,13806,,,
+2026-10-06 23:21:47,D9FCvJ2pV4BpxfwWEwko422nFgBs8z7e7iWjVbiK8Pad,PAD,SELL,dev sold,0,0.06365,-36.3,stop loss -35%,9533,34.6,-30.9,152
+2026-10-06 23:22:10,7ztGVDZLdoTb6fv6zZzoCX5dyXBGdPZw547nsmLGpump,Lastro,BUY,bundled: 43.8 SOL bought in launch block,0,0.1,,,29966,,,
+2026-10-06 23:23:47,8Pqde7TXqmKqq81wDzNucfquRXSse4aqM7ztsGy8CRWL,CRAWL,BUY,bundled: 34 launch wallets own 12%,0,0.1,,,9911,,,
+2026-10-06 23:23:54,mZcQJczRMpXGNuJYik15ATPA4zjFezRUXkLzVKPpump,INFLUENCER,BUY,bundled: 57 launch wallets own 37%,0,0.1,,,23270,,,
+2026-10-06 23:24:38,9e6SHSekBVWF9EA8B2aMD4js2KspScT5d4q4eDANpump,gogasha,BUY,dev sold,0,0.1,,,8075,,,
+2026-10-06 23:24:56,9e6SHSekBVWF9EA8B2aMD4js2KspScT5d4q4eDANpump,gogasha,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,5536,18.8,-31.4,18
+2026-10-06 23:25:03,7ztGVDZLdoTb6fv6zZzoCX5dyXBGdPZw547nsmLGpump,Lastro,SELL,bundled: 43.8 SOL bought in launch block,0,0.09248,-7.5,no trading (stale),29966,0.0,0.0,173
+2026-10-06 23:25:24,J8W6u53Bhrf89XUDfLsd4yyrFHPfZVs6cdb64CqqqkrH,APES,BUY,dev sold,0,0.1,,,13758,,,
+2026-10-06 23:25:54,J8W6u53Bhrf89XUDfLsd4yyrFHPfZVs6cdb64CqqqkrH,APES,SELL,dev sold,0,0.06265,-37.3,stop loss -36%,9352,29.8,-32.0,30
+2026-10-06 23:26:01,8SicoTKGpXddJgmq1gCTnRbqSa6Ct8qYECfM5fScDnWt,Jack & Jill,BUY,dev sold,0,0.1,,,9860,,,
+2026-10-06 23:26:10,8SicoTKGpXddJgmq1gCTnRbqSa6Ct8qYECfM5fScDnWt,Jack & Jill,SELL,dev sold,0,0.06229,-37.7,stop loss -36%,6667,2.1,-32.4,8
+2026-10-06 23:26:13,8Pqde7TXqmKqq81wDzNucfquRXSse4aqM7ztsGy8CRWL,CRAWL,SELL,bundled: 34 launch wallets own 12%,0,0.13884,38.8,trailing stop,6634,151.0,-33.1,146
+2026-10-06 23:26:15,9rPAnNNfMJUa4c9YcefJYxuhcEyYt8R9kxSJmXcn4rSi,J&J,BUY,dev sold,0,0.1,,,11973,,,
+2026-10-06 23:26:20,3grfpqWBzY5W7K8GwdTzWrjYVSKCTKN3ZApYVuAutgVF,Jack&Jill,BUY,dev sold,0,0.1,,,11224,,,
+2026-10-06 23:26:36,3grfpqWBzY5W7K8GwdTzWrjYVSKCTKN3ZApYVuAutgVF,Jack&Jill,SELL,dev sold,0,0.06317,-36.8,stop loss -36%,7695,0.5,-31.4,16
+2026-10-06 23:26:37,9rPAnNNfMJUa4c9YcefJYxuhcEyYt8R9kxSJmXcn4rSi,J&J,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,8064,29.1,-32.6,22
+2026-10-06 23:26:41,EGKhRs1rvPbc7GvJWFTbCMEacj2QrkFtQMiA1QiEw8j9,APES,BUY,dev sold,0,0.1,,,9020,,,
+2026-10-06 23:26:42,EGKhRs1rvPbc7GvJWFTbCMEacj2QrkFtQMiA1QiEw8j9,APES,SELL,dev sold,0,0.03669,-63.3,stop loss -62%,3612,0.0,-60.0,0
+2026-10-06 23:29:58,GsJ9SSKpsN5uWL7xjz3GEh9Pr1uPYKotqG5io5YUjotj,robots.gov,BUY,dev sold,0,0.1,,,12715,,,
+2026-10-06 23:30:22,7V7uPhGKcsQ21v43y3EZeHamXrcsS8yrShZHvZAqpump,TT,BUY,top10 hold 50%,0,0.1,,,12531,,,
+2026-10-06 23:30:29,GsJ9SSKpsN5uWL7xjz3GEh9Pr1uPYKotqG5io5YUjotj,robots.gov,SELL,dev sold,0,0.06195,-38.0,stop loss -37%,8548,22.8,-32.8,31
+2026-10-06 23:30:31,D6XJyitVHB1eXQgCqxgPRdf3vpycHiYp5xZ7bBFiHp2j,DD,BUY,dev sold,0,0.1,,,9189,,,
+2026-10-06 23:31:12,D6XJyitVHB1eXQgCqxgPRdf3vpycHiYp5xZ7bBFiHp2j,DD,SELL,dev sold,0,0.06042,-39.6,stop loss -38%,6029,0.4,-34.4,41
+2026-10-06 23:34:54,J9xmo1f85CbLBnQHQucS9nBVX43FrGNAWmzW6G9Hpump,FOMOLIST,BUY,bundled: 11 launch wallets own 12%,0,0.1,,,13723,,,
+2026-10-06 23:36:07,J9xmo1f85CbLBnQHQucS9nBVX43FrGNAWmzW6G9Hpump,FOMOLIST,SELL,bundled: 11 launch wallets own 12%,0,0.06212,-37.9,stop loss -37%,9249,60.4,-32.6,72
+2026-10-06 23:38:23,mZcQJczRMpXGNuJYik15ATPA4zjFezRUXkLzVKPpump,INFLUENCER,SELL,bundled: 57 launch wallets own 37%,0,0.09015,-9.8,shift ended,22672,54.3,-15.1,869
+2026-10-06 23:38:23,7V7uPhGKcsQ21v43y3EZeHamXrcsS8yrShZHvZAqpump,TT,SELL,top10 hold 50%,0,0.20374,103.7,shift ended,28401,134.0,0.0,481
