@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-ai
+super
+cat
+long
+inu
+chaos
+across
+born
 through
-intelligence
-his
-leave
-agents
-call
-wallet
-trade
-protocol
-fees
-forever
-him
-small
-fearless
+eligible
+tiny
+believe
+memecoins
+watch
+top
+portfolio
