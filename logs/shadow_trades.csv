@@ -815,3 +815,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 02:35:23,BDgkwGyoNF62xfSypEerHtJnajo7ZJZKAzesRq9MV4h,Raindrop,SELL,dev sold,0,0.06281,-37.2,stop loss -36%,9086,16.1,-31.9,12
 2026-10-07 02:36:07,9hpRmPEdVrEJT1Gf5z4Thwvjqqp5BNrzs8mcHnhcD7An,RAINDROP,BUY,bundled: 35 launch wallets own 18%,0,0.1,,,12019,,,
 2026-10-07 02:38:30,9hpRmPEdVrEJT1Gf5z4Thwvjqqp5BNrzs8mcHnhcD7An,RAINDROP,SELL,bundled: 35 launch wallets own 18%,0,0.18388,83.9,shift ended,21617,155.1,-15.5,143
+2026-10-07 03:21:21,EV5uYv26VDWf4R4NYgJkiGdYwmW8qdydWNaDnpAGpump,STONEZILLA,BUY,dev holds 26.6%,0,0.1,,,9888,,,
+2026-10-07 03:22:43,EV5uYv26VDWf4R4NYgJkiGdYwmW8qdydWNaDnpAGpump,STONEZILLA,SELL,dev holds 26.6%,0,0.15068,50.7,dev sold,10790,259.4,-0.0,82
+2026-10-07 03:24:23,DEcokJEiKrTVdYZ8HwyNfYoY44RqY3w1Kv3nnTz4pump,GIFT,BUY,dev sold,0,0.1,,,12885,,,
+2026-10-07 03:25:19,DameK5W3gyn98ZSCCTJuTFXj5LyefBGH4qdf7n2Mpump,Unccat,BUY,dev sold,0,0.1,,,29332,,,
+2026-10-07 03:25:32,DEcokJEiKrTVdYZ8HwyNfYoY44RqY3w1Kv3nnTz4pump,GIFT,SELL,dev sold,0,0.06307,-36.9,stop loss -36%,8817,82.1,-31.6,69
+2026-10-07 03:26:07,DameK5W3gyn98ZSCCTJuTFXj5LyefBGH4qdf7n2Mpump,Unccat,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,19960,30.4,-32.0,48
+2026-10-07 03:26:28,BzWxMJob5LfgRXqWucpSkmycCCRAxqJMH5uhphbtpxog,Buddy,BUY,dev sold,0,0.1,,,8259,,,
+2026-10-07 03:26:39,2kz9YpvpPqs7wc5CHeFFyVuSiN3QUokhQMHMoEPQpump,STONEZILLA,BUY,dev holds 35.5%,0,0.1,,,9309,,,
+2026-10-07 03:27:53,2kz9YpvpPqs7wc5CHeFFyVuSiN3QUokhQMHMoEPQpump,STONEZILLA,SELL,dev holds 35.5%,0,0.1797,79.7,dev sold,16091,328.3,-0.1,74
+2026-10-07 03:29:51,CKScFRuDAuDhv5Sszh5VNJgULPMLxZKQmr66hjgWpump,Ningen,BUY,dev holds 41.3%,0,0.1,,,12157,,,
+2026-10-07 03:30:16,CKScFRuDAuDhv5Sszh5VNJgULPMLxZKQmr66hjgWpump,Ningen,SELL,dev holds 41.3%,0,0.11132,11.3,dev sold,14640,45.1,-0.8,26
+2026-10-07 03:30:20,BzWxMJob5LfgRXqWucpSkmycCCRAxqJMH5uhphbtpxog,Buddy,SELL,dev sold,0,0.06341,-36.6,stop loss -35%,5688,89.0,-31.2,232
+2026-10-07 03:32:38,98pKHSvsazBmqNjh2rmiRweJNCvJTqZbXzkAw1tYoDAU,spacechip,BUY,dev sold,0,0.1,,,17299,,,
+2026-10-07 03:33:10,98pKHSvsazBmqNjh2rmiRweJNCvJTqZbXzkAw1tYoDAU,spacechip,SELL,dev sold,0,0.06162,-38.4,stop loss -37%,11562,1.4,-33.2,32
+2026-10-07 03:33:46,31mgQUTJrRXt8x63ZL2b6qc1hyrPw88wJ9UMpD9Jpump,spacechip,BUY,dev sold,0,0.1,,,11134,,,
+2026-10-07 03:35:23,31mgQUTJrRXt8x63ZL2b6qc1hyrPw88wJ9UMpD9Jpump,spacechip,SELL,dev sold,0,0.17691,76.9,trailing stop,17923,138.4,-10.0,97
+2026-10-07 03:35:54,2WsVcA8SxQA4mvSuebW26m3w3G4Kn3XzTdTZPEZ9pump,BRUNO,BUY,dev sold,0,0.1,,,8216,,,
+2026-10-07 03:36:46,2WsVcA8SxQA4mvSuebW26m3w3G4Kn3XzTdTZPEZ9pump,BRUNO,SELL,dev sold,0,0.16583,65.8,trailing stop,11839,115.2,-22.6,52
+2026-10-07 03:37:27,5RKBVCtLxtAA2aQxRQq5iFdPiV6nNT1UZjJ5HjWJpump,Colony,BUY,dev holds 9.2%,0,0.1,,,11451,,,
+2026-10-07 03:37:38,E6dzsrHpWKj8pjgbyya8iDaiGhy7co1djFFvqXDxpump,KARL,BUY,dev sold,0,0.1,,,10576,,,
+2026-10-07 03:37:52,89rduccpRnubVbShhZKAHHgQdPZe9neawbGD6pFSpump,GOAT,BUY,dev sold,0,0.1,,,15946,,,
+2026-10-07 03:38:05,E6dzsrHpWKj8pjgbyya8iDaiGhy7co1djFFvqXDxpump,KARL,SELL,dev sold,0,0.0624,-37.6,stop loss -36%,7163,59.4,-32.3,27
+2026-10-07 03:38:41,5RKBVCtLxtAA2aQxRQq5iFdPiV6nNT1UZjJ5HjWJpump,Colony,SELL,dev holds 9.2%,0,0.13543,35.4,shift ended,16769,51.5,-10.2,73
+2026-10-07 03:38:41,89rduccpRnubVbShhZKAHHgQdPZe9neawbGD6pFSpump,GOAT,SELL,dev sold,0,0.13137,31.4,shift ended,22640,75.5,-2.3,48
