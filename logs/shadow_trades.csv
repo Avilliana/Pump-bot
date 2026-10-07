@@ -919,3 +919,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 07:33:17,A9nsLiSCQUQ2k53UQD9Ceen6upP7Vs6UMpu23kL48BQ6,Solana,SELL,dev sold,0,0.06224,-37.8,stop loss -36%,7799,41.0,-32.5,52
 2026-10-07 07:39:23,2nv4Z7jQDSMStXHPy5mgKBh5rzmVucfChW1WFA1ipump,P2P,SELL,bundled: 51 launch wallets own 22%,0,0.10706,7.1,shift ended,25486,42.7,-20.4,949
 2026-10-07 07:39:23,CCd9ZN1unRVYrFaAKQdBQ53KFNFBjwYeUmTZWvZKpump,EVOLVE,SELL,dev sold,0,0.11878,18.8,shift ended,13126,108.6,-7.1,443
+2026-10-07 08:20:39,EkUsxPNvcqUez7JKCn7iuJ2n1Te8PrM4maKp7j6NM9DM,Willy,BUY,dev sold,0,0.1,,,9554,,,
+2026-10-07 08:20:54,EkUsxPNvcqUez7JKCn7iuJ2n1Te8PrM4maKp7j6NM9DM,Willy,SELL,dev sold,0,0.06089,-39.1,stop loss -38%,6316,6.0,-33.9,15
+2026-10-07 08:21:12,EaFBez4cF4F99Ev5rbNQRf3kYYdhhb6G2xhpygmGpump,horny,BUY,dev sold,0,0.1,,,8252,,,
+2026-10-07 08:21:53,EaFBez4cF4F99Ev5rbNQRf3kYYdhhb6G2xhpygmGpump,horny,SELL,dev sold,0,0.06083,-39.2,stop loss -38%,5451,15.1,-33.9,41
+2026-10-07 08:22:11,AGQdpwu2mytEB4xCvst7DcroeNNf9mejyRWbQMCrdGqX,FLAPJACK,BUY,dev sold,0,0.1,,,8270,,,
+2026-10-07 08:23:19,AGQdpwu2mytEB4xCvst7DcroeNNf9mejyRWbQMCrdGqX,FLAPJACK,SELL,dev sold,0,0.05898,-41.0,stop loss -40%,5299,26.7,-35.9,68
+2026-10-07 08:31:20,844F1WWiAtw1n2cbDdaWxNxV751ucz4EW5pAyBMEpump,KING,BUY,dev sold,0,0.1,,,45839,,,
+2026-10-07 08:33:22,5cx693w85d4qee87somaHDnbRFCDxiCNMHTGxJqQWj4w,OMR,BUY,past buy window (late mover),80.8,0.1,,,11969,,,
+2026-10-07 08:34:16,844F1WWiAtw1n2cbDdaWxNxV751ucz4EW5pAyBMEpump,KING,SELL,dev sold,0,0.09263,-7.4,no trading (stale),45839,0.0,0.0,176
+2026-10-07 08:36:51,B8aP5qqvgLfi9eojjpEDLJcSCNSEWTK2jNzJxDZqpump,PepeFreak,BUY,bundled: 6 launch wallets own 47%,0,0.1,,,12918,,,
+2026-10-07 08:37:05,APrVspZNFsWaRATrsjK9FZw3EnH9K3s62srZFNdtpump,GITFLUX,BUY,past buy window (late mover),58.8,0.1,,,9087,,,
+2026-10-07 08:37:06,APrVspZNFsWaRATrsjK9FZw3EnH9K3s62srZFNdtpump,GITFLUX,SELL,past buy window (late mover),58.8,0.06121,-38.8,stop loss -38%,6039,0.0,-33.5,2
+2026-10-07 08:37:27,B8aP5qqvgLfi9eojjpEDLJcSCNSEWTK2jNzJxDZqpump,PepeFreak,SELL,bundled: 6 launch wallets own 47%,0,0.06292,-37.1,stop loss -36%,8819,11.1,-31.7,36
+2026-10-07 08:38:13,5cx693w85d4qee87somaHDnbRFCDxiCNMHTGxJqQWj4w,OMR,SELL,past buy window (late mover),80.8,0.12949,29.5,shift ended,16759,70.4,-25.2,291
