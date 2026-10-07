@@ -45,7 +45,11 @@ jobs:
               t = calendar.timegm(time.strptime(s["updated"], "%Y-%m-%d %H:%M:%S"))
               age_min = (time.time() - t) / 60
               print(f"last shift finished {age_min:.0f} min ago")
-              skip = age_min < 35
+              # A duplicate run for the same hour is one queued behind (or fired
+              # just after) the shift that just ended, so it sees age ~0-10 min.
+              # 35 was too tight: a shift ending at :44-:53 blocked the next
+              # hour's :17 start (16:xx shift skipped on 2026-10-07).
+              skip = age_min < 15
           except Exception as e:
               print("no previous shift info:", e)
           if os.environ.get("FORCE") == "true":
