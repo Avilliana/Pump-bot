@@ -961,3 +961,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 10:36:22,7Y8MZKm5g1vhdv4HKk5bTKZcsWBTy3q59QfuyfPTpump,GAIA,SELL,bundled: 4 launch wallets own 18%,0,0.09252,-7.5,no trading (stale),48393,0.0,0.0,178
 2026-10-07 10:37:08,GhA82wRkv1NijnHWWBPLPHQxgdxtcLw322NkYTo5pump,B0VO0TN,BUY,bundled: 6 launch wallets own 39%,0,0.1,,,12310,,,
 2026-10-07 10:38:15,GhA82wRkv1NijnHWWBPLPHQxgdxtcLw322NkYTo5pump,B0VO0TN,SELL,bundled: 6 launch wallets own 39%,0,0.09217,-7.8,shift ended,12284,0.5,-17.3,67
+2026-10-07 11:20:36,9bpnheFHgSpH6qKqLuMb4Jf5dtkZms1rmB2wi3cGpump,HODL,BUY,dev sold,0,0.1,,,11738,,,
+2026-10-07 11:21:02,3BhKKN2bJMAYzWWKrGmhogWnffepPvqrjeDREgYHpump,Oso,BUY,dev sold,0,0.1,,,9279,,,
+2026-10-07 11:21:17,3BhKKN2bJMAYzWWKrGmhogWnffepPvqrjeDREgYHpump,Oso,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,6394,18.1,-31.1,15
+2026-10-07 11:22:12,ABLDmERVVAjDo6cJy1ZZdxjSgwF1haCZngX1jYBzXey7,67oween,BUY,dev sold,0,0.1,,,14721,,,
+2026-10-07 11:23:11,9bpnheFHgSpH6qKqLuMb4Jf5dtkZms1rmB2wi3cGpump,HODL,SELL,dev sold,0,0.06216,-37.8,stop loss -37%,7918,66.1,-32.5,156
+2026-10-07 11:23:29,7JFbtKuk9ub4aKtdvVq5NddNJPq2qLcQtz18685UEAGG,Mogoween,BUY,dev sold,0,0.1,,,8343,,,
+2026-10-07 11:25:23,7JFbtKuk9ub4aKtdvVq5NddNJPq2qLcQtz18685UEAGG,Mogoween,SELL,dev sold,0,0.06265,-37.4,stop loss -36%,5676,38.8,-32.0,115
+2026-10-07 11:25:44,7Ruv6Trpoz3nZcwQyuBQm826D8mzqYva2LdGWfW5KLjV,Inuween,BUY,dev sold,0,0.1,,,16052,,,
+2026-10-07 11:26:29,7Ruv6Trpoz3nZcwQyuBQm826D8mzqYva2LdGWfW5KLjV,Inuween,SELL,dev sold,0,0.06353,-36.5,stop loss -35%,11060,11.7,-31.1,45
+2026-10-07 11:26:54,HtMVy1vrwuLP1EDXePh9mnULpAtZ8Bn1jzXPRZ35Na4f,boobies,BUY,dev sold,0,0.1,,,8023,,,
+2026-10-07 11:27:35,HtMVy1vrwuLP1EDXePh9mnULpAtZ8Bn1jzXPRZ35Na4f,boobies,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,5514,66.0,-31.3,41
+2026-10-07 11:29:42,8EqcqzDNRPdUmt8xXXezYhnReikzLTVXNBwQd9RYpump,Slopforge,BUY,dev sold,0,0.1,,,8070,,,
+2026-10-07 11:30:26,ABLDmERVVAjDo6cJy1ZZdxjSgwF1haCZngX1jYBzXey7,67oween,SELL,dev sold,0,0.06093,-39.1,stop loss -38%,9695,91.9,-33.9,494
+2026-10-07 11:30:51,8EqcqzDNRPdUmt8xXXezYhnReikzLTVXNBwQd9RYpump,Slopforge,SELL,dev sold,0,0.0618,-38.2,stop loss -37%,5416,33.8,-32.9,68
+2026-10-07 11:33:57,6ChYkqh1rQnZpSepqu8TS7gJyGNj1mFBcQJGDNQBpump,Herbert,BUY,dev sold,0,0.1,,,9236,,,
+2026-10-07 11:35:21,6ChYkqh1rQnZpSepqu8TS7gJyGNj1mFBcQJGDNQBpump,Herbert,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,6288,33.1,-31.9,84
+2026-10-07 11:36:24,46B69uGgnW1DvKEo8YnsutUpUH43Z3yB7LZdAuVupump,kittyjam,BUY,past buy window (late mover),62.1,0.1,,,9082,,,
+2026-10-07 11:37:06,46B69uGgnW1DvKEo8YnsutUpUH43Z3yB7LZdAuVupump,kittyjam,SELL,past buy window (late mover),62.1,0.0618,-38.2,stop loss -37%,6094,19.1,-32.9,42
