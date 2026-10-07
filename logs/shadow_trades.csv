@@ -771,3 +771,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 00:36:25,D13mahgKap5fS6eoFBMMxBnrtrs6VPFZxzzxph1dpump,BRIDGES,BUY,dev sold,0,0.1,,,17107,,,
 2026-10-07 00:37:40,D13mahgKap5fS6eoFBMMxBnrtrs6VPFZxzzxph1dpump,BRIDGES,SELL,dev sold,0,0.17469,74.7,trailing stop,26736,132.4,-12.7,76
 2026-10-07 00:37:51,5VtBCaVmWchdtbnQE1KN3HZNzidCXttkbb2zS54Mpump,DFARM,SELL,past buy window (late mover),58.8,0.20071,100.7,dev sold,21279,239.7,-0.2,799
+2026-10-07 01:23:15,MFEfsKjTZnna7uWfNEsyK7YKM4XAYxJZkNxEYkrpump,RATNET,BUY,bundled: 40 launch wallets own 32%,0,0.1,,,17905,,,
+2026-10-07 01:23:29,MFEfsKjTZnna7uWfNEsyK7YKM4XAYxJZkNxEYkrpump,RATNET,SELL,bundled: 40 launch wallets own 32%,0,0.02902,-71.0,stop loss -70%,5686,8.7,-68.2,13
+2026-10-07 01:23:33,9JUjKAFs9GySnbTCVAjJsTyHzy7cwrSTcFJwgZgZpump,Barracks,BUY,dev sold,0,0.1,,,14509,,,
+2026-10-07 01:23:47,9JUjKAFs9GySnbTCVAjJsTyHzy7cwrSTcFJwgZgZpump,Barracks,SELL,dev sold,0,0.02391,-76.1,stop loss -75%,3810,50.7,-73.7,14
+2026-10-07 01:24:38,5orHXKXnBDE9J3QApzM95isboVPa1cpqCtT3FtofpT1,PATE,BUY,dev sold,0,0.1,,,12067,,,
+2026-10-07 01:24:47,5orHXKXnBDE9J3QApzM95isboVPa1cpqCtT3FtofpT1,PATE,SELL,dev sold,0,0.0621,-37.9,stop loss -37%,8132,3.4,-32.6,10
+2026-10-07 01:26:19,DNuemvM8aGZvqpTU8QRm6wfMwFpMwPMKeMoFnQcTMu6E,Pmarca,BUY,dev sold,0,0.1,,,8071,,,
+2026-10-07 01:26:22,DNuemvM8aGZvqpTU8QRm6wfMwFpMwPMKeMoFnQcTMu6E,Pmarca,SELL,dev sold,0,0.06291,-37.1,stop loss -36%,5513,0.0,-31.7,2
+2026-10-07 01:28:51,ABdS34z3LGHxmXRKxb6ELvu7t6EVymG4kzQFUKXMpump,PRIMER,BUY,bundled: 35 launch wallets own 70%,0,0.1,,,49396,,,
+2026-10-07 01:30:55,2pqRkBzVBBTHyYBaHycdJQjBwuJcoJykoC77fbw3pump,BYTE,BUY,score below threshold,49.1,0.1,,,11029,,,
+2026-10-07 01:31:26,ABdS34z3LGHxmXRKxb6ELvu7t6EVymG4kzQFUKXMpump,PRIMER,SELL,bundled: 35 launch wallets own 70%,0,0.09252,-7.5,no trading (stale),49396,0.0,0.0,155
+2026-10-07 01:33:27,2pqRkBzVBBTHyYBaHycdJQjBwuJcoJykoC77fbw3pump,BYTE,SELL,score below threshold,49.1,0.06178,-38.2,stop loss -37%,7380,63.1,-32.9,152
+2026-10-07 01:36:37,476acMdKnrw7asRLxby2EFCbLNWeZ9GMdoJPDrFFQcbY,CLAUDIA,BUY,dev sold,0,0.1,,,18439,,,
+2026-10-07 01:36:50,9vCmcifhFNdwCNPipkL3hmxgsKobRQnkKshouPqEPA8Q,CLAUDIA,BUY,dev sold,0,0.1,,,49289,,,
+2026-10-07 01:36:55,476acMdKnrw7asRLxby2EFCbLNWeZ9GMdoJPDrFFQcbY,CLAUDIA,SELL,dev sold,0,0.06171,-38.3,stop loss -37%,12341,105.9,-33.1,18
+2026-10-07 01:37:56,DYy1MZFsxx9a1BFhfBLc2b12g2jtubrqdMBVBZzwpump,LOOPD,BUY,score below threshold,41.8,0.1,,,9507,,,
+2026-10-07 01:39:09,977WJTGiraJJMcnxaXNRSd42gyz9i1i7MYD6RvD6Zzvm,CLAUDIA,BUY,dev sold,0,0.1,,,17417,,,
+2026-10-07 01:39:46,8Z89EkWXmcfwceSk8c326uk3xyBH4RgZse56zcV3pump,gm,BUY,past buy window (late mover),62.2,0.1,,,18462,,,
+2026-10-07 01:39:49,9vCmcifhFNdwCNPipkL3hmxgsKobRQnkKshouPqEPA8Q,CLAUDIA,SELL,dev sold,0,0.09252,-7.5,no trading (stale),49289,0.0,0.0,179
+2026-10-07 01:40:02,8Z89EkWXmcfwceSk8c326uk3xyBH4RgZse56zcV3pump,gm,SELL,past buy window (late mover),62.2,0.06322,-36.8,stop loss -35%,12657,0.0,-31.4,16
+2026-10-07 01:40:15,519tsPky9ZrfvbiF5uEhBpgZZt2uxDq1WaWeA7fcpump,TATE,BUY,dev sold,0,0.1,,,8095,,,
+2026-10-07 01:40:31,977WJTGiraJJMcnxaXNRSd42gyz9i1i7MYD6RvD6Zzvm,CLAUDIA,SELL,dev sold,0,0.06355,-36.4,stop loss -35%,12004,51.1,-31.1,82
+2026-10-07 01:40:49,EGyvrFsXMfvHAra9YZfPggvSqhzo3q7YSVEhNTuwX3bD,SLOPCORE,BUY,dev sold,0,0.1,,,12662,,,
+2026-10-07 01:41:23,EGyvrFsXMfvHAra9YZfPggvSqhzo3q7YSVEhNTuwX3bD,SLOPCORE,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,8734,6.5,-31.0,34
+2026-10-07 01:42:25,DYy1MZFsxx9a1BFhfBLc2b12g2jtubrqdMBVBZzwpump,LOOPD,SELL,score below threshold,41.8,0.17989,79.9,shift ended,18490,105.2,-0.8,269
+2026-10-07 01:42:25,519tsPky9ZrfvbiF5uEhBpgZZt2uxDq1WaWeA7fcpump,TATE,SELL,dev sold,0,0.15514,55.1,shift ended,13586,76.9,-19.6,130
