@@ -1217,3 +1217,37 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 18:38:48,j94woN3EiVq5MLFfWxsKVW19et5EVFPKCcrL8trpump,LOLA,SELL,dev sold,0,0.21314,113.1,shift ended,47851,148.0,0.3,415
 2026-10-07 18:38:48,GjVpdj6W4jLpSMCXu642eYHRyMy4My4MxP7ZeBECpump,COMP,SELL,dev holds 10.2%,0,0.23343,133.4,shift ended,25984,213.7,-30.6,253
 2026-10-07 18:38:48,J8KcvkXZuAri3ZcDjBpVbLS2zr9Gaz4pNHaRAtmbrya,PoeLLM,SELL,dev sold,0,0.09061,-9.4,shift ended,8790,20.2,-16.2,36
+2026-10-07 19:19:05,AjaRzcqZ1xje5MmJwdawSrKYEzNMsxZJbQN4DksoJiee,CRINE,BUY,dev sold,0,0.1,,,14468,,,
+2026-10-07 19:19:37,DVcQZVBJyPZYBTwff9272kWumukY2ySGY9xUBkQrpump,Retire,BUY,dev sold,0,0.1,,,8181,,,
+2026-10-07 19:20:19,G4hwaGwKdUWPeb9RWYKAf2E555Rw95aL2Q1Edf1rpump,LOBBYPAD,BUY,top10 hold 43%,0,0.1,,,9321,,,
+2026-10-07 19:20:31,G4hwaGwKdUWPeb9RWYKAf2E555Rw95aL2Q1Edf1rpump,LOBBYPAD,SELL,top10 hold 43%,0,0.05536,-44.6,stop loss -43%,5607,4.9,-39.8,12
+2026-10-07 19:22:24,6N1bHisodPegAFhG4kWnvFQXLLbH9RmbBWF2V4xupump,CLAWD,BUY,dev sold,0,0.1,,,17391,,,
+2026-10-07 19:23:11,AjaRzcqZ1xje5MmJwdawSrKYEzNMsxZJbQN4DksoJiee,CRINE,SELL,dev sold,0,0.19554,95.5,trailing stop,30331,216.3,-7.9,245
+2026-10-07 19:24:15,6N1bHisodPegAFhG4kWnvFQXLLbH9RmbBWF2V4xupump,CLAWD,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,11925,37.1,-31.4,110
+2026-10-07 19:24:22,DVcQZVBJyPZYBTwff9272kWumukY2ySGY9xUBkQrpump,Retire,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,5645,0.0,-31.0,285
+2026-10-07 19:25:00,BrgnRXNtDjJJ5q3iDeeJd3vsdBMx1bhCrDzCMuyBpump,fomora,BUY,bundled: 21 launch wallets own 30%,0,0.1,,,15163,,,
+2026-10-07 19:25:08,8s7nQRqjpxg2GJDYM7QDsYLA2CwHkmdLv4KMpDUbdrnj,AGENTIC,BUY,dev sold,0,0.1,,,9056,,,
+2026-10-07 19:25:16,Gsw81ASAoSL5DY5qVmXNr2UhFvrgducWcq6EEzBgpump,FPRO,BUY,bundled: 18 launch wallets own 75%,0,0.1,,,47674,,,
+2026-10-07 19:25:30,5E3uV5eR7ebhT9NQhVRpP65ohGgCLMtWGXEvMeTL4W4C,VITALCOCK,BUY,dev sold,0,0.1,,,9642,,,
+2026-10-07 19:25:37,8s7nQRqjpxg2GJDYM7QDsYLA2CwHkmdLv4KMpDUbdrnj,AGENTIC,SELL,dev sold,0,0.05763,-42.4,stop loss -41%,5669,16.1,-37.4,29
+2026-10-07 19:26:09,5E3uV5eR7ebhT9NQhVRpP65ohGgCLMtWGXEvMeTL4W4C,VITALCOCK,SELL,dev sold,0,0.06089,-39.1,stop loss -38%,6375,54.7,-33.9,39
+2026-10-07 19:27:24,BrgnRXNtDjJJ5q3iDeeJd3vsdBMx1bhCrDzCMuyBpump,fomora,SELL,bundled: 21 launch wallets own 30%,0,0.18974,89.7,dev sold,29867,148.1,0.1,144
+2026-10-07 19:27:58,BLXhcFAtJpCM3HCbdzvr8F3JwGqdMGkAoLXuRmXLpump,SENTS,BUY,score below threshold,50.7,0.1,,,47674,,,
+2026-10-07 19:27:59,BLXhcFAtJpCM3HCbdzvr8F3JwGqdMGkAoLXuRmXLpump,SENTS,SELL,score below threshold,50.7,0.09252,-7.5,no trading (stale),47674,0.0,0.0,1
+2026-10-07 19:27:59,Gsw81ASAoSL5DY5qVmXNr2UhFvrgducWcq6EEzBgpump,FPRO,SELL,bundled: 18 launch wallets own 75%,0,0.09252,-7.5,no trading (stale),47674,0.0,0.0,163
+2026-10-07 19:29:28,98LQfZg2VVj3g4fpTr22sC6RPmE7hT9bgyLibufspump,41,BUY,dev sold,0,0.1,,,31327,,,
+2026-10-07 19:30:16,FpbdmCDHFRwFH5A2KkqkUzewbHdJyJVFbVQqEPCmpump,RIPS,BUY,bundled: 20 launch wallets own 32%,0,0.1,,,14042,,,
+2026-10-07 19:30:29,BHtRfbehWoLyWQLUYMAdeekZgRgZPd1Y9UEgWtR7pump,BAGSTAR,BUY,score below threshold,48.6,0.1,,,18743,,,
+2026-10-07 19:30:38,9TqucuRbg6ntp45kQuxhG8HLTtdLrxC3fGwSFCCKpump,MUT8,BUY,dev sold,0,0.1,,,12722,,,
+2026-10-07 19:30:43,FpbdmCDHFRwFH5A2KkqkUzewbHdJyJVFbVQqEPCmpump,RIPS,SELL,bundled: 20 launch wallets own 32%,0,0.0779,-22.1,dev sold,11850,18.5,-15.6,27
+2026-10-07 19:32:57,9TqucuRbg6ntp45kQuxhG8HLTtdLrxC3fGwSFCCKpump,MUT8,SELL,dev sold,0,0.18384,83.8,trailing stop,22921,185.0,-3.7,140
+2026-10-07 19:33:05,6X4QRLnjKN9QDskgynwKfK35jDkB2zNWk2sMY7a9LaHu,BRAINWAVE,BUY,score below threshold,51.6,0.1,,,10232,,,
+2026-10-07 19:33:08,98LQfZg2VVj3g4fpTr22sC6RPmE7hT9bgyLibufspump,41,SELL,dev sold,0,0.14104,41.0,no trading (stale),47695,52.3,-22.2,221
+2026-10-07 19:33:10,6X4QRLnjKN9QDskgynwKfK35jDkB2zNWk2sMY7a9LaHu,BRAINWAVE,SELL,score below threshold,51.6,0.06336,-36.6,stop loss -35%,7036,0.0,-31.2,5
+2026-10-07 19:36:19,CMkrxYT1VZiGXuk8igBKdR4kY4eV8zSoM1RTUHGRpump,COURT,BUY,bundled: 21 launch wallets own 33%,0,0.1,,,22770,,,
+2026-10-07 19:36:40,7VBg12GTwMReKvhpDBgj2LaMCDyZj9CaS28RDffepump,NMOS,BUY,dev sold,0,0.1,,,13224,,,
+2026-10-07 19:37:03,7VBg12GTwMReKvhpDBgj2LaMCDyZj9CaS28RDffepump,NMOS,SELL,dev sold,0,0.05895,-41.1,stop loss -40%,8462,19.5,-36.0,23
+2026-10-07 19:37:50,6t5UNKGbnCP5DdHZriSeuVnBVhbNmkPYhU9Mhrexpump,HASTE,BUY,score below threshold,31.3,0.1,,,11477,,,
+2026-10-07 19:38:14,BHtRfbehWoLyWQLUYMAdeekZgRgZPd1Y9UEgWtR7pump,BAGSTAR,SELL,score below threshold,48.6,0.12505,25.1,shift ended,25328,49.0,-21.6,465
+2026-10-07 19:38:14,CMkrxYT1VZiGXuk8igBKdR4kY4eV8zSoM1RTUHGRpump,COURT,SELL,bundled: 21 launch wallets own 33%,0,0.11986,19.9,shift ended,29488,48.9,-16.5,115
+2026-10-07 19:38:14,6t5UNKGbnCP5DdHZriSeuVnBVhbNmkPYhU9Mhrexpump,HASTE,SELL,score below threshold,31.3,0.08832,-11.7,shift ended,10978,0.0,-4.3,24
