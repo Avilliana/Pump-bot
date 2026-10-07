@@ -861,3 +861,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 04:36:47,CupFGG6W2Td6iUYu5JY2DpaAwjzCybKxieJto8wzpump,RONIN,SELL,dev sold,0,0.04068,-59.3,stop loss -58%,6066,61.5,-55.7,138
 2026-10-07 04:37:43,3udbRmHEjDD3CGFwMR3Z3YGG2RUyzyApgxqmhzRcAm8A,cat,BUY,dev sold,0,0.1,,,9465,,,
 2026-10-07 04:38:10,3udbRmHEjDD3CGFwMR3Z3YGG2RUyzyApgxqmhzRcAm8A,cat,SELL,dev sold,0,0.09006,-9.9,shift ended,9234,0.0,-14.4,27
+2026-10-07 05:20:14,E1nrACpPrqemZ8fSfqVrdT8fKfPoQaohVMVGp4bDpump,ELONPAD,BUY,dev sold,0,0.1,,,10842,,,
+2026-10-07 05:20:42,E1nrACpPrqemZ8fSfqVrdT8fKfPoQaohVMVGp4bDpump,ELONPAD,SELL,dev sold,0,0.03618,-63.8,stop loss -63%,4280,51.8,-60.5,28
+2026-10-07 05:25:53,DtR4cdkoRSYxi2LWtcdiuXUdiduUhYz2iYDGdfCrpump,ASS,BUY,dev sold,0,0.1,,,11885,,,
+2026-10-07 05:26:34,DtR4cdkoRSYxi2LWtcdiuXUdiduUhYz2iYDGdfCrpump,ASS,SELL,dev sold,0,0.04205,-58.0,stop loss -57%,5442,54.3,-54.2,42
+2026-10-07 05:26:36,2mLnTw3KcTS2Wtk6i8poHse3mP437KMUZwE1ojdNpump,TCAT,BUY,dev sold,0,0.1,,,10299,,,
+2026-10-07 05:27:39,2mLnTw3KcTS2Wtk6i8poHse3mP437KMUZwE1ojdNpump,TCAT,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,7082,21.0,-31.2,63
+2026-10-07 05:28:48,9FbPoWyvr9P12yYj7Uc4U782Ei1HdTPojLD21zR7pump,cigrat,BUY,dev sold,0,0.1,,,10809,,,
+2026-10-07 05:30:04,9FbPoWyvr9P12yYj7Uc4U782Ei1HdTPojLD21zR7pump,cigrat,SELL,dev sold,0,0.17038,70.4,trailing stop,16614,121.4,-5.1,76
+2026-10-07 05:32:39,DLCYo84vo9JWgeKsZjKuKHiwiMKUhnn34sxcFmoBpump,SASU,BUY,dev sold,0,0.1,,,9673,,,
+2026-10-07 05:34:02,DLCYo84vo9JWgeKsZjKuKHiwiMKUhnn34sxcFmoBpump,SASU,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,6646,26.0,-31.3,82
+2026-10-07 05:37:06,FZF9Cvh7xu9rg93TbaMkQ1MbPPQMNQwhSGWW48saturn,NEO,BUY,dev sold,0,0.1,,,8787,,,
+2026-10-07 05:37:39,9d2MjJUE25p3HdHbtq4egy6oJvfpdUJ6YuAVYWtypump,DOTCAT,BUY,dev sold,0,0.1,,,8857,,,
+2026-10-07 05:37:48,FZF9Cvh7xu9rg93TbaMkQ1MbPPQMNQwhSGWW48saturn,NEO,SELL,dev sold,0,0.06186,-38.1,stop loss -37%,5902,0.0,-32.8,42
+2026-10-07 05:38:16,9d2MjJUE25p3HdHbtq4egy6oJvfpdUJ6YuAVYWtypump,DOTCAT,SELL,dev sold,0,0.11792,17.9,shift ended,11303,54.5,-1.2,38
