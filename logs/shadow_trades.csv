@@ -1365,3 +1365,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 22:38:30,9JfxQoo8STiJUDJqGd8R21JU4MBXRfC9dKj57Rospump,Plori,SELL,bundled: 22 launch wallets own 37%,0,0.25222,152.2,shift ended,47609,231.4,-6.2,396
 2026-10-07 22:38:30,4X8bSVKqMPxfPvc7HKERq795V7RN2hFs1Y6H4qxWpump,LOOT,SELL,score below threshold,51.0,0.08731,-12.7,shift ended,11083,39.1,-11.5,182
 2026-10-07 22:38:30,2EGFgjfFhHE1Y8pP8YbCgJnMooe3q75iZHud63jNpump,Signal,SELL,dev sold,0,0.1019,1.9,shift ended,12152,16.5,-17.7,102
+2026-10-07 23:19:06,FYYXn9zQzeQBv2txHqTQfMmjsN9ei9BRUYBy1o1Fpump,UP,BUY,dev sold,0,0.1,,,8434,,,
+2026-10-07 23:20:48,CCqxi68XSdxGRftnuwuhT7NUHZ94GNZo5bvXQASjcgYx,Jessi,BUY,dev sold,0,0.1,,,20599,,,
+2026-10-07 23:20:53,24N1s7AAwowaieKVLAVR9xPQUoPHzjPzUHPtbWUwpump,cap,BUY,bundled: 17.0 SOL bought in launch block,0,0.1,,,11525,,,
+2026-10-07 23:21:15,CCqxi68XSdxGRftnuwuhT7NUHZ94GNZo5bvXQASjcgYx,Jessi,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,14202,13.8,-31.1,27
+2026-10-07 23:21:17,24N1s7AAwowaieKVLAVR9xPQUoPHzjPzUHPtbWUwpump,cap,SELL,bundled: 17.0 SOL bought in launch block,0,0.03022,-69.8,dev sold,3810,31.6,-66.9,24
+2026-10-07 23:22:14,DZaQRdmPHNaqNsMVqRU8P4q5f2mErab4GipPghowFvaz,GIF,BUY,dev sold,0,0.1,,,11193,,,
+2026-10-07 23:22:26,7q3AVPhVMPyGTEAT78Vo8DxsVph965JixTAQJBgSpump,GIF,BUY,dev sold,0,0.1,,,19013,,,
+2026-10-07 23:22:52,7q3AVPhVMPyGTEAT78Vo8DxsVph965JixTAQJBgSpump,GIF,SELL,dev sold,0,0.17943,79.4,trailing stop,31876,142.0,-1.6,27
+2026-10-07 23:23:27,DZaQRdmPHNaqNsMVqRU8P4q5f2mErab4GipPghowFvaz,GIF,SELL,dev sold,0,0.06224,-37.8,stop loss -36%,7561,68.5,-32.5,73
+2026-10-07 23:25:02,2NhWHY9rtCKxjj8Nvostji4ZHqjXfrA71NtsAb4vsu5R,GIF,BUY,dev holds 9.8%,0,0.1,,,13813,,,
+2026-10-07 23:25:11,aFjota2AyX1rB3BjXJaAjQKo6A8vYshSaBxRNM5pump,RARPEPE,BUY,bundled: 71.6 SOL bought in launch block,0,0.1,,,19619,,,
+2026-10-07 23:25:15,2NhWHY9rtCKxjj8Nvostji4ZHqjXfrA71NtsAb4vsu5R,GIF,SELL,dev holds 9.8%,0,0.06224,-37.8,stop loss -36%,9327,0.0,-32.5,13
+2026-10-07 23:25:30,aFjota2AyX1rB3BjXJaAjQKo6A8vYshSaBxRNM5pump,RARPEPE,SELL,bundled: 71.6 SOL bought in launch block,0,0.04804,-52.0,stop loss -51%,10244,1.9,-47.8,19
+2026-10-07 23:25:49,F2rRA4JJDN7DXz6VEYTjbLt1KzHZJEApRZKUMC1tEFsC,slopnet,BUY,dev holds 15.2%,0,0.1,,,47674,,,
+2026-10-07 23:26:29,FYYXn9zQzeQBv2txHqTQfMmjsN9ei9BRUYBy1o1Fpump,UP,SELL,dev sold,0,0.1927,92.7,trailing stop,16657,185.3,-22.3,443
+2026-10-07 23:27:58,HRWRnssUUJSzzEFjCy8HBnVqgS5rQnYhJbCvEjwapump,TateCat,BUY,dev sold,0,0.1,,,12124,,,
+2026-10-07 23:28:38,F2rRA4JJDN7DXz6VEYTjbLt1KzHZJEApRZKUMC1tEFsC,slopnet,SELL,dev holds 15.2%,0,0.09252,-7.5,no trading (stale),47765,0.0,0.0,169
+2026-10-07 23:28:55,HRWRnssUUJSzzEFjCy8HBnVqgS5rQnYhJbCvEjwapump,TateCat,SELL,dev sold,0,0.0617,-38.3,stop loss -37%,8134,25.5,-33.0,57
+2026-10-07 23:29:05,EcAUXdds8mzfM4AfV4n3ffVAGPRNEpLmVTQKeVy8pump,Loaded,BUY,dev holds 16.4%,0,0.1,,,20550,,,
+2026-10-07 23:29:05,EcAUXdds8mzfM4AfV4n3ffVAGPRNEpLmVTQKeVy8pump,Loaded,SELL,dev holds 16.4%,0,0.04716,-52.8,dev sold,10534,0.0,-48.7,0
+2026-10-07 23:31:42,sUvV87YZ2hNjtFE5ifLwUeHY66VrLTngquzRTfmpump,PAHC,BUY,bundled: 22 launch wallets own 74%,0,0.1,,,47765,,,
+2026-10-07 23:34:30,sUvV87YZ2hNjtFE5ifLwUeHY66VrLTngquzRTfmpump,PAHC,SELL,bundled: 22 launch wallets own 74%,0,0.09252,-7.5,no trading (stale),47765,0.0,0.0,168
+2026-10-07 23:35:12,9jybhV8DjCxgPXjP5q9nSs31Sgi9JcsSdyuis9hrpump,CAPES,BUY,bundled: 15 launch wallets own 72%,0,0.1,,,47765,,,
+2026-10-07 23:35:46,HrXPdgTeEYF5Z1EQLCMs7iSMYuTLHgZBsLBCpszipump,LOADED,BUY,dev holds 20.1%,0,0.1,,,11610,,,
+2026-10-07 23:36:03,HrXPdgTeEYF5Z1EQLCMs7iSMYuTLHgZBsLBCpszipump,LOADED,SELL,dev holds 20.1%,0,0.04076,-59.2,dev sold,5155,18.7,-55.6,16
+2026-10-07 23:38:09,9jybhV8DjCxgPXjP5q9nSs31Sgi9JcsSdyuis9hrpump,CAPES,SELL,bundled: 15 launch wallets own 72%,0,0.09252,-7.5,no trading (stale),47765,0.0,0.0,176
