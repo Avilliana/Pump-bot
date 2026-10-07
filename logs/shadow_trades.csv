@@ -945,3 +945,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 09:37:27,8n2BE3HdAEmLgXsWyVt2q5wBygrGmuzH87Xh46kCpump,Si27,SELL,dev holds 10.0%,0,0.06338,-36.6,stop loss -35%,8196,45.4,-31.2,152
 2026-10-07 09:37:35,EibnVPG7rJeGh7e3hyVcTVYnfrskgSKVZeSjn9nVpump,Cayetano,BUY,dev sold,0,0.1,,,9369,,,
 2026-10-07 09:38:40,EibnVPG7rJeGh7e3hyVcTVYnfrskgSKVZeSjn9nVpump,Cayetano,SELL,dev sold,0,0.08686,-13.1,shift ended,8817,21.5,-10.0,65
+2026-10-07 10:20:18,51HkLLw3yJTxq8XwqYUrxHZguGkKF4QGerjAkap9oavw,Izzy,BUY,dev sold,0,0.1,,,9355,,,
+2026-10-07 10:21:25,51HkLLw3yJTxq8XwqYUrxHZguGkKF4QGerjAkap9oavw,Izzy,SELL,dev sold,0,0.06244,-37.6,stop loss -36%,6341,36.9,-32.2,67
+2026-10-07 10:28:53,7bCYG1nd69Yv76m4keyJ4XRfK4gSS56hFXZ9Z3T25Dpo,EIN,BUY,dev sold,0,0.1,,,14281,,,
+2026-10-07 10:29:11,7bCYG1nd69Yv76m4keyJ4XRfK4gSS56hFXZ9Z3T25Dpo,EIN,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,9795,1.8,-31.4,18
+2026-10-07 10:29:15,3T5JtVAfV33BBatB5gLfjktZmYD8dvzKaJ31as333McQ,SQUIMOTHY,BUY,dev sold,0,0.1,,,8877,,,
+2026-10-07 10:29:27,3T5JtVAfV33BBatB5gLfjktZmYD8dvzKaJ31as333McQ,SQUIMOTHY,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,6101,1.0,-31.3,12
+2026-10-07 10:30:03,C2U9X2uDFF7uDHAWEUbKKBfMgNDRBQG4eXmhjGaMyxtN,EIN,BUY,dev sold,0,0.1,,,14342,,,
+2026-10-07 10:30:06,C2U9X2uDFF7uDHAWEUbKKBfMgNDRBQG4eXmhjGaMyxtN,EIN,SELL,dev sold,0,0.06315,-36.9,stop loss -36%,9825,0.0,-31.5,3
+2026-10-07 10:31:26,7VGqc21KseYG9hg5pKbKwoBULZv93Jt6XW1pZHMsmAM9,Squimothy,BUY,dev sold,0,0.1,,,9911,,,
+2026-10-07 10:31:53,7VGqc21KseYG9hg5pKbKwoBULZv93Jt6XW1pZHMsmAM9,Squimothy,SELL,dev sold,0,0.06307,-36.9,stop loss -36%,6785,7.5,-31.5,27
+2026-10-07 10:33:23,7Y8MZKm5g1vhdv4HKk5bTKZcsWBTy3q59QfuyfPTpump,GAIA,BUY,bundled: 4 launch wallets own 18%,0,0.1,,,48393,,,
+2026-10-07 10:34:54,9TSguRYje8kCQtJ2q4FFur8Ka8b3KfGk4wuu3arepump,aircoin,BUY,dev sold,0,0.1,,,11147,,,
+2026-10-07 10:35:57,9TSguRYje8kCQtJ2q4FFur8Ka8b3KfGk4wuu3arepump,aircoin,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,7683,6.6,-31.1,62
+2026-10-07 10:36:22,7Y8MZKm5g1vhdv4HKk5bTKZcsWBTy3q59QfuyfPTpump,GAIA,SELL,bundled: 4 launch wallets own 18%,0,0.09252,-7.5,no trading (stale),48393,0.0,0.0,178
+2026-10-07 10:37:08,GhA82wRkv1NijnHWWBPLPHQxgdxtcLw322NkYTo5pump,B0VO0TN,BUY,bundled: 6 launch wallets own 39%,0,0.1,,,12310,,,
+2026-10-07 10:38:15,GhA82wRkv1NijnHWWBPLPHQxgdxtcLw322NkYTo5pump,B0VO0TN,SELL,bundled: 6 launch wallets own 39%,0,0.09217,-7.8,shift ended,12284,0.5,-17.3,67
