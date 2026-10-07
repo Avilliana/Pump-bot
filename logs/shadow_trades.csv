@@ -909,3 +909,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 06:39:31,A8TaVU44W5wSuY3fHQ2UJSRNhnyT7upyCuHQxyNFpump,.family,SELL,dev sold,0,0.20482,104.8,shift ended,20146,165.4,-27.3,424
 2026-10-07 06:39:31,DE4drVHGqjXrQyJtKJxeWxA6PyzbKJ23onYwFje3pump,KEY,SELL,dev holds 35.5%,0,0.29563,195.6,shift ended,42612,325.5,-0.0,59
 2026-10-07 06:39:31,8EYVAyG7HZwccmcdddASwcHAYxR6LzPqDunTYHzqCwaV,ONE,SELL,dev sold,0,0.15475,54.7,shift ended,13553,82.4,-27.9,49
+2026-10-07 07:23:34,2nv4Z7jQDSMStXHPy5mgKBh5rzmVucfChW1WFA1ipump,P2P,BUY,bundled: 51 launch wallets own 22%,0,0.1,,,22044,,,
+2026-10-07 07:26:17,52A2EURYRUhuu9fFafHzWA21p9i8Vza1rnKgtyn7pump,Spinny,BUY,dev sold,0,0.1,,,10197,,,
+2026-10-07 07:27:10,52A2EURYRUhuu9fFafHzWA21p9i8Vza1rnKgtyn7pump,Spinny,SELL,dev sold,0,0.06116,-38.8,stop loss -38%,6770,16.5,-33.6,53
+2026-10-07 07:27:52,52SPa8irM5m1QfGT852aNZVXtRr9UtsZTcD2GGRjpump,PP,BUY,bundled: 11 launch wallets own 51%,0,0.1,,,14662,,,
+2026-10-07 07:28:18,52SPa8irM5m1QfGT852aNZVXtRr9UtsZTcD2GGRjpump,PP,SELL,bundled: 11 launch wallets own 51%,0,0.06077,-39.2,stop loss -38%,9667,14.0,-34.1,25
+2026-10-07 07:32:01,CCd9ZN1unRVYrFaAKQdBQ53KFNFBjwYeUmTZWvZKpump,EVOLVE,BUY,dev sold,0,0.1,,,10214,,,
+2026-10-07 07:32:25,A9nsLiSCQUQ2k53UQD9Ceen6upP7Vs6UMpu23kL48BQ6,Solana,BUY,dev sold,0,0.1,,,11547,,,
+2026-10-07 07:33:17,A9nsLiSCQUQ2k53UQD9Ceen6upP7Vs6UMpu23kL48BQ6,Solana,SELL,dev sold,0,0.06224,-37.8,stop loss -36%,7799,41.0,-32.5,52
+2026-10-07 07:39:23,2nv4Z7jQDSMStXHPy5mgKBh5rzmVucfChW1WFA1ipump,P2P,SELL,bundled: 51 launch wallets own 22%,0,0.10706,7.1,shift ended,25486,42.7,-20.4,949
+2026-10-07 07:39:23,CCd9ZN1unRVYrFaAKQdBQ53KFNFBjwYeUmTZWvZKpump,EVOLVE,SELL,dev sold,0,0.11878,18.8,shift ended,13126,108.6,-7.1,443
