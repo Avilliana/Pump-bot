@@ -1297,3 +1297,35 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 20:38:38,HJnjwrGGjW9eyYp7W75k1mvo7eu9f32kwfyqAX3Ppump,Babem,SELL,dev sold,0,0.20222,102.2,shift ended,36379,131.8,-22.5,273
 2026-10-07 20:38:38,DtXocBZQf17FXn38a7mK9MRHXzeJHUUWPzgutD5Aemic,Infection,SELL,bundled: 17 launch wallets own 75%,0,0.09252,-7.5,shift ended,47748,0.0,0.0,147
 2026-10-07 20:38:38,DDNtcencWKq4eTPFkUqMgsj4oSM7Cf8mDxbseDbLpump,Babem,SELL,dev sold,0,0.19364,93.6,shift ended,47748,109.0,-16.2,80
+2026-10-07 21:20:00,8dvsVgYzGvVgGXH6pFUaun1xYqwLYjCLEvt6Wzj4pump,WorldCoin,BUY,dev sold,0,0.1,,,15460,,,
+2026-10-07 21:20:20,8dvsVgYzGvVgGXH6pFUaun1xYqwLYjCLEvt6Wzj4pump,WorldCoin,SELL,dev sold,0,0.06145,-38.6,stop loss -37%,10306,4.0,-33.3,20
+2026-10-07 21:21:28,B5nDkJVCVjhMTmzunWWgBfLXA7Ar1dp35aqkjPWMpump,FOMC,BUY,bundled: 18 launch wallets own 27%,0,0.1,,,8863,,,
+2026-10-07 21:21:33,3zkMjzvocNdc8GS7G61geXXZokp8g18Lp9b6LrKupump,CATCHA,BUY,dev sold,0,0.1,,,14949,,,
+2026-10-07 21:21:48,B5nDkJVCVjhMTmzunWWgBfLXA7Ar1dp35aqkjPWMpump,FOMC,SELL,bundled: 18 launch wallets own 27%,0,0.07005,-29.9,dev sold,6735,9.7,-24.0,20
+2026-10-07 21:22:49,3zkMjzvocNdc8GS7G61geXXZokp8g18Lp9b6LrKupump,CATCHA,SELL,dev sold,0,0.0576,-42.4,stop loss -41%,9347,28.1,-37.5,76
+2026-10-07 21:22:55,6T6ggCsfKaStnQ1D4VVVHgXXpFhroNmeH1TFaNEhpump,Holdstep,BUY,bundled: 17 launch wallets own 35%,0,0.1,,,12699,,,
+2026-10-07 21:23:10,6T6ggCsfKaStnQ1D4VVVHgXXpFhroNmeH1TFaNEhpump,Holdstep,SELL,bundled: 17 launch wallets own 35%,0,0.06013,-39.9,stop loss -39%,8288,46.9,-34.7,15
+2026-10-07 21:25:21,HhAMauBvGjeFYW3oXjQS5b8kEpVrf2staoGGeaDVpump,POH,BUY,bundled: 17 launch wallets own 37%,0,0.1,,,10486,,,
+2026-10-07 21:25:28,HhAMauBvGjeFYW3oXjQS5b8kEpVrf2staoGGeaDVpump,POH,SELL,bundled: 17 launch wallets own 37%,0,0.05879,-41.2,stop loss -40%,6694,4.6,-36.2,7
+2026-10-07 21:26:55,2ztfhNoacophaScGtEk1QzQfVk5a38Lj1E99yWAspump,ETHERIUM,BUY,dev sold,0,0.1,,,10381,,,
+2026-10-07 21:28:11,2ztfhNoacophaScGtEk1QzQfVk5a38Lj1E99yWAspump,ETHERIUM,SELL,dev sold,0,0.06177,-38.2,stop loss -37%,6961,54.6,-32.9,75
+2026-10-07 21:28:58,ENqnTTnWVVJA71G6GxxEuVCi8usvUyxFM82nM5HBpump,NEXUM,BUY,past buy window (late mover),61.8,0.1,,,47670,,,
+2026-10-07 21:30:51,Gjyi5twpt1MAcwAE7gvh4hmdb1wdzpuvBQamZQYHpump,VETO,BUY,bundled: 31 launch wallets own 43%,0,0.1,,,23415,,,
+2026-10-07 21:30:57,ENqnTTnWVVJA71G6GxxEuVCi8usvUyxFM82nM5HBpump,NEXUM,SELL,past buy window (late mover),61.8,0.09252,-7.5,no trading (stale),47670,0.0,0.0,118
+2026-10-07 21:31:32,Gjyi5twpt1MAcwAE7gvh4hmdb1wdzpuvBQamZQYHpump,VETO,SELL,bundled: 31 launch wallets own 43%,0,0.01258,-87.4,stop loss -87%,3292,24.0,-85.9,41
+2026-10-07 21:31:37,9Nan6qFtbq7tmXAVU6gG48xLoR5CCNbNW39dUGL3pump,Sponsorpad,BUY,bundled: 22 launch wallets own 33%,0,0.1,,,11566,,,
+2026-10-07 21:31:48,H5uHas1iU2JCpbbnAgWPrbsSTmgp2QGivbSiAdJspump,HANOK,BUY,past buy window (late mover),59.5,0.1,,,8349,,,
+2026-10-07 21:31:51,9GoCKMmdKM5aTnxep3HUTb6pTLUwNu5RG7kxCZr769Ru,CLOVER,BUY,dev sold,0,0.1,,,10693,,,
+2026-10-07 21:33:06,GhY5U2srTkBMQAc4bwKrBxkksVXPP5BGmmV1YX99pump,Lens,BUY,dev sold,0,0.1,,,15623,,,
+2026-10-07 21:33:22,9GoCKMmdKM5aTnxep3HUTb6pTLUwNu5RG7kxCZr769Ru,CLOVER,SELL,dev sold,0,0.06317,-36.8,stop loss -36%,7330,111.9,-31.4,91
+2026-10-07 21:33:30,9Nan6qFtbq7tmXAVU6gG48xLoR5CCNbNW39dUGL3pump,Sponsorpad,SELL,bundled: 22 launch wallets own 33%,0,0.17215,72.1,trailing stop,18371,131.5,-8.2,113
+2026-10-07 21:34:01,3Jeqe46j1Y5nuGfUswCHUhEMVE2474bnJbwvnCrmSaYv,TRUMPCAT,BUY,dev sold,0,0.1,,,20261,,,
+2026-10-07 21:34:24,4sXtSbSUEtnuxkVfbDSYU8BAmPhD75Qdt6AqgebEpump,Microscope,BUY,dev sold,0,0.1,,,9576,,,
+2026-10-07 21:34:34,2J8AGnaeNefbuHy9vFmZ9q2U7dCwJCKEYYZwcs7spump,BeeCat,BUY,dev sold,0,0.1,,,14771,,,
+2026-10-07 21:34:46,EN9e65ZFjZEUN8FY4pU7HeuQbQ46Bi428o1u3JLDpump,KIVO,BUY,bundled: 25.2 SOL bought in launch block,0,0.1,,,21339,,,
+2026-10-07 21:35:22,H5uHas1iU2JCpbbnAgWPrbsSTmgp2QGivbSiAdJspump,HANOK,SELL,past buy window (late mover),59.5,0.09937,-0.6,dev sold,8986,37.8,-0.2,214
+2026-10-07 21:36:22,EN9e65ZFjZEUN8FY4pU7HeuQbQ46Bi428o1u3JLDpump,KIVO,SELL,bundled: 25.2 SOL bought in launch block,0,0.12814,28.1,dev sold,29540,81.8,0.0,96
+2026-10-07 21:37:56,4sXtSbSUEtnuxkVfbDSYU8BAmPhD75Qdt6AqgebEpump,Microscope,SELL,dev sold,0,0.11465,14.6,trailing stop,3414,161.5,-64.3,213
+2026-10-07 21:38:11,GhY5U2srTkBMQAc4bwKrBxkksVXPP5BGmmV1YX99pump,Lens,SELL,dev sold,0,0.07547,-24.5,shift ended,12774,73.5,-21.2,305
+2026-10-07 21:38:11,3Jeqe46j1Y5nuGfUswCHUhEMVE2474bnJbwvnCrmSaYv,TRUMPCAT,SELL,dev sold,0,0.09949,-0.5,shift ended,21799,18.8,-2.0,250
+2026-10-07 21:38:11,2J8AGnaeNefbuHy9vFmZ9q2U7dCwJCKEYYZwcs7spump,BeeCat,SELL,dev sold,0,0.24845,148.4,shift ended,47670,222.7,-22.1,217
