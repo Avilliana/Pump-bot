@@ -839,3 +839,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 03:38:05,E6dzsrHpWKj8pjgbyya8iDaiGhy7co1djFFvqXDxpump,KARL,SELL,dev sold,0,0.0624,-37.6,stop loss -36%,7163,59.4,-32.3,27
 2026-10-07 03:38:41,5RKBVCtLxtAA2aQxRQq5iFdPiV6nNT1UZjJ5HjWJpump,Colony,SELL,dev holds 9.2%,0,0.13543,35.4,shift ended,16769,51.5,-10.2,73
 2026-10-07 03:38:41,89rduccpRnubVbShhZKAHHgQdPZe9neawbGD6pFSpump,GOAT,SELL,dev sold,0,0.13137,31.4,shift ended,22640,75.5,-2.3,48
+2026-10-07 04:18:55,H13DfGtT5yJX1SXrLr1AkRd9eEzWvLpsLTa1ZDUApump,GEKKO,BUY,dev sold,0,0.1,,,10003,,,
+2026-10-07 04:20:12,CoK9m1C7MyiaRUcSs9HTxZswzWFnMdvBT285kraG1U1t,CHUNGUS,BUY,dev sold,0,0.1,,,8242,,,
+2026-10-07 04:21:58,H13DfGtT5yJX1SXrLr1AkRd9eEzWvLpsLTa1ZDUApump,GEKKO,SELL,dev sold,0,0.06222,-37.8,stop loss -36%,6756,36.7,-32.5,183
+2026-10-07 04:22:16,2U6ogVjTw7J4TcdBs36R6xWssrM7S838NXNhPyx7pump,Ningen,BUY,dev holds 35.5%,0,0.1,,,11095,,,
+2026-10-07 04:22:29,2U6ogVjTw7J4TcdBs36R6xWssrM7S838NXNhPyx7pump,Ningen,SELL,dev holds 35.5%,0,0.03839,-61.6,dev sold,4644,13.2,-58.1,13
+2026-10-07 04:22:33,CoK9m1C7MyiaRUcSs9HTxZswzWFnMdvBT285kraG1U1t,CHUNGUS,SELL,dev sold,0,0.06216,-37.8,stop loss -37%,5564,72.0,-32.5,141
+2026-10-07 04:23:56,7wfxMGzEV3PYW78FGUP5MBufsozHKmrb2AEZj9fFpump,Ningen,BUY,dev holds 35.5%,0,0.1,,,9718,,,
+2026-10-07 04:24:24,7wfxMGzEV3PYW78FGUP5MBufsozHKmrb2AEZj9fFpump,Ningen,SELL,dev holds 35.5%,0,0.04259,-57.4,dev sold,4508,23.3,-53.6,29
+2026-10-07 04:25:17,27KY35geCr4Uei762yHigxAb1SHnsxs8zVbsw7WvbkEj,Mardi,BUY,dev sold,0,0.1,,,9673,,,
+2026-10-07 04:25:26,BumLvTYUfMbFvNVQ3uJ1pAgbNLjLbGVnNtWT9zLvpump,Ningen,BUY,dev holds 35.5%,0,0.1,,,9551,,,
+2026-10-07 04:26:08,BumLvTYUfMbFvNVQ3uJ1pAgbNLjLbGVnNtWT9zLvpump,Ningen,SELL,dev holds 35.5%,0,0.19104,91.0,dev sold,18730,131.0,-0.2,42
+2026-10-07 04:26:37,CkEMozYqp3BFWMg7SLKXdyzYzDG58mf7SbZYHBBizc5m,S&P2,BUY,dev sold,0,0.1,,,8314,,,
+2026-10-07 04:27:14,27KY35geCr4Uei762yHigxAb1SHnsxs8zVbsw7WvbkEj,Mardi,SELL,dev sold,0,0.05874,-41.3,stop loss -40%,6171,0.9,-36.2,117
+2026-10-07 04:28:34,CkEMozYqp3BFWMg7SLKXdyzYzDG58mf7SbZYHBBizc5m,S&P2,SELL,dev sold,0,0.06284,-37.2,stop loss -36%,5667,62.3,-31.8,117
+2026-10-07 04:32:02,AWfksVvzN2Yi9WZv88praSbHHY2qc6BJLiLy3jEcDaGJ,RSE2,BUY,dev sold,0,0.1,,,8004,,,
+2026-10-07 04:32:39,5uWvBpuTZ4NHPkACfu2o3fFZxWL9XHxsjFJGnXnFpump,EXISTS,BUY,past buy window (late mover),55.4,0.1,,,19001,,,
+2026-10-07 04:33:38,AWfksVvzN2Yi9WZv88praSbHHY2qc6BJLiLy3jEcDaGJ,RSE2,SELL,dev sold,0,0.06136,-38.6,stop loss -37%,5334,44.1,-33.4,95
+2026-10-07 04:34:30,CupFGG6W2Td6iUYu5JY2DpaAwjzCybKxieJto8wzpump,RONIN,BUY,dev sold,0,0.1,,,13689,,,
+2026-10-07 04:36:40,5uWvBpuTZ4NHPkACfu2o3fFZxWL9XHxsjFJGnXnFpump,EXISTS,SELL,past buy window (late mover),55.4,0.06249,-37.5,stop loss -36%,12877,20.0,-32.2,241
+2026-10-07 04:36:47,CupFGG6W2Td6iUYu5JY2DpaAwjzCybKxieJto8wzpump,RONIN,SELL,dev sold,0,0.04068,-59.3,stop loss -58%,6066,61.5,-55.7,138
+2026-10-07 04:37:43,3udbRmHEjDD3CGFwMR3Z3YGG2RUyzyApgxqmhzRcAm8A,cat,BUY,dev sold,0,0.1,,,9465,,,
+2026-10-07 04:38:10,3udbRmHEjDD3CGFwMR3Z3YGG2RUyzyApgxqmhzRcAm8A,cat,SELL,dev sold,0,0.09006,-9.9,shift ended,9234,0.0,-14.4,27
