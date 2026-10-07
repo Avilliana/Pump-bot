@@ -1329,3 +1329,39 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 21:38:11,GhY5U2srTkBMQAc4bwKrBxkksVXPP5BGmmV1YX99pump,Lens,SELL,dev sold,0,0.07547,-24.5,shift ended,12774,73.5,-21.2,305
 2026-10-07 21:38:11,3Jeqe46j1Y5nuGfUswCHUhEMVE2474bnJbwvnCrmSaYv,TRUMPCAT,SELL,dev sold,0,0.09949,-0.5,shift ended,21799,18.8,-2.0,250
 2026-10-07 21:38:11,2J8AGnaeNefbuHy9vFmZ9q2U7dCwJCKEYYZwcs7spump,BeeCat,SELL,dev sold,0,0.24845,148.4,shift ended,47670,222.7,-22.1,217
+2026-10-07 22:19:23,74D4erPF1BvDg3NSy4DooRKrQD78sbhU1EHR2n4wpump,Kivo,BUY,bundled: 18 launch wallets own 14%,0,0.1,,,13466,,,
+2026-10-07 22:19:47,484JHwYHqUCCMvYE2AG5v7aGbu5AdSHMZ16hWarJpump,Tribute,BUY,dev sold,0,0.1,,,15849,,,
+2026-10-07 22:20:21,Az3qADY1Xp3YScvy4JTh4db9GHsQ2G5sZh7YCL4RZZDG,ASTRABLUE,BUY,dev sold,0,0.1,,,10424,,,
+2026-10-07 22:20:30,484JHwYHqUCCMvYE2AG5v7aGbu5AdSHMZ16hWarJpump,Tribute,SELL,dev sold,0,0.06275,-37.3,stop loss -36%,10787,2.0,-31.9,42
+2026-10-07 22:20:45,Az3qADY1Xp3YScvy4JTh4db9GHsQ2G5sZh7YCL4RZZDG,ASTRABLUE,SELL,dev sold,0,0.05915,-40.8,stop loss -40%,6695,12.5,-35.8,23
+2026-10-07 22:21:19,4xfoLuLcAueZw2bvL4gX3qx96c5Y5nQmbgMMWm4vzLky,Cinnamon,BUY,dev sold,0,0.1,,,14506,,,
+2026-10-07 22:22:04,4xfoLuLcAueZw2bvL4gX3qx96c5Y5nQmbgMMWm4vzLky,Cinnamon,SELL,dev sold,0,0.06296,-37.0,stop loss -36%,9907,56.5,-31.7,45
+2026-10-07 22:22:08,EYGJnvJQs7AQX44S2bM62SpVvq4am5eruTqSzVXgpump,PCARD,BUY,bundled: 20 launch wallets own 38%,0,0.1,,,17532,,,
+2026-10-07 22:22:37,9QcSjN3zRQdGHM8qgj9hQ7pcfxRwRHsfLHpmCiuppump,RIPIT,BUY,dev sold,0,0.1,,,11412,,,
+2026-10-07 22:23:08,9QcSjN3zRQdGHM8qgj9hQ7pcfxRwRHsfLHpmCiuppump,RIPIT,SELL,dev sold,0,0.06249,-37.5,stop loss -36%,7739,0.1,-32.2,30
+2026-10-07 22:23:39,AxCGTNAHnk7zsFNts7aAr3T2RTS73hysMoXvFgsWpump,AnyPS5,BUY,dev sold,0,0.1,,,8700,,,
+2026-10-07 22:23:40,CnCxH6vAVtiv8jLzjcQiGMaznnMM2bjDHWzNfadypump,Sock,BUY,dev sold,0,0.1,,,11032,,,
+2026-10-07 22:24:51,CnCxH6vAVtiv8jLzjcQiGMaznnMM2bjDHWzNfadypump,Sock,SELL,dev sold,0,0.06308,-36.9,stop loss -36%,7552,3.2,-31.6,71
+2026-10-07 22:25:22,5GYJARzETJZbH28WHXs8wewQ8rhj1SzSMHam75jWoBpe,ETF,BUY,dev sold,0,0.1,,,8919,,,
+2026-10-07 22:25:45,74D4erPF1BvDg3NSy4DooRKrQD78sbhU1EHR2n4wpump,Kivo,SELL,bundled: 18 launch wallets own 14%,0,0.26304,163.0,no trading (stale),47547,253.1,-0.2,382
+2026-10-07 22:25:50,EYGJnvJQs7AQX44S2bM62SpVvq4am5eruTqSzVXgpump,PCARD,SELL,bundled: 20 launch wallets own 38%,0,0.1189,18.9,dev sold,22532,100.2,-0.3,221
+2026-10-07 22:26:39,4aQRbYPWSr8b7cYMMFgyUmhJrkAbePR7QC2aW3btpump,COLONY,BUY,dev sold,0,0.1,,,10223,,,
+2026-10-07 22:26:42,4aQRbYPWSr8b7cYMMFgyUmhJrkAbePR7QC2aW3btpump,COLONY,SELL,dev sold,0,0.03225,-67.7,stop loss -67%,3604,2.9,-64.7,3
+2026-10-07 22:26:47,5GYJARzETJZbH28WHXs8wewQ8rhj1SzSMHam75jWoBpe,ETF,SELL,dev sold,0,0.06008,-39.9,stop loss -39%,5819,28.8,-34.8,85
+2026-10-07 22:27:05,C4ANDEn2cTP8weNjodbVuDkDhXQNUhFuDekU7ryPpump,FLOAT,BUY,bundled: 23 launch wallets own 42%,0,0.1,,,12884,,,
+2026-10-07 22:27:37,C4ANDEn2cTP8weNjodbVuDkDhXQNUhFuDekU7ryPpump,FLOAT,SELL,bundled: 23 launch wallets own 42%,0,0.0609,-39.1,stop loss -38%,8515,10.9,-33.9,31
+2026-10-07 22:30:05,AxCGTNAHnk7zsFNts7aAr3T2RTS73hysMoXvFgsWpump,AnyPS5,SELL,dev sold,0,0.22746,127.5,trailing stop,23295,300.6,-21.4,386
+2026-10-07 22:30:56,6WLXhjnjWEqRktQivvWyAqLH7VjUunam6sKuPnCapump,HEN,BUY,dev holds 8.2%,0,0.1,,,8211,,,
+2026-10-07 22:31:30,6WLXhjnjWEqRktQivvWyAqLH7VjUunam6sKuPnCapump,HEN,SELL,dev holds 8.2%,0,0.05299,-47.0,dev sold,4731,17.2,-42.4,33
+2026-10-07 22:31:54,9JfxQoo8STiJUDJqGd8R21JU4MBXRfC9dKj57Rospump,Plori,BUY,bundled: 22 launch wallets own 37%,0,0.1,,,14367,,,
+2026-10-07 22:33:30,9LhsAaiiK5tnKrUFJ76ygNWaCA5YNYmzExwQf2C7pump,Bagbots,BUY,dev sold,0,0.1,,,40864,,,
+2026-10-07 22:33:41,8UTnqJXfKrVbxWyEtP9mFoysJohrta7DLvxARm8zpump,TAURON,BUY,top10 hold 78%,0,0.1,,,47609,,,
+2026-10-07 22:35:28,4X8bSVKqMPxfPvc7HKERq795V7RN2hFs1Y6H4qxWpump,LOOT,BUY,score below threshold,51.0,0.1,,,11720,,,
+2026-10-07 22:35:32,Ewt27VpbeuPamjyrNrfeerY5CLW6vanP4f6vHvx1Seek,SEEK,BUY,score below threshold,50.0,0.1,,,12205,,,
+2026-10-07 22:36:26,Ewt27VpbeuPamjyrNrfeerY5CLW6vanP4f6vHvx1Seek,SEEK,SELL,score below threshold,50.0,0.06088,-39.1,stop loss -38%,8064,6.0,-33.9,54
+2026-10-07 22:36:30,8UTnqJXfKrVbxWyEtP9mFoysJohrta7DLvxARm8zpump,TAURON,SELL,top10 hold 78%,0,0.09252,-7.5,no trading (stale),47609,0.0,0.0,169
+2026-10-07 22:36:31,9LhsAaiiK5tnKrUFJ76ygNWaCA5YNYmzExwQf2C7pump,Bagbots,SELL,dev sold,0,0.10785,7.9,no trading (stale),47609,16.5,0.1,181
+2026-10-07 22:36:48,2EGFgjfFhHE1Y8pP8YbCgJnMooe3q75iZHud63jNpump,Signal,BUY,dev sold,0,0.1,,,11018,,,
+2026-10-07 22:38:30,9JfxQoo8STiJUDJqGd8R21JU4MBXRfC9dKj57Rospump,Plori,SELL,bundled: 22 launch wallets own 37%,0,0.25222,152.2,shift ended,47609,231.4,-6.2,396
+2026-10-07 22:38:30,4X8bSVKqMPxfPvc7HKERq795V7RN2hFs1Y6H4qxWpump,LOOT,SELL,score below threshold,51.0,0.08731,-12.7,shift ended,11083,39.1,-11.5,182
+2026-10-07 22:38:30,2EGFgjfFhHE1Y8pP8YbCgJnMooe3q75iZHud63jNpump,Signal,SELL,dev sold,0,0.1019,1.9,shift ended,12152,16.5,-17.7,102
