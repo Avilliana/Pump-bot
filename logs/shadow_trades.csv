@@ -1123,3 +1123,45 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 14:44:23,GT1V7Cb2FQzvFh1PmortQJvjQXv2zN8ZpQRogQrkpump,dns,SELL,dev sold,0,0.13769,37.7,shift ended,12860,49.9,-6.6,54
 2026-10-07 14:44:23,7yDXEgszy4wvLLZqSHDLq8VFB7PvRGvcMSsrmmfqpump,SPRL,SELL,dev sold,0,0.0885,-11.5,shift ended,10771,18.5,-11.1,32
 2026-10-07 14:44:23,Hwb1vPvoqC9Jvd5sSDkQiLku8j5QnvyZuqvhMmPcpump,MESISPAD,SELL,bundled: 23 launch wallets own 40%,0,0.15788,57.9,shift ended,21272,70.6,0.4,11
+2026-10-07 15:34:54,wnX2TSYe8J4AHuZbmQpf2gRRQWAgmz7i4xfaiyGVqnM,Wild,BUY,dev sold,0,0.1,,,22887,,,
+2026-10-07 15:35:01,wnX2TSYe8J4AHuZbmQpf2gRRQWAgmz7i4xfaiyGVqnM,Wild,SELL,dev sold,0,0.06027,-39.7,stop loss -38%,14960,0.0,-34.6,6
+2026-10-07 15:37:03,AiLDuksjNLSmcx8pfDq73ViS4bVnaU5CQqNVvKUFDjk3,Wild,BUY,dev sold,0,0.1,,,11806,,,
+2026-10-07 15:37:07,AiLDuksjNLSmcx8pfDq73ViS4bVnaU5CQqNVvKUFDjk3,Wild,SELL,dev sold,0,0.06358,-36.4,stop loss -35%,8144,0.0,-31.0,3
+2026-10-07 15:37:55,FZqnbWac3jod8mdCL4JxdJr8VcYnW3CqoytAGFMvFx6t,Psychosis,BUY,dev sold,0,0.1,,,8798,,,
+2026-10-07 15:38:42,Es63X2LCMtWZf6AX4mxFndQTQ2zfvXsaBN8LCdBYnWh6,Oso,BUY,dev sold,0,0.1,,,11352,,,
+2026-10-07 15:39:49,6b7sS9uVJcbGJ2xWx6wqpKqHcsXqhWhykAnVCoW2PYHy,slingoor,BUY,dev sold,0,0.1,,,11776,,,
+2026-10-07 15:40:09,Es63X2LCMtWZf6AX4mxFndQTQ2zfvXsaBN8LCdBYnWh6,Oso,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,7845,59.8,-30.9,87
+2026-10-07 15:40:19,6b7sS9uVJcbGJ2xWx6wqpKqHcsXqhWhykAnVCoW2PYHy,slingoor,SELL,dev sold,0,0.06192,-38.1,stop loss -37%,7913,46.4,-32.8,30
+2026-10-07 15:41:34,4GLrkSYby3c9mQvHPKKwV1vLELYjx9yKVSq1gkzRpump,HASH,BUY,score below threshold,40.0,0.1,,,12318,,,
+2026-10-07 15:42:03,7xbdWVzQhkD91zpK52ZWTarSCjZEv4cJW3AQB25fpump,埃隆,BUY,dev sold,0,0.1,,,12102,,,
+2026-10-07 15:42:37,GJS9vsx2QLnpP245u93J15tzTM9osNzo3kfLTLippump,CHARLIE,BUY,dev sold,0,0.1,,,14184,,,
+2026-10-07 15:42:45,7xbdWVzQhkD91zpK52ZWTarSCjZEv4cJW3AQB25fpump,埃隆,SELL,dev sold,0,0.06136,-38.6,stop loss -37%,8059,10.6,-33.4,42
+2026-10-07 15:42:57,GJS9vsx2QLnpP245u93J15tzTM9osNzo3kfLTLippump,CHARLIE,SELL,dev sold,0,0.05683,-43.2,stop loss -42%,8751,48.0,-38.3,20
+2026-10-07 15:43:35,8YRg8bjiePg43dbYK5Q2KfKfyLKxeN1r2W8jFGFGpump,DARKSWAP,BUY,past buy window (late mover),58.8,0.1,,,16128,,,
+2026-10-07 15:43:36,EmrHiTRxfaEWPPYx8a21VZ4rWca62c1PawC6iGAdpump,NIGGAHOUSE,BUY,dev sold,0,0.1,,,14987,,,
+2026-10-07 15:43:38,pnBGg837XKTX6eJx52fGbfnysEABQ1tors2w2yUpump,UNPAY,BUY,bundled: 24 launch wallets own 36%,0,0.1,,,23356,,,
+2026-10-07 15:44:26,pnBGg837XKTX6eJx52fGbfnysEABQ1tors2w2yUpump,UNPAY,SELL,bundled: 24 launch wallets own 36%,0,0.06207,-37.9,stop loss -37%,15748,91.1,-32.7,48
+2026-10-07 15:44:26,8YRg8bjiePg43dbYK5Q2KfKfyLKxeN1r2W8jFGFGpump,DARKSWAP,SELL,past buy window (late mover),58.8,0.06195,-38.0,stop loss -37%,10859,17.0,-32.8,51
+2026-10-07 15:44:42,EmrHiTRxfaEWPPYx8a21VZ4rWca62c1PawC6iGAdpump,NIGGAHOUSE,SELL,dev sold,0,0.06341,-36.6,stop loss -35%,10327,39.8,-31.2,66
+2026-10-07 15:45:08,34SfeLsWsrdEfbzQ5tKPndLKDyfgXNeahcSFnGw7pump,WUMPUS,BUY,dev sold,0,0.1,,,12966,,,
+2026-10-07 15:45:58,3HRcGD8pnGpfhXUX7uiKKfHRzqsfUg7ahvkRZk9EwWgg,@everyone,BUY,dev sold,0,0.1,,,8172,,,
+2026-10-07 15:46:01,3HRcGD8pnGpfhXUX7uiKKfHRzqsfUg7ahvkRZk9EwWgg,@everyone,SELL,dev sold,0,0.06288,-37.1,stop loss -36%,5579,0.0,-31.7,3
+2026-10-07 15:46:02,DkFSmHEEgLVQvkgJfyfefMeUpuwh4rujwyvCsUaqpump,Respawn,BUY,top10 hold 45%,0,0.1,,,13942,,,
+2026-10-07 15:46:07,GdgwipMT2r45vMGVFY4gNToz23J2DkcFtNaeZvCopump,DG,BUY,dev sold,0,0.1,,,17167,,,
+2026-10-07 15:46:20,Heex9BuCMR48Pssu3zSmWVZXaAsh28vFfY6NQZQqpump,FAND,BUY,dev sold,0,0.1,,,22898,,,
+2026-10-07 15:46:54,34SfeLsWsrdEfbzQ5tKPndLKDyfgXNeahcSFnGw7pump,WUMPUS,SELL,dev sold,0,0.06339,-36.6,stop loss -35%,8918,74.3,-31.2,106
+2026-10-07 15:47:19,Heex9BuCMR48Pssu3zSmWVZXaAsh28vFfY6NQZQqpump,FAND,SELL,dev sold,0,0.06353,-36.5,stop loss -35%,15769,18.1,-31.1,59
+2026-10-07 15:47:48,eg9tcHsj88xVD4riWcySV3QaydoMD3XtUoaCYWRpump,CREW,BUY,top10 hold 42%,0,0.1,,,18769,,,
+2026-10-07 15:48:39,HN46HrqcKrL2SmKBRWQ3DKMv5kttSDt6D8udn3oNpump,PLACED,BUY,top10 hold 41%,0,0.1,,,8502,,,
+2026-10-07 15:49:33,FZqnbWac3jod8mdCL4JxdJr8VcYnW3CqoytAGFMvFx6t,Psychosis,SELL,dev sold,0,0.12062,20.6,no trading (stale),11505,48.2,-17.9,697
+2026-10-07 15:49:33,4GLrkSYby3c9mQvHPKKwV1vLELYjx9yKVSq1gkzRpump,HASH,SELL,score below threshold,40.0,0.20577,105.8,trailing stop,25729,202.8,-30.7,479
+2026-10-07 15:50:27,GdgwipMT2r45vMGVFY4gNToz23J2DkcFtNaeZvCopump,DG,SELL,dev sold,0,0.1598,59.8,trailing stop,22669,118.1,-6.1,260
+2026-10-07 15:50:31,eg9tcHsj88xVD4riWcySV3QaydoMD3XtUoaCYWRpump,CREW,SELL,top10 hold 42%,0,0.05653,-43.5,stop loss -42%,11515,0.0,-38.6,163
+2026-10-07 15:51:46,6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9,SCAR,BUY,dev sold,0,0.1,,,10848,,,
+2026-10-07 15:51:48,6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9,SCAR,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,7433,0.2,-31.5,2
+2026-10-07 15:52:43,3tkXSDPpwQWC7H7Avdxtc3w7LowL3QMhjpwSpbKbpump,VETO,BUY,bundled: 18 launch wallets own 38%,0,0.1,,,12971,,,
+2026-10-07 15:52:46,DBJBzwPwtFT1zZB8MBwVF72JHwYivnAN17jaE7xem1UG,VC,BUY,dev sold,0,0.1,,,13429,,,
+2026-10-07 15:53:49,DkFSmHEEgLVQvkgJfyfefMeUpuwh4rujwyvCsUaqpump,Respawn,SELL,top10 hold 45%,0,0.10454,4.5,shift ended,15768,19.5,-14.1,467
+2026-10-07 15:53:49,HN46HrqcKrL2SmKBRWQ3DKMv5kttSDt6D8udn3oNpump,PLACED,SELL,top10 hold 41%,0,0.15281,52.8,shift ended,14053,65.3,-9.3,310
+2026-10-07 15:53:49,3tkXSDPpwQWC7H7Avdxtc3w7LowL3QMhjpwSpbKbpump,VETO,SELL,bundled: 18 launch wallets own 38%,0,0.11269,12.7,shift ended,15810,22.6,-9.5,66
+2026-10-07 15:53:49,DBJBzwPwtFT1zZB8MBwVF72JHwYivnAN17jaE7xem1UG,VC,SELL,dev sold,0,0.10411,4.1,shift ended,15126,37.6,-22.7,63
