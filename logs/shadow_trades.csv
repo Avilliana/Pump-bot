@@ -797,3 +797,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 01:41:23,EGyvrFsXMfvHAra9YZfPggvSqhzo3q7YSVEhNTuwX3bD,SLOPCORE,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,8734,6.5,-31.0,34
 2026-10-07 01:42:25,DYy1MZFsxx9a1BFhfBLc2b12g2jtubrqdMBVBZzwpump,LOOPD,SELL,score below threshold,41.8,0.17989,79.9,shift ended,18490,105.2,-0.8,269
 2026-10-07 01:42:25,519tsPky9ZrfvbiF5uEhBpgZZt2uxDq1WaWeA7fcpump,TATE,SELL,dev sold,0,0.15514,55.1,shift ended,13586,76.9,-19.6,130
+2026-10-07 02:23:29,C3YSB7LBbewCQmHhW7uchcbrZ1dzEM4XifBr1ufrpump,BAGPAY,BUY,bundled: 58 launch wallets own 24%,0,0.1,,,9864,,,
+2026-10-07 02:24:06,C3YSB7LBbewCQmHhW7uchcbrZ1dzEM4XifBr1ufrpump,BAGPAY,SELL,bundled: 58 launch wallets own 24%,0,0.06342,-36.6,stop loss -35%,6790,0.0,-31.2,38
+2026-10-07 02:24:23,AstrRLwJxgcePvyDTijRrNmBSjUfSLy3aL9w2pXApump,WILMA,BUY,dev sold,0,0.1,,,9586,,,
+2026-10-07 02:24:43,39zrma9L6wSiNRyLycjb2DjPkv7DANDi4Gtb3Cwfpump,Neila,BUY,dev sold,0,0.1,,,8671,,,
+2026-10-07 02:25:30,AstrRLwJxgcePvyDTijRrNmBSjUfSLy3aL9w2pXApump,WILMA,SELL,dev sold,0,0.06252,-37.5,stop loss -36%,6506,44.7,-32.1,67
+2026-10-07 02:25:42,4HtBUx2tvSz7M86LDgvDfd3mVDw1sP7uY4W1sSVJji7G,SUPDOG,BUY,dev sold,0,0.1,,,8823,,,
+2026-10-07 02:26:17,4HtBUx2tvSz7M86LDgvDfd3mVDw1sP7uY4W1sSVJji7G,SUPDOG,SELL,dev sold,0,0.06186,-38.1,stop loss -37%,5926,51.0,-32.8,35
+2026-10-07 02:27:55,39zrma9L6wSiNRyLycjb2DjPkv7DANDi4Gtb3Cwfpump,Neila,SELL,dev sold,0,0.18369,83.7,trailing stop,15840,167.5,-5.3,192
+2026-10-07 02:33:24,CbFoB3bgmZQGKxEqzZBmCVyuJRZKPKLPLt44dAPT6Lep,Raindrop,BUY,dev sold,0,0.1,,,12998,,,
+2026-10-07 02:33:29,G35S8S38nx7926zoDrQmUXifxHfDorVzKmZhEz9hpump,Mabel,BUY,dev sold,0,0.1,,,8946,,,
+2026-10-07 02:33:33,G35S8S38nx7926zoDrQmUXifxHfDorVzKmZhEz9hpump,Mabel,SELL,dev sold,0,0.03583,-64.2,stop loss -63%,3499,2.0,-60.9,4
+2026-10-07 02:33:59,CbFoB3bgmZQGKxEqzZBmCVyuJRZKPKLPLt44dAPT6Lep,Raindrop,SELL,dev sold,0,0.18973,89.7,trailing stop,25229,177.5,3.3,35
+2026-10-07 02:34:32,CFquwGbCitvZHQLEpfUPfRbWVPyKTE5qNXy7zJEwpump,FODES,BUY,dev sold,0,0.1,,,9213,,,
+2026-10-07 02:35:11,BDgkwGyoNF62xfSypEerHtJnajo7ZJZKAzesRq9MV4h,Raindrop,BUY,dev sold,0,0.1,,,13334,,,
+2026-10-07 02:35:13,CFquwGbCitvZHQLEpfUPfRbWVPyKTE5qNXy7zJEwpump,FODES,SELL,dev sold,0,0.06196,-38.0,stop loss -37%,6198,0.2,-32.7,41
+2026-10-07 02:35:23,BDgkwGyoNF62xfSypEerHtJnajo7ZJZKAzesRq9MV4h,Raindrop,SELL,dev sold,0,0.06281,-37.2,stop loss -36%,9086,16.1,-31.9,12
+2026-10-07 02:36:07,9hpRmPEdVrEJT1Gf5z4Thwvjqqp5BNrzs8mcHnhcD7An,RAINDROP,BUY,bundled: 35 launch wallets own 18%,0,0.1,,,12019,,,
+2026-10-07 02:38:30,9hpRmPEdVrEJT1Gf5z4Thwvjqqp5BNrzs8mcHnhcD7An,RAINDROP,SELL,bundled: 35 launch wallets own 18%,0,0.18388,83.9,shift ended,21617,155.1,-15.5,143
