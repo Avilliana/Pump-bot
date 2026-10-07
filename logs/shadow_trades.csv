@@ -933,3 +933,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-07 08:37:06,APrVspZNFsWaRATrsjK9FZw3EnH9K3s62srZFNdtpump,GITFLUX,SELL,past buy window (late mover),58.8,0.06121,-38.8,stop loss -38%,6039,0.0,-33.5,2
 2026-10-07 08:37:27,B8aP5qqvgLfi9eojjpEDLJcSCNSEWTK2jNzJxDZqpump,PepeFreak,SELL,bundled: 6 launch wallets own 47%,0,0.06292,-37.1,stop loss -36%,8819,11.1,-31.7,36
 2026-10-07 08:38:13,5cx693w85d4qee87somaHDnbRFCDxiCNMHTGxJqQWj4w,OMR,SELL,past buy window (late mover),80.8,0.12949,29.5,shift ended,16759,70.4,-25.2,291
+2026-10-07 09:20:58,Fr2xee54SAWxPhRSydZZTQYZhAMua3woyd99q5HCLwqA,vampcat,BUY,dev sold,0,0.1,,,9517,,,
+2026-10-07 09:21:18,Fr2xee54SAWxPhRSydZZTQYZhAMua3woyd99q5HCLwqA,vampcat,SELL,dev sold,0,0.06129,-38.7,stop loss -37%,6333,0.0,-33.5,20
+2026-10-07 09:25:10,4SPmoCjUUB9BchppywNDRkg1ea3nAaPBDC42sJtCvkxa,Vampinu,BUY,dev sold,0,0.1,,,8110,,,
+2026-10-07 09:26:05,4SPmoCjUUB9BchppywNDRkg1ea3nAaPBDC42sJtCvkxa,Vampinu,SELL,dev sold,0,0.06099,-39.0,stop loss -38%,5372,7.9,-33.8,55
+2026-10-07 09:30:35,Boay6MC6hSxdYq7wwwXQNpRUM6Vfp3womUQ5Hswrpump,Mother,BUY,dev sold,0,0.1,,,10832,,,
+2026-10-07 09:30:57,Boay6MC6hSxdYq7wwwXQNpRUM6Vfp3womUQ5Hswrpump,Mother,SELL,dev sold,0,0.06157,-38.4,stop loss -37%,7239,1.0,-33.2,22
+2026-10-07 09:33:35,7kHAz9hdrAwo7N143ednohMPExref7Q1mpXu6J4ipump,KARL,BUY,dev sold,0,0.1,,,8295,,,
+2026-10-07 09:34:56,8n2BE3HdAEmLgXsWyVt2q5wBygrGmuzH87Xh46kCpump,Si27,BUY,dev holds 10.0%,0,0.1,,,11919,,,
+2026-10-07 09:35:06,7kHAz9hdrAwo7N143ednohMPExref7Q1mpXu6J4ipump,KARL,SELL,dev sold,0,0.06288,-37.1,stop loss -36%,5663,6.6,-31.7,91
+2026-10-07 09:37:27,8n2BE3HdAEmLgXsWyVt2q5wBygrGmuzH87Xh46kCpump,Si27,SELL,dev holds 10.0%,0,0.06338,-36.6,stop loss -35%,8196,45.4,-31.2,152
+2026-10-07 09:37:35,EibnVPG7rJeGh7e3hyVcTVYnfrskgSKVZeSjn9nVpump,Cayetano,BUY,dev sold,0,0.1,,,9369,,,
+2026-10-07 09:38:40,EibnVPG7rJeGh7e3hyVcTVYnfrskgSKVZeSjn9nVpump,Cayetano,SELL,dev sold,0,0.08686,-13.1,shift ended,8817,21.5,-10.0,65
