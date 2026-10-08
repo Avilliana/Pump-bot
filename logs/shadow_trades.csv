@@ -1481,3 +1481,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 03:37:32,EpJvAttUuPGAkB3BEhtC86Pfo726kjGHwEerycffpump,RENTN,SELL,score below threshold,46.0,0.06205,-37.9,stop loss -37%,6694,12.5,-32.6,231
 2026-10-08 03:37:46,4QtQxwHBzc3GX3jVkCP79zs324WJ8mN6F5Jb7vc8pump,RIPDEX,SELL,bundled: 23 launch wallets own 30%,0,0.15065,50.6,shift ended,19254,79.0,-15.3,732
 2026-10-08 03:37:46,hoSDHBQR236CoSLptRpDKPSU1JbcG2Ry52X1iq6pump,PAD,SELL,dev sold,0,0.16282,62.8,shift ended,21956,88.9,-26.7,184
+2026-10-08 04:18:49,9z4ASAsmVhVaGKpDGBrnrHJVB8g8GUy29hdKhNgMpump,butter,BUY,dev holds 35.5%,0,0.1,,,17328,,,
+2026-10-08 04:20:38,9iEoq8VYd9TYBupX2tkmicHiw5NhYaUg4n4CrZBTYvai,CAPYBARA,BUY,dev sold,0,0.1,,,14613,,,
+2026-10-08 04:21:31,9iEoq8VYd9TYBupX2tkmicHiw5NhYaUg4n4CrZBTYvai,CAPYBARA,SELL,dev sold,0,0.06333,-36.7,stop loss -35%,10037,71.3,-31.3,53
+2026-10-08 04:22:38,9z4ASAsmVhVaGKpDGBrnrHJVB8g8GUy29hdKhNgMpump,butter,SELL,dev holds 35.5%,0,0.22621,126.2,no trading (stale),47407,173.6,-0.2,229
+2026-10-08 04:25:16,7toTyctXZiPSUuog3giK24uw7E9C4wkDHefQdmpMpump,CAPYBARA,BUY,dev sold,0,0.1,,,8549,,,
+2026-10-08 04:25:36,7toTyctXZiPSUuog3giK24uw7E9C4wkDHefQdmpMpump,CAPYBARA,SELL,dev sold,0,0.03456,-65.4,stop loss -64%,3228,0.0,-62.2,20
+2026-10-08 04:27:20,4f8kk1MVqGTgStmuCbw7Bku8qpavCoRjK63asszcpump,Pengi,BUY,dev holds 10.0%,0,0.1,,,11079,,,
+2026-10-08 04:27:41,GrF2kRStb4WrHSYuyx6a9df2SsYNCBDbEpPuCs72pump,TERMINAL,BUY,bundled: 26 launch wallets own 24%,0,0.1,,,8251,,,
+2026-10-08 04:27:49,HUWj72PMBhKtrQstA5a4jrj6wStJRnoiCpUN3K8hpump,GOOGLEPAD,BUY,bundled: 12 launch wallets own 25%,0,0.1,,,8300,,,
+2026-10-08 04:28:08,GrF2kRStb4WrHSYuyx6a9df2SsYNCBDbEpPuCs72pump,TERMINAL,SELL,bundled: 26 launch wallets own 24%,0,0.05155,-48.4,stop loss -47%,4617,0.1,-43.9,26
+2026-10-08 04:29:33,83PpWNYfG8MAt9AQN8jdrAYNhxncvjeBveMHUKoih11a,HOLLA,BUY,bundled: 55 launch wallets own 25%,0,0.1,,,13270,,,
+2026-10-08 04:34:15,4f8kk1MVqGTgStmuCbw7Bku8qpavCoRjK63asszcpump,Pengi,SELL,dev holds 10.0%,0,0.21601,116.0,trailing stop,27741,262.0,-7.5,415
+2026-10-08 04:37:55,HUWj72PMBhKtrQstA5a4jrj6wStJRnoiCpUN3K8hpump,GOOGLEPAD,SELL,bundled: 12 launch wallets own 25%,0,0.17617,76.2,shift ended,15782,110.0,-28.7,605
+2026-10-08 04:37:55,83PpWNYfG8MAt9AQN8jdrAYNhxncvjeBveMHUKoih11a,HOLLA,SELL,bundled: 55 launch wallets own 25%,0,0.08472,-15.3,shift ended,12174,54.8,-23.8,501
