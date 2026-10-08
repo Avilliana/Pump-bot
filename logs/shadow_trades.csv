@@ -1727,3 +1727,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 15:38:33,CJeJiHUVX5uoxVc7TRdg8bNpomvamyGo94LkNVZVv1nh,CRAB,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,12210,0.8,-31.0,12
 2026-10-08 15:38:49,7UDPXXtLea2XCWb42nngWNGKyiGV6c6JghijeuHqdBQ5,SNIBBU,BUY,dev sold,0,0.1,,,13539,,,
 2026-10-08 15:39:03,7UDPXXtLea2XCWb42nngWNGKyiGV6c6JghijeuHqdBQ5,SNIBBU,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,9258,4.0,-31.6,15
+2026-10-08 16:20:22,F1P9nwcAKWmzu5SPf49RccsohMcSjKKbXNRYWGoApump,MAX,BUY,dev sold,0,0.1,,,12159,,,
+2026-10-08 16:20:43,F1P9nwcAKWmzu5SPf49RccsohMcSjKKbXNRYWGoApump,MAX,SELL,dev sold,0,0.06188,-38.1,stop loss -37%,8163,0.0,-32.9,21
+2026-10-08 16:20:44,1wE6Rb2o93yBzQHvWvFAX5DrN9v9w9pF1tyWWRypump,P,BUY,top10 hold 47%,0,0.1,,,9483,,,
+2026-10-08 16:22:23,D8M7tLw3A4aFhS6HAkvFDgsS5daWfD8yst4nZkAYUUSa,PQC,BUY,dev sold,0,0.1,,,19073,,,
+2026-10-08 16:23:17,D8M7tLw3A4aFhS6HAkvFDgsS5daWfD8yst4nZkAYUUSa,PQC,SELL,dev sold,0,0.06338,-36.6,stop loss -35%,13105,9.2,-31.3,53
+2026-10-08 16:24:45,EKroUkizrUsgCGEC82ETnLHpsd8VCFuMkzaJWo8jpump,ECDSA,BUY,bundled: 27 launch wallets own 42%,0,0.1,,,16304,,,
+2026-10-08 16:26:21,EPBmHsmKZ4LL8iL59qkvN8TwUtkrXuxdL2fsMN3efWrm,moneydog,BUY,dev sold,0,0.1,,,9153,,,
+2026-10-08 16:27:42,E1BsfwyFAZKJzkFY2mSvLmFrb9yxExadaGoFcvWgpump,Onchain,BUY,dev sold,0,0.1,,,8293,,,
+2026-10-08 16:28:08,E1BsfwyFAZKJzkFY2mSvLmFrb9yxExadaGoFcvWgpump,Onchain,SELL,dev sold,0,0.06321,-36.8,stop loss -35%,5691,0.0,-31.4,27
+2026-10-08 16:28:58,1wE6Rb2o93yBzQHvWvFAX5DrN9v9w9pF1tyWWRypump,P,SELL,top10 hold 47%,0,0.10801,8.0,no trading (stale),11149,18.2,-12.9,494
+2026-10-08 16:31:18,J8PuDLRbhxhoAimXkuUryWUk3Ham6GwjFZVVN9zuaWTK,GOOSE,BUY,dev sold,0,0.1,,,8064,,,
+2026-10-08 16:31:28,J8PuDLRbhxhoAimXkuUryWUk3Ham6GwjFZVVN9zuaWTK,GOOSE,SELL,dev sold,0,0.05724,-42.8,stop loss -42%,5014,0.2,-37.8,10
+2026-10-08 16:31:29,7dQgiDDQSAaK3MzkemVYcfoACSnEzTincUWwsDZZRT4Q,Onchain,BUY,dev sold,0,0.1,,,8052,,,
+2026-10-08 16:31:37,EKroUkizrUsgCGEC82ETnLHpsd8VCFuMkzaJWo8jpump,ECDSA,SELL,bundled: 27 launch wallets own 42%,0,0.22628,126.3,no trading (stale),44679,172.5,-12.5,412
+2026-10-08 16:32:07,7dQgiDDQSAaK3MzkemVYcfoACSnEzTincUWwsDZZRT4Q,Onchain,SELL,dev sold,0,0.06312,-36.9,stop loss -36%,5518,13.2,-31.5,38
+2026-10-08 16:33:27,8oSAPqCVdKf3REu9Sv6hidnNwkM9DzZJX6HxcppX243u,Sigma,BUY,dev sold,0,0.1,,,8100,,,
+2026-10-08 16:33:49,8oSAPqCVdKf3REu9Sv6hidnNwkM9DzZJX6HxcppX243u,Sigma,SELL,dev sold,0,0.06303,-37.0,stop loss -36%,5543,20.1,-31.6,21
+2026-10-08 16:35:26,B476pzzKagakAhRarq3EKVRNMFWRk6V6F4X7xMV5M68g,CRM,BUY,dev sold,0,0.1,,,8095,,,
+2026-10-08 16:35:53,B476pzzKagakAhRarq3EKVRNMFWRk6V6F4X7xMV5M68g,CRM,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,5581,8.2,-31.1,27
+2026-10-08 16:37:25,EPBmHsmKZ4LL8iL59qkvN8TwUtkrXuxdL2fsMN3efWrm,moneydog,SELL,dev sold,0,0.20067,100.7,trailing stop,19911,210.3,-25.6,664
