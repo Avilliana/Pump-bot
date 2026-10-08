@@ -1541,3 +1541,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 06:39:04,AnVsk7pQRhmmFj3UPX3YmPcVqw1S9Dt6kRykHQckpump,TIPTOE,BUY,dev holds 77.6%,0,0.1,,,44048,,,
 2026-10-08 06:39:49,s8vGp8XZ7q8JC4YFehgr3Q8ERHJarwYhj6WYpgUpump,cat,SELL,dev sold,0,0.20446,104.5,shift ended,22712,197.6,-6.0,150
 2026-10-08 06:39:49,AnVsk7pQRhmmFj3UPX3YmPcVqw1S9Dt6kRykHQckpump,TIPTOE,SELL,dev holds 77.6%,0,0.09639,-3.6,shift ended,45883,4.2,0.0,45
+2026-10-08 07:25:40,CbBYVHUeNCcp4Zcy3jjcxkmirdmcx9zUcyYky2wmpyV6,Goofy,BUY,dev sold,0,0.1,,,8698,,,
+2026-10-08 07:25:58,CbBYVHUeNCcp4Zcy3jjcxkmirdmcx9zUcyYky2wmpyV6,Goofy,SELL,dev sold,0,0.06146,-38.5,stop loss -37%,5804,3.8,-33.3,17
+2026-10-08 07:26:29,rMmn9UozRka4f9Us26TVdYQwoHs8wBLN7nk6SXMzbot,RUI,BUY,dev holds 50.0%,0,0.1,,,19282,,,
+2026-10-08 07:27:16,Bgmk6BneZguLkdZkmFnfCZew1dgSoLgDWUyovytAoE5G,TINCAN,BUY,bundled: 24 launch wallets own 21%,0,0.1,,,12205,,,
+2026-10-08 07:28:26,Bgmk6BneZguLkdZkmFnfCZew1dgSoLgDWUyovytAoE5G,TINCAN,SELL,bundled: 24 launch wallets own 21%,0,0.06343,-36.6,stop loss -35%,8399,2.0,-31.2,70
+2026-10-08 07:28:51,Rz2w9knmJvSrGaBKDPdoB74yThP9pjMXVFMqVcepump,UBC,BUY,dev sold,0,0.1,,,8771,,,
+2026-10-08 07:28:53,Rz2w9knmJvSrGaBKDPdoB74yThP9pjMXVFMqVcepump,UBC,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,6055,1.0,-31.0,2
+2026-10-08 07:30:53,6ACM6kmuBsHZ9FmLRHcz1u2SbYHgD1H8R6qzdF4pump,HOLE,BUY,dev sold,0,0.1,,,9279,,,
+2026-10-08 07:31:00,6ACM6kmuBsHZ9FmLRHcz1u2SbYHgD1H8R6qzdF4pump,HOLE,SELL,dev sold,0,0.06338,-36.6,stop loss -35%,6384,14.5,-31.2,7
+2026-10-08 07:32:40,gT94WFebX6ZoajZ47FWracV8GwkJEDr1QM4WbVtpump,MORE,BUY,dev sold,0,0.1,,,11126,,,
+2026-10-08 07:32:50,gT94WFebX6ZoajZ47FWracV8GwkJEDr1QM4WbVtpump,MORE,SELL,dev sold,0,0.06238,-37.6,stop loss -36%,7532,0.0,-32.3,10
+2026-10-08 07:33:49,TrJfefHouFEV1UMzfoo1vcBBxQkzNob6Zi91Eoppump,DAM,BUY,dev sold,0,0.1,,,8606,,,
+2026-10-08 07:34:01,TrJfefHouFEV1UMzfoo1vcBBxQkzNob6Zi91Eoppump,DAM,SELL,dev sold,0,0.0616,-38.4,stop loss -37%,5756,27.5,-33.1,12
+2026-10-08 07:34:34,6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump,Penguin,BUY,dev sold,0,0.1,,,9218,,,
+2026-10-08 07:36:44,s9rPoczsHd4QmGWhRtCVpbVt5WzgpEe7eJyn7kbpump,Penguin,BUY,dev sold,0,0.1,,,19872,,,
+2026-10-08 07:36:59,s9rPoczsHd4QmGWhRtCVpbVt5WzgpEe7eJyn7kbpump,Penguin,SELL,dev sold,0,0.17591,75.9,trailing stop,32177,133.1,-3.2,15
+2026-10-08 07:39:00,6Aug5n6KjCfu8JmMk1xxCxoqtyprD3uNcmHF4Phdpump,Penguin,SELL,dev sold,0,0.1724,72.4,trailing stop,14650,142.8,-7.8,265
+2026-10-08 07:41:00,GmRKn4fxtGVFZoTMQ9E4VQ6z8q2ojdUssfGr1iMupump,HOLDOR,BUY,bundled: 19 launch wallets own 29%,0,0.1,,,9987,,,
+2026-10-08 07:43:18,3MiTJ51cGQzsACJki6pPbx7Whc2eJMk8yjjqmhempump,MOVES,BUY,score below threshold,45.4,0.1,,,8402,,,
+2026-10-08 07:44:39,rMmn9UozRka4f9Us26TVdYQwoHs8wBLN7nk6SXMzbot,RUI,SELL,dev holds 50.0%,0,0.08343,-16.6,shift ended,17410,32.0,-19.5,1091
+2026-10-08 07:44:39,GmRKn4fxtGVFZoTMQ9E4VQ6z8q2ojdUssfGr1iMupump,HOLDOR,SELL,bundled: 19 launch wallets own 29%,0,0.10114,1.1,shift ended,10936,15.2,-17.1,220
+2026-10-08 07:44:39,3MiTJ51cGQzsACJki6pPbx7Whc2eJMk8yjjqmhempump,MOVES,SELL,score below threshold,45.4,0.07993,-20.1,shift ended,7280,4.9,-21.8,81
