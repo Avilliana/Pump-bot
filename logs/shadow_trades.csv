@@ -1883,3 +1883,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 19:38:16,9f78t2fCDgHf81bxwvE5nBzjsK1Q1tAJgr4px61YPDTg,memecoin,SELL,dev sold,0,0.11324,13.2,shift ended,14740,55.2,-13.8,168
 2026-10-08 19:38:16,6JqMeqVN43dyP7Wp88CqPDv6XXAK7QueSbQYkF6npump,ACRE,SELL,score below threshold,45.8,0.09925,-0.7,shift ended,19869,23.2,-1.2,81
 2026-10-08 19:38:16,DastBvd4fBKxBixai8KmgUsdyv5PFGM2FqFEkoZKpump,normie,SELL,dev sold,0,0.12069,20.7,shift ended,15023,36.8,-22.8,36
+2026-10-08 20:19:19,4nVWzLNBDMpXs5huR9LNY5srVvgkkAgZMzqax5RFqAiJ,GALEX,BUY,dev sold,0,0.1,,,8765,,,
+2026-10-08 20:19:23,4nVWzLNBDMpXs5huR9LNY5srVvgkkAgZMzqax5RFqAiJ,GALEX,SELL,dev sold,0,0.06284,-37.2,stop loss -36%,5979,0.4,-31.8,4
+2026-10-08 20:19:55,6dgcB4udpzWn6XPG6uMaZa66DuQHUybndLfbiDCDCbdS,F,BUY,dev sold,0,0.1,,,9124,,,
+2026-10-08 20:20:18,6dgcB4udpzWn6XPG6uMaZa66DuQHUybndLfbiDCDCbdS,F,SELL,dev sold,0,0.0623,-37.7,stop loss -36%,6170,23.4,-32.4,23
+2026-10-08 20:23:29,FRwbKbyE5KbFH3BMgV2xzrnMBoRurCHxuYtfbKuvVkiL,VINE,BUY,dev sold,0,0.1,,,8058,,,
+2026-10-08 20:23:46,Jig6XK42a4ibdkRS35tKBGiNPDRGgTFU79tat38pump,PVE,BUY,score below threshold,52.0,0.1,,,9874,,,
+2026-10-08 20:24:28,ArASSoxwdXjsw7MeBxr8rzo5tft94Xs4wyT5ukAupump,KYC,BUY,dev sold,0,0.1,,,11266,,,
+2026-10-08 20:25:32,FRwbKbyE5KbFH3BMgV2xzrnMBoRurCHxuYtfbKuvVkiL,VINE,SELL,dev sold,0,0.06258,-37.4,stop loss -36%,5474,5.7,-32.1,123
+2026-10-08 20:27:41,8xSDA8oUUyvPMPxV8saznwUFYPHrYE5w4ghcAEmaGcQP,SOCIAL,BUY,dev sold,0,0.1,,,8381,,,
+2026-10-08 20:28:37,8xSDA8oUUyvPMPxV8saznwUFYPHrYE5w4ghcAEmaGcQP,SOCIAL,SELL,dev sold,0,0.06083,-39.2,stop loss -38%,5524,30.0,-34.0,55
+2026-10-08 20:29:19,6Lwu6gC4dTJf4We1ENtFQ6MBhRif7s2LzSq95tPjpump,ORACLE,BUY,bundled: 34.1 SOL bought in launch block,0,0.1,,,18016,,,
+2026-10-08 20:29:46,6Lwu6gC4dTJf4We1ENtFQ6MBhRif7s2LzSq95tPjpump,ORACLE,SELL,bundled: 34.1 SOL bought in launch block,0,0.05924,-40.8,stop loss -40%,11578,0.0,-35.7,28
+2026-10-08 20:31:35,AReqmfApUTYfi1aw7oyjxCuKxgTGP2HCjcrDsRV61m8b,CopyCat,BUY,dev sold,0,0.1,,,14530,,,
+2026-10-08 20:31:37,AReqmfApUTYfi1aw7oyjxCuKxgTGP2HCjcrDsRV61m8b,CopyCat,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,10032,0.0,-31.0,2
+2026-10-08 20:33:20,EWHUpE77cW4qP5QctYsscD8hoXArfw7bV33TTfFApump,seed,BUY,score below threshold,46.5,0.1,,,39478,,,
+2026-10-08 20:33:21,EWHUpE77cW4qP5QctYsscD8hoXArfw7bV33TTfFApump,seed,SELL,score below threshold,46.5,0.09251,-7.5,no trading (stale),39478,0.0,0.0,1
+2026-10-08 20:33:45,Jig6XK42a4ibdkRS35tKBGiNPDRGgTFU79tat38pump,PVE,SELL,score below threshold,52.0,0.32192,221.9,no trading (stale),44553,352.2,0.0,599
+2026-10-08 20:34:17,ArASSoxwdXjsw7MeBxr8rzo5tft94Xs4wyT5ukAupump,KYC,SELL,dev sold,0,0.16876,68.8,trailing stop,16973,118.7,-17.4,589
+2026-10-08 20:35:33,3HHp9sabAJXQqAVvWid7hKx3Nsvy9C9y2gG7pH4fGmxK,7/11,BUY,dev sold,0,0.1,,,8124,,,
+2026-10-08 20:35:41,3HHp9sabAJXQqAVvWid7hKx3Nsvy9C9y2gG7pH4fGmxK,7/11,SELL,dev sold,0,0.06258,-37.4,stop loss -36%,5520,3.9,-32.1,8
+2026-10-08 20:35:49,2cm3et19WtXUaY9hyraqbnzncpVDJTFFn2u7WACSgtvs,7-11,BUY,dev sold,0,0.1,,,10161,,,
+2026-10-08 20:35:58,2cm3et19WtXUaY9hyraqbnzncpVDJTFFn2u7WACSgtvs,7-11,SELL,dev sold,0,0.06212,-37.9,stop loss -37%,6851,0.0,-32.6,8
+2026-10-08 20:37:09,HQsB4RhNoxKWqhumtR2Mp9zG2MATmdk7BeprP2qJeNTe,Charity,BUY,dev sold,0,0.1,,,8547,,,
+2026-10-08 20:37:12,9okHyNAfjc8gLjuzqe75hcGJnDNT9ixPM3c6E7f1XYaS,gooncoin,BUY,dev sold,0,0.1,,,8399,,,
+2026-10-08 20:37:19,HQsB4RhNoxKWqhumtR2Mp9zG2MATmdk7BeprP2qJeNTe,Charity,SELL,dev sold,0,0.05958,-40.4,stop loss -39%,5530,0.0,-35.3,9
+2026-10-08 20:37:19,9okHyNAfjc8gLjuzqe75hcGJnDNT9ixPM3c6E7f1XYaS,gooncoin,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,5640,0.0,-32.9,6
+2026-10-08 20:37:34,CWebXQP8wDK4ZaW5X5UDwB7AwCeLjeNv9SFKXosmpump,OG,BUY,dev holds 26.6%,0,0.1,,,9433,,,
+2026-10-08 20:38:12,CWebXQP8wDK4ZaW5X5UDwB7AwCeLjeNv9SFKXosmpump,OG,SELL,dev holds 26.6%,0,0.08309,-16.9,shift ended,8492,26.7,-10.0,38
