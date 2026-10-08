@@ -1513,3 +1513,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 05:36:49,3D1eoBy3oegUWH1dFdUPzXphmNwxcgjiud5vF97Apump,Organisme,SELL,dev holds 26.4%,0,0.08254,-17.5,dev sold,15997,0.0,-10.6,0
 2026-10-08 05:37:52,CLtzRj7rAjy55xDgH9PGKSWNjMMpaytjXXRaWUnxpump,butter,SELL,dev holds 67.2%,0,0.10398,4.0,no trading (stale),47498,12.3,2.1,196
 2026-10-08 05:38:12,5a5zyztUNgbjxg6v5xHgdagXi4695Yhh8rJWkFWzWmML,TINCAN,SELL,dev sold,0,0.14886,48.9,shift ended,19027,106.2,-6.7,109
+2026-10-08 06:21:26,ExR5dhhhJezf2rP7eFs5FzaPv7AQZdBCJUiwFqHFpump,BOZ,BUY,dev sold,0,0.1,,,15256,,,
+2026-10-08 06:23:12,GowAKeuK43AvciXMKKK8Gh7k3rRTwirRE3YsmWnvpump,inu,BUY,dev sold,0,0.1,,,10233,,,
+2026-10-08 06:25:03,DJbGDh9G4CJ1o7Kj5y7vzLDJHWNx89Ejr8wkpA7fpump,BOOBIES,BUY,dev sold,0,0.1,,,13349,,,
+2026-10-08 06:25:05,GowAKeuK43AvciXMKKK8Gh7k3rRTwirRE3YsmWnvpump,inu,SELL,dev sold,0,0.0606,-39.4,stop loss -38%,6732,23.2,-34.2,113
+2026-10-08 06:25:06,ZrtL8VnAw4TNaukxAmwAJhWreUbbJTRTCGB9Gjppump,AEGIS,BUY,dev sold,0,0.1,,,10478,,,
+2026-10-08 06:25:27,DJbGDh9G4CJ1o7Kj5y7vzLDJHWNx89Ejr8wkpA7fpump,BOOBIES,SELL,dev sold,0,0.0613,-38.7,stop loss -37%,8879,8.5,-33.5,24
+2026-10-08 06:26:27,BgqdXGpHbpW5L6K5EX7a3VcRYTNH98D9cGiJNDoD4s9m,bet,BUY,dev sold,0,0.1,,,8824,,,
+2026-10-08 06:26:59,ExR5dhhhJezf2rP7eFs5FzaPv7AQZdBCJUiwFqHFpump,BOZ,SELL,dev sold,0,0.24425,144.3,no trading (stale),47379,210.6,-10.7,334
+2026-10-08 06:27:11,BgqdXGpHbpW5L6K5EX7a3VcRYTNH98D9cGiJNDoD4s9m,bet,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,6038,4.6,-31.6,44
+2026-10-08 06:27:49,3zqL78gwPYdnYXHrsPKQrE8HWvmjhn5d2mNGNE1ppump,NEKO,BUY,dev holds 77.8%,0,0.1,,,44181,,,
+2026-10-08 06:28:26,ZrtL8VnAw4TNaukxAmwAJhWreUbbJTRTCGB9Gjppump,AEGIS,SELL,dev sold,0,0.20979,109.8,trailing stop,24253,231.0,-15.0,199
+2026-10-08 06:31:40,3zqL78gwPYdnYXHrsPKQrE8HWvmjhn5d2mNGNE1ppump,NEKO,SELL,dev holds 77.8%,0,0.09925,-0.8,no trading (stale),47153,7.2,0.0,231
+2026-10-08 06:31:58,AMdB8FNui7vhYJbqi2dCzKpjy5Woekc5KHjLBoP4pump,IRL,BUY,dev sold,0,0.1,,,9373,,,
+2026-10-08 06:32:36,921TaTeLxKXDStwBnGfaHjxJgBj2T7SPLGgT686nbAFs,DRAINCOON,BUY,dev sold,0,0.1,,,8431,,,
+2026-10-08 06:33:15,AMdB8FNui7vhYJbqi2dCzKpjy5Woekc5KHjLBoP4pump,IRL,SELL,dev sold,0,0.05877,-41.2,stop loss -40%,5983,45.8,-36.2,78
+2026-10-08 06:33:16,AKUrWeyWkarjAijLv5iTEjxwZg1EHNnwBj9nY3vWoqyz,fone,BUY,dev sold,0,0.1,,,11083,,,
+2026-10-08 06:33:41,921TaTeLxKXDStwBnGfaHjxJgBj2T7SPLGgT686nbAFs,DRAINCOON,SELL,dev sold,0,0.0615,-38.5,stop loss -37%,5630,0.5,-33.2,65
+2026-10-08 06:34:55,8VnZcVeGCZg5evECtKD4JYHfcNnTMcg3PEnmvNeXpump,Organisme,BUY,dev holds 26.6%,0,0.1,,,17544,,,
+2026-10-08 06:35:00,8VnZcVeGCZg5evECtKD4JYHfcNnTMcg3PEnmvNeXpump,Organisme,SELL,dev holds 26.6%,0,0.08727,-12.7,dev sold,16570,0.0,-5.5,5
+2026-10-08 06:37:12,6vVV7KSpjgnEV98PDbYzj1uUE4LeAYRKXMCpBN1vyTs6,Jessi,BUY,dev sold,0,0.1,,,8353,,,
+2026-10-08 06:37:18,s8vGp8XZ7q8JC4YFehgr3Q8ERHJarwYhj6WYpgUpump,cat,BUY,dev sold,0,0.1,,,10101,,,
+2026-10-08 06:37:47,6vVV7KSpjgnEV98PDbYzj1uUE4LeAYRKXMCpBN1vyTs6,Jessi,SELL,dev sold,0,0.06103,-39.0,stop loss -38%,5536,3.9,-33.7,35
+2026-10-08 06:38:20,AKUrWeyWkarjAijLv5iTEjxwZg1EHNnwBj9nY3vWoqyz,fone,SELL,dev sold,0,0.06228,-37.7,stop loss -36%,7490,74.1,-32.4,304
+2026-10-08 06:38:29,cqvJS44igEmiE3fzULYmAPDXR2wvFjtDjfSkh6gpump,Cat,BUY,dev sold,0,0.1,,,15844,,,
+2026-10-08 06:38:48,cqvJS44igEmiE3fzULYmAPDXR2wvFjtDjfSkh6gpump,Cat,SELL,dev sold,0,0.06265,-37.4,stop loss -36%,10766,11.9,-32.1,20
+2026-10-08 06:39:04,AnVsk7pQRhmmFj3UPX3YmPcVqw1S9Dt6kRykHQckpump,TIPTOE,BUY,dev holds 77.6%,0,0.1,,,44048,,,
+2026-10-08 06:39:49,s8vGp8XZ7q8JC4YFehgr3Q8ERHJarwYhj6WYpgUpump,cat,SELL,dev sold,0,0.20446,104.5,shift ended,22712,197.6,-6.0,150
+2026-10-08 06:39:49,AnVsk7pQRhmmFj3UPX3YmPcVqw1S9Dt6kRykHQckpump,TIPTOE,SELL,dev holds 77.6%,0,0.09639,-3.6,shift ended,45883,4.2,0.0,45
