@@ -1495,3 +1495,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 04:34:15,4f8kk1MVqGTgStmuCbw7Bku8qpavCoRjK63asszcpump,Pengi,SELL,dev holds 10.0%,0,0.21601,116.0,trailing stop,27741,262.0,-7.5,415
 2026-10-08 04:37:55,HUWj72PMBhKtrQstA5a4jrj6wStJRnoiCpUN3K8hpump,GOOGLEPAD,SELL,bundled: 12 launch wallets own 25%,0,0.17617,76.2,shift ended,15782,110.0,-28.7,605
 2026-10-08 04:37:55,83PpWNYfG8MAt9AQN8jdrAYNhxncvjeBveMHUKoih11a,HOLLA,SELL,bundled: 55 launch wallets own 25%,0,0.08472,-15.3,shift ended,12174,54.8,-23.8,501
+2026-10-08 05:23:17,8o3GdjQuZUgn1dnkBwWoXagR6czMjCFZ8GMMBGo5U2FM,Guns,BUY,dev sold,0,0.1,,,9615,,,
+2026-10-08 05:26:30,8o3GdjQuZUgn1dnkBwWoXagR6czMjCFZ8GMMBGo5U2FM,Guns,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,6634,62.3,-31.0,194
+2026-10-08 05:29:09,Ed7EG4ZXqpc6ERDjfqBmgtT7xJw4QuTztTvCxuFCpump,$GOAT,BUY,dev sold,0,0.1,,,33063,,,
+2026-10-08 05:29:10,Ed7EG4ZXqpc6ERDjfqBmgtT7xJw4QuTztTvCxuFCpump,$GOAT,SELL,dev sold,0,0.05071,-49.3,stop loss -48%,18185,0.0,-45.0,0
+2026-10-08 05:29:23,9GwT7KU6DULHqUcNS9kotpHoPW3NKe88AaJeit2DoGjW,ZELON,BUY,dev sold,0,0.1,,,9010,,,
+2026-10-08 05:30:10,9GwT7KU6DULHqUcNS9kotpHoPW3NKe88AaJeit2DoGjW,ZELON,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,6156,11.8,-31.7,47
+2026-10-08 05:32:30,HbhZKTkfrRgEzRfppKkJssLETjx3hn7m5qc1772dpump,butter,BUY,dev holds 66.2%,0,0.1,,,29506,,,
+2026-10-08 05:32:43,HbhZKTkfrRgEzRfppKkJssLETjx3hn7m5qc1772dpump,butter,SELL,dev holds 66.2%,0,0.01144,-88.6,dev sold,3787,17.0,-87.2,13
+2026-10-08 05:33:26,Hn5uJBfPUCD95QZc4dFkkHdKnktcNcwinvrbCGFepump,SUSU,BUY,dev sold,0,0.1,,,9195,,,
+2026-10-08 05:34:18,Hn5uJBfPUCD95QZc4dFkkHdKnktcNcwinvrbCGFepump,SUSU,SELL,dev sold,0,0.06217,-37.8,stop loss -37%,6206,37.8,-32.5,52
+2026-10-08 05:34:22,Gd3tK9ZHm4HLCyqWwwPYqhRNhQfqcuzYbQnG5LPYg6HD,TINCAN,BUY,dev sold,0,0.1,,,8157,,,
+2026-10-08 05:34:36,CLtzRj7rAjy55xDgH9PGKSWNjMMpaytjXXRaWUnxpump,butter,BUY,dev holds 67.2%,0,0.1,,,42281,,,
+2026-10-08 05:34:52,Gd3tK9ZHm4HLCyqWwwPYqhRNhQfqcuzYbQnG5LPYg6HD,TINCAN,SELL,dev sold,0,0.06105,-38.9,stop loss -38%,5408,19.7,-33.7,30
+2026-10-08 05:36:23,5a5zyztUNgbjxg6v5xHgdagXi4695Yhh8rJWkFWzWmML,TINCAN,BUY,dev sold,0,0.1,,,11825,,,
+2026-10-08 05:36:49,3D1eoBy3oegUWH1dFdUPzXphmNwxcgjiud5vF97Apump,Organisme,BUY,dev holds 26.4%,0,0.1,,,17902,,,
+2026-10-08 05:36:49,3D1eoBy3oegUWH1dFdUPzXphmNwxcgjiud5vF97Apump,Organisme,SELL,dev holds 26.4%,0,0.08254,-17.5,dev sold,15997,0.0,-10.6,0
+2026-10-08 05:37:52,CLtzRj7rAjy55xDgH9PGKSWNjMMpaytjXXRaWUnxpump,butter,SELL,dev holds 67.2%,0,0.10398,4.0,no trading (stale),47498,12.3,2.1,196
+2026-10-08 05:38:12,5a5zyztUNgbjxg6v5xHgdagXi4695Yhh8rJWkFWzWmML,TINCAN,SELL,dev sold,0,0.14886,48.9,shift ended,19027,106.2,-6.7,109
