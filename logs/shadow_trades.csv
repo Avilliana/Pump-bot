@@ -1433,3 +1433,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 01:41:09,k7dUWCVU938uRmnddhd9YMqaCJyf6XUcso44ncSpump,AUGENT,BUY,bundled: 29 launch wallets own 14%,0,0.1,,,11190,,,
 2026-10-08 01:42:35,4g8ryy5SkMXVuSKSrNnmEVV6pXzRhgNxWjYywS5Npump,Chuông,SELL,bundled: 4 launch wallets own 58%,0,0.22609,126.1,shift ended,47822,167.9,0.0,358
 2026-10-08 01:42:35,k7dUWCVU938uRmnddhd9YMqaCJyf6XUcso44ncSpump,AUGENT,SELL,bundled: 29 launch wallets own 14%,0,0.11717,17.2,shift ended,14184,39.4,-13.6,87
+2026-10-08 02:20:28,oihCBNZuRUPV9xzLNAVFDAnUhijEw1jf97RW7nbpump,KnightDog,BUY,dev sold,0,0.1,,,8649,,,
+2026-10-08 02:20:43,oihCBNZuRUPV9xzLNAVFDAnUhijEw1jf97RW7nbpump,KnightDog,SELL,dev sold,0,0.05622,-43.8,stop loss -43%,5283,32.0,-38.9,16
+2026-10-08 02:23:45,7Ap3NKhUPpD52nXh8NSAZBJqqjrFx1h7UKwYSwApump,KnightDog,BUY,dev sold,0,0.1,,,8767,,,
+2026-10-08 02:25:24,EpwK4uUq9xFrMpTG84gFeBTTnczJJmanctZxC2t2pump,HERMETIC,BUY,bundled: 9 launch wallets own 43%,0,0.1,,,11115,,,
+2026-10-08 02:25:54,Bc2BiasXopPQugaZFkKN9oRbqYPR4yNfg4ZZc4hQXFaF,XRAY,BUY,dev sold,0,0.1,,,10424,,,
+2026-10-08 02:26:39,EpwK4uUq9xFrMpTG84gFeBTTnczJJmanctZxC2t2pump,HERMETIC,SELL,bundled: 9 launch wallets own 43%,0,0.02882,-71.2,dev sold,3507,0.2,-68.5,74
+2026-10-08 02:26:42,Bc2BiasXopPQugaZFkKN9oRbqYPR4yNfg4ZZc4hQXFaF,XRAY,SELL,dev sold,0,0.06204,-38.0,stop loss -37%,7020,13.0,-32.7,48
+2026-10-08 02:28:42,EcR1ghrtJHWq3qEAG77sEb7rhGnK7gZhHRKeUs2cfoeM,SOLIS,BUY,dev sold,0,0.1,,,8122,,,
+2026-10-08 02:29:19,77ckFdgxDAL3d2na9F8BU8dpSsJGSvdnLzYEvusBuma6,Auruphil,BUY,dev sold,0,0.1,,,12338,,,
+2026-10-08 02:29:25,7Ap3NKhUPpD52nXh8NSAZBJqqjrFx1h7UKwYSwApump,KnightDog,SELL,dev sold,0,0.20915,109.2,trailing stop,19577,224.8,-19.5,340
+2026-10-08 02:29:25,EcR1ghrtJHWq3qEAG77sEb7rhGnK7gZhHRKeUs2cfoeM,SOLIS,SELL,dev sold,0,0.06166,-38.3,stop loss -37%,5439,0.8,-33.0,44
+2026-10-08 02:33:00,6FLGaVNwYmg7uTw3CFAiFo2W8yHRREJFruiCdCqugWrb,Auruphile,BUY,dev sold,0,0.1,,,12846,,,
+2026-10-08 02:34:31,77ckFdgxDAL3d2na9F8BU8dpSsJGSvdnLzYEvusBuma6,Auruphil,SELL,dev sold,0,0.06342,-36.6,stop loss -35%,8489,96.1,-31.2,312
+2026-10-08 02:35:48,6FLGaVNwYmg7uTw3CFAiFo2W8yHRREJFruiCdCqugWrb,Auruphile,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,8847,23.1,-31.1,168
+2026-10-08 02:36:35,ECSp6fHGpoB6sH3BBcmhzTr6PLCx23CD5xN1hP6nRwjX,shitnu,BUY,dev sold,0,0.1,,,8182,,,
+2026-10-08 02:38:03,ECSp6fHGpoB6sH3BBcmhzTr6PLCx23CD5xN1hP6nRwjX,shitnu,SELL,dev sold,0,0.06261,-37.4,stop loss -36%,5562,41.7,-32.0,88
+2026-10-08 02:38:18,2JpdPiGhG32DMnp3bRvBVRSVD1tExsawRXZre4kXpump,SPIKE,BUY,score below threshold,54.4,0.1,,,10242,,,
+2026-10-08 02:38:31,2JpdPiGhG32DMnp3bRvBVRSVD1tExsawRXZre4kXpump,SPIKE,SELL,score below threshold,54.4,0.1039,3.9,shift ended,11518,12.5,-9.9,13
