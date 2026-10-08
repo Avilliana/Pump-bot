@@ -1747,3 +1747,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 16:35:26,B476pzzKagakAhRarq3EKVRNMFWRk6V6F4X7xMV5M68g,CRM,BUY,dev sold,0,0.1,,,8095,,,
 2026-10-08 16:35:53,B476pzzKagakAhRarq3EKVRNMFWRk6V6F4X7xMV5M68g,CRM,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,5581,8.2,-31.1,27
 2026-10-08 16:37:25,EPBmHsmKZ4LL8iL59qkvN8TwUtkrXuxdL2fsMN3efWrm,moneydog,SELL,dev sold,0,0.20067,100.7,trailing stop,19911,210.3,-25.6,664
+2026-10-08 17:20:21,Zxpn8xt3yw1gAXRzZJ3JjapFcEu9S3no2717TmezLiN,Quantcum,BUY,dev sold,0,0.1,,,8893,,,
+2026-10-08 17:22:02,Zxpn8xt3yw1gAXRzZJ3JjapFcEu9S3no2717TmezLiN,Quantcum,SELL,dev sold,0,0.0616,-38.4,stop loss -37%,5946,49.4,-33.1,100
+2026-10-08 17:22:09,6nT2DDswjAAeER4txdRVT1ipLKcTMtquEzF36BoHFQAX,Quantcum,BUY,dev sold,0,0.1,,,15389,,,
+2026-10-08 17:22:26,BHrgYsawfkQxS3Z851r74tt2W13m94nYJXfjvQeRpump,PROXY,BUY,score below threshold,49.7,0.1,,,8917,,,
+2026-10-08 17:22:36,ERaiJ5iEuaTuWKsC4icF8FdzWN7gtjHThMqEY3kDpump,Git,BUY,dev sold,0,0.1,,,8223,,,
+2026-10-08 17:24:33,BHrgYsawfkQxS3Z851r74tt2W13m94nYJXfjvQeRpump,PROXY,SELL,score below threshold,49.7,0.06256,-37.4,stop loss -36%,6055,13.6,-32.1,127
+2026-10-08 17:25:08,ERaiJ5iEuaTuWKsC4icF8FdzWN7gtjHThMqEY3kDpump,Git,SELL,dev sold,0,0.06305,-37.0,stop loss -36%,5628,21.7,-31.6,152
+2026-10-08 17:25:17,6NT82CrLFF8NKHnrpohMu9dK3oNZGKv3n6HHNqb3pump,BUXEL,BUY,dev sold,0,0.1,,,8352,,,
+2026-10-08 17:25:44,6nT2DDswjAAeER4txdRVT1ipLKcTMtquEzF36BoHFQAX,Quantcum,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,10594,87.4,-31.2,215
+2026-10-08 17:25:59,6NT82CrLFF8NKHnrpohMu9dK3oNZGKv3n6HHNqb3pump,BUXEL,SELL,dev sold,0,0.06275,-37.3,stop loss -36%,5689,39.0,-31.9,42
+2026-10-08 17:26:44,FFSqDFGHtZVP4gu5iYh9pH7emxyS6VtyJageTzv8DESK,DESK95,BUY,top10 hold 38%,0,0.1,,,8341,,,
+2026-10-08 17:28:02,nqFzApoyVfbP9CE6MXY5SEcKSGNy5ftUnWQJ13p1MFH,tardigrade,BUY,dev sold,0,0.1,,,9598,,,
+2026-10-08 17:28:14,nqFzApoyVfbP9CE6MXY5SEcKSGNy5ftUnWQJ13p1MFH,tardigrade,SELL,dev sold,0,0.06295,-37.1,stop loss -36%,6557,0.2,-31.7,12
+2026-10-08 17:30:41,3K2vx7ww6dNcHViJStztSJvTQZWaMkYrYnTop5178iR2,Pao,BUY,dev sold,0,0.1,,,17246,,,
+2026-10-08 17:30:44,FFSqDFGHtZVP4gu5iYh9pH7emxyS6VtyJageTzv8DESK,DESK95,SELL,top10 hold 38%,0,0.21306,113.1,trailing stop,19687,246.9,-0.2,241
+2026-10-08 17:34:57,3K2vx7ww6dNcHViJStztSJvTQZWaMkYrYnTop5178iR2,Pao,SELL,dev sold,0,0.21659,116.6,no trading (stale),43726,153.5,-14.1,255
+2026-10-08 17:36:41,FP287tWJfwcY2bB1XL5yzHSL2uQ2pvwmzt8sgKK2HKso,DCA,BUY,dev sold,0,0.1,,,12875,,,
+2026-10-08 17:37:46,FP287tWJfwcY2bB1XL5yzHSL2uQ2pvwmzt8sgKK2HKso,DCA,SELL,dev sold,0,0.07131,-28.7,shift ended,9952,5.5,-25.2,65
