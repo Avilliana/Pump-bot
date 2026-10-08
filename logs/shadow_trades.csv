@@ -1911,3 +1911,49 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 20:37:19,9okHyNAfjc8gLjuzqe75hcGJnDNT9ixPM3c6E7f1XYaS,gooncoin,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,5640,0.0,-32.9,6
 2026-10-08 20:37:34,CWebXQP8wDK4ZaW5X5UDwB7AwCeLjeNv9SFKXosmpump,OG,BUY,dev holds 26.6%,0,0.1,,,9433,,,
 2026-10-08 20:38:12,CWebXQP8wDK4ZaW5X5UDwB7AwCeLjeNv9SFKXosmpump,OG,SELL,dev holds 26.6%,0,0.08309,-16.9,shift ended,8492,26.7,-10.0,38
+2026-10-08 21:19:50,DPBbTrK2XF8b9Vg2NPihSYomMTvzcWziPyYWmvKapump,pemp,BUY,dev sold,0,0.1,,,12984,,,
+2026-10-08 21:19:54,CE5aRLiByX6JNtJ3nJptp8hihYmQCX8vZvV5jDsQnt6v,ANIMAL,BUY,dev sold,0,0.1,,,8123,,,
+2026-10-08 21:20:24,DPBbTrK2XF8b9Vg2NPihSYomMTvzcWziPyYWmvKapump,pemp,SELL,dev sold,0,0.17598,76.0,trailing stop,19946,127.3,-6.5,33
+2026-10-08 21:20:52,CE5aRLiByX6JNtJ3nJptp8hihYmQCX8vZvV5jDsQnt6v,ANIMAL,SELL,dev sold,0,0.06249,-37.5,stop loss -36%,5511,52.8,-32.2,58
+2026-10-08 21:21:24,A6J76nGczGh9Ei4qAe184TYn2PL23GZTW2tbcctSpump,GOBLIN,BUY,dev sold,0,0.1,,,10067,,,
+2026-10-08 21:22:09,FwhfykyJRAehGo5HR2HAU3ZJCt31j3HaCxPNXdGR9d69,Elon,BUY,dev sold,0,0.1,,,9953,,,
+2026-10-08 21:22:15,A6J76nGczGh9Ei4qAe184TYn2PL23GZTW2tbcctSpump,GOBLIN,SELL,dev sold,0,0.06167,-38.3,stop loss -37%,6739,19.1,-33.1,51
+2026-10-08 21:23:40,EgWJGDPRXPGU8GuPjbxMX7Ty2mUEjJ71NtZ6vr5Qpump,BLOB,BUY,score below threshold,42.4,0.1,,,10732,,,
+2026-10-08 21:23:45,J4wCcypt4bBqcoaLoTiT6GeauDNR9HLhEkwGzaiR4ZCE,/motion,BUY,dev sold,0,0.1,,,8152,,,
+2026-10-08 21:23:49,J4wCcypt4bBqcoaLoTiT6GeauDNR9HLhEkwGzaiR4ZCE,/motion,SELL,dev sold,0,0.0613,-38.7,stop loss -37%,5426,0.0,-33.4,4
+2026-10-08 21:24:05,3LuayrE1ecx6gLMAwmY3Sqt2Af3BeoKozStcTNgWAgTy,Justice,BUY,dev sold,0,0.1,,,9046,,,
+2026-10-08 21:24:08,5RpZVdZmpuwYdjjgQLY49zz89F4QZzoQTvamRQNJi2rF,QSEAL,BUY,dev holds 9.3%,0,0.1,,,12336,,,
+2026-10-08 21:24:13,FwhfykyJRAehGo5HR2HAU3ZJCt31j3HaCxPNXdGR9d69,Elon,SELL,dev sold,0,0.06346,-36.5,stop loss -35%,6854,43.6,-31.1,124
+2026-10-08 21:24:42,3LuayrE1ecx6gLMAwmY3Sqt2Af3BeoKozStcTNgWAgTy,Justice,SELL,dev sold,0,0.06085,-39.1,stop loss -38%,5977,13.5,-33.9,38
+2026-10-08 21:24:46,5RpZVdZmpuwYdjjgQLY49zz89F4QZzoQTvamRQNJi2rF,QSEAL,SELL,dev holds 9.3%,0,0.06288,-37.1,stop loss -36%,8415,5.1,-31.8,38
+2026-10-08 21:24:51,9GPL4cYmVZwirad8UUchzWJMn7ytQWQxqvsFEtfLWWaT,MM,BUY,dev sold,0,0.1,,,8429,,,
+2026-10-08 21:25:02,9GPL4cYmVZwirad8UUchzWJMn7ytQWQxqvsFEtfLWWaT,MM,SELL,dev sold,0,0.0625,-37.5,stop loss -36%,5719,0.8,-32.1,12
+2026-10-08 21:26:00,HK7JZzuQ1jB5ahmJyYfMnpvwbjyWGkGUbHvF5GvkGDmE,LUTO,BUY,dev sold,0,0.1,,,11739,,,
+2026-10-08 21:26:40,FzUruWdj7nsREHAG7cSeAtmpLL8StzN7jy9gQVbsBJH,LUTO,BUY,dev sold,0,0.1,,,8216,,,
+2026-10-08 21:26:54,FzUruWdj7nsREHAG7cSeAtmpLL8StzN7jy9gQVbsBJH,LUTO,SELL,dev sold,0,0.06298,-37.0,stop loss -36%,5617,53.9,-31.6,15
+2026-10-08 21:27:11,Cxy1DBYkkApzqR9THnPQnZn2P71WZn2En5412xWodmnL,LUTO,BUY,dev sold,0,0.1,,,11101,,,
+2026-10-08 21:27:19,Cxy1DBYkkApzqR9THnPQnZn2P71WZn2En5412xWodmnL,LUTO,SELL,dev sold,0,0.06349,-36.5,stop loss -35%,7647,0.0,-31.1,8
+2026-10-08 21:27:57,7CWUYu169uBLva1PEjWXG2m12XU5nFe2dR454FmCpump,Alcebíades,BUY,dev sold,0,0.1,,,18953,,,
+2026-10-08 21:28:05,J5ZSiDZw4ZfsnYCm94nSttp5kDwJqo3szrFLfYcWpump,AMP,BUY,dev sold,0,0.1,,,20954,,,
+2026-10-08 21:28:46,J5ZSiDZw4ZfsnYCm94nSttp5kDwJqo3szrFLfYcWpump,AMP,SELL,dev sold,0,0.06152,-38.5,stop loss -37%,14002,80.8,-33.3,42
+2026-10-08 21:29:20,9kxjjCuCM1igHLspvSZ5r41R3gTjhLzHGRrAd8drMoai,Kurumi,BUY,dev sold,0,0.1,,,8099,,,
+2026-10-08 21:29:29,HK7JZzuQ1jB5ahmJyYfMnpvwbjyWGkGUbHvF5GvkGDmE,LUTO,SELL,dev sold,0,0.28411,184.1,no trading (stale),45234,284.7,6.2,209
+2026-10-08 21:29:43,4bhMNkjtWJgwRhy7jgMh86HC8qYh3CNoLZiVUx2yHegS,/motion,BUY,dev sold,0,0.1,,,8668,,,
+2026-10-08 21:29:53,9kxjjCuCM1igHLspvSZ5r41R3gTjhLzHGRrAd8drMoai,Kurumi,SELL,dev sold,0,0.059,-41.0,stop loss -40%,5190,16.1,-35.9,33
+2026-10-08 21:29:58,7CWUYu169uBLva1PEjWXG2m12XU5nFe2dR454FmCpump,Alcebíades,SELL,dev sold,0,0.06346,-36.5,stop loss -35%,13062,74.6,-31.2,121
+2026-10-08 21:30:00,HoDubFeykWL2TPwz7h6orsQRq675LnkLgDN8kdZQpump,/motion,BUY,dev sold,0,0.1,,,12618,,,
+2026-10-08 21:30:04,HoDubFeykWL2TPwz7h6orsQRq675LnkLgDN8kdZQpump,/motion,SELL,dev sold,0,0.06241,-37.6,stop loss -36%,8545,31.8,-32.3,4
+2026-10-08 21:31:13,4bhMNkjtWJgwRhy7jgMh86HC8qYh3CNoLZiVUx2yHegS,/motion,SELL,dev sold,0,0.0631,-36.9,stop loss -36%,5937,20.7,-31.5,90
+2026-10-08 21:31:46,HNWLhFjakZkUGChKWJToTjfA24jPtBR8WtdP9Scppump,PUMPAMON,BUY,dev sold,0,0.1,,,9150,,,
+2026-10-08 21:32:53,HNWLhFjakZkUGChKWJToTjfA24jPtBR8WtdP9Scppump,PUMPAMON,SELL,dev sold,0,0.03323,-66.8,stop loss -66%,3323,108.1,-63.7,67
+2026-10-08 21:33:15,6bzJmYDVNnsbVdVSFJ4de8dC3GeDriDxXQQHQH6MTumy,Seedproof,BUY,dev sold,0,0.1,,,12235,,,
+2026-10-08 21:33:24,6bzJmYDVNnsbVdVSFJ4de8dC3GeDriDxXQQHQH6MTumy,Seedproof,SELL,dev sold,0,0.0622,-37.8,stop loss -37%,8258,5.0,-32.5,9
+2026-10-08 21:33:45,3JY7nY8wrt14j2JxKRP9wndFRrUmyj2z174Bigxnpump,Grass,BUY,dev sold,0,0.1,,,8019,,,
+2026-10-08 21:34:05,B4UAHexuKzMNiRwbEoHB5DWh2jniUnuVzFNqXLQZpump,$GLITCH,BUY,dev sold,0,0.1,,,19623,,,
+2026-10-08 21:34:16,B4UAHexuKzMNiRwbEoHB5DWh2jniUnuVzFNqXLQZpump,$GLITCH,SELL,dev sold,0,0.04966,-50.3,stop loss -49%,10574,0.2,-46.1,11
+2026-10-08 21:35:16,5aMKYW89KfPdXBvUf7Yf6StbbvviwSdgHiZjxvk6es5H,Yoichi,BUY,dev sold,0,0.1,,,8553,,,
+2026-10-08 21:35:28,5aMKYW89KfPdXBvUf7Yf6StbbvviwSdgHiZjxvk6es5H,Yoichi,SELL,dev sold,0,0.06267,-37.3,stop loss -36%,5818,0.0,-32.0,12
+2026-10-08 21:35:30,EgWJGDPRXPGU8GuPjbxMX7Ty2mUEjJ71NtZ6vr5Qpump,BLOB,SELL,score below threshold,42.4,0.0606,-39.4,stop loss -38%,7070,32.1,-34.2,710
+2026-10-08 21:36:17,2p8NiALVdEhKLbL9QW33orPrEwevjqhfX5wU7wXVpump,SECRET,BUY,score below threshold,56.8,0.1,,,16260,,,
+2026-10-08 21:38:31,3JY7nY8wrt14j2JxKRP9wndFRrUmyj2z174Bigxnpump,Grass,SELL,dev sold,0,0.08338,-16.6,shift ended,7247,20.9,-27.2,286
+2026-10-08 21:38:31,2p8NiALVdEhKLbL9QW33orPrEwevjqhfX5wU7wXVpump,SECRET,SELL,score below threshold,56.8,0.07741,-22.6,shift ended,13632,0.0,-23.1,134
