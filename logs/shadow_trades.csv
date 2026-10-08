@@ -1575,3 +1575,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 08:36:08,3kUQJgXoT94AHwwFDrWE2YA7dp1eEYSRKTvrd9nJpump,Mishu,SELL,dev holds 48.4%,0,0.09253,-7.5,no trading (stale),50327,0.0,0.0,171
 2026-10-08 08:36:55,6M6tf7TcbNfxFjwrDUnTNTVeMwoFXoP8cSYZHH61pump,COOK,SELL,dev sold,0,0.06072,-39.3,stop loss -38%,5626,11.5,-34.1,66
 2026-10-08 08:38:40,EqYdiojdnF8JxT14Ejauz843QVuKUc8PaUGJckE7NkpR,CULT,SELL,bundled: 38 launch wallets own 32%,0,0.09087,-9.1,shift ended,10756,40.7,-25.3,456
+2026-10-08 09:21:57,zmnxwQRNkTbfiTxfcsWiYy9gXVbhd4yp6QgRjbD7RNY,Comrades,BUY,dev sold,0,0.1,,,10021,,,
+2026-10-08 09:22:16,zmnxwQRNkTbfiTxfcsWiYy9gXVbhd4yp6QgRjbD7RNY,Comrades,SELL,dev sold,0,0.05977,-40.2,stop loss -39%,6504,0.2,-35.1,19
+2026-10-08 09:26:17,9QgAcVwH8SR2F3PkhiJypb1ymqn3V63DFMuzK9LEpump,POKE,BUY,score below threshold,58.5,0.1,,,10777,,,
+2026-10-08 09:26:54,9QgAcVwH8SR2F3PkhiJypb1ymqn3V63DFMuzK9LEpump,POKE,SELL,score below threshold,58.5,0.06209,-37.9,stop loss -37%,7262,4.5,-32.6,37
+2026-10-08 09:35:49,HYGkPJShN3y5WuJ7sk3HujC4bJDUPgXz7G1CHXTdFVqu,fun,BUY,dev sold,0,0.1,,,11655,,,
+2026-10-08 09:36:11,9KVLPk1D3Pf7FwYahtv5NFXbPn3cyY5eGxoVsBWHMeoS,FUN,BUY,dev sold,0,0.1,,,9860,,,
+2026-10-08 09:37:33,9KVLPk1D3Pf7FwYahtv5NFXbPn3cyY5eGxoVsBWHMeoS,FUN,SELL,dev sold,0,0.06337,-36.6,stop loss -35%,6781,19.5,-31.2,81
+2026-10-08 09:37:34,HYGkPJShN3y5WuJ7sk3HujC4bJDUPgXz7G1CHXTdFVqu,fun,SELL,dev sold,0,0.06188,-38.1,stop loss -37%,7827,24.8,-32.8,105
