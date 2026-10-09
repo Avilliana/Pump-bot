@@ -2015,3 +2015,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-08 23:38:23,2KTGzeHd4eWH7vx5RwVo3bG3VwbCzAiVJwDRRwsepump,FLY,SELL,bundled: 23.5 SOL bought in launch block,0,0.17619,76.2,shift ended,20147,90.9,-3.3,551
 2026-10-08 23:38:23,G95jsFkxJfTogGKdbEa81An13bYM9NZNeYdCMrJGH5ib,giraffewifcap,SELL,dev sold,0,0.11897,19.0,shift ended,19578,54.1,-28.0,207
 2026-10-08 23:38:23,DUZUGKckEBhHEUN2MwgUh18rTeq6A4E9hdfEoeFApump,giraffewifcap,SELL,bundled: 26.8 SOL bought in launch block,0,0.15262,52.6,shift ended,45320,64.7,-7.1,186
+2026-10-09 00:20:53,6Mw5R73FZDTanxpsSqzrQtVQN5yQjr7vNcBGDtK929tU,JUSTICE,BUY,dev sold,0,0.1,,,10074,,,
+2026-10-09 00:21:33,6Mw5R73FZDTanxpsSqzrQtVQN5yQjr7vNcBGDtK929tU,JUSTICE,SELL,dev sold,0,0.06131,-38.7,stop loss -37%,6704,17.6,-33.5,40
+2026-10-09 00:21:33,3SuU19e9KAe4DEnA2iXmmHBxP83F9TcrEJTN6qv6pump,$Pumkinjak,BUY,top10 hold 79%,0,0.1,,,44946,,,
+2026-10-09 00:22:31,3g67hiXUYGLFfMHyHHRQmtrKtwiixJyb6aYThnbZpump,$AURA,BUY,dev sold,0,0.1,,,10609,,,
+2026-10-09 00:22:32,3g67hiXUYGLFfMHyHHRQmtrKtwiixJyb6aYThnbZpump,$AURA,SELL,dev sold,0,0.0498,-50.2,stop loss -49%,5737,2.4,-45.9,1
+2026-10-09 00:24:08,Hc5RWWFK2uBmGMZacBz21szqxdMvF7bxNYRvSkBPE3Se,tama,BUY,score below threshold,42.6,0.1,,,8353,,,
+2026-10-09 00:24:15,3SuU19e9KAe4DEnA2iXmmHBxP83F9TcrEJTN6qv6pump,$Pumkinjak,SELL,top10 hold 79%,0,0.09252,-7.5,no trading (stale),44946,0.0,0.0,162
+2026-10-09 00:25:54,Hc5RWWFK2uBmGMZacBz21szqxdMvF7bxNYRvSkBPE3Se,tama,SELL,score below threshold,42.6,0.06362,-36.4,stop loss -35%,5769,66.1,-30.9,105
+2026-10-09 00:36:58,8RPEmgXiCENUnq9MvRKSy8rDKq6Bqkvp8sQ29pQYFiuP,Attention,BUY,dev sold,0,0.1,,,8703,,,
+2026-10-09 00:38:27,8RPEmgXiCENUnq9MvRKSy8rDKq6Bqkvp8sQ29pQYFiuP,Attention,SELL,dev sold,0,0.114,14.0,shift ended,10737,69.4,-6.4,89
