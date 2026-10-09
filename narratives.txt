@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-hedgehog
-full
-game
-trading
+ai
+cat
+brings
+energy
+super
+internet
+character
+intelligence
+trump
+meet
+eyes
+superintelligence
 under
-paired
-green
-meant
-games
-locked
-powered
-platform
-assets
-were
-identity
+meets
+golden
