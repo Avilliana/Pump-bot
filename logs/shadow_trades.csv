@@ -2171,3 +2171,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 08:38:22,56fnokFRPSwtMpN9CVaw81Zkqm9Bsnj4TnrEqp2Bpump,HASH,SELL,bundled: 22 launch wallets own 62%,0,0.10945,9.5,shift ended,21597,18.3,0.0,135
 2026-10-09 08:38:22,cDLjc5N2NJ51AtQkipuakyY1NffUUCp1HMBASi1pump,Milford,SELL,dev sold,0,0.13925,39.3,shift ended,14889,56.5,5.7,54
 2026-10-09 08:38:22,2SYxLmN54SEXkKZ4Z8TS6rW1izzzgxRN5Nc7rNkKpump,Davina,SELL,dev sold,0,0.10961,9.6,shift ended,9551,18.7,3.6,0
+2026-10-09 09:19:23,wjvk4cbWeGJFmi8mSYenAtVJMV3HFqFRTEUP1U8pump,WCat,BUY,dev sold,0,0.1,,,8886,,,
+2026-10-09 09:20:21,wjvk4cbWeGJFmi8mSYenAtVJMV3HFqFRTEUP1U8pump,WCat,SELL,dev sold,0,0.06249,-37.5,stop loss -36%,6028,74.8,-32.2,58
+2026-10-09 09:27:48,AccxGjtmWb7A3rELptBk2KCog4nB1ixKc8n5Jpnhpump,TST,BUY,bundled: 126 launch wallets own 22%,0,0.1,,,27977,,,
+2026-10-09 09:28:03,UQkv5gtnUNptQEUYhf9PkPKGmKyBUJzQnJgHZcdpump,nox,BUY,score below threshold,58.7,0.1,,,39419,,,
+2026-10-09 09:28:20,9UX4dZduWBbyjdDAYBkp4n24Vk3SuDuT9ZBFiDg9pump,OMIO,BUY,dev sold,0,0.1,,,9118,,,
+2026-10-09 09:28:40,9UX4dZduWBbyjdDAYBkp4n24Vk3SuDuT9ZBFiDg9pump,OMIO,SELL,dev sold,0,0.06208,-37.9,stop loss -37%,6145,14.6,-32.6,20
+2026-10-09 09:31:33,UQkv5gtnUNptQEUYhf9PkPKGmKyBUJzQnJgHZcdpump,nox,SELL,score below threshold,58.7,0.10649,6.5,no trading (stale),45427,15.0,-3.0,209
+2026-10-09 09:38:18,AccxGjtmWb7A3rELptBk2KCog4nB1ixKc8n5Jpnhpump,TST,SELL,bundled: 126 launch wallets own 22%,0,0.08599,-14.0,shift ended,26071,25.8,-13.4,630
