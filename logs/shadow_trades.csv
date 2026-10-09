@@ -2199,3 +2199,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 10:38:28,AYErvjV29b1dZYHXkjxbdbB7CqNMA4FEZsuTGvUjmQrp,CMO,BUY,dev sold,0,0.1,,,14277,,,
 2026-10-09 10:38:43,6QtnPDV42Z4X5RDCecbDJKsmudCNDPpE4LE5p936m4sP,QUANT,SELL,past buy window (late mover),77.6,0.20856,108.6,shift ended,20049,135.2,-25.4,420
 2026-10-09 10:38:43,AYErvjV29b1dZYHXkjxbdbB7CqNMA4FEZsuTGvUjmQrp,CMO,SELL,dev sold,0,0.09313,-6.9,shift ended,14389,7.8,-11.7,15
+2026-10-09 11:20:47,CUgtxPBxECRzjdf2oiMWjCJA7VHEta9sawMAdmqmpump,EVO,BUY,dev holds 15.2%,0,0.1,,,16508,,,
+2026-10-09 11:20:48,CUgtxPBxECRzjdf2oiMWjCJA7VHEta9sawMAdmqmpump,EVO,SELL,dev holds 15.2%,0,0.05239,-47.6,dev sold,9394,0.4,-43.1,1
+2026-10-09 11:23:56,HfXEB6aZfKELbbYNV5PXDonbdvm6NhdbcrtGwchkhg6Y,NOTCH,BUY,dev sold,0,0.1,,,8465,,,
+2026-10-09 11:24:39,HfXEB6aZfKELbbYNV5PXDonbdvm6NhdbcrtGwchkhg6Y,NOTCH,SELL,dev sold,0,0.17348,73.5,trailing stop,13391,136.4,-0.9,43
+2026-10-09 11:25:21,8Qcb72MCcaTTYftSVNo9QQRZDjsxpt7otnnmvffEJxqP,CAT,BUY,dev sold,0,0.1,,,9354,,,
+2026-10-09 11:25:39,8Qcb72MCcaTTYftSVNo9QQRZDjsxpt7otnnmvffEJxqP,CAT,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,6390,11.6,-31.7,17
+2026-10-09 11:34:14,6nmk4FhZQHmqimsBCSTHeqKAxbysbgZLmX918gQUvEYb,LaBRADOR,BUY,dev sold,0,0.1,,,9027,,,
+2026-10-09 11:35:19,6nmk4FhZQHmqimsBCSTHeqKAxbysbgZLmX918gQUvEYb,LaBRADOR,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,6201,12.4,-31.3,65
+2026-10-09 11:36:03,7fgj2mz6JcqwdPhnGhHWAoMv1d3YKMXfHmyqtYKpUvS9,CHESHIRE,BUY,dev holds 22.4%,0,0.1,,,9828,,,
+2026-10-09 11:36:06,7fgj2mz6JcqwdPhnGhHWAoMv1d3YKMXfHmyqtYKpUvS9,CHESHIRE,SELL,dev holds 22.4%,0,0.07295,-27.1,dev sold,7773,0.0,-20.9,4
+2026-10-09 11:36:48,GsYyeRX5nqh3KqgoWikjRzheTXYZgenNngrHdYZDpump,ARCADE,BUY,dev sold,0,0.1,,,10907,,,
+2026-10-09 11:39:26,GsYyeRX5nqh3KqgoWikjRzheTXYZgenNngrHdYZDpump,ARCADE,SELL,dev sold,0,0.16185,61.8,shift ended,19079,107.7,-26.2,158
