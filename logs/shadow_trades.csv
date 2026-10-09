@@ -2107,3 +2107,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 04:38:25,7fmxGWo2zWmFCTsCRAnK8cqVDBNujRfU7NRoYFrLACa2,Quantum,SELL,dev sold,0,0.22005,120.0,shift ended,28480,210.5,-26.7,581
 2026-10-09 04:38:25,9wk8xngMCkvraqg3nrPWrxxGKF33XMRz89MAV75epump,HYBRID,SELL,bundled: 20 launch wallets own 21%,0,0.14075,40.7,shift ended,13367,58.3,-6.0,123
 2026-10-09 04:38:25,3QS7ujjZbsGo9gi5YjZG2UFUML6xwEfujiSMsuus5xn8,Quantcum,SELL,past buy window (late mover),84.6,0.08118,-18.8,shift ended,11550,46.2,-18.8,99
+2026-10-09 05:19:50,Hx9MYwPJ4iKLdEGQRfBMegdBBKPKUsGuGB2zCMZ2LAYR,LAYERS,BUY,bundled: 22 launch wallets own 19%,0,0.1,,,10201,,,
+2026-10-09 05:22:50,Hx9MYwPJ4iKLdEGQRfBMegdBBKPKUsGuGB2zCMZ2LAYR,LAYERS,SELL,bundled: 22 launch wallets own 19%,0,0.21639,116.4,trailing stop,23941,236.4,-21.4,180
+2026-10-09 05:24:51,5b9aVvyxEoe3nFML74obef9YYPsBnVB66sStMABXDyf9,QUANTITTY,BUY,dev sold,0,0.1,,,8264,,,
+2026-10-09 05:29:24,5b9aVvyxEoe3nFML74obef9YYPsBnVB66sStMABXDyf9,QUANTITTY,SELL,dev sold,0,0.18154,81.5,trailing stop,14744,168.5,-14.1,273
+2026-10-09 05:30:57,FveBedJdje2Gymo2sKrmWwiEBGkBoa4VyQGDzUc4pump,ACCELERANDO,BUY,dev sold,0,0.1,,,9188,,,
+2026-10-09 05:31:10,FveBedJdje2Gymo2sKrmWwiEBGkBoa4VyQGDzUc4pump,ACCELERANDO,SELL,dev sold,0,0.0622,-37.8,stop loss -37%,6203,23.6,-32.5,13
+2026-10-09 05:32:16,H9PF1nod9zPEfrT1XiMyo6sSxYhoggH8LZjRfViupump,SLIME,BUY,dev holds 31.2%,0,0.1,,,18552,,,
+2026-10-09 05:34:07,H9PF1nod9zPEfrT1XiMyo6sSxYhoggH8LZjRfViupump,SLIME,SELL,dev holds 31.2%,0,0.12958,29.6,dev sold,25974,67.0,-0.5,111
+2026-10-09 05:35:13,uAJDJjBVekfZGbE6KqZLwMHXMhCDyhNaZkYWxanpump,FRUF,BUY,bundled: 11 launch wallets own 74%,0,0.1,,,33793,,,
+2026-10-09 05:38:14,uAJDJjBVekfZGbE6KqZLwMHXMhCDyhNaZkYWxanpump,FRUF,SELL,bundled: 11 launch wallets own 74%,0,0.12443,24.4,shift ended,45402,34.4,0.0,181
