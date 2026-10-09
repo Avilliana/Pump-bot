@@ -2335,3 +2335,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 15:38:58,EcZndAERfzNhLirHwfsy44dAyPSZazjDU83pa6RApump,Circuit,SELL,score below threshold,42.9,0.09818,-1.8,shift ended,18323,81.7,-18.7,666
 2026-10-09 15:38:58,7X3FtgBzDFouEEYCH2YWbuLxLcR55m2fxDb71ujgpump,QCTDL,SELL,bundled: 14.0 SOL bought in launch block,0,0.0787,-21.3,shift ended,9225,8.4,-29.6,542
 2026-10-09 15:38:58,E4PqDArXcbYp8SPn2EVqqWdFrHWdJAxtioXnwcbiro2Q,QUANTs,SELL,dev sold,0,0.08384,-16.2,shift ended,13731,6.1,-16.0,37
+2026-10-09 16:19:39,J49yitKXPKGGEM1R6jtqs5kJuP7ntzLjn6U8AjDrDDX2,ORBIT,BUY,dev sold,0,0.1,,,17255,,,
+2026-10-09 16:19:43,J49yitKXPKGGEM1R6jtqs5kJuP7ntzLjn6U8AjDrDDX2,ORBIT,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,11855,1.6,-31.3,4
+2026-10-09 16:23:47,7veuJcgGJGbhSK1e1HwKtK6LotLqKJTAGH2E74fepump,Spiralism,BUY,dev sold,0,0.1,,,8012,,,
+2026-10-09 16:24:59,7veuJcgGJGbhSK1e1HwKtK6LotLqKJTAGH2E74fepump,Spiralism,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,5465,100.3,-31.8,72
+2026-10-09 16:25:01,DG4xWYspMC2AodKf5SHETMXLgvRXku7DxHmSHzm4aVpS,#NoAiDay,BUY,dev sold,0,0.1,,,11690,,,
+2026-10-09 16:25:44,DG4xWYspMC2AodKf5SHETMXLgvRXku7DxHmSHzm4aVpS,#NoAiDay,SELL,dev sold,0,0.17102,71.0,trailing stop,18186,125.7,-14.2,43
+2026-10-09 16:25:49,5fNbnSWzAV7zdx6hoiuk7nsnm7EafenKnA1EvCK9ZneN,#NoAiDay,BUY,dev sold,0,0.1,,,13356,,,
+2026-10-09 16:26:05,5fNbnSWzAV7zdx6hoiuk7nsnm7EafenKnA1EvCK9ZneN,#NoAiDay,SELL,dev sold,0,0.06347,-36.5,stop loss -35%,9196,0.0,-31.1,16
+2026-10-09 16:26:52,5nwpCqgESjeU6F2tDgRPaRcyg6HxNAJqnG5MmtA7pump,CRAFTSTRIKE,BUY,bundled: 42 launch wallets own 30%,0,0.1,,,8906,,,
+2026-10-09 16:27:33,B4JrtKaNNqua7J5DsNwL8b8PT5GSFup3QMo6mUFdWzta,Patrick,BUY,dev sold,0,0.1,,,11864,,,
+2026-10-09 16:28:57,GBmsCGUcbfnoNB9RnHusbCssxbECEjbkdZ3ZYR9kY8Si,pawcasso,BUY,dev sold,0,0.1,,,9111,,,
+2026-10-09 16:29:11,GBmsCGUcbfnoNB9RnHusbCssxbECEjbkdZ3ZYR9kY8Si,pawcasso,SELL,dev sold,0,0.0622,-37.8,stop loss -37%,6151,0.4,-32.5,14
+2026-10-09 16:29:13,B4JrtKaNNqua7J5DsNwL8b8PT5GSFup3QMo6mUFdWzta,Patrick,SELL,dev sold,0,0.06234,-37.7,stop loss -36%,7990,24.7,-32.4,100
+2026-10-09 16:30:19,5nwpCqgESjeU6F2tDgRPaRcyg6HxNAJqnG5MmtA7pump,CRAFTSTRIKE,SELL,bundled: 42 launch wallets own 30%,0,0.08122,-18.8,dev sold,7805,12.4,-28.7,207
+2026-10-09 16:30:48,2x3kudsxqCWdWeZA1vSNr9uKkHUBQG81m5mBGRAPpump,PAWS,BUY,dev sold,0,0.1,,,44975,,,
+2026-10-09 16:31:16,tHNjantHAh5FMPx1QRi4NBi1uLkX58Kbywx4HgX79bU,Catastrophic,BUY,dev sold,0,0.1,,,9525,,,
+2026-10-09 16:32:55,tHNjantHAh5FMPx1QRi4NBi1uLkX58Kbywx4HgX79bU,Catastrophic,SELL,dev sold,0,0.06354,-36.5,stop loss -35%,6568,86.4,-31.0,99
+2026-10-09 16:33:45,2x3kudsxqCWdWeZA1vSNr9uKkHUBQG81m5mBGRAPpump,PAWS,SELL,dev sold,0,0.09252,-7.5,no trading (stale),44975,0.0,0.0,177
+2026-10-09 16:33:55,x33HfyZcxTQpwidGcn98sMediyhpnQgbhhSzs14pump,GLEMO,BUY,bundled: 19 launch wallets own 62%,0,0.1,,,19355,,,
+2026-10-09 16:38:34,x33HfyZcxTQpwidGcn98sMediyhpnQgbhhSzs14pump,GLEMO,SELL,bundled: 19 launch wallets own 62%,0,0.21502,115.0,shift ended,44975,132.4,-0.9,279
