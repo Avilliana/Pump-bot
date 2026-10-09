@@ -2211,3 +2211,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 11:36:06,7fgj2mz6JcqwdPhnGhHWAoMv1d3YKMXfHmyqtYKpUvS9,CHESHIRE,SELL,dev holds 22.4%,0,0.07295,-27.1,dev sold,7773,0.0,-20.9,4
 2026-10-09 11:36:48,GsYyeRX5nqh3KqgoWikjRzheTXYZgenNngrHdYZDpump,ARCADE,BUY,dev sold,0,0.1,,,10907,,,
 2026-10-09 11:39:26,GsYyeRX5nqh3KqgoWikjRzheTXYZgenNngrHdYZDpump,ARCADE,SELL,dev sold,0,0.16185,61.8,shift ended,19079,107.7,-26.2,158
+2026-10-09 12:20:40,CidKUWiXYYhiSbPX7HfFphXWf4JnynkDhceJf1jwrCmU,AI,BUY,dev sold,0,0.1,,,11097,,,
+2026-10-09 12:22:10,FkyhBkvLCJpce3MteLJ2W4sBg4DbQvoXxkw2Tjy1pump,UBC,BUY,dev sold,0,0.1,,,23145,,,
+2026-10-09 12:23:10,ZZKdVc64H1gd8o6wzjDKSdGgRFKnXTa2AysYeHz3uBy,SCRIBBLE,BUY,dev sold,0,0.1,,,9899,,,
+2026-10-09 12:23:20,ZZKdVc64H1gd8o6wzjDKSdGgRFKnXTa2AysYeHz3uBy,SCRIBBLE,SELL,dev sold,0,0.06365,-36.4,stop loss -35%,6838,0.7,-30.9,9
+2026-10-09 12:25:38,EbrjbWfaWh6EKkW36doTK7t9jZghHuPckSdGvpNKpUpD,Hopscotch,BUY,dev sold,0,0.1,,,21068,,,
+2026-10-09 12:26:13,FkyhBkvLCJpce3MteLJ2W4sBg4DbQvoXxkw2Tjy1pump,UBC,SELL,dev sold,0,0.18256,82.6,no trading (stale),45599,97.0,-10.0,242
+2026-10-09 12:26:58,EbrjbWfaWh6EKkW36doTK7t9jZghHuPckSdGvpNKpUpD,Hopscotch,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,14377,42.1,-31.8,80
+2026-10-09 12:27:14,EvFEjK1h6dXfGk9hBr27K4tY917sDDKkMJCHXma2xAHz,Hopscotch,BUY,dev sold,0,0.1,,,14388,,,
+2026-10-09 12:27:18,BmSrqWh81mPmeC9jHRFQ5CVJpugNK5oEn5LMfxtB5ibT,Hopscotch,BUY,dev sold,0,0.1,,,11379,,,
+2026-10-09 12:27:23,2uJhygShgTW66WbPGSx7og6pMNq7Dd1fDa44WNUoaqCj,Hopscotch,BUY,dev sold,0,0.1,,,12478,,,
+2026-10-09 12:27:26,BmSrqWh81mPmeC9jHRFQ5CVJpugNK5oEn5LMfxtB5ibT,Hopscotch,SELL,dev sold,0,0.06268,-37.3,stop loss -36%,7739,0.0,-32.0,8
+2026-10-09 12:27:29,7CnFHJrkxPeeDtXvGHiEMGvA9yB6heaSyef3kGAFpump,BODIE,BUY,dev sold,0,0.1,,,8327,,,
+2026-10-09 12:27:32,2uJhygShgTW66WbPGSx7og6pMNq7Dd1fDa44WNUoaqCj,Hopscotch,SELL,dev sold,0,0.06319,-36.8,stop loss -36%,8554,0.0,-31.4,9
+2026-10-09 12:28:27,EvFEjK1h6dXfGk9hBr27K4tY917sDDKkMJCHXma2xAHz,Hopscotch,SELL,dev sold,0,0.0631,-36.9,stop loss -36%,9848,79.6,-31.6,74
+2026-10-09 12:30:23,23rtAeD9JDVPbzKCBjecMeZYSBSHhpCZepf59YA8pump,STREAK,BUY,bundled: 9 launch wallets own 44%,0,0.1,,,9549,,,
+2026-10-09 12:31:53,HAWyfvZDsmoMCn4cMXExATFGk69EPDxSLjTZsdYMpump,Pumpktom,BUY,bundled: 6 launch wallets own 35%,0,0.1,,,8287,,,
+2026-10-09 12:32:49,2uMrPNuDFvsrD1jPDGBxtYzHhQ3TRJgXBDWh4tVjpump,ANTON,BUY,dev sold,0,0.1,,,9637,,,
+2026-10-09 12:33:02,2uMrPNuDFvsrD1jPDGBxtYzHhQ3TRJgXBDWh4tVjpump,ANTON,SELL,dev sold,0,0.06243,-37.6,stop loss -36%,6530,18.1,-32.2,13
+2026-10-09 12:33:42,ARo21NdRGim25ZsKU5u2RYby2dpriDLmnocSDcTupump,CHORE,BUY,bundled: 18 launch wallets own 62%,0,0.1,,,18099,,,
+2026-10-09 12:35:31,HAWyfvZDsmoMCn4cMXExATFGk69EPDxSLjTZsdYMpump,Pumpktom,SELL,bundled: 6 launch wallets own 35%,0,0.1332,33.2,dev sold,11942,111.3,-8.4,217
+2026-10-09 12:36:11,D2z4V8kUE56uwGuVowng8nmir5Yc55W2sH72BeHnW4Aa,Catastrophic,BUY,dev sold,0,0.1,,,8900,,,
+2026-10-09 12:36:28,D2z4V8kUE56uwGuVowng8nmir5Yc55W2sH72BeHnW4Aa,Catastrophic,SELL,dev sold,0,0.06029,-39.7,stop loss -38%,5826,39.1,-34.5,17
+2026-10-09 12:36:38,7CnFHJrkxPeeDtXvGHiEMGvA9yB6heaSyef3kGAFpump,BODIE,SELL,dev sold,0,0.06311,-36.9,stop loss -36%,5688,104.0,-31.5,550
+2026-10-09 12:37:05,CidKUWiXYYhiSbPX7HfFphXWf4JnynkDhceJf1jwrCmU,AI,SELL,dev sold,0,0.28877,188.8,no trading (stale),45464,310.9,-16.8,985
+2026-10-09 12:37:34,J8cxeEvDxkXeuRXL6gAZqjsV6bnBydZoNNhBNWqvpump,BLOB,BUY,score below threshold,41.3,0.1,,,45464,,,
+2026-10-09 12:38:01,ARo21NdRGim25ZsKU5u2RYby2dpriDLmnocSDcTupump,CHORE,SELL,bundled: 18 launch wallets own 62%,0,0.06236,-37.6,stop loss -36%,12240,57.9,-32.4,258
+2026-10-09 12:38:18,J8cxeEvDxkXeuRXL6gAZqjsV6bnBydZoNNhBNWqvpump,BLOB,SELL,score below threshold,41.3,0.09252,-7.5,no trading (stale),45464,0.0,0.0,44
+2026-10-09 12:39:06,23rtAeD9JDVPbzKCBjecMeZYSBSHhpCZepf59YA8pump,STREAK,SELL,bundled: 9 launch wallets own 44%,0,0.1817,81.7,shift ended,18753,110.3,-7.1,523
