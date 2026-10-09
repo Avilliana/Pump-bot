@@ -2131,3 +2131,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 06:37:39,CkRLcxggGcXxA62aG4zb4CTTmSUHjqjmrZBU3ea8kpRN,Credits,BUY,dev sold,0,0.1,,,8914,,,
 2026-10-09 06:39:15,25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump,Runepunk,SELL,dev holds 10.1%,0,0.09213,-7.9,shift ended,14609,53.3,-3.3,224
 2026-10-09 06:39:15,CkRLcxggGcXxA62aG4zb4CTTmSUHjqjmrZBU3ea8kpRN,Credits,SELL,dev sold,0,0.09251,-7.5,shift ended,8931,48.8,-12.7,95
+2026-10-09 07:27:09,9su4Cocg9bKiiHAHSLsmKhdwCGXEXGjJPBqa6zPkpump,DESK,BUY,dev sold,0,0.1,,,18372,,,
+2026-10-09 07:27:49,9su4Cocg9bKiiHAHSLsmKhdwCGXEXGjJPBqa6zPkpump,DESK,SELL,dev sold,0,0.06349,-36.5,stop loss -35%,12647,11.3,-31.2,40
+2026-10-09 07:32:06,6Jc88frG37TCQPJibJbbWGcKsjSj1hEVHhcFa4zw1nLu,Celestia,BUY,dev sold,0,0.1,,,8354,,,
+2026-10-09 07:32:11,6Jc88frG37TCQPJibJbbWGcKsjSj1hEVHhcFa4zw1nLu,Celestia,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,5629,0.1,-32.6,5
+2026-10-09 07:34:27,9s39bnWv1xwRuSAYCm5FEbAxXJYHExJFwM6NTD9Lpump,UNHC,BUY,bundled: 13 launch wallets own 78%,0,0.1,,,39119,,,
+2026-10-09 07:35:57,PtRz31KnrEMoNBZnX3QZjm7XvroRzyN7TX8A1ktpump,WizardCat,BUY,dev sold,0,0.1,,,10208,,,
+2026-10-09 07:37:45,9s39bnWv1xwRuSAYCm5FEbAxXJYHExJFwM6NTD9Lpump,UNHC,SELL,bundled: 13 launch wallets own 78%,0,0.10736,7.4,no trading (stale),45369,16.0,-0.2,197
+2026-10-09 07:38:37,PtRz31KnrEMoNBZnX3QZjm7XvroRzyN7TX8A1ktpump,WizardCat,SELL,dev sold,0,0.05885,-41.2,stop loss -40%,6523,75.6,-36.1,160
+2026-10-09 07:39:24,CJz13BGEdrVHCf13mVoTHGV94KVJLZZqwZGNJmRcuN6H,Starling,BUY,dev holds 8.8%,0,0.1,,,9829,,,
+2026-10-09 07:40:29,CJz13BGEdrVHCf13mVoTHGV94KVJLZZqwZGNJmRcuN6H,Starling,SELL,dev holds 8.8%,0,0.06352,-36.5,stop loss -35%,6775,0.7,-31.1,65
+2026-10-09 07:41:47,cGyqfW6Rw1CyN2MZs9yCRW6EgdLrU86v17WawLEpump,Wizard,BUY,dev sold,0,0.1,,,9910,,,
+2026-10-09 07:42:02,GY3puYjcngiQhwRyVkeLmPpVbW8zj5ZByZixU8XacrUN,QCAT,BUY,past buy window (late mover),74.1,0.1,,,9980,,,
+2026-10-09 07:42:07,GJg8wHkPSBUGAoqRi1FDMGPNTknVBigRaLiTn52xV5RL,BID,BUY,dev sold,0,0.1,,,9662,,,
+2026-10-09 07:43:28,cGyqfW6Rw1CyN2MZs9yCRW6EgdLrU86v17WawLEpump,Wizard,SELL,dev sold,0,0.06279,-37.2,stop loss -36%,6754,112.8,-31.8,101
+2026-10-09 07:44:03,GY3puYjcngiQhwRyVkeLmPpVbW8zj5ZByZixU8XacrUN,QCAT,SELL,past buy window (late mover),74.1,0.07184,-28.2,shift ended,7774,3.9,-22.1,121
+2026-10-09 07:44:03,GJg8wHkPSBUGAoqRi1FDMGPNTknVBigRaLiTn52xV5RL,BID,SELL,dev sold,0,0.15516,55.2,shift ended,16209,101.4,-25.1,116
