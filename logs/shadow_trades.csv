@@ -2513,3 +2513,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 20:38:28,7dmqZARp8SnF1DxwCnavEMgJdqXD3X9xwRt8SZ1opump,SLOP,SELL,dev sold,0,0.16736,67.4,shift ended,44786,80.6,-16.6,225
 2026-10-09 20:38:28,AbnUDQFN9TJZ6b7nw7XrzApjgJuwShWaKY9zA9RDpump,DMIND,SELL,top10 hold 54%,0,0.10356,3.6,shift ended,16319,13.6,-2.7,155
 2026-10-09 20:38:28,ArWcsFBD7Ksi7efmbg72BvCuB8Zo2XnW9DKUrNzFpump,Cowcraft,SELL,past buy window (late mover),63.0,0.11411,14.1,shift ended,10310,23.5,-12.7,102
+2026-10-09 21:23:02,J8hr5FFXVxeD6XAgXS8duGYkuXzjTjg8RWXMc3XKpump,bob,BUY,dev sold,0,0.1,,,13483,,,
+2026-10-09 21:23:28,FE9wE2xEWjXtFrgvzVWK47Wa67CbNqPcRwdoMopopump,TRENCH,BUY,dev sold,0,0.1,,,9027,,,
+2026-10-09 21:24:56,5DKn7fCCdHuqCfjefez1XXKH1HwmmRJqXBZyJqkjfart,QFART,BUY,dev sold,0,0.1,,,19457,,,
+2026-10-09 21:25:17,J8hr5FFXVxeD6XAgXS8duGYkuXzjTjg8RWXMc3XKpump,bob,SELL,dev sold,0,0.05999,-40.0,stop loss -39%,8778,59.9,-34.9,135
+2026-10-09 21:25:53,FE9wE2xEWjXtFrgvzVWK47Wa67CbNqPcRwdoMopopump,TRENCH,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,6198,50.1,-31.3,144
+2026-10-09 21:27:06,5DKn7fCCdHuqCfjefez1XXKH1HwmmRJqXBZyJqkjfart,QFART,SELL,dev sold,0,0.06202,-38.0,stop loss -37%,13085,46.9,-32.7,130
+2026-10-09 21:30:14,6yTaAxnCFP5C5rUX7oiqqqfF8B7dxzUB2L4wn9wBpump,Tubby,BUY,dev sold,0,0.1,,,16039,,,
+2026-10-09 21:31:29,BDZshi2AtHNB3ULzDBTvKzRWhmgw49CBA8irdis5pump,TWEETNITE,BUY,dev sold,0,0.1,,,12245,,,
+2026-10-09 21:32:10,BDZshi2AtHNB3ULzDBTvKzRWhmgw49CBA8irdis5pump,TWEETNITE,SELL,dev sold,0,0.06302,-37.0,stop loss -36%,8372,2.4,-31.6,41
+2026-10-09 21:32:24,GTNp4JySVzKyWbFeBJHmnJJhvHqMhrYqbZr3iAJppump,LMAO,BUY,dev sold,0,0.1,,,19387,,,
+2026-10-09 21:33:18,AWGDGQ7EUNWvm3A5yiTaAwKETpkAvnUsACL3pV3apump,fone,BUY,dev sold,0,0.1,,,10035,,,
+2026-10-09 21:33:43,GTNp4JySVzKyWbFeBJHmnJJhvHqMhrYqbZr3iAJppump,LMAO,SELL,dev sold,0,0.05103,-49.0,stop loss -48%,10732,106.2,-44.6,78
+2026-10-09 21:33:43,AWGDGQ7EUNWvm3A5yiTaAwKETpkAvnUsACL3pV3apump,fone,SELL,dev sold,0,0.06246,-37.5,stop loss -36%,6802,23.6,-32.2,24
+2026-10-09 21:34:34,AfNJ183NkFeXTV56Lk2DaUKDxzqenAjXkW8xuwTrfiW5,claudecore,BUY,dev sold,0,0.1,,,8127,,,
+2026-10-09 21:34:37,AfNJ183NkFeXTV56Lk2DaUKDxzqenAjXkW8xuwTrfiW5,claudecore,SELL,dev sold,0,0.06353,-36.5,stop loss -35%,5605,0.0,-31.0,3
+2026-10-09 21:34:52,6yTaAxnCFP5C5rUX7oiqqqfF8B7dxzUB2L4wn9wBpump,Tubby,SELL,dev sold,0,0.06156,-38.4,stop loss -37%,10710,80.4,-33.2,278
+2026-10-09 21:35:55,D96brLPj4GqjZfaqjBRXEVUWTCCpmzLu51asPC1dpump,ALL22,BUY,dev sold,0,0.1,,,25234,,,
+2026-10-09 21:36:03,5oiqrHLytDkXSCBEWzyh8YQqWWkTXQzEzYZcwkQApump,Ape,BUY,dev sold,0,0.1,,,8471,,,
+2026-10-09 21:36:13,D96brLPj4GqjZfaqjBRXEVUWTCCpmzLu51asPC1dpump,ALL22,SELL,dev sold,0,0.05941,-40.6,stop loss -39%,16258,5.9,-35.6,17
+2026-10-09 21:37:49,5oiqrHLytDkXSCBEWzyh8YQqWWkTXQzEzYZcwkQApump,Ape,SELL,dev sold,0,0.10288,2.9,shift ended,9436,34.2,-29.7,105
