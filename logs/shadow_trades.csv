@@ -2555,3 +2555,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 22:35:47,CyrrqVhUVXzGX8Qid6ebVaeBxfpCEFazreGcpvBGpump,SMACK,SELL,dev sold,0,0.0625,-37.5,stop loss -36%,10073,9.5,-32.2,55
 2026-10-09 22:37:35,GHqnBCtAZJ725Yi1emD367QtkiqHReVo3bcvoCJRpump,RUNNER,BUY,bundled: 10 launch wallets own 72%,0,0.1,,,42839,,,
 2026-10-09 22:37:55,GHqnBCtAZJ725Yi1emD367QtkiqHReVo3bcvoCJRpump,RUNNER,SELL,bundled: 10 launch wallets own 72%,0,0.0967,-3.3,shift ended,44765,4.5,4.5,19
+2026-10-09 23:32:24,777xpeCsoV9M3DVwtNgHM7WzxzqEyTGd3JQR7LJapump,PIXEL,BUY,past buy window (late mover),64.4,0.1,,,10965,,,
+2026-10-09 23:34:34,8pS6g9agNeQ9qxuotpRYxXsaBKa3ZeJXUgLYkGXvpump,Lilly,BUY,dev sold,0,0.1,,,11586,,,
+2026-10-09 23:35:52,8pS6g9agNeQ9qxuotpRYxXsaBKa3ZeJXUgLYkGXvpump,Lilly,SELL,dev sold,0,0.027,-73.0,stop loss -72%,3428,23.7,-70.4,78
+2026-10-09 23:36:48,3hDfheUUSyQ349iNz7NiPSVy4JnNgsZpyjRuQDyqpump,QMINER,BUY,dev sold,0,0.1,,,11956,,,
+2026-10-09 23:36:48,777xpeCsoV9M3DVwtNgHM7WzxzqEyTGd3JQR7LJapump,PIXEL,SELL,past buy window (late mover),64.4,0.17371,73.7,trailing stop,17695,153.4,-27.8,264
+2026-10-09 23:37:26,3hDfheUUSyQ349iNz7NiPSVy4JnNgsZpyjRuQDyqpump,QMINER,SELL,dev sold,0,0.06285,-37.1,stop loss -36%,8153,9.0,-31.8,37
