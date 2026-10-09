@@ -2025,3 +2025,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 00:25:54,Hc5RWWFK2uBmGMZacBz21szqxdMvF7bxNYRvSkBPE3Se,tama,SELL,score below threshold,42.6,0.06362,-36.4,stop loss -35%,5769,66.1,-30.9,105
 2026-10-09 00:36:58,8RPEmgXiCENUnq9MvRKSy8rDKq6Bqkvp8sQ29pQYFiuP,Attention,BUY,dev sold,0,0.1,,,8703,,,
 2026-10-09 00:38:27,8RPEmgXiCENUnq9MvRKSy8rDKq6Bqkvp8sQ29pQYFiuP,Attention,SELL,dev sold,0,0.114,14.0,shift ended,10737,69.4,-6.4,89
+2026-10-09 01:26:43,EJPCaCz6VdYXFZLMcBffF3iKTw1zMFhj9praYoKMgvFW,MIKITA,BUY,dev sold,0,0.1,,,11211,,,
+2026-10-09 01:26:59,EJPCaCz6VdYXFZLMcBffF3iKTw1zMFhj9praYoKMgvFW,MIKITA,SELL,dev sold,0,0.06293,-37.1,stop loss -36%,7655,16.8,-31.7,16
+2026-10-09 01:27:36,DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump,MIKITA,BUY,dev sold,0,0.1,,,12239,,,
+2026-10-09 01:29:19,4At7e5owcjguMyeYCjsyG9U6urLpwHqTQgmai2jXpump,FI,BUY,bundled: 15 launch wallets own 14%,0,0.1,,,11648,,,
+2026-10-09 01:29:48,DHUCi9GHRb6KZQDewSVGsnex71eAk3vTk1j64NqJpump,MIKITA,SELL,dev sold,0,0.16759,67.6,trailing stop,18151,122.1,-19.5,132
+2026-10-09 01:30:48,9yZYVCkZEywexr4JNrUTdG7uje8aGKuwJDEHNPYKpump,Mikita,BUY,dev sold,0,0.1,,,11966,,,
+2026-10-09 01:31:45,9yZYVCkZEywexr4JNrUTdG7uje8aGKuwJDEHNPYKpump,Mikita,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,8242,13.7,-31.1,57
+2026-10-09 01:34:29,4At7e5owcjguMyeYCjsyG9U6urLpwHqTQgmai2jXpump,FI,SELL,bundled: 15 launch wallets own 14%,0,0.27801,178.0,no trading (stale),44848,283.7,-8.1,310
+2026-10-09 01:34:52,aiTQp8NoBp2vi41yKhYhsQa5J3VXDvY8RqUsW6EmSRQ,bazucat,BUY,dev sold,0,0.1,,,8267,,,
+2026-10-09 01:35:00,aiTQp8NoBp2vi41yKhYhsQa5J3VXDvY8RqUsW6EmSRQ,bazucat,SELL,dev sold,0,0.0631,-36.9,stop loss -36%,5663,0.4,-31.5,8
+2026-10-09 01:35:34,EcUA2zb2TP3bwXcH87oEmsjibtVUjEvAVsE9UtEupump,HOODGARY,BUY,bundled: 12 launch wallets own 76%,0,0.1,,,36280,,,
+2026-10-09 01:35:54,EcUA2zb2TP3bwXcH87oEmsjibtVUjEvAVsE9UtEupump,HOODGARY,SELL,bundled: 12 launch wallets own 76%,0,0.01837,-81.6,stop loss -81%,7358,9.6,-79.7,20
+2026-10-09 01:39:36,eXbX42sjUJyE2Etc2waRu9YLtXPvwcKHLLg9LthE3kJ,ASTRA,BUY,dev sold,0,0.1,,,10260,,,
+2026-10-09 01:39:59,eXbX42sjUJyE2Etc2waRu9YLtXPvwcKHLLg9LthE3kJ,ASTRA,SELL,dev sold,0,0.06044,-39.6,stop loss -38%,6732,15.3,-34.4,22
