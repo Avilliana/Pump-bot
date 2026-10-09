@@ -2117,3 +2117,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 05:34:07,H9PF1nod9zPEfrT1XiMyo6sSxYhoggH8LZjRfViupump,SLIME,SELL,dev holds 31.2%,0,0.12958,29.6,dev sold,25974,67.0,-0.5,111
 2026-10-09 05:35:13,uAJDJjBVekfZGbE6KqZLwMHXMhCDyhNaZkYWxanpump,FRUF,BUY,bundled: 11 launch wallets own 74%,0,0.1,,,33793,,,
 2026-10-09 05:38:14,uAJDJjBVekfZGbE6KqZLwMHXMhCDyhNaZkYWxanpump,FRUF,SELL,bundled: 11 launch wallets own 74%,0,0.12443,24.4,shift ended,45402,34.4,0.0,181
+2026-10-09 06:20:51,Dn8jCNoju8dwKNUp6aG1b7RPSLZqPs8eiZzYctR3etmQ,Clanker,BUY,dev sold,0,0.1,,,14325,,,
+2026-10-09 06:21:20,2zJ5SWBbsZLifcqWKm1uk6vcqWfWsLm3ud7NkafZpump,XingXing,BUY,dev sold,0,0.1,,,10934,,,
+2026-10-09 06:21:26,2zJ5SWBbsZLifcqWKm1uk6vcqWfWsLm3ud7NkafZpump,XingXing,SELL,dev sold,0,0.02902,-71.0,stop loss -70%,3474,2.1,-68.2,6
+2026-10-09 06:24:09,8Encyq4pQboDXdEsBQFdAihjY43Hdu3bPe4jMv5totin,TOOTIN,BUY,bundled: 9 launch wallets own 20%,0,0.1,,,9464,,,
+2026-10-09 06:28:05,8Encyq4pQboDXdEsBQFdAihjY43Hdu3bPe4jMv5totin,TOOTIN,SELL,bundled: 9 launch wallets own 20%,0,0.23434,134.3,dev sold,27802,221.2,-8.7,236
+2026-10-09 06:28:13,4hXFQognvxdwwEzLQkPgHYptkRZYywB8My7oj83upump,Trader,BUY,dev sold,0,0.1,,,8958,,,
+2026-10-09 06:29:23,4hXFQognvxdwwEzLQkPgHYptkRZYywB8My7oj83upump,Trader,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,6174,10.9,-31.1,70
+2026-10-09 06:29:42,Dn8jCNoju8dwKNUp6aG1b7RPSLZqPs8eiZzYctR3etmQ,Clanker,SELL,dev sold,0,0.24862,148.6,no trading (stale),45419,216.8,-13.2,532
+2026-10-09 06:35:18,HoLyRoDEQvK5zPsGpcz3BbCWhceTGhWAGnVifSoUShit,holyshit,BUY,score below threshold,59.7,0.1,,,20013,,,
+2026-10-09 06:35:30,25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump,Runepunk,BUY,dev holds 10.1%,0,0.1,,,14653,,,
+2026-10-09 06:36:22,HoLyRoDEQvK5zPsGpcz3BbCWhceTGhWAGnVifSoUShit,holyshit,SELL,score below threshold,59.7,0.05629,-43.7,stop loss -42%,12225,0.9,-38.9,64
+2026-10-09 06:37:39,CkRLcxggGcXxA62aG4zb4CTTmSUHjqjmrZBU3ea8kpRN,Credits,BUY,dev sold,0,0.1,,,8914,,,
+2026-10-09 06:39:15,25fDJFJSVa9x3zjnYkHYjkKN1fZpcjWK21FCXRHXpump,Runepunk,SELL,dev holds 10.1%,0,0.09213,-7.9,shift ended,14609,53.3,-3.3,224
+2026-10-09 06:39:15,CkRLcxggGcXxA62aG4zb4CTTmSUHjqjmrZBU3ea8kpRN,Credits,SELL,dev sold,0,0.09251,-7.5,shift ended,8931,48.8,-12.7,95
