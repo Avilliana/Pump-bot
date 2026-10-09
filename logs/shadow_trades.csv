@@ -2393,3 +2393,35 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 17:37:18,GWVThtNZEwGGyL7UMYDKRuYQfrKBstBDVsZ3zVAipump,HallowCate,SELL,dev holds 73.1%,0,0.01114,-88.9,stop loss -88%,4220,27.4,-87.5,762
 2026-10-09 17:37:50,aD4PZRFzTLn5tBSLPbF5yATnUcFB76Bcg4sNHmgpump,PADPAD,SELL,score below threshold,55.9,0.06063,-39.4,stop loss -38%,20688,0.0,-34.3,229
 2026-10-09 17:38:06,DyzBdnmzq8eZ9aTFeLsdQNmideqoHdJKaBiHxNx5pump,HATCH,SELL,score below threshold,55.0,0.12714,27.1,shift ended,24246,47.0,-14.7,54
+2026-10-09 18:21:56,FPDBsahFiv2QiD5gGVfd4qb8CAys5MmfBD9aBVLzDkA1,Peppa,BUY,dev sold,0,0.1,,,8955,,,
+2026-10-09 18:22:07,FPDBsahFiv2QiD5gGVfd4qb8CAys5MmfBD9aBVLzDkA1,Peppa,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,6188,0.2,-30.9,12
+2026-10-09 18:22:18,HCzLrFksjxqcs6T5JT2FU47XPrCcFDUQx5Gmcy8E45ru,UBEREATS,BUY,dev sold,0,0.1,,,11785,,,
+2026-10-09 18:22:52,HCzLrFksjxqcs6T5JT2FU47XPrCcFDUQx5Gmcy8E45ru,UBEREATS,SELL,dev sold,0,0.06151,-38.5,stop loss -37%,7867,28.5,-33.2,34
+2026-10-09 18:24:25,FTapJ2c4MWtuNx1MAE7fcV3vqV3j7X6StpkbuMpGpump,receipts,BUY,dev holds 9.6%,0,0.1,,,12559,,,
+2026-10-09 18:24:30,EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump,Retail,BUY,dev sold,0,0.1,,,14190,,,
+2026-10-09 18:24:38,EK6Y9m4pqSSNbfTgJJzCvJmMufhwVTqZj62Hhr9Jpump,Retail,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,9669,2.7,-31.9,8
+2026-10-09 18:26:00,FTapJ2c4MWtuNx1MAE7fcV3vqV3j7X6StpkbuMpGpump,receipts,SELL,dev holds 9.6%,0,0.06313,-36.9,stop loss -36%,8601,84.9,-31.5,95
+2026-10-09 18:27:12,2qhpdPyTUFu8xKedT9Bikdn2sEtnhdwDFobxR2n5pump,QLM,BUY,dev sold,0,0.1,,,10065,,,
+2026-10-09 18:27:15,F6StiLdcsuS9UzqqWNZVHJimv4uekQQQf9nExwi9pump,MEGGA,BUY,dev sold,0,0.1,,,8372,,,
+2026-10-09 18:27:19,F6StiLdcsuS9UzqqWNZVHJimv4uekQQQf9nExwi9pump,MEGGA,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,5753,0.0,-31.3,5
+2026-10-09 18:29:47,D6fc17Z4KRKvSqRRUbA5L4wwfAGgDR44Kzd9J1Hypump,LARPTHROPIC,BUY,dev sold,0,0.1,,,11769,,,
+2026-10-09 18:29:48,4yRJVFpK4kRcJ9vRBqVhX2wPVNzkxhaWaH87PD49pump,RI,BUY,dev sold,0,0.1,,,9403,,,
+2026-10-09 18:29:50,4qt76uzWT5kxbWkXN4AhN2fEkmhmaEvN3NEEAkLzpump,SONAR,BUY,score below threshold,60.7,0.1,,,8504,,,
+2026-10-09 18:30:13,EMUUB3uL3BdibEWsfxJWtf5sNDgjn8eyza3fuW9Dpump,SHOP,BUY,score below threshold,52.0,0.1,,,45012,,,
+2026-10-09 18:30:21,D6fc17Z4KRKvSqRRUbA5L4wwfAGgDR44Kzd9J1Hypump,LARPTHROPIC,SELL,dev sold,0,0.05058,-49.4,stop loss -48%,6469,99.4,-45.0,35
+2026-10-09 18:30:27,4yRJVFpK4kRcJ9vRBqVhX2wPVNzkxhaWaH87PD49pump,RI,SELL,dev sold,0,0.06337,-36.6,stop loss -35%,6467,9.8,-31.2,39
+2026-10-09 18:31:18,EMUUB3uL3BdibEWsfxJWtf5sNDgjn8eyza3fuW9Dpump,SHOP,SELL,score below threshold,52.0,0.09252,-7.5,no trading (stale),45012,0.0,0.0,65
+2026-10-09 18:31:25,J8jHjuBevqRPGKLd4xjZvxdePZQJZnwWNhkXnKPrpump,MOON,BUY,dev sold,0,0.1,,,15946,,,
+2026-10-09 18:31:28,J8jHjuBevqRPGKLd4xjZvxdePZQJZnwWNhkXnKPrpump,MOON,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,10884,0.0,-31.7,3
+2026-10-09 18:33:11,886ExikyHDn9xgfGAX922Ly6yjRkPi9AVCHzLyrgpump,Nigga,BUY,dev sold,0,0.1,,,14831,,,
+2026-10-09 18:34:16,Diqf6to3TbZzETu4a2v13hxAA4UFVRJbC3jawheApump,qLAB,BUY,score below threshold,40.6,0.1,,,15467,,,
+2026-10-09 18:34:19,4qt76uzWT5kxbWkXN4AhN2fEkmhmaEvN3NEEAkLzpump,SONAR,SELL,score below threshold,60.7,0.18749,87.5,trailing stop,16210,180.9,-8.4,270
+2026-10-09 18:35:17,886ExikyHDn9xgfGAX922Ly6yjRkPi9AVCHzLyrgpump,Nigga,SELL,dev sold,0,0.17169,71.7,trailing stop,23334,129.1,-26.2,125
+2026-10-09 18:37:12,74pgsA5XQSSWzvCCshTHMpsEEwayDnEDX8krPmQYogVY,CHILLHOUSE,BUY,dev sold,0,0.1,,,9944,,,
+2026-10-09 18:37:43,PK2Y6zx43uPZ2Dy31ghFn8ZwRDFWrAnusskh4uXpump,stack,BUY,dev sold,0,0.1,,,8032,,,
+2026-10-09 18:37:50,74pgsA5XQSSWzvCCshTHMpsEEwayDnEDX8krPmQYogVY,CHILLHOUSE,SELL,dev sold,0,0.06079,-39.2,stop loss -38%,6562,20.3,-34.0,38
+2026-10-09 18:38:01,PK2Y6zx43uPZ2Dy31ghFn8ZwRDFWrAnusskh4uXpump,stack,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,5525,0.7,-31.2,19
+2026-10-09 18:38:30,Huxw2T6zeaBtzW9bpVNtHZ5UKCE8bm3pwrW9HhB8pump,BATON,BUY,dev sold,0,0.1,,,18275,,,
+2026-10-09 18:38:31,Huxw2T6zeaBtzW9bpVNtHZ5UKCE8bm3pwrW9HhB8pump,BATON,SELL,dev sold,0,0.0617,-38.3,stop loss -37%,12228,15.0,-33.1,1
+2026-10-09 18:38:41,2qhpdPyTUFu8xKedT9Bikdn2sEtnhdwDFobxR2n5pump,QLM,SELL,dev sold,0,0.13224,32.2,shift ended,14382,47.9,-25.1,689
+2026-10-09 18:38:41,Diqf6to3TbZzETu4a2v13hxAA4UFVRJbC3jawheApump,qLAB,SELL,score below threshold,40.6,0.08943,-10.6,shift ended,14970,6.4,-29.1,265
