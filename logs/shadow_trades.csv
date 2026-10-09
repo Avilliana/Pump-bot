@@ -2039,3 +2039,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 01:35:54,EcUA2zb2TP3bwXcH87oEmsjibtVUjEvAVsE9UtEupump,HOODGARY,SELL,bundled: 12 launch wallets own 76%,0,0.01837,-81.6,stop loss -81%,7358,9.6,-79.7,20
 2026-10-09 01:39:36,eXbX42sjUJyE2Etc2waRu9YLtXPvwcKHLLg9LthE3kJ,ASTRA,BUY,dev sold,0,0.1,,,10260,,,
 2026-10-09 01:39:59,eXbX42sjUJyE2Etc2waRu9YLtXPvwcKHLLg9LthE3kJ,ASTRA,SELL,dev sold,0,0.06044,-39.6,stop loss -38%,6732,15.3,-34.4,22
+2026-10-09 02:18:59,Fn6A82rNxrAz53pen82iu52Y8UqE28yFBo634xGgpump,BUNKER,BUY,bundled: 21 launch wallets own 21%,0,0.1,,,13801,,,
+2026-10-09 02:20:40,AyW5mmiPRLN8uhCJXDRFLcNjrJXyeDRX8CVaWWGnXw2S,HeeHaw,BUY,dev sold,0,0.1,,,19142,,,
+2026-10-09 02:21:27,Fn6A82rNxrAz53pen82iu52Y8UqE28yFBo634xGgpump,BUNKER,SELL,bundled: 21 launch wallets own 21%,0,0.06122,-38.8,stop loss -37%,9167,4.0,-33.6,148
+2026-10-09 02:24:29,AyW5mmiPRLN8uhCJXDRFLcNjrJXyeDRX8CVaWWGnXw2S,HeeHaw,SELL,dev sold,0,0.20728,107.3,no trading (stale),45016,135.2,5.8,229
+2026-10-09 02:30:59,H371H2dA8vmqjdmC6Mi4Y7uTeVo81CfND3kGECsfpump,COD,BUY,score below threshold,55.4,0.1,,,8839,,,
+2026-10-09 02:32:15,EUTZ1VzsdBviBAhBu9aKfBCqVctnrxcCxnhnN8QT55Yn,BALDNALD,BUY,dev sold,0,0.1,,,9920,,,
+2026-10-09 02:32:55,EUTZ1VzsdBviBAhBu9aKfBCqVctnrxcCxnhnN8QT55Yn,BALDNALD,SELL,dev sold,0,0.06224,-37.8,stop loss -36%,6701,6.0,-32.4,40
+2026-10-09 02:34:52,4EP6dPWAjKyNvznRBSrkPeTsciVZ3MYDSKbDtsYRpump,Punchbot,BUY,dev sold,0,0.1,,,11657,,,
+2026-10-09 02:35:31,4EP6dPWAjKyNvznRBSrkPeTsciVZ3MYDSKbDtsYRpump,Punchbot,SELL,dev sold,0,0.06287,-37.1,stop loss -36%,7952,5.6,-31.8,39
+2026-10-09 02:37:27,B8LRsmraf4F95Ev1zuDhP78H8H23SJnLoYmqLLCfqWy2,TOKEN,BUY,dev sold,0,0.1,,,10148,,,
+2026-10-09 02:37:56,B8LRsmraf4F95Ev1zuDhP78H8H23SJnLoYmqLLCfqWy2,TOKEN,SELL,dev sold,0,0.06346,-36.5,stop loss -35%,6988,6.6,-31.1,29
+2026-10-09 02:38:26,H371H2dA8vmqjdmC6Mi4Y7uTeVo81CfND3kGECsfpump,COD,SELL,score below threshold,55.4,0.21151,111.5,shift ended,21608,160.4,-21.7,447
