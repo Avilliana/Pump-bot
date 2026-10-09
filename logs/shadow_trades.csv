@@ -2179,3 +2179,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-09 09:28:40,9UX4dZduWBbyjdDAYBkp4n24Vk3SuDuT9ZBFiDg9pump,OMIO,SELL,dev sold,0,0.06208,-37.9,stop loss -37%,6145,14.6,-32.6,20
 2026-10-09 09:31:33,UQkv5gtnUNptQEUYhf9PkPKGmKyBUJzQnJgHZcdpump,nox,SELL,score below threshold,58.7,0.10649,6.5,no trading (stale),45427,15.0,-3.0,209
 2026-10-09 09:38:18,AccxGjtmWb7A3rELptBk2KCog4nB1ixKc8n5Jpnhpump,TST,SELL,bundled: 126 launch wallets own 22%,0,0.08599,-14.0,shift ended,26071,25.8,-13.4,630
+2026-10-09 10:20:42,FCGCStYGMw5CzLuH8cmagQJK8g5fvG2PfgJLJvwoEMSb,NIDAL,BUY,dev sold,0,0.1,,,11847,,,
+2026-10-09 10:21:35,FRFA11UK4wtcBzZN2rb5uHVmCxzXRWisguhYuGzbHkVu,WHOBIT,BUY,dev sold,0,0.1,,,8155,,,
+2026-10-09 10:21:44,FRFA11UK4wtcBzZN2rb5uHVmCxzXRWisguhYuGzbHkVu,WHOBIT,SELL,dev sold,0,0.06241,-37.6,stop loss -36%,5526,0.0,-32.2,8
+2026-10-09 10:21:57,o49DfW9rCjQJnocBcpDfKsdvX5wp4VXcZnnwfoPpump,Poteto,BUY,dev sold,0,0.1,,,12138,,,
+2026-10-09 10:23:02,o49DfW9rCjQJnocBcpDfKsdvX5wp4VXcZnnwfoPpump,Poteto,SELL,dev sold,0,0.06365,-36.4,stop loss -35%,8381,84.1,-31.0,65
+2026-10-09 10:24:42,9Gyg7Jyyv1UWmdLssKu72UA29J8fmStmRqjwDpCMRmVa,QC,BUY,past buy window (late mover),72.8,0.1,,,17623,,,
+2026-10-09 10:26:02,5TrMFwj13vLn96ed9uTqFEDQxMJ95LM4bnqwYDPxpump,PQI,BUY,dev sold,0,0.1,,,11258,,,
+2026-10-09 10:27:58,9Gyg7Jyyv1UWmdLssKu72UA29J8fmStmRqjwDpCMRmVa,QC,SELL,past buy window (late mover),72.8,0.0634,-36.6,stop loss -35%,12115,5.5,-31.3,197
+2026-10-09 10:28:26,BTdoGoLSg4VwPxGemkZPvx6jb9HTfAvvu694fGVMpump,vrl,BUY,dev sold,0,0.1,,,13251,,,
+2026-10-09 10:29:55,FCGCStYGMw5CzLuH8cmagQJK8g5fvG2PfgJLJvwoEMSb,NIDAL,SELL,dev sold,0,0.06346,-36.5,stop loss -35%,8151,106.7,-31.1,553
+2026-10-09 10:30:54,5TrMFwj13vLn96ed9uTqFEDQxMJ95LM4bnqwYDPxpump,PQI,SELL,dev sold,0,0.2037,103.7,trailing stop,25427,225.6,-0.6,293
+2026-10-09 10:31:05,9dT7pSkVaFSR3mNV4xcUEoQ7LJmsnE3v6nq3V711anLS,MITOSIS,BUY,dev sold,0,0.1,,,19860,,,
+2026-10-09 10:31:28,BTdoGoLSg4VwPxGemkZPvx6jb9HTfAvvu694fGVMpump,vrl,SELL,dev sold,0,0.09252,-7.5,no trading (stale),13240,0.0,-0.0,182
+2026-10-09 10:31:43,6QtnPDV42Z4X5RDCecbDJKsmudCNDPpE4LE5p936m4sP,QUANT,BUY,past buy window (late mover),77.6,0.1,,,8525,,,
+2026-10-09 10:31:53,9dT7pSkVaFSR3mNV4xcUEoQ7LJmsnE3v6nq3V711anLS,MITOSIS,SELL,dev sold,0,0.06302,-37.0,stop loss -36%,13570,34.5,-31.7,48
+2026-10-09 10:34:38,2zuN2yXRQbV7c9sgtCC7ssSKHX8wTxXewNsWBdwGwLrQ,neigh,BUY,dev sold,0,0.1,,,21187,,,
+2026-10-09 10:35:40,2zuN2yXRQbV7c9sgtCC7ssSKHX8wTxXewNsWBdwGwLrQ,neigh,SELL,dev sold,0,0.06227,-37.7,stop loss -36%,14305,38.4,-32.5,62
+2026-10-09 10:38:28,AYErvjV29b1dZYHXkjxbdbB7CqNMA4FEZsuTGvUjmQrp,CMO,BUY,dev sold,0,0.1,,,14277,,,
+2026-10-09 10:38:43,6QtnPDV42Z4X5RDCecbDJKsmudCNDPpE4LE5p936m4sP,QUANT,SELL,past buy window (late mover),77.6,0.20856,108.6,shift ended,20049,135.2,-25.4,420
+2026-10-09 10:38:43,AYErvjV29b1dZYHXkjxbdbB7CqNMA4FEZsuTGvUjmQrp,CMO,SELL,dev sold,0,0.09313,-6.9,shift ended,14389,7.8,-11.7,15
