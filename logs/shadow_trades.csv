@@ -2713,3 +2713,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 09:23:40,xQk44858UUCoY7o2nakUQx952dLiJkCQLsGQx1cpump,FatMan,SELL,dev sold,0,0.18711,87.1,trailing stop,21321,167.0,1.4,90
 2026-10-10 09:30:27,AfsFgaUFhPp8zEn48wfQa6g8cpNwLe71giSMnqojpump,PREMARKET,BUY,bundled: 41 launch wallets own 7%,0,0.1,,,10167,,,
 2026-10-10 09:35:15,AfsFgaUFhPp8zEn48wfQa6g8cpNwLe71giSMnqojpump,PREMARKET,SELL,bundled: 41 launch wallets own 7%,0,0.06351,-36.5,stop loss -35%,7006,67.6,-31.1,288
+2026-10-10 10:18:34,35dSyrXjRUNLuTnRdQ6gQYdKhCknGLSzpmeTqTabpump,IQ,BUY,bundled: 14 launch wallets own 6%,0,0.1,,,8505,,,
+2026-10-10 10:18:59,35dSyrXjRUNLuTnRdQ6gQYdKhCknGLSzpmeTqTabpump,IQ,SELL,bundled: 14 launch wallets own 6%,0,0.06347,-36.5,stop loss -35%,5860,6.2,-31.1,25
+2026-10-10 10:22:03,8EtbTYor9xEfecPUTN73ne2HonaVT94uFcJjXJP4Uq5b,SHM,BUY,bundled: 18 launch wallets own 46%,0,0.1,,,10858,,,
+2026-10-10 10:22:15,gc54c4rFnJFE754J3inUv3Mi3EBxz9gn4KM74sSpump,HIBIDI,BUY,dev sold,0,0.1,,,8363,,,
+2026-10-10 10:27:41,FvSE99EkoiTY8Wv34V2RpWVNxnrLe7o9gyKnd4HddtjQ,SDR,BUY,bundled: 65 launch wallets own 42%,0,0.1,,,16339,,,
+2026-10-10 10:34:38,8EtbTYor9xEfecPUTN73ne2HonaVT94uFcJjXJP4Uq5b,SHM,SELL,bundled: 18 launch wallets own 46%,0,0.17279,72.8,trailing stop,17234,128.9,0.0,756
+2026-10-10 10:34:42,GyEMt9pjK5VaxoFNNUTvzVR6b9bBWk9tCRcARBtUpump,Flybot,BUY,dev sold,0,0.1,,,11998,,,
+2026-10-10 10:34:53,GyEMt9pjK5VaxoFNNUTvzVR6b9bBWk9tCRcARBtUpump,Flybot,SELL,dev sold,0,0.0634,-36.6,stop loss -35%,8252,4.1,-31.2,11
+2026-10-10 10:36:26,DDy2EVNnCDqbPbofiY9h2Ff5hJrCNfYMAbS95qSgpump,GHOST,BUY,dev sold,0,0.1,,,9351,,,
+2026-10-10 10:37:03,GeohdLGrhFvvzCjU9mjj4pd2jJMLVnkuhpTMTYwfpump,GHOST,BUY,dev sold,0,0.1,,,8003,,,
+2026-10-10 10:37:15,GeohdLGrhFvvzCjU9mjj4pd2jJMLVnkuhpTMTYwfpump,GHOST,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,5496,0.0,-31.3,12
+2026-10-10 10:37:52,gc54c4rFnJFE754J3inUv3Mi3EBxz9gn4KM74sSpump,HIBIDI,SELL,dev sold,0,0.22323,123.2,shift ended,22400,200.9,-27.5,938
+2026-10-10 10:37:52,FvSE99EkoiTY8Wv34V2RpWVNxnrLe7o9gyKnd4HddtjQ,SDR,SELL,bundled: 65 launch wallets own 42%,0,0.08321,-16.8,shift ended,14696,70.0,-20.8,611
+2026-10-10 10:37:52,DDy2EVNnCDqbPbofiY9h2Ff5hJrCNfYMAbS95qSgpump,GHOST,SELL,dev sold,0,0.09736,-2.6,shift ended,9857,33.7,-18.3,86
