@@ -2675,3 +2675,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 06:37:29,w37Z4VdHzhEHV4u1b6nzLkNvoyejBMpaFgs7ZSBpump,Vaulted,BUY,bundled: 23 launch wallets own 62%,0,0.1,,,21180,,,
 2026-10-10 06:38:24,3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump,KENDUPUP,SELL,dev holds 44.5%,0,0.15553,55.5,shift ended,15574,89.1,0.0,934
 2026-10-10 06:38:24,w37Z4VdHzhEHV4u1b6nzLkNvoyejBMpaFgs7ZSBpump,Vaulted,SELL,bundled: 23 launch wallets own 62%,0,0.13279,32.8,shift ended,30380,48.9,-1.9,55
+2026-10-10 07:21:10,J5hANvDGR4NeCbJ425HdeSKXMrfpKSF8wrHaJXchpump,INTERNET,BUY,bundled: 21 launch wallets own 63%,0,0.1,,,22968,,,
+2026-10-10 07:22:14,J5hANvDGR4NeCbJ425HdeSKXMrfpKSF8wrHaJXchpump,INTERNET,SELL,bundled: 21 launch wallets own 63%,0,0.06301,-37.0,stop loss -36%,15688,35.7,-31.7,64
+2026-10-10 07:24:14,jYs94KmPLg2MXhcvbyKyvZgxowhajcQgdymGsWQpump,ZOO,BUY,bundled: 22 launch wallets own 62%,0,0.1,,,22564,,,
+2026-10-10 07:24:19,jYs94KmPLg2MXhcvbyKyvZgxowhajcQgdymGsWQpump,ZOO,SELL,bundled: 22 launch wallets own 62%,0,0.06344,-36.6,stop loss -35%,15518,0.1,-31.2,5
+2026-10-10 07:26:44,398HJnPo5WghM78GiwPV3jZnPAuUMqgryUUxeE7Npump,VEYRA,BUY,bundled: 23 launch wallets own 62%,0,0.1,,,26772,,,
+2026-10-10 07:29:07,398HJnPo5WghM78GiwPV3jZnPAuUMqgryUUxeE7Npump,VEYRA,SELL,bundled: 23 launch wallets own 62%,0,0.06197,-38.0,stop loss -37%,17965,55.5,-32.8,143
+2026-10-10 07:33:13,GZXLwqpGukvRTCSUjicFbgoaesjLz7WZcM8N7Pb9pump,AS1,BUY,dev sold,0,0.1,,,8439,,,
+2026-10-10 07:33:38,GZXLwqpGukvRTCSUjicFbgoaesjLz7WZcM8N7Pb9pump,AS1,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,5826,1.9,-31.0,24
+2026-10-10 07:34:56,7b6dX3nE25xrfNViEKZHL9wVJFcBxQYuWPpmzHUxx28H,ROSE,BUY,past buy window (late mover),64.2,0.1,,,13732,,,
+2026-10-10 07:35:45,7b6dX3nE25xrfNViEKZHL9wVJFcBxQYuWPpmzHUxx28H,ROSE,SELL,past buy window (late mover),64.2,0.06356,-36.4,stop loss -35%,9467,0.0,-31.1,49
+2026-10-10 07:35:58,C7Q8nqEyY2qVjCGimYbCtKXHz1pdzRbMGPCrpa53pump,Optimus,BUY,dev sold,0,0.1,,,19989,,,
+2026-10-10 07:36:19,384xKgzqG4oX978eTjF3tqNaiJeYMRuPmm3iCEHjpump,STARLINK,BUY,bundled: 21 launch wallets own 63%,0,0.1,,,22416,,,
+2026-10-10 07:36:24,C7Q8nqEyY2qVjCGimYbCtKXHz1pdzRbMGPCrpa53pump,Optimus,SELL,dev sold,0,0.06242,-37.6,stop loss -36%,13528,0.9,-32.3,26
+2026-10-10 07:37:56,384xKgzqG4oX978eTjF3tqNaiJeYMRuPmm3iCEHjpump,STARLINK,SELL,bundled: 21 launch wallets own 63%,0,0.06208,-37.9,stop loss -37%,15087,59.6,-32.7,97
