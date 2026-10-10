@@ -29,7 +29,7 @@
   "reject_if_dev_sells": true,
   "bundle_window_seconds": 2,
   "bundle_max_early_wallets": 4,
-  "bundle_max_early_pct": 12,
+  "bundle_max_early_pct": 5,
   "bundle_max_unseen_sol": 3,
   "max_top10_pct": 35,
   "bundle_slot_window": 1,
