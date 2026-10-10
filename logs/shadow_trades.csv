@@ -2965,3 +2965,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 22:35:04,GfqF6MLbzoAY7nJJKRqHKJobrWNa3G3ypvt8wmoUpump,Ollie,SELL,dev sold,0,0.06301,-37.0,stop loss -36%,6442,51.7,-31.6,255
 2026-10-10 22:35:44,3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump,Ollie,BUY,dev sold,0,0.1,,,8347,,,
 2026-10-10 22:36:09,3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump,Ollie,SELL,dev sold,0,0.06251,-37.5,stop loss -36%,5665,7.9,-32.1,26
+2026-10-10 23:19:59,CeG1EXLbwphGdtoMYY8ujN7yZWb8ioikLhvEwyLbpump,1f916,BUY,dev sold,0,0.1,,,8411,,,
+2026-10-10 23:21:04,B4Fkkz5iRnLqsAASiMrJG28PDm58ngegCQgund62pump,CYBERPEPE,BUY,dev sold,0,0.1,,,26984,,,
+2026-10-10 23:21:41,2S1Sd57u9dikJ1PJNXQDABbNXxWn64aapnkkDwrqpump,ChonChon,BUY,dev sold,0,0.1,,,9270,,,
+2026-10-10 23:21:47,2S1Sd57u9dikJ1PJNXQDABbNXxWn64aapnkkDwrqpump,ChonChon,SELL,dev sold,0,0.06367,-36.3,stop loss -35%,6406,11.7,-30.9,6
+2026-10-10 23:23:41,8G5RepQ9Q726utg2UZNXNZ2V1MhmbArBB9VKjNPnpump,veil,BUY,dev sold,0,0.1,,,8340,,,
+2026-10-10 23:23:51,CeG1EXLbwphGdtoMYY8ujN7yZWb8ioikLhvEwyLbpump,1f916,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,5814,95.8,-30.9,232
+2026-10-10 23:24:04,4WhM1KWNF5K65DVg7YmN4brZUehrCCho5pqJZNZ6pump,RPDOG,BUY,dev sold,0,0.1,,,10184,,,
+2026-10-10 23:26:03,Fb23Ja3SbRPFszSY5x2k57ShP6Q4yS4rpz3FHaDapump,Earn,BUY,score below threshold,43.4,0.1,,,16559,,,
+2026-10-10 23:27:18,8G5RepQ9Q726utg2UZNXNZ2V1MhmbArBB9VKjNPnpump,veil,SELL,dev sold,0,0.06358,-36.4,stop loss -35%,5756,46.9,-31.0,217
+2026-10-10 23:27:51,B4Fkkz5iRnLqsAASiMrJG28PDm58ngegCQgund62pump,CYBERPEPE,SELL,dev sold,0,0.15549,55.5,no trading (stale),45287,67.8,1.5,408
+2026-10-10 23:28:36,A6URy8NNUwJxzMQbFtHCia2m6XCbiVwkBesnFwWFeN7G,TESSELAI,BUY,dev sold,0,0.1,,,8435,,,
+2026-10-10 23:28:43,A6URy8NNUwJxzMQbFtHCia2m6XCbiVwkBesnFwWFeN7G,TESSELAI,SELL,dev sold,0,0.06194,-38.1,stop loss -37%,5672,17.2,-32.8,7
+2026-10-10 23:28:47,xWHQgxU2q35fszHr3M3AP1pgqfdQRgdHBo7btgHpump,TESSELAI,BUY,dev sold,0,0.1,,,29143,,,
+2026-10-10 23:28:53,4WhM1KWNF5K65DVg7YmN4brZUehrCCho5pqJZNZ6pump,RPDOG,SELL,dev sold,0,0.17333,73.3,trailing stop,16251,131.2,-22.1,289
+2026-10-10 23:29:00,xWHQgxU2q35fszHr3M3AP1pgqfdQRgdHBo7btgHpump,TESSELAI,SELL,dev sold,0,0.06213,-37.9,stop loss -37%,19625,0.0,-32.7,13
+2026-10-10 23:29:16,Fb23Ja3SbRPFszSY5x2k57ShP6Q4yS4rpz3FHaDapump,Earn,SELL,score below threshold,43.4,0.06354,-36.5,stop loss -35%,11393,20.7,-31.1,193
+2026-10-10 23:29:22,Bw3731GhLFFDViTUB9fEPvqYn9XvrrJbWCKPbDmHpump,TESSEL,BUY,dev sold,0,0.1,,,11058,,,
+2026-10-10 23:29:42,Bw3731GhLFFDViTUB9fEPvqYn9XvrrJbWCKPbDmHpump,TESSEL,SELL,dev sold,0,0.17168,71.7,trailing stop,16955,128.4,-1.7,21
+2026-10-10 23:29:44,HrpUfs1d3sFiBeravHRZ6WzdeaFbdnSnNEVXbWM1pump,TESSELAI,BUY,dev sold,0,0.1,,,17890,,,
+2026-10-10 23:31:48,EnjercNWRLvuk4bMhiubzgL1Zbg4VLJcU8tGw2qApump,Tesselai,BUY,dev sold,0,0.1,,,19222,,,
+2026-10-10 23:33:06,HrpUfs1d3sFiBeravHRZ6WzdeaFbdnSnNEVXbWM1pump,TESSELAI,SELL,dev sold,0,0.21565,115.7,no trading (stale),45217,152.8,-6.3,202
+2026-10-10 23:34:00,GaaL25gu7fEC82Mj487MsHszLihKFRZj6TxrePm5pump,KAIJU,BUY,top10 hold 65%,0,0.1,,,27209,,,
+2026-10-10 23:35:46,EnjercNWRLvuk4bMhiubzgL1Zbg4VLJcU8tGw2qApump,Tesselai,SELL,dev sold,0,0.06255,-37.5,stop loss -36%,13037,105.4,-32.2,238
+2026-10-10 23:38:01,GaaL25gu7fEC82Mj487MsHszLihKFRZj6TxrePm5pump,KAIJU,SELL,top10 hold 65%,0,0.15396,54.0,shift ended,45217,66.2,-0.2,241
