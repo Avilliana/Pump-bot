@@ -2947,3 +2947,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 21:37:22,F7Wb24H7WZqLTjMoZ2fafD1JP86iMC86RduHgypLpump,MATKASS,BUY,dev sold,0,0.1,,,10733,,,
 2026-10-10 21:38:02,F7Wb24H7WZqLTjMoZ2fafD1JP86iMC86RduHgypLpump,MATKASS,SELL,dev sold,0,0.0625,-37.5,stop loss -36%,7280,12.8,-32.2,39
 2026-10-10 21:38:10,4RtLXme1fuYkSmbRk3RZSEoqAd2zdDTPd8KkDytipump,SPAN,SELL,dev sold,0,0.11357,13.6,shift ended,9864,31.6,-5.9,186
+2026-10-10 22:19:07,HMBfpCmVJZ4o3qhVHChQh4pejLvfh5AtjdJoDHSponzi,PONZIPAD,BUY,bundled: 44 launch wallets own 16%,0,0.1,,,10869,,,
+2026-10-10 22:19:09,6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump,CWIF,BUY,dev sold,0,0.1,,,12031,,,
+2026-10-10 22:19:34,6pRLnfDeDmwrxbftYDA4gE7LK2Hw3EPb3HfPZdkapump,CWIF,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,8186,1.7,-32.0,24
+2026-10-10 22:20:13,4TUnjmEckBx7jr3DbwDBpKayu6aZrYTESpzMmMe7pump,Ollie,BUY,dev sold,0,0.1,,,15605,,,
+2026-10-10 22:25:08,HUsQCER5YbswZrUR9AApweHvw88CvcKUGiUy8TRhpump,Stuff,BUY,dev sold,0,0.1,,,10053,,,
+2026-10-10 22:25:54,Ecshjpv51X7ba3GqJe5UrHVuX4Py83WMSRGw1Vzepump,PUMP,BUY,score below threshold,54.3,0.1,,,45295,,,
+2026-10-10 22:26:00,HUsQCER5YbswZrUR9AApweHvw88CvcKUGiUy8TRhpump,Stuff,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,6904,19.7,-31.3,52
+2026-10-10 22:26:28,Ecshjpv51X7ba3GqJe5UrHVuX4Py83WMSRGw1Vzepump,PUMP,SELL,score below threshold,54.3,0.09252,-7.5,no trading (stale),45295,0.0,0.0,34
+2026-10-10 22:26:32,HW3mTNeN9D7dFzBxRyeVzt3EfTMVHJzorRDpKCpnpump,BHUB,BUY,dev sold,0,0.1,,,35714,,,
+2026-10-10 22:26:33,HW3mTNeN9D7dFzBxRyeVzt3EfTMVHJzorRDpKCpnpump,BHUB,SELL,dev sold,0,0.06367,-36.3,stop loss -35%,24638,1.4,-31.0,1
+2026-10-10 22:27:26,HF5V8JjanxiCe8utKXypqvVKDzsKEA2bLihQxLydpump,SWITCHED,BUY,dev sold,0,0.1,,,9411,,,
+2026-10-10 22:27:58,HMBfpCmVJZ4o3qhVHChQh4pejLvfh5AtjdJoDHSponzi,PONZIPAD,SELL,bundled: 44 launch wallets own 16%,0,0.06335,-36.6,stop loss -35%,7471,43.0,-31.3,531
+2026-10-10 22:30:49,GfqF6MLbzoAY7nJJKRqHKJobrWNa3G3ypvt8wmoUpump,Ollie,BUY,dev sold,0,0.1,,,9419,,,
+2026-10-10 22:30:50,4TUnjmEckBx7jr3DbwDBpKayu6aZrYTESpzMmMe7pump,Ollie,SELL,dev sold,0,0.23339,133.4,no trading (stale),45291,190.3,-25.4,637
+2026-10-10 22:33:19,HF5V8JjanxiCe8utKXypqvVKDzsKEA2bLihQxLydpump,SWITCHED,SELL,dev sold,0,0.32176,221.8,no trading (stale),45291,381.3,-21.6,354
+2026-10-10 22:35:04,GfqF6MLbzoAY7nJJKRqHKJobrWNa3G3ypvt8wmoUpump,Ollie,SELL,dev sold,0,0.06301,-37.0,stop loss -36%,6442,51.7,-31.6,255
+2026-10-10 22:35:44,3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump,Ollie,BUY,dev sold,0,0.1,,,8347,,,
+2026-10-10 22:36:09,3UVjAnc82dWnsUbFPXuE8Q5kCrCcm2ndnms4uNRJpump,Ollie,SELL,dev sold,0,0.06251,-37.5,stop loss -36%,5665,7.9,-32.1,26
