@@ -2867,3 +2867,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 18:32:13,7aZ8sGkEi9Yu1pYnaLW54qqobwB1iqVJqcD9q5Smpump,QP,SELL,dev sold,0,0.06151,-38.5,stop loss -37%,5906,105.7,-33.2,78
 2026-10-10 18:36:53,CoKXDXn9nk7o8rpus3XZuNkCpnrYsUXVnSs4WAhUirus,VIRUS,BUY,bundled: 36 launch wallets own 37%,0,0.1,,,12048,,,
 2026-10-10 18:37:43,CoKXDXn9nk7o8rpus3XZuNkCpnrYsUXVnSs4WAhUirus,VIRUS,SELL,bundled: 36 launch wallets own 37%,0,0.0609,-39.1,stop loss -38%,7963,4.1,-33.9,50
+2026-10-10 19:18:47,HS3RAgCdV6qSM42t4cFDmxXuvhLBcMbK5cvFATJYpump,Steve,BUY,dev sold,0,0.1,,,9996,,,
+2026-10-10 19:18:49,handsHUH1DbWZBHUGpMogBeyH1wY8n7UvVkGLu7GcvN,hands,BUY,bundled: 36 launch wallets own 25%,0,0.1,,,14101,,,
+2026-10-10 19:19:41,handsHUH1DbWZBHUGpMogBeyH1wY8n7UvVkGLu7GcvN,hands,SELL,bundled: 36 launch wallets own 25%,0,0.0607,-39.3,stop loss -38%,9287,26.9,-34.1,52
+2026-10-10 19:20:21,FSiuJYja3jK7ogUKFd1rKazD2JEVVR8CpFHukSDQpump,SAFEGUARD,BUY,bundled: 24 launch wallets own 11%,0,0.1,,,13590,,,
+2026-10-10 19:20:26,8koQ8XoPNHvt7Y76Zagyo7TVd26dcxfTC6fi8bzKpump,WHISPR,BUY,dev sold,0,0.1,,,11494,,,
+2026-10-10 19:21:17,9DjmYUs3LZu3xVXeracSdU8tX5Dc9vSe4D3C1whfpump,degoogle,BUY,dev sold,0,0.1,,,16045,,,
+2026-10-10 19:21:17,FSiuJYja3jK7ogUKFd1rKazD2JEVVR8CpFHukSDQpump,SAFEGUARD,SELL,bundled: 24 launch wallets own 11%,0,0.06193,-38.1,stop loss -37%,9131,0.0,-32.8,56
+2026-10-10 19:21:47,HS3RAgCdV6qSM42t4cFDmxXuvhLBcMbK5cvFATJYpump,Steve,SELL,dev sold,0,0.17625,76.2,trailing stop,16632,144.4,-4.8,180
+2026-10-10 19:22:20,9DjmYUs3LZu3xVXeracSdU8tX5Dc9vSe4D3C1whfpump,degoogle,SELL,dev sold,0,0.06191,-38.1,stop loss -37%,10774,14.5,-32.9,63
+2026-10-10 19:23:15,DKaYHVd3rozH3C4a3QJRDAY7HQ1dG9bQMXNgtwADpump,ARENA,BUY,dev sold,0,0.1,,,15080,,,
+2026-10-10 19:26:48,Ts9T245qE7K8He9Unw9XdjuYVnC4SMRyF3Ezrxtpump,XARENA,BUY,dev sold,0,0.1,,,10323,,,
+2026-10-10 19:26:59,Ts9T245qE7K8He9Unw9XdjuYVnC4SMRyF3Ezrxtpump,XARENA,SELL,dev sold,0,0.06246,-37.5,stop loss -36%,6997,5.9,-32.2,12
+2026-10-10 19:28:14,HHp6vY7SZ4oULMhUNRHuikoWt5LdT7RJ3GFZCQGTpump,coal,BUY,dev sold,0,0.1,,,8860,,,
+2026-10-10 19:28:22,7BwhfDmQD811ZbzWu5FY89iMAgfp9qUdXVUhdr6Upump,ARENA,BUY,dev sold,0,0.1,,,8964,,,
+2026-10-10 19:28:38,DKaYHVd3rozH3C4a3QJRDAY7HQ1dG9bQMXNgtwADpump,ARENA,SELL,dev sold,0,0.18089,80.9,trailing stop,26752,154.0,-30.5,323
+2026-10-10 19:28:41,7BwhfDmQD811ZbzWu5FY89iMAgfp9qUdXVUhdr6Upump,ARENA,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,6196,27.9,-30.9,19
+2026-10-10 19:29:01,8koQ8XoPNHvt7Y76Zagyo7TVd26dcxfTC6fi8bzKpump,WHISPR,SELL,dev sold,0,0.22419,124.2,trailing stop,30213,282.1,-29.2,515
+2026-10-10 19:29:35,HHp6vY7SZ4oULMhUNRHuikoWt5LdT7RJ3GFZCQGTpump,coal,SELL,dev sold,0,0.06142,-38.6,stop loss -37%,5908,66.2,-33.3,82
+2026-10-10 19:33:02,G7AWXtomwYgEBUAXkDoGWrNTYyJYoRV4DTpRR48rpump,DOTSWARM,BUY,dev sold,0,0.1,,,10863,,,
+2026-10-10 19:36:54,96efMyRRcGvKx72PVZr1hjdrkC4iFWzb69ZPzm1Xpump,TWEETCRAFT,BUY,dev holds 9.6%,0,0.1,,,9153,,,
+2026-10-10 19:37:06,96efMyRRcGvKx72PVZr1hjdrkC4iFWzb69ZPzm1Xpump,TWEETCRAFT,SELL,dev holds 9.6%,0,0.06955,-30.5,dev sold,6905,0.7,-24.6,12
+2026-10-10 19:37:37,GoVXHx6VpamRB9iUSzHP8BksNa6tkAD71Somn4zfpump,CLUCK,BUY,dev sold,0,0.1,,,14033,,,
+2026-10-10 19:37:48,GoVXHx6VpamRB9iUSzHP8BksNa6tkAD71Somn4zfpump,CLUCK,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,9635,6.4,-31.3,11
+2026-10-10 19:38:03,G7AWXtomwYgEBUAXkDoGWrNTYyJYoRV4DTpRR48rpump,DOTSWARM,SELL,dev sold,0,0.09656,-3.4,shift ended,11354,38.3,-27.4,301
