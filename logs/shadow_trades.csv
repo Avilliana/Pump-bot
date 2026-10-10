@@ -2787,3 +2787,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 14:34:07,5qEEF64upU6oieL97SFXdJ8fxj4MhK9DvrWmuX39pump,Unfazed,BUY,dev sold,0,0.1,,,12558,,,
 2026-10-10 14:34:11,5qEEF64upU6oieL97SFXdJ8fxj4MhK9DvrWmuX39pump,Unfazed,SELL,dev sold,0,0.0629,-37.1,stop loss -36%,8570,9.3,-31.8,4
 2026-10-10 14:37:49,kY7H29BP9cLhzz156Lxz9WmCyxyq58JCutT6PXF1Hot,HOT,SELL,score below threshold,49.9,0.12231,22.3,shift ended,10726,39.9,-4.6,340
+2026-10-10 15:19:38,EqHuTkiG8xQJsqzXmwnWhyQz24Qfi8ceztGaLP8Jpump,AGO,BUY,bundled: 11 launch wallets own 10%,0,0.1,,,8155,,,
+2026-10-10 15:24:45,EqHuTkiG8xQJsqzXmwnWhyQz24Qfi8ceztGaLP8Jpump,AGO,SELL,bundled: 11 launch wallets own 10%,0,0.17206,72.1,trailing stop,12606,121.3,-12.9,307
+2026-10-10 15:25:26,9WTRiDDQhphukzHUPQurqpsX4gZXzKdaMFTxqkDopump,resolve,BUY,bundled: 18 launch wallets own 16%,0,0.1,,,13808,,,
+2026-10-10 15:26:08,9WTRiDDQhphukzHUPQurqpsX4gZXzKdaMFTxqkDopump,resolve,SELL,bundled: 18 launch wallets own 16%,0,0.06342,-36.6,stop loss -35%,9499,0.0,-31.2,41
+2026-10-10 15:29:08,H7H9icnk8zYaTLUbwsJ3DkyNfFGkgitz7Sf7H7Kjpump,ITACHI,BUY,bundled: 30 launch wallets own 8%,0,0.1,,,13705,,,
+2026-10-10 15:30:38,3Jknmh77HDyjkvb8uhsKujJ29qWEfWTLG9RqzzRDpump,Superteam,BUY,bundled: 11 launch wallets own 66%,0,0.1,,,28633,,,
+2026-10-10 15:31:17,3Jknmh77HDyjkvb8uhsKujJ29qWEfWTLG9RqzzRDpump,Superteam,SELL,bundled: 11 launch wallets own 66%,0,0.08074,-19.3,dev sold,25016,13.0,-12.6,39
+2026-10-10 15:32:33,DEfPDUXS2kKccV8FdbQ6aXS1ANANfBzfZ6y4gwmPpump,🦋,BUY,bundled: 28 launch wallets own 7%,0,0.1,,,10536,,,
+2026-10-10 15:32:34,GvAScqqfwd8xGKNkC12mT5sg9VD1N9e5tstoui82pump,Kanoko,BUY,dev sold,0,0.1,,,9727,,,
+2026-10-10 15:32:54,DEfPDUXS2kKccV8FdbQ6aXS1ANANfBzfZ6y4gwmPpump,🦋,SELL,bundled: 28 launch wallets own 7%,0,0.06367,-36.3,stop loss -35%,7279,24.7,-30.9,21
+2026-10-10 15:33:44,GvAScqqfwd8xGKNkC12mT5sg9VD1N9e5tstoui82pump,Kanoko,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,6723,13.8,-30.9,70
+2026-10-10 15:37:56,H7H9icnk8zYaTLUbwsJ3DkyNfFGkgitz7Sf7H7Kjpump,ITACHI,SELL,bundled: 30 launch wallets own 8%,0,0.07628,-23.7,shift ended,11326,0.0,-26.7,528
