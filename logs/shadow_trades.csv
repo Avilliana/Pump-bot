@@ -2593,3 +2593,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 01:41:49,2mRtgA6Sii8QNsgAwAGjEPLuGzdsPGjW42eCKwDcpump,Aioli,SELL,dev sold,0,0.01175,-88.2,stop loss -88%,4022,40.2,-86.8,67
 2026-10-10 01:41:58,EHLUXxwVqNqMiFw1XnkZHB8AsLZ234WssXwZiA9Fpump,Aioli,SELL,dev sold,0,0.10053,0.5,shift ended,11523,9.6,-16.9,29
 2026-10-10 01:41:58,AwM93WTx8b8a7VLjvjTgwroYp717jvMNbRFwjQyspump,BTB,SELL,score below threshold,43.2,0.09215,-7.9,shift ended,8274,0.0,-7.1,21
+2026-10-10 02:19:06,21SjxECgYNuL2bqt8Z4t5ENBadMuH7wxdiV1c67Spump,Caller,BUY,dev sold,0,0.1,,,9249,,,
+2026-10-10 02:20:19,21SjxECgYNuL2bqt8Z4t5ENBadMuH7wxdiV1c67Spump,Caller,SELL,dev sold,0,0.06291,-37.1,stop loss -36%,6316,21.5,-31.7,73
+2026-10-10 02:20:42,xGh6YJmn8ygahpNArKrFA72nzSNEaX4qyYHJexYpump,CCAT,BUY,dev sold,0,0.1,,,10882,,,
+2026-10-10 02:25:14,9d7zYHvL8g1o95tjFX8gdsQPiPRtTqNgFpmJMz2mpump,JUGO,BUY,dev sold,0,0.1,,,9355,,,
+2026-10-10 02:25:24,G8MT1fx1wVgdY9DpKAkjqHufXdrZFfTubq3irQmrpump,Den,BUY,dev sold,0,0.1,,,10569,,,
+2026-10-10 02:25:40,BFkxKksCJMuV4tUvkHWHTqmJeTRkrD6Pu1AwEqfLoNG,LONG,BUY,bundled: 17 launch wallets own 20%,0,0.1,,,11490,,,
+2026-10-10 02:26:10,6LChGSaKeBUoZGkiNc8z3ZB2rttv7pg1XBPaQJ2rpump,QUANT,BUY,dev sold,0,0.1,,,12280,,,
+2026-10-10 02:28:12,G8MT1fx1wVgdY9DpKAkjqHufXdrZFfTubq3irQmrpump,Den,SELL,dev sold,0,0.05988,-40.1,stop loss -39%,6867,62.5,-35.0,168
+2026-10-10 02:28:34,9d7zYHvL8g1o95tjFX8gdsQPiPRtTqNgFpmJMz2mpump,JUGO,SELL,dev sold,0,0.06164,-38.4,stop loss -37%,6256,38.9,-33.1,200
+2026-10-10 02:28:42,BFkxKksCJMuV4tUvkHWHTqmJeTRkrD6Pu1AwEqfLoNG,LONG,SELL,bundled: 17 launch wallets own 20%,0,0.06195,-38.1,stop loss -37%,7719,42.2,-32.8,182
+2026-10-10 02:29:25,xGh6YJmn8ygahpNArKrFA72nzSNEaX4qyYHJexYpump,CCAT,SELL,dev sold,0,0.29082,190.8,no trading (stale),45069,314.4,0.1,523
+2026-10-10 02:29:42,BQs8KveoMS4inYtQVkhJj2siuRiWwMSSLKG4gzFYpump,Samur•ai,BUY,dev holds 15.2%,0,0.1,,,13836,,,
+2026-10-10 02:30:51,58emRZbrfnbsQcSh6G2cu1fpAL2TH2tb1MZ9Rcvjpump,SLABS,BUY,score below threshold,47.1,0.1,,,8843,,,
+2026-10-10 02:31:18,58emRZbrfnbsQcSh6G2cu1fpAL2TH2tb1MZ9Rcvjpump,SLABS,SELL,score below threshold,47.1,0.0608,-39.2,stop loss -38%,5838,2.2,-34.0,27
+2026-10-10 02:33:11,DWxYgSNt6vz6CMAcsf38Wos551EgsFwZDQkRjTg4pump,HIM,BUY,dev sold,0,0.1,,,14240,,,
+2026-10-10 02:33:29,DWxYgSNt6vz6CMAcsf38Wos551EgsFwZDQkRjTg4pump,HIM,SELL,dev sold,0,0.02325,-76.7,stop loss -76%,3638,14.4,-74.4,19
+2026-10-10 02:33:36,BQs8KveoMS4inYtQVkhJj2siuRiWwMSSLKG4gzFYpump,Samur•ai,SELL,dev holds 15.2%,0,0.17287,72.9,dev sold,25836,95.6,0.0,234
+2026-10-10 02:34:13,6LChGSaKeBUoZGkiNc8z3ZB2rttv7pg1XBPaQJ2rpump,QUANT,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,8236,101.2,-32.9,483
+2026-10-10 02:35:06,GbmxV2njPccA5FR9G8sGF6DT5DCZ5DgUyJPyFKVopump,MCH,BUY,dev sold,0,0.1,,,9508,,,
+2026-10-10 02:35:07,GbmxV2njPccA5FR9G8sGF6DT5DCZ5DgUyJPyFKVopump,MCH,SELL,dev sold,0,0.05779,-42.2,stop loss -41%,5965,0.5,-37.3,2
+2026-10-10 02:35:19,4LBZTDYe2EiajgZccppgzZt5ppskEi3nFhAzAYSupump,SI,BUY,dev holds 67.1%,0,0.1,,,24028,,,
+2026-10-10 02:36:10,4LBZTDYe2EiajgZccppgzZt5ppskEi3nFhAzAYSupump,SI,SELL,dev holds 67.1%,0,0.08898,-11.0,dev sold,23128,1.2,-3.7,51
