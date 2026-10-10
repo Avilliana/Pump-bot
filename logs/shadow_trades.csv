@@ -2739,3 +2739,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 11:33:37,5EwiMq8v6WpGsbz7ofJA5mcE2cANir2hHGSxXjWNjeet,JEET,SELL,bundled: 14 launch wallets own 6%,0,0.06254,-37.5,stop loss -36%,6160,7.0,-32.1,109
 2026-10-10 11:35:46,2WW4YV8D3UX3UBW6d8rUbNeBbNEYbTQHdUmFiERWpump,HONK,BUY,bundled: 10 launch wallets own 77%,0,0.1,,,41446,,,
 2026-10-10 11:38:24,2WW4YV8D3UX3UBW6d8rUbNeBbNEYbTQHdUmFiERWpump,HONK,SELL,bundled: 10 launch wallets own 77%,0,0.10047,0.5,shift ended,44991,8.6,-6.7,157
+2026-10-10 12:22:22,147CGkE2EsXmrGJDDKw78nAPzL7z7GLAkos12rTdpump,Gay,BUY,dev sold,0,0.1,,,10355,,,
+2026-10-10 12:24:16,7pHRdbxyDzrMA5qr1949caw5f2u54BZNEdkcqcqppump,Gay,BUY,dev sold,0,0.1,,,8663,,,
+2026-10-10 12:24:31,147CGkE2EsXmrGJDDKw78nAPzL7z7GLAkos12rTdpump,Gay,SELL,dev sold,0,0.17548,75.5,trailing stop,16929,133.8,-6.9,129
+2026-10-10 12:25:50,7pHRdbxyDzrMA5qr1949caw5f2u54BZNEdkcqcqppump,Gay,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,5897,14.9,-31.9,94
+2026-10-10 12:28:29,EZ5kojfDcTXXtFecBjBntDX36Yh6NNzCi4H6WkXGpump,LAG,BUY,bundled: 10 launch wallets own 76%,0,0.1,,,39193,,,
+2026-10-10 12:33:00,EZ5kojfDcTXXtFecBjBntDX36Yh6NNzCi4H6WkXGpump,LAG,SELL,bundled: 10 launch wallets own 76%,0,0.1064,6.4,no trading (stale),45012,14.9,-1.0,271
+2026-10-10 12:36:22,J29aCKoYsa8F8WWYENrQNoukVrEZ5dmzvKkrLeXSpump,beer,BUY,dev sold,0,0.1,,,13803,,,
+2026-10-10 12:36:26,J29aCKoYsa8F8WWYENrQNoukVrEZ5dmzvKkrLeXSpump,beer,SELL,dev sold,0,0.06136,-38.6,stop loss -37%,9178,79.7,-33.5,5
