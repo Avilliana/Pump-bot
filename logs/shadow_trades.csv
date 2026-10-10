@@ -2663,3 +2663,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 05:36:30,462gAu2KmgZ7nE2EWCpKQfFavbxT7FQDjPAtHRMDpump,MONY,SELL,dev sold,0,0.15222,52.2,no trading (stale),20899,66.5,-0.0,217
 2026-10-10 05:37:35,HwT68ZHTDkkvq8nouCkwvmYvn1g6v8uhPCf6B5gMpump,DIAMONDORE,BUY,bundled: 16.9 SOL bought in launch block,0,0.1,,,10798,,,
 2026-10-10 05:38:12,HwT68ZHTDkkvq8nouCkwvmYvn1g6v8uhPCf6B5gMpump,DIAMONDORE,SELL,bundled: 16.9 SOL bought in launch block,0,0.08391,-16.1,shift ended,9815,0.8,-9.1,37
+2026-10-10 06:19:40,9rBHCctP1dGvdDq33GoT368yY51KwWXVihmffgTbpump,QLE2,BUY,bundled: 7 launch wallets own 6%,0,0.1,,,11113,,,
+2026-10-10 06:22:37,9rBHCctP1dGvdDq33GoT368yY51KwWXVihmffgTbpump,QLE2,SELL,bundled: 7 launch wallets own 6%,0,0.06354,-36.5,stop loss -35%,7661,59.8,-31.1,177
+2026-10-10 06:22:51,3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump,KENDUPUP,BUY,dev holds 44.5%,0,0.1,,,9259,,,
+2026-10-10 06:25:38,5HSmb7KvHeSKUdq8ADwge8yzgPvTAjSeSDizxqzpump,QTC,BUY,bundled: 18 launch wallets own 19%,0,0.1,,,9519,,,
+2026-10-10 06:27:12,5HSmb7KvHeSKUdq8ADwge8yzgPvTAjSeSDizxqzpump,QTC,SELL,bundled: 18 launch wallets own 19%,0,0.18555,85.6,trailing stop,16631,149.9,-10.2,94
+2026-10-10 06:29:20,6ACrzbARpvbmihosVdxXttxKj7jdc5gdX4jndGk16969,GI6900,BUY,dev sold,0,0.1,,,9307,,,
+2026-10-10 06:30:34,4sLJuXFqFVYKcVztGh9CVT2BdBroXmbmhNK5BnQDpump,SolWyrm,BUY,dev sold,0,0.1,,,11591,,,
+2026-10-10 06:32:50,4sLJuXFqFVYKcVztGh9CVT2BdBroXmbmhNK5BnQDpump,SolWyrm,SELL,dev sold,0,0.061,-39.0,stop loss -38%,7674,94.9,-33.8,135
+2026-10-10 06:33:41,6ACrzbARpvbmihosVdxXttxKj7jdc5gdX4jndGk16969,GI6900,SELL,dev sold,0,0.1774,77.4,trailing stop,15928,145.1,-17.5,260
+2026-10-10 06:37:29,w37Z4VdHzhEHV4u1b6nzLkNvoyejBMpaFgs7ZSBpump,Vaulted,BUY,bundled: 23 launch wallets own 62%,0,0.1,,,21180,,,
+2026-10-10 06:38:24,3GtGY11EB2FgP8K1LbPdUnXR3xRyMwDR5YS38znapump,KENDUPUP,SELL,dev holds 44.5%,0,0.15553,55.5,shift ended,15574,89.1,0.0,934
+2026-10-10 06:38:24,w37Z4VdHzhEHV4u1b6nzLkNvoyejBMpaFgs7ZSBpump,Vaulted,SELL,bundled: 23 launch wallets own 62%,0,0.13279,32.8,shift ended,30380,48.9,-1.9,55
