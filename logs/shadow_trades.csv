@@ -2769,3 +2769,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 13:37:50,MPDULzZfxot5YDje85tZMLcVFBr9NxBMFXS6iuVDESK,MULTI,SELL,past buy window (late mover),90.8,0.08628,-13.7,dev sold,19566,32.1,-6.6,35
 2026-10-10 13:38:02,8uCaNNLZcEjWmPBGW1RhcWpi8H6gs6833Pm9gGTHnrwa,RWA,SELL,bundled: 17 launch wallets own 16%,0,0.09462,-5.4,shift ended,8513,50.6,-15.6,111
 2026-10-10 13:38:02,EhZGHEvb1bxP6CcAaFFk8ENYJY2Z3imvXUy6tqYEpump,resolve,SELL,bundled: 18 launch wallets own 6%,0,0.10146,1.5,shift ended,17618,20.0,-5.5,28
+2026-10-10 14:24:13,P2oReyMDepprDraKRjaxqEVboK6h49G9DgukyDGpump,SOUL,BUY,dev sold,0,0.1,,,8752,,,
+2026-10-10 14:24:16,GRsvyyQeo8iugAonTKybZd8ykeBpFoZbbeGJdi3rpump,b/exp,BUY,score below threshold,58.8,0.1,,,16283,,,
+2026-10-10 14:25:44,P2oReyMDepprDraKRjaxqEVboK6h49G9DgukyDGpump,SOUL,SELL,dev sold,0,0.05778,-42.2,stop loss -41%,5492,8.2,-37.2,91
+2026-10-10 14:28:04,BXVBhVneXRRLNKbvMVzrBeKPjPZeuU12a2s3ErtMpump,tiger,BUY,dev sold,0,0.1,,,8280,,,
+2026-10-10 14:28:05,FmTKMZgPV8DE1SL3uLZNQ4uWCDbu7k7uA2ix6J7Xpump,Tschuna,BUY,dev holds 13.0%,0,0.1,,,10524,,,
+2026-10-10 14:28:20,FmTKMZgPV8DE1SL3uLZNQ4uWCDbu7k7uA2ix6J7Xpump,Tschuna,SELL,dev holds 13.0%,0,0.0829,-17.1,dev sold,9451,0.2,-10.2,15
+2026-10-10 14:29:00,BRoSMhDGMdwtp1x7t5YZJ4crWUFZ87sHzJcg7LUJpump,Mark,BUY,dev sold,0,0.1,,,22781,,,
+2026-10-10 14:29:12,BXVBhVneXRRLNKbvMVzrBeKPjPZeuU12a2s3ErtMpump,tiger,SELL,dev sold,0,0.05917,-40.8,stop loss -40%,5321,48.4,-35.7,68
+2026-10-10 14:30:21,BRoSMhDGMdwtp1x7t5YZJ4crWUFZ87sHzJcg7LUJpump,Mark,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,15721,80.0,-31.0,82
+2026-10-10 14:30:31,2zwiJcF8FwfiQQ8Wnkk2kvbXuRWtn49E8Hhy5xutuniD,WOODS,BUY,dev sold,0,0.1,,,18620,,,
+2026-10-10 14:30:35,2zwiJcF8FwfiQQ8Wnkk2kvbXuRWtn49E8Hhy5xutuniD,WOODS,SELL,dev sold,0,0.06276,-37.2,stop loss -36%,12671,0.0,-32.0,4
+2026-10-10 14:30:55,GvdD1RTccWCm8eWw7x4i456Ka2QK3odLh9Uv3cT3pump,HI160,BUY,top10 hold 79%,0,0.1,,,35237,,,
+2026-10-10 14:32:09,kY7H29BP9cLhzz156Lxz9WmCyxyq58JCutT6PXF1Hot,HOT,BUY,score below threshold,49.9,0.1,,,8103,,,
+2026-10-10 14:32:34,GRsvyyQeo8iugAonTKybZd8ykeBpFoZbbeGJdi3rpump,b/exp,SELL,score below threshold,58.8,0.22738,127.4,no trading (stale),45176,177.2,-3.8,498
+2026-10-10 14:34:05,GvdD1RTccWCm8eWw7x4i456Ka2QK3odLh9Uv3cT3pump,HI160,SELL,top10 hold 79%,0,0.11872,18.7,no trading (stale),45176,28.2,2.0,190
+2026-10-10 14:34:07,5qEEF64upU6oieL97SFXdJ8fxj4MhK9DvrWmuX39pump,Unfazed,BUY,dev sold,0,0.1,,,12558,,,
+2026-10-10 14:34:11,5qEEF64upU6oieL97SFXdJ8fxj4MhK9DvrWmuX39pump,Unfazed,SELL,dev sold,0,0.0629,-37.1,stop loss -36%,8570,9.3,-31.8,4
+2026-10-10 14:37:49,kY7H29BP9cLhzz156Lxz9WmCyxyq58JCutT6PXF1Hot,HOT,SELL,score below threshold,49.9,0.12231,22.3,shift ended,10726,39.9,-4.6,340
