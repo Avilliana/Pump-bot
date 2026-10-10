@@ -2799,3 +2799,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 15:32:54,DEfPDUXS2kKccV8FdbQ6aXS1ANANfBzfZ6y4gwmPpump,🦋,SELL,bundled: 28 launch wallets own 7%,0,0.06367,-36.3,stop loss -35%,7279,24.7,-30.9,21
 2026-10-10 15:33:44,GvAScqqfwd8xGKNkC12mT5sg9VD1N9e5tstoui82pump,Kanoko,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,6723,13.8,-30.9,70
 2026-10-10 15:37:56,H7H9icnk8zYaTLUbwsJ3DkyNfFGkgitz7Sf7H7Kjpump,ITACHI,SELL,bundled: 30 launch wallets own 8%,0,0.07628,-23.7,shift ended,11326,0.0,-26.7,528
+2026-10-10 16:20:24,2R1f6nFeT5J72KuGyok8jivfRxk3WRBBen1xkiwzpump,ECX,BUY,dev sold,0,0.1,,,11376,,,
+2026-10-10 16:20:30,2R1f6nFeT5J72KuGyok8jivfRxk3WRBBen1xkiwzpump,ECX,SELL,dev sold,0,0.06339,-36.6,stop loss -35%,7825,0.0,-31.2,6
+2026-10-10 16:23:11,5UMktJAXq8XNmEMw5hRTXe6vh4pBRkDFYNY5v43dpump,TOOTER,BUY,dev sold,0,0.1,,,10128,,,
+2026-10-10 16:23:31,BmAUzp3se9dd28B1KK12SBfN5NzRVTiYehg2YBMzpump,Night,BUY,score below threshold,55.1,0.1,,,8967,,,
+2026-10-10 16:23:41,8xyvD77k7NbJN9mNdCBrouPEXNsvRgo5S9Vxr17Cpump,TOOTER,BUY,dev sold,0,0.1,,,11092,,,
+2026-10-10 16:23:42,BmAUzp3se9dd28B1KK12SBfN5NzRVTiYehg2YBMzpump,Night,SELL,score below threshold,55.1,0.11041,10.4,dev sold,10716,33.8,0.5,11
+2026-10-10 16:23:44,8xyvD77k7NbJN9mNdCBrouPEXNsvRgo5S9Vxr17Cpump,TOOTER,SELL,dev sold,0,0.06312,-36.9,stop loss -36%,7597,14.1,-31.5,4
+2026-10-10 16:23:51,5UMktJAXq8XNmEMw5hRTXe6vh4pBRkDFYNY5v43dpump,TOOTER,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,6956,29.7,-31.3,40
+2026-10-10 16:24:36,CtF1U74LQeEDahKS7ga1F6XahxnhD8gZgz1MMBbzpump,NAP,BUY,bundled: 16 launch wallets own 78%,0,0.1,,,45308,,,
+2026-10-10 16:25:57,Eeoj5f6fAdUpugNsRSVaPezR73GYgDNR39kC6yz1pump,Arion,BUY,dev sold,0,0.1,,,20988,,,
+2026-10-10 16:27:17,CtF1U74LQeEDahKS7ga1F6XahxnhD8gZgz1MMBbzpump,NAP,SELL,bundled: 16 launch wallets own 78%,0,0.09252,-7.5,no trading (stale),45308,0.0,0.0,161
+2026-10-10 16:28:13,sjYeRWqhiQrCCUP8vsLBgqHRtuaxjgvc1kQkTKtpump,ECX,BUY,dev sold,0,0.1,,,11466,,,
+2026-10-10 16:28:35,sjYeRWqhiQrCCUP8vsLBgqHRtuaxjgvc1kQkTKtpump,ECX,SELL,dev sold,0,0.06302,-37.0,stop loss -36%,7833,0.0,-31.6,22
+2026-10-10 16:28:37,FtYsgFRFBTmT2Ac11zVHX87S8j8TaExd4GWUG8Ktpump,eCash,BUY,bundled: 18 launch wallets own 66%,0,0.1,,,28955,,,
+2026-10-10 16:29:38,FtYsgFRFBTmT2Ac11zVHX87S8j8TaExd4GWUG8Ktpump,eCash,SELL,bundled: 18 launch wallets own 66%,0,0.06094,-39.1,stop loss -38%,19127,0.2,-33.9,61
+2026-10-10 16:31:21,Eeoj5f6fAdUpugNsRSVaPezR73GYgDNR39kC6yz1pump,Arion,SELL,dev sold,0,0.09257,-7.4,no trading (stale),20966,0.1,-0.0,325
+2026-10-10 16:37:14,rdGE5XNe9iASk1Zfugvv23s1mvfx7eycmimJv7Wpump,PAYROLL,BUY,score below threshold,56.2,0.1,,,15488,,,
+2026-10-10 16:37:54,HVz8PfDkKjbhxRpm1EJiFYdaUdEL5o7m1Yghrv2Bpump,Dougherty,BUY,dev sold,0,0.1,,,12430,,,
+2026-10-10 16:38:27,6pRnHesk1vgANFhNViiJn4feEh91SKZ4dPBVcA9Upump,ECX,BUY,bundled: 17 launch wallets own 70%,0,0.1,,,33351,,,
+2026-10-10 16:38:33,rdGE5XNe9iASk1Zfugvv23s1mvfx7eycmimJv7Wpump,PAYROLL,SELL,score below threshold,56.2,0.07473,-25.3,shift ended,12539,9.0,-28.9,79
+2026-10-10 16:38:33,HVz8PfDkKjbhxRpm1EJiFYdaUdEL5o7m1Yghrv2Bpump,Dougherty,SELL,dev sold,0,0.08424,-15.8,shift ended,11340,17.4,-25.9,39
+2026-10-10 16:38:33,6pRnHesk1vgANFhNViiJn4feEh91SKZ4dPBVcA9Upump,ECX,SELL,bundled: 17 launch wallets own 70%,0,0.08552,-14.5,shift ended,30848,0.0,-7.5,6
