@@ -2727,3 +2727,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 10:37:52,gc54c4rFnJFE754J3inUv3Mi3EBxz9gn4KM74sSpump,HIBIDI,SELL,dev sold,0,0.22323,123.2,shift ended,22400,200.9,-27.5,938
 2026-10-10 10:37:52,FvSE99EkoiTY8Wv34V2RpWVNxnrLe7o9gyKnd4HddtjQ,SDR,SELL,bundled: 65 launch wallets own 42%,0,0.08321,-16.8,shift ended,14696,70.0,-20.8,611
 2026-10-10 10:37:52,DDy2EVNnCDqbPbofiY9h2Ff5hJrCNfYMAbS95qSgpump,GHOST,SELL,dev sold,0,0.09736,-2.6,shift ended,9857,33.7,-18.3,86
+2026-10-10 11:20:32,1PRHJAMnpxvA6T4h3978e5iCGPD9J2bQiAzvGzYpump,FAWKES,BUY,dev sold,0,0.1,,,8703,,,
+2026-10-10 11:20:44,1PRHJAMnpxvA6T4h3978e5iCGPD9J2bQiAzvGzYpump,FAWKES,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,5965,3.5,-31.5,12
+2026-10-10 11:24:00,GeUMxNxjMdbvuT73XVFBucvf1zwqBHErEHkscsVLpump,Donna,BUY,dev sold,0,0.1,,,10896,,,
+2026-10-10 11:25:06,DeRJApyU7539aAKXRPrTRnfJxa8f6aSYffFEP3Lvpump,Donna,BUY,dev sold,0,0.1,,,8173,,,
+2026-10-10 11:25:33,DeRJApyU7539aAKXRPrTRnfJxa8f6aSYffFEP3Lvpump,Donna,SELL,dev sold,0,0.06302,-37.0,stop loss -36%,5591,0.0,-31.6,26
+2026-10-10 11:26:24,DppWLLeBgn49Poy15Jqq8vewEEtSrMBQNzKKzYgZpump,KYS,BUY,dev sold,0,0.1,,,9049,,,
+2026-10-10 11:27:22,DppWLLeBgn49Poy15Jqq8vewEEtSrMBQNzKKzYgZpump,KYS,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,6238,8.2,-31.1,58
+2026-10-10 11:29:38,GeUMxNxjMdbvuT73XVFBucvf1zwqBHErEHkscsVLpump,Donna,SELL,dev sold,0,0.0624,-37.6,stop loss -36%,7382,56.3,-32.3,337
+2026-10-10 11:31:48,5EwiMq8v6WpGsbz7ofJA5mcE2cANir2hHGSxXjWNjeet,JEET,BUY,bundled: 14 launch wallets own 6%,0,0.1,,,9074,,,
+2026-10-10 11:33:37,5EwiMq8v6WpGsbz7ofJA5mcE2cANir2hHGSxXjWNjeet,JEET,SELL,bundled: 14 launch wallets own 6%,0,0.06254,-37.5,stop loss -36%,6160,7.0,-32.1,109
+2026-10-10 11:35:46,2WW4YV8D3UX3UBW6d8rUbNeBbNEYbTQHdUmFiERWpump,HONK,BUY,bundled: 10 launch wallets own 77%,0,0.1,,,41446,,,
+2026-10-10 11:38:24,2WW4YV8D3UX3UBW6d8rUbNeBbNEYbTQHdUmFiERWpump,HONK,SELL,bundled: 10 launch wallets own 77%,0,0.10047,0.5,shift ended,44991,8.6,-6.7,157
