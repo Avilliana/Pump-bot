@@ -2615,3 +2615,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 02:35:07,GbmxV2njPccA5FR9G8sGF6DT5DCZ5DgUyJPyFKVopump,MCH,SELL,dev sold,0,0.05779,-42.2,stop loss -41%,5965,0.5,-37.3,2
 2026-10-10 02:35:19,4LBZTDYe2EiajgZccppgzZt5ppskEi3nFhAzAYSupump,SI,BUY,dev holds 67.1%,0,0.1,,,24028,,,
 2026-10-10 02:36:10,4LBZTDYe2EiajgZccppgzZt5ppskEi3nFhAzAYSupump,SI,SELL,dev holds 67.1%,0,0.08898,-11.0,dev sold,23128,1.2,-3.7,51
+2026-10-10 03:21:55,CEVvhUZXHC9iH9L6witLYaEj2eSs4hz3SfTJNtudpump,PUGKNIGHT,BUY,dev sold,0,0.1,,,9294,,,
+2026-10-10 03:22:20,CEVvhUZXHC9iH9L6witLYaEj2eSs4hz3SfTJNtudpump,PUGKNIGHT,SELL,dev sold,0,0.06156,-38.4,stop loss -37%,6211,3.8,-33.2,26
+2026-10-10 03:24:07,LofBTWJ26bV1d8xNg2Sd1p49NBNt5hTdGzizKEXpump,TWD,BUY,bundled: 8 launch wallets own 51%,0,0.1,,,17824,,,
+2026-10-10 03:24:45,LofBTWJ26bV1d8xNg2Sd1p49NBNt5hTdGzizKEXpump,TWD,SELL,bundled: 8 launch wallets own 51%,0,0.12605,26.0,dev sold,24277,49.5,0.0,38
+2026-10-10 03:29:49,Gs7sAvKniKGD9E5oL6f6z7nAM4yeTCQkQBSTbTkEpump,BLOX,BUY,dev sold,0,0.1,,,12869,,,
+2026-10-10 03:29:51,AHYPC6sNKzjwAAuT6CUorN9Avuv7gNaGcrfuKbxMpump,BLOX,BUY,dev sold,0,0.1,,,23284,,,
+2026-10-10 03:29:57,AHYPC6sNKzjwAAuT6CUorN9Avuv7gNaGcrfuKbxMpump,BLOX,SELL,dev sold,0,0.01312,-86.9,stop loss -86%,3410,9.0,-85.4,5
+2026-10-10 03:31:24,3KoazdovJ15PFfzT9P51DaqeqANsMQ1fq9jkAzHmavvL,QCHAN,BUY,bundled: 22 launch wallets own 14%,0,0.1,,,15871,,,
+2026-10-10 03:32:31,EZSQ7ALM3cKnny4VCAdwip64yucYnGcZRRN6r39hpump,FU,BUY,dev sold,0,0.1,,,16785,,,
+2026-10-10 03:33:07,EZSQ7ALM3cKnny4VCAdwip64yucYnGcZRRN6r39hpump,FU,SELL,dev sold,0,0.01932,-80.7,stop loss -80%,3577,8.6,-78.7,36
+2026-10-10 03:33:21,H7VR9waZ7LYhwJrCYUQoAa63JDH1SNomSDna2bqMTUSD,TUSD,BUY,dev sold,0,0.1,,,13608,,,
+2026-10-10 03:35:15,Gs7sAvKniKGD9E5oL6f6z7nAM4yeTCQkQBSTbTkEpump,BLOX,SELL,dev sold,0,0.19096,91.0,trailing stop,24731,174.8,-28.0,326
+2026-10-10 03:37:55,H7VR9waZ7LYhwJrCYUQoAa63JDH1SNomSDna2bqMTUSD,TUSD,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,9341,86.5,-31.4,273
+2026-10-10 03:37:56,3KoazdovJ15PFfzT9P51DaqeqANsMQ1fq9jkAzHmavvL,QCHAN,SELL,bundled: 22 launch wallets own 14%,0,0.19303,93.0,shift ended,32340,121.4,-25.1,392
