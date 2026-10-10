@@ -2575,3 +2575,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 00:33:03,BPzoET6j2GvmbzZmeWSy3GziVK77BX271Bio5h7Spump,PIKA,SELL,bundled: 40 launch wallets own 28%,0,0.06356,-36.4,stop loss -35%,9452,17.6,-31.1,92
 2026-10-10 00:36:36,91PsPAg96vwcTQs34khp9JGDzyWumpR1Lj3d8Bqppump,Mouse,BUY,dev sold,0,0.1,,,10778,,,
 2026-10-10 00:36:57,91PsPAg96vwcTQs34khp9JGDzyWumpR1Lj3d8Bqppump,Mouse,SELL,dev sold,0,0.0578,-42.2,stop loss -41%,6764,12.5,-37.2,21
+2026-10-10 01:22:43,8jHF8mEmv2kCNB25w72cyxV8qBKZQ2RxSamYQ43Zpump,KATIE,BUY,dev sold,0,0.1,,,15180,,,
+2026-10-10 01:22:52,8jHF8mEmv2kCNB25w72cyxV8qBKZQ2RxSamYQ43Zpump,KATIE,SELL,dev sold,0,0.0207,-79.3,stop loss -79%,3462,16.6,-77.2,9
+2026-10-10 01:25:16,98rHRo8mJtJHctiwCeNZnJSTk1u9LtrBpTux3DSdpump,QGUY,BUY,bundled: 8 launch wallets own 14%,0,0.1,,,9999,,,
+2026-10-10 01:25:28,98rHRo8mJtJHctiwCeNZnJSTk1u9LtrBpTux3DSdpump,QGUY,SELL,bundled: 8 launch wallets own 14%,0,0.11541,15.4,dev sold,12486,40.8,-23.3,12
+2026-10-10 01:26:33,2sh9vgBmzyFd7uQS4ArYnJnrLXKpfBMRKfC2nhu2pump,FUNKEY,BUY,dev sold,0,0.1,,,21254,,,
+2026-10-10 01:26:50,2sh9vgBmzyFd7uQS4ArYnJnrLXKpfBMRKfC2nhu2pump,FUNKEY,SELL,dev sold,0,0.01438,-85.6,stop loss -85%,3400,59.8,-84.0,17
+2026-10-10 01:33:31,9NDY4jY5gqcNfDrZsKujtnuvH12pPG5FUGS5QmwZpump,qUSB,BUY,bundled: 33 launch wallets own 27%,0,0.1,,,34629,,,
+2026-10-10 01:36:47,9NDY4jY5gqcNfDrZsKujtnuvH12pPG5FUGS5QmwZpump,qUSB,SELL,bundled: 33 launch wallets own 27%,0,0.12026,20.3,no trading (stale),44971,29.9,-2.5,196
+2026-10-10 01:39:01,DN4CpbWQSqaxfKwDCg1XdqqFLYxmzwem58TpSrhspump,ETF8,BUY,dev sold,0,0.1,,,9923,,,
+2026-10-10 01:39:30,DN4CpbWQSqaxfKwDCg1XdqqFLYxmzwem58TpSrhspump,ETF8,SELL,dev sold,0,0.06362,-36.4,stop loss -35%,6851,0.1,-31.0,28
+2026-10-10 01:40:24,8mwBFWUZvNSquGaZonCyJfj6vhPBPsDSYNJq4SWzpump,Aioli,BUY,dev sold,0,0.1,,,9520,,,
+2026-10-10 01:40:29,8mwBFWUZvNSquGaZonCyJfj6vhPBPsDSYNJq4SWzpump,Aioli,SELL,dev sold,0,0.0612,-38.8,stop loss -38%,6325,4.1,-33.6,4
+2026-10-10 01:40:41,2mRtgA6Sii8QNsgAwAGjEPLuGzdsPGjW42eCKwDcpump,Aioli,BUY,dev sold,0,0.1,,,30538,,,
+2026-10-10 01:41:29,EHLUXxwVqNqMiFw1XnkZHB8AsLZ234WssXwZiA9Fpump,Aioli,BUY,dev sold,0,0.1,,,10590,,,
+2026-10-10 01:41:37,AwM93WTx8b8a7VLjvjTgwroYp717jvMNbRFwjQyspump,BTB,BUY,score below threshold,43.2,0.1,,,8289,,,
+2026-10-10 01:41:49,2mRtgA6Sii8QNsgAwAGjEPLuGzdsPGjW42eCKwDcpump,Aioli,SELL,dev sold,0,0.01175,-88.2,stop loss -88%,4022,40.2,-86.8,67
+2026-10-10 01:41:58,EHLUXxwVqNqMiFw1XnkZHB8AsLZ234WssXwZiA9Fpump,Aioli,SELL,dev sold,0,0.10053,0.5,shift ended,11523,9.6,-16.9,29
+2026-10-10 01:41:58,AwM93WTx8b8a7VLjvjTgwroYp717jvMNbRFwjQyspump,BTB,SELL,score below threshold,43.2,0.09215,-7.9,shift ended,8274,0.0,-7.1,21
