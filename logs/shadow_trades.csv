@@ -2891,3 +2891,37 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 19:37:37,GoVXHx6VpamRB9iUSzHP8BksNa6tkAD71Somn4zfpump,CLUCK,BUY,dev sold,0,0.1,,,14033,,,
 2026-10-10 19:37:48,GoVXHx6VpamRB9iUSzHP8BksNa6tkAD71Somn4zfpump,CLUCK,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,9635,6.4,-31.3,11
 2026-10-10 19:38:03,G7AWXtomwYgEBUAXkDoGWrNTYyJYoRV4DTpRR48rpump,DOTSWARM,SELL,dev sold,0,0.09656,-3.4,shift ended,11354,38.3,-27.4,301
+2026-10-10 20:19:04,EMSqsRjsKnbu9gfyepfEyRf6Yf8kK5kiJxu1AJXbpump,same,BUY,dev sold,0,0.1,,,16027,,,
+2026-10-10 20:20:50,EMSqsRjsKnbu9gfyepfEyRf6Yf8kK5kiJxu1AJXbpump,same,SELL,dev sold,0,0.06268,-37.3,stop loss -36%,10896,44.2,-32.0,107
+2026-10-10 20:20:56,FEwoML22aFA6rJzTMJ2a8w4H1WQFHMAKUaNr461Xpump,WheCoin,BUY,bundled: 12 launch wallets own 53%,0,0.1,,,22144,,,
+2026-10-10 20:21:06,FEwoML22aFA6rJzTMJ2a8w4H1WQFHMAKUaNr461Xpump,WheCoin,SELL,bundled: 12 launch wallets own 53%,0,0.05694,-43.1,dev sold,13679,0.7,-38.2,10
+2026-10-10 20:21:36,2jSfBXeTJGBHv9k5823KKRCiizRqsvqfRY13TkXgpump,QC,BUY,dev sold,0,0.1,,,9731,,,
+2026-10-10 20:22:03,2jSfBXeTJGBHv9k5823KKRCiizRqsvqfRY13TkXgpump,QC,SELL,dev sold,0,0.06257,-37.4,stop loss -36%,6608,52.1,-32.1,27
+2026-10-10 20:22:16,6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8,TRUMP,BUY,dev holds 9.3%,0,0.1,,,19935,,,
+2026-10-10 20:23:33,9dpkDNRrMYyYnBgK1rTf1DuJssFB6oMxwa2cy21Tpump,BTB,BUY,score below threshold,42.4,0.1,,,8102,,,
+2026-10-10 20:23:57,EdtWGXHNucgeeZ3o9iyDc6bpCtU47mDA15DcvSdhpump,QC,BUY,dev sold,0,0.1,,,9932,,,
+2026-10-10 20:24:11,EdtWGXHNucgeeZ3o9iyDc6bpCtU47mDA15DcvSdhpump,QC,SELL,dev sold,0,0.06187,-38.1,stop loss -37%,6669,26.8,-32.8,15
+2026-10-10 20:25:33,BiwSVWQVJ2FjgwPERc1K5gXRAEnM68XVWtZ7P3qRpump,QC,BUY,dev sold,0,0.1,,,9664,,,
+2026-10-10 20:25:50,DGKnNLTvxs2VqKign4CvPbz2wQ9Ngt4FbGBwyezQpump,HIGHER,BUY,dev sold,0,0.1,,,8069,,,
+2026-10-10 20:26:05,6V9cyvwHJXjkteUzdjNmpd6V7XpeKTpCXnz123X4hgy8,TRUMP,SELL,dev holds 9.3%,0,0.09814,-1.9,dev sold,21157,12.6,-0.2,230
+2026-10-10 20:26:09,BiwSVWQVJ2FjgwPERc1K5gXRAEnM68XVWtZ7P3qRpump,QC,SELL,dev sold,0,0.06333,-36.7,stop loss -35%,6642,40.7,-31.3,36
+2026-10-10 20:27:06,DGKnNLTvxs2VqKign4CvPbz2wQ9Ngt4FbGBwyezQpump,HIGHER,SELL,dev sold,0,0.05871,-41.3,stop loss -40%,5145,68.0,-36.2,76
+2026-10-10 20:27:12,J1uThBrhCzcc5cGjtozt8rYz32Aw2THRGUnhP7r6pump,QC,BUY,dev sold,0,0.1,,,10804,,,
+2026-10-10 20:28:01,J1uThBrhCzcc5cGjtozt8rYz32Aw2THRGUnhP7r6pump,QC,SELL,dev sold,0,0.03569,-64.3,stop loss -63%,4206,51.7,-61.1,49
+2026-10-10 20:29:32,9dpkDNRrMYyYnBgK1rTf1DuJssFB6oMxwa2cy21Tpump,BTB,SELL,score below threshold,42.4,0.09088,-9.1,no trading (stale),7972,12.7,-8.3,359
+2026-10-10 20:29:38,3jCeRKRcFVDyigZjSW9AoFnrixHL3zi3c3d96yH7pump, NVIDICATS,BUY,top10 hold 52%,0,0.1,,,12104,,,
+2026-10-10 20:29:48,BWEPP1y39V51Cy56QowXMubQA3D9JggqsKXGh5mvpump,QC,BUY,dev sold,0,0.1,,,9862,,,
+2026-10-10 20:30:29,3jCeRKRcFVDyigZjSW9AoFnrixHL3zi3c3d96yH7pump, NVIDICATS,SELL,top10 hold 52%,0,0.07811,-21.9,dev sold,10244,45.1,-21.5,50
+2026-10-10 20:31:28,xR845tBisgtD7JYPqe56Qn8Mhcypi7JuXBQ2RAApump,OP,BUY,dev holds 50.0%,0,0.1,,,14320,,,
+2026-10-10 20:32:39,Dwbwu5y15SYdC8pJ6yBRn6KBGGg8znhH9Qt73QiRpump,DECAHEDRON,BUY,dev sold,0,0.1,,,10576,,,
+2026-10-10 20:33:00,Dwbwu5y15SYdC8pJ6yBRn6KBGGg8znhH9Qt73QiRpump,DECAHEDRON,SELL,dev sold,0,0.06263,-37.4,stop loss -36%,7188,27.1,-32.0,20
+2026-10-10 20:34:09,6oSe53xHahpzrjicWBkuVWVoDWjnitDqqaJSj7ugpump,AIRDROP,BUY,dev sold,0,0.1,,,16846,,,
+2026-10-10 20:34:55,6oSe53xHahpzrjicWBkuVWVoDWjnitDqqaJSj7ugpump,AIRDROP,SELL,dev sold,0,0.06298,-37.0,stop loss -36%,11507,27.5,-31.7,46
+2026-10-10 20:35:14,DibNaypN2h1YTi8mJMqA4reJu7uVC1eTiiBELKHppump,Shiba,BUY,dev sold,0,0.1,,,8957,,,
+2026-10-10 20:36:32,2aLrBJbASTPi5eJonjhTHyJrtFhG66QidV31mvc7pump,boo,BUY,dev sold,0,0.1,,,29539,,,
+2026-10-10 20:36:47,6ERRGVjFEpAGEMX4uwXuqRhywZamfpE996KTiwPCpump,bbyshanzz,BUY,score below threshold,59.2,0.1,,,9054,,,
+2026-10-10 20:36:53,DibNaypN2h1YTi8mJMqA4reJu7uVC1eTiiBELKHppump,Shiba,SELL,dev sold,0,0.06246,-37.5,stop loss -36%,6073,19.8,-32.2,99
+2026-10-10 20:37:30,xR845tBisgtD7JYPqe56Qn8Mhcypi7JuXBQ2RAApump,OP,SELL,dev holds 50.0%,0,0.0218,-78.2,dev sold,3436,11.8,-76.0,362
+2026-10-10 20:37:43,BWEPP1y39V51Cy56QowXMubQA3D9JggqsKXGh5mvpump,QC,SELL,dev sold,0,0.26877,168.8,shift ended,36273,282.7,0.4,475
+2026-10-10 20:37:43,2aLrBJbASTPi5eJonjhTHyJrtFhG66QidV31mvc7pump,boo,SELL,dev sold,0,0.14205,42.0,shift ended,45295,53.3,1.0,72
+2026-10-10 20:37:43,6ERRGVjFEpAGEMX4uwXuqRhywZamfpE996KTiwPCpump,bbyshanzz,SELL,score below threshold,59.2,0.08294,-17.1,shift ended,8138,0.0,-13.1,57
