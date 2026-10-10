@@ -2655,3 +2655,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 04:35:12,6TNfJh6uc8GNVuEmya4q4a19RJ64AiRGiT5rui7npump,MOOTOON,SELL,dev sold,0,0.06003,-40.0,stop loss -39%,5378,2.8,-34.8,6
 2026-10-10 04:35:58,HvmuaSmiQh9Z8nDWjxi3YgqYQ4wrhsPFVih4K4ELpump,NOAH,BUY,dev sold,0,0.1,,,21673,,,
 2026-10-10 04:36:09,HvmuaSmiQh9Z8nDWjxi3YgqYQ4wrhsPFVih4K4ELpump,NOAH,SELL,dev sold,0,0.06334,-36.7,stop loss -35%,14882,0.1,-31.3,11
+2026-10-10 05:19:40,R1TcJgPatzH2KyBp7Pfw9ew7Gr1yqHm6DaBz8Sapump,SNET,BUY,dev sold,0,0.1,,,22844,,,
+2026-10-10 05:19:42,R1TcJgPatzH2KyBp7Pfw9ew7Gr1yqHm6DaBz8Sapump,SNET,SELL,dev sold,0,0.05982,-40.2,stop loss -39%,14803,0.0,-35.2,2
+2026-10-10 05:20:04,JCPdAAK6aPFpcjHMY6nci4kuacbdAbgukdUuhwpjpump,Val,BUY,dev sold,0,0.1,,,8742,,,
+2026-10-10 05:22:11,JCPdAAK6aPFpcjHMY6nci4kuacbdAbgukdUuhwpjpump,Val,SELL,dev sold,0,0.18818,88.2,trailing stop,16915,182.9,-9.2,127
+2026-10-10 05:32:53,462gAu2KmgZ7nE2EWCpKQfFavbxT7FQDjPAtHRMDpump,MONY,BUY,dev sold,0,0.1,,,12731,,,
+2026-10-10 05:36:30,462gAu2KmgZ7nE2EWCpKQfFavbxT7FQDjPAtHRMDpump,MONY,SELL,dev sold,0,0.15222,52.2,no trading (stale),20899,66.5,-0.0,217
+2026-10-10 05:37:35,HwT68ZHTDkkvq8nouCkwvmYvn1g6v8uhPCf6B5gMpump,DIAMONDORE,BUY,bundled: 16.9 SOL bought in launch block,0,0.1,,,10798,,,
+2026-10-10 05:38:12,HwT68ZHTDkkvq8nouCkwvmYvn1g6v8uhPCf6B5gMpump,DIAMONDORE,SELL,bundled: 16.9 SOL bought in launch block,0,0.08391,-16.1,shift ended,9815,0.8,-9.1,37
