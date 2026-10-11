@@ -3005,3 +3005,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 00:36:40,G5Dgtfzqa65n7vpEfeRfYUCJSESduRzbiynu63SVpump,SI,BUY,dev sold,0,0.1,,,9804,,,
 2026-10-11 00:37:02,G5Dgtfzqa65n7vpEfeRfYUCJSESduRzbiynu63SVpump,SI,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,6434,3.5,-34.4,22
 2026-10-11 00:38:07,8hgQmNcFGvwszbbrjE9UYisjWLwwnwLndgomBvzvpump,CROSS,SELL,bundled: 17 launch wallets own 25%,0,0.0844,-15.6,shift ended,23929,8.4,-19.1,536
+2026-10-11 01:27:34,8rcphpwBMeGeuh2g7ZxKASsPNWK1ndv1WbvbvFyRpump,Critters,BUY,dev sold,0,0.1,,,11235,,,
+2026-10-11 01:27:40,3AheeiTWoYReVguHdLKucE9fSBuU1UGgWuoNoHctpump,POKOS,BUY,dev sold,0,0.1,,,8157,,,
+2026-10-11 01:28:47,3AheeiTWoYReVguHdLKucE9fSBuU1UGgWuoNoHctpump,POKOS,SELL,dev sold,0,0.17664,76.6,trailing stop,12858,127.1,0.8,66
+2026-10-11 01:29:26,7HADbQKbbUGYiML8JLDzyQA9emUqsHVA4F2Fu2q9pump,L3NT1L,BUY,dev sold,0,0.1,,,19066,,,
+2026-10-11 01:29:35,7HADbQKbbUGYiML8JLDzyQA9emUqsHVA4F2Fu2q9pump,L3NT1L,SELL,dev sold,0,0.06298,-37.0,stop loss -36%,13020,1.2,-31.7,9
+2026-10-11 01:30:16,8rcphpwBMeGeuh2g7ZxKASsPNWK1ndv1WbvbvFyRpump,Critters,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,7724,24.0,-31.2,162
+2026-10-11 01:39:58,55ENwxBNmGdvxhLqA49CQYNvNTpj7rhBDKY1F7Evpump,QatBox,BUY,bundled: 14 launch wallets own 7%,0,0.1,,,9304,,,
+2026-10-11 01:40:30,A4Tnv9WyD9MN5pL1uS2soUPLjeVtVE1sQLyq1tSVpump,QatBox,BUY,dev sold,0,0.1,,,30966,,,
+2026-10-11 01:40:33,55ENwxBNmGdvxhLqA49CQYNvNTpj7rhBDKY1F7Evpump,QatBox,SELL,bundled: 14 launch wallets own 7%,0,0.10305,3.1,dev sold,10380,89.1,-6.4,36
+2026-10-11 01:40:46,A4Tnv9WyD9MN5pL1uS2soUPLjeVtVE1sQLyq1tSVpump,QatBox,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,21351,7.4,-31.0,17
