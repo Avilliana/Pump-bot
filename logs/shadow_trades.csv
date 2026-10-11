@@ -3109,3 +3109,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 06:33:37,FnDX3EuJV83xKy8eyu5soqZubqncJWB5bKPdnmYnpump,Bebeh,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,7476,23.2,-31.8,68
 2026-10-11 06:36:43,5dnevgLaygfD6Vb79vQghQ8s5dauqYtJFgWKuShjpump,CTO,BUY,dev sold,0,0.1,,,13448,,,
 2026-10-11 06:37:52,5dnevgLaygfD6Vb79vQghQ8s5dauqYtJFgWKuShjpump,CTO,SELL,dev sold,0,0.03329,-66.7,stop loss -66%,4889,62.1,-63.6,69
+2026-10-11 07:18:51,HjZuSXU4HjhBCri7FiPofqRabaLKSwEXnmfN1gmypump,veil,BUY,bundled: 17 launch wallets own 14%,0,0.1,,,20435,,,
+2026-10-11 07:19:08,HjZuSXU4HjhBCri7FiPofqRabaLKSwEXnmfN1gmypump,veil,SELL,bundled: 17 launch wallets own 14%,0,0.06322,-36.8,stop loss -35%,14005,20.4,-31.5,17
+2026-10-11 07:22:04,4TWMpR47rvQ9M6bgwwdVgnKpw8H9X9CAvZPwdZuwpump,squeeze,BUY,bundled: 9 launch wallets own 19%,0,0.1,,,10659,,,
+2026-10-11 07:22:10,4TWMpR47rvQ9M6bgwwdVgnKpw8H9X9CAvZPwdZuwpump,squeeze,SELL,bundled: 9 launch wallets own 19%,0,0.06325,-36.8,stop loss -35%,7315,36.9,-31.4,6
+2026-10-11 07:22:47,HJ6iNrnZtJJu7BH7r78ojtEZGdyKjZENNXXhAEqgpump,INTENTS,BUY,dev sold,0,0.1,,,29024,,,
+2026-10-11 07:23:48,2XXf6sSfF4jGkbmKv3Kutc5Kj6im8hkQN7pMe2tppump,Gayle,BUY,dev sold,0,0.1,,,19957,,,
+2026-10-11 07:24:53,2XXf6sSfF4jGkbmKv3Kutc5Kj6im8hkQN7pMe2tppump,Gayle,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,13682,62.9,-31.4,66
+2026-10-11 07:26:20,HJ6iNrnZtJJu7BH7r78ojtEZGdyKjZENNXXhAEqgpump,INTENTS,SELL,dev sold,0,0.14378,43.8,no trading (stale),45049,55.2,-15.3,213
