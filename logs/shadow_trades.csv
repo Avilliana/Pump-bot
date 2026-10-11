@@ -3395,3 +3395,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 22:34:55,7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump,Centre,SELL,score below threshold,43.9,0.06333,-36.7,stop loss -35%,6846,0.0,-31.3,30
 2026-10-11 22:37:10,GZKr7FDeemWXRWXg9wNnH5uRSFX32BpimdaWZMzZpump,BATONTRUMP,BUY,dev sold,0,0.1,,,9552,,,
 2026-10-11 22:37:18,GZKr7FDeemWXRWXg9wNnH5uRSFX32BpimdaWZMzZpump,BATONTRUMP,SELL,dev sold,0,0.03402,-66.0,stop loss -65%,3549,5.4,-62.8,8
+2026-10-11 23:19:33,8RepwTtco5c9xRhBBXnCRoC63qsCqnbKQg9YkD53pump,Cases,BUY,dev sold,0,0.1,,,10893,,,
+2026-10-11 23:20:05,CQ1AYhFD4sDSrV3dy5KjRAX5zkMESrHtKiSAoWRDpump,PERCY,BUY,dev sold,0,0.1,,,12992,,,
+2026-10-11 23:20:30,CQ1AYhFD4sDSrV3dy5KjRAX5zkMESrHtKiSAoWRDpump,PERCY,SELL,dev sold,0,0.06281,-37.2,stop loss -36%,8853,3.6,-31.9,26
+2026-10-11 23:21:57,8RepwTtco5c9xRhBBXnCRoC63qsCqnbKQg9YkD53pump,Cases,SELL,dev sold,0,0.06193,-38.1,stop loss -37%,7321,28.6,-32.8,144
+2026-10-11 23:25:17,6bbK484AFRQ39qPLZurzwC8VkPZMJNokESKM3bmpump,CLYDED,BUY,bundled: 20 launch wallets own 15%,0,0.1,,,20131,,,
+2026-10-11 23:28:56,YAPReD7AF1d69e9efJm5ME96CQXdRs9EJDfKQWvUdeh,YAPR,BUY,dev sold,0,0.1,,,16462,,,
+2026-10-11 23:30:48,8FbJ7MMHdUMWqJga1Fe4AyXYyov71jcf3bMdz7o8pump,COPYCAT,BUY,dev sold,0,0.1,,,8341,,,
+2026-10-11 23:31:37,osm6AzqDUH1hwxprivmCCgoH383pxH2dFWBUviLpump,CRYPTO,BUY,dev sold,0,0.1,,,10430,,,
+2026-10-11 23:31:57,6bbK484AFRQ39qPLZurzwC8VkPZMJNokESKM3bmpump,CLYDED,SELL,bundled: 20 launch wallets own 15%,0,0.06158,-38.4,stop loss -37%,13445,77.2,-33.2,400
+2026-10-11 23:32:55,7rhg1poLdK1ovaT9oG6Xse8M2rRcFk4eo6bFfjgnpump,BatonPad,BUY,dev sold,0,0.1,,,19669,,,
+2026-10-11 23:33:43,YAPReD7AF1d69e9efJm5ME96CQXdRs9EJDfKQWvUdeh,YAPR,SELL,dev sold,0,0.06338,-36.6,stop loss -35%,11315,109.4,-31.3,287
+2026-10-11 23:35:51,Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump,DOJAK,BUY,dev sold,0,0.1,,,30885,,,
+2026-10-11 23:36:28,osm6AzqDUH1hwxprivmCCgoH383pxH2dFWBUviLpump,CRYPTO,SELL,dev sold,0,0.30116,201.2,take profit +205%,33933,225.3,-2.8,292
+2026-10-11 23:37:58,7rhg1poLdK1ovaT9oG6Xse8M2rRcFk4eo6bFfjgnpump,BatonPad,SELL,dev sold,0,0.21502,115.0,no trading (stale),45641,132.0,-18.0,303
+2026-10-11 23:38:16,8FbJ7MMHdUMWqJga1Fe4AyXYyov71jcf3bMdz7o8pump,COPYCAT,SELL,dev sold,0,0.08786,-12.1,shift ended,7940,15.0,-6.3,448
+2026-10-11 23:38:16,Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump,DOJAK,SELL,dev sold,0,0.10722,7.2,shift ended,35780,39.8,1.0,145
