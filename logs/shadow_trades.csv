@@ -2989,3 +2989,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-10 23:34:00,GaaL25gu7fEC82Mj487MsHszLihKFRZj6TxrePm5pump,KAIJU,BUY,top10 hold 65%,0,0.1,,,27209,,,
 2026-10-10 23:35:46,EnjercNWRLvuk4bMhiubzgL1Zbg4VLJcU8tGw2qApump,Tesselai,SELL,dev sold,0,0.06255,-37.5,stop loss -36%,13037,105.4,-32.2,238
 2026-10-10 23:38:01,GaaL25gu7fEC82Mj487MsHszLihKFRZj6TxrePm5pump,KAIJU,SELL,top10 hold 65%,0,0.15396,54.0,shift ended,45217,66.2,-0.2,241
+2026-10-11 00:19:55,HR9n8XAxqMy8QNWzDNz8nEMvkVYbsJjQfbbcJ1pJpump,SLOP,BUY,dev sold,0,0.1,,,8553,,,
+2026-10-11 00:21:32,HR9n8XAxqMy8QNWzDNz8nEMvkVYbsJjQfbbcJ1pJpump,SLOP,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,5875,40.0,-31.3,98
+2026-10-11 00:26:56,7TvSgkvSJnocczCrPucB2pcTVVHQCXfrAZG1823Lpump,LARP,BUY,dev sold,0,0.1,,,10952,,,
+2026-10-11 00:27:06,7TvSgkvSJnocczCrPucB2pcTVVHQCXfrAZG1823Lpump,LARP,SELL,dev sold,0,0.06224,-37.8,stop loss -36%,7397,0.1,-32.5,10
+2026-10-11 00:28:08,97EcGq9fGZj1VKjJybzNd6CAP5VUNfzZQqZxnNpDpump,Fuwa,BUY,dev sold,0,0.1,,,11462,,,
+2026-10-11 00:29:11,8hgQmNcFGvwszbbrjE9UYisjWLwwnwLndgomBvzvpump,CROSS,BUY,bundled: 17 launch wallets own 25%,0,0.1,,,26206,,,
+2026-10-11 00:31:03,FupWUEZLDvy6KCNNzofW3g2YPsx7Cw1RLutZDJvypump,wedontcare,BUY,dev sold,0,0.1,,,9649,,,
+2026-10-11 00:31:19,FupWUEZLDvy6KCNNzofW3g2YPsx7Cw1RLutZDJvypump,wedontcare,SELL,dev sold,0,0.03747,-62.5,stop loss -62%,3944,23.0,-59.1,16
+2026-10-11 00:31:53,EnXLadNLGFMcfFYs3eB15mxrYjERanMhtn7GFvBjpump,Ollie,BUY,dev sold,0,0.1,,,8135,,,
+2026-10-11 00:32:05,8V1UWppxqYE7XHEXqTTH2ko1YHjCoPcVL5q9x1txpump,Ollie,BUY,dev sold,0,0.1,,,11744,,,
+2026-10-11 00:32:11,EnXLadNLGFMcfFYs3eB15mxrYjERanMhtn7GFvBjpump,Ollie,SELL,dev sold,0,0.06179,-38.2,stop loss -37%,5458,0.0,-32.9,18
+2026-10-11 00:33:30,8V1UWppxqYE7XHEXqTTH2ko1YHjCoPcVL5q9x1txpump,Ollie,SELL,dev sold,0,0.02715,-72.8,stop loss -72%,3494,59.7,-70.2,86
+2026-10-11 00:36:17,97EcGq9fGZj1VKjJybzNd6CAP5VUNfzZQqZxnNpDpump,Fuwa,SELL,dev sold,0,0.28278,182.8,no trading (stale),45156,294.0,-23.3,489
+2026-10-11 00:36:40,G5Dgtfzqa65n7vpEfeRfYUCJSESduRzbiynu63SVpump,SI,BUY,dev sold,0,0.1,,,9804,,,
+2026-10-11 00:37:02,G5Dgtfzqa65n7vpEfeRfYUCJSESduRzbiynu63SVpump,SI,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,6434,3.5,-34.4,22
+2026-10-11 00:38:07,8hgQmNcFGvwszbbrjE9UYisjWLwwnwLndgomBvzvpump,CROSS,SELL,bundled: 17 launch wallets own 25%,0,0.0844,-15.6,shift ended,23929,8.4,-19.1,536
