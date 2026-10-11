@@ -3313,3 +3313,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 18:36:11,C2VMvidx7wr8sUg8QzqxyJst5Jy35uhfJBLJjcDGpump,PBEAR,SELL,top10 hold 69%,0,0.06226,-37.7,stop loss -36%,16555,47.5,-32.5,19
 2026-10-11 18:38:10,MsaQZbAAryP77UEKnWtxzm1WLnz7Lr8dfno6Gkapump,KolTrace,SELL,score below threshold,48.9,0.25485,154.9,shift ended,35611,226.2,-0.7,449
 2026-10-11 18:38:10,J4z6KKeM62TmbruFzgFvFLZLX5STntnGHspbkanypump,TORCH,SELL,top10 hold 44%,0,0.09064,-9.4,shift ended,14203,0.0,-1.9,134
+2026-10-11 19:20:04,FycTfTbkwVN4HJjAPMyPquvW5sahWeg1FkRoCNtTpump,PPAD,BUY,dev holds 9.2%,0,0.1,,,8573,,,
+2026-10-11 19:20:49,FycTfTbkwVN4HJjAPMyPquvW5sahWeg1FkRoCNtTpump,PPAD,SELL,dev holds 9.2%,0,0.06656,-33.4,dev sold,6192,67.3,-27.8,45
+2026-10-11 19:22:28,AWqbQY4YqyUZduk6H5C9rna9AAgPByiwC7ReVEnHpump,LYNK,BUY,top10 hold 39%,0,0.1,,,11210,,,
+2026-10-11 19:22:45,AWqbQY4YqyUZduk6H5C9rna9AAgPByiwC7ReVEnHpump,LYNK,SELL,top10 hold 39%,0,0.06152,-38.5,stop loss -37%,7484,1.4,-33.2,17
+2026-10-11 19:25:39,HMTAjJjXQeBcTWRZv2gWpWuWssEUEjKqXnQ8gnHtpump,ASI,BUY,dev holds 24.8%,0,0.1,,,11229,,,
+2026-10-11 19:25:47,HMTAjJjXQeBcTWRZv2gWpWuWssEUEjKqXnQ8gnHtpump,ASI,SELL,dev holds 24.8%,0,0.06305,-37.0,stop loss -36%,7682,0.0,-31.6,8
+2026-10-11 19:34:57,9UcrfQm33gAFJqvwsW9s5xrJyWxrtF1CDZdA8NHupump,Veria,BUY,dev sold,0,0.1,,,13116,,,
+2026-10-11 19:35:07,9UcrfQm33gAFJqvwsW9s5xrJyWxrtF1CDZdA8NHupump,Veria,SELL,dev sold,0,0.06342,-36.6,stop loss -35%,9023,10.9,-31.2,10
+2026-10-11 19:36:27,5LtFQvk2zUcKwqXRcUHtyeb3Rf2z1p4ugEsVHTTTpump,DECAHEDRON,BUY,dev sold,0,0.1,,,9925,,,
+2026-10-11 19:36:50,5LtFQvk2zUcKwqXRcUHtyeb3Rf2z1p4ugEsVHTTTpump,DECAHEDRON,SELL,dev sold,0,0.06332,-36.7,stop loss -35%,6821,0.5,-31.3,22
