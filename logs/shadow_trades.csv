@@ -3347,3 +3347,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 20:36:12,CsdRosyTgeueSitzbm1aLyVpYfsmcooHHaoBDkRrpump,CTW,BUY,bundled: 12 launch wallets own 66%,0,0.1,,,26583,,,
 2026-10-11 20:38:04,CsdRosyTgeueSitzbm1aLyVpYfsmcooHHaoBDkRrpump,CTW,SELL,bundled: 12 launch wallets own 66%,0,0.06366,-36.3,stop loss -35%,18342,28.5,-31.0,112
 2026-10-11 20:38:14,qH4uU3mtVDHx64q2hbmtMATF16vRSZFLu9sJVk9pump,ANSEMLEEK,SELL,dev holds 10.2%,0,0.24934,149.3,shift ended,35553,240.6,-1.6,339
+2026-10-11 21:20:18,5p3iFKLoXM3xCqkXqUBVCemTbThKW9kHHb8qq3nvpump,BREAST,BUY,bundled: 21 launch wallets own 20%,0,0.1,,,8488,,,
+2026-10-11 21:21:19,5p3iFKLoXM3xCqkXqUBVCemTbThKW9kHHb8qq3nvpump,BREAST,SELL,bundled: 21 launch wallets own 20%,0,0.06117,-38.8,dev sold,5638,136.5,-33.6,61
+2026-10-11 21:21:33,6bvi2MAe7yZgQ9znukFVrom7tYMvqmcJcmYEsa76pump,MM,BUY,dev sold,0,0.1,,,12929,,,
+2026-10-11 21:25:25,4sKd7cDJHHoUFVgZuWprGdzrgjUikZck4e3W8ud2pump,Commish,BUY,bundled: 14 launch wallets own 11%,0,0.1,,,10348,,,
+2026-10-11 21:25:56,6bvi2MAe7yZgQ9znukFVrom7tYMvqmcJcmYEsa76pump,MM,SELL,dev sold,0,0.06302,-37.0,stop loss -36%,8840,201.0,-31.6,263
+2026-10-11 21:29:53,4sKd7cDJHHoUFVgZuWprGdzrgjUikZck4e3W8ud2pump,Commish,SELL,bundled: 14 launch wallets own 11%,0,0.06258,-37.4,stop loss -36%,7015,75.9,-32.1,268
+2026-10-11 21:34:24,CXUYspHCpEqVYdERvUAx4mv8xUSEJ7AMg59MFaVjpump,MineDash,BUY,dev sold,0,0.1,,,13215,,,
+2026-10-11 21:34:42,2RmBtbYBuRE82WFvQ8xbcx2MELcZXoXyBKyDoHuDpump,HARDIE,BUY,dev sold,0,0.1,,,8366,,,
+2026-10-11 21:35:09,2RmBtbYBuRE82WFvQ8xbcx2MELcZXoXyBKyDoHuDpump,HARDIE,SELL,dev sold,0,0.063,-37.0,stop loss -36%,5722,10.3,-31.6,27
+2026-10-11 21:37:39,Ec2BEPqxJS5mQ6JaaRQwkJhAKUojh4tiV99FscSupump,Grokbit,BUY,dev sold,0,0.1,,,16776,,,
+2026-10-11 21:37:51,9Wr7d6BHeXmGu8nieDLd7BttUNJZdovcJShgXGy6pump,Mali,BUY,bundled: 22 launch wallets own 6%,0,0.1,,,8971,,,
+2026-10-11 21:37:59,9Wr7d6BHeXmGu8nieDLd7BttUNJZdovcJShgXGy6pump,Mali,SELL,bundled: 22 launch wallets own 6%,0,0.06338,-36.6,stop loss -35%,6172,0.1,-31.2,9
+2026-10-11 21:38:22,CXUYspHCpEqVYdERvUAx4mv8xUSEJ7AMg59MFaVjpump,MineDash,SELL,dev sold,0,0.20008,100.1,shift ended,28557,208.6,0.1,238
+2026-10-11 21:38:22,Ec2BEPqxJS5mQ6JaaRQwkJhAKUojh4tiV99FscSupump,Grokbit,SELL,dev sold,0,0.09286,-7.1,shift ended,16855,30.1,-12.7,42
