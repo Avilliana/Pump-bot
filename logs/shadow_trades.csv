@@ -3045,3 +3045,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 03:37:12,97xpkssgnzK2rPZGoRU32wFFBsMfbxDMGoGdhMnzpump,BOOBIES,SELL,dev sold,0,0.03073,-69.3,stop loss -68%,3340,13.9,-66.4,22
 2026-10-11 03:37:15,FW7eK54w9skqoE1PP9tPaxT2nUPidKoXuf1j5PeQpump,xwallet,BUY,bundled: 12 launch wallets own 30%,0,0.1,,,13627,,,
 2026-10-11 03:37:46,FW7eK54w9skqoE1PP9tPaxT2nUPidKoXuf1j5PeQpump,xwallet,SELL,bundled: 12 launch wallets own 30%,0,0.09067,-9.3,shift ended,13374,4.9,-7.3,31
+2026-10-11 04:23:07,Gc65dpaYtEhkWt2cobvmueycSF6kho9xVic4CvGJpump,DIS,BUY,dev sold,0,0.1,,,8391,,,
+2026-10-11 04:23:16,FcE6JFhRE34Gh3mnfYHRXw8tnzRyM675kfvjT6RRpump,DIS,BUY,dev sold,0,0.1,,,15565,,,
+2026-10-11 04:23:36,FcE6JFhRE34Gh3mnfYHRXw8tnzRyM675kfvjT6RRpump,DIS,SELL,dev sold,0,0.06251,-37.5,stop loss -36%,10552,58.0,-32.2,20
+2026-10-11 04:24:45,Gc65dpaYtEhkWt2cobvmueycSF6kho9xVic4CvGJpump,DIS,SELL,dev sold,0,0.04685,-53.1,stop loss -52%,4279,108.2,-49.0,98
+2026-10-11 04:25:43,8qfkMKvwWKp3fXa39HnfQsgeapymjMXujK77mJN3pump,ALTON,BUY,dev sold,0,0.1,,,32104,,,
+2026-10-11 04:29:46,BhbX78F3JprMLisoUau5zngwV6P2nFxZxwPFJoiipump,QUBE,BUY,dev sold,0,0.1,,,9132,,,
+2026-10-11 04:30:49,4chY8iKwrhnpKtb3dyCEeGJHSLuGu5m3SZPAvRh1pump,BEAT,BUY,dev sold,0,0.1,,,8686,,,
+2026-10-11 04:31:33,8qfkMKvwWKp3fXa39HnfQsgeapymjMXujK77mJN3pump,ALTON,SELL,dev sold,0,0.1295,29.5,no trading (stale),44905,39.8,-5.6,350
+2026-10-11 04:32:45,8c1dcZBekZpbjXGCmKFkRFQYMkKJYmG2gWuNy7jLpump,Crawler,BUY,score below threshold,61.7,0.1,,,8792,,,
+2026-10-11 04:32:51,BhbX78F3JprMLisoUau5zngwV6P2nFxZxwPFJoiipump,QUBE,SELL,dev sold,0,0.20937,109.4,trailing stop,21552,240.3,-12.6,185
+2026-10-11 04:33:08,FBHfqomnTJvt7dCrRDAzGhe9qAfVwH74m8Diw2y8pump,QSHIELD,BUY,score below threshold,53.6,0.1,,,44905,,,
+2026-10-11 04:33:09,FBHfqomnTJvt7dCrRDAzGhe9qAfVwH74m8Diw2y8pump,QSHIELD,SELL,score below threshold,53.6,0.09252,-7.5,no trading (stale),44905,0.0,0.0,1
+2026-10-11 04:34:07,H7Aid4kHRfMj3TUuQpHF4BH9ERcnfdLxxxLu1oGSpump,cwif,BUY,dev sold,0,0.1,,,8317,,,
+2026-10-11 04:34:29,8c1dcZBekZpbjXGCmKFkRFQYMkKJYmG2gWuNy7jLpump,Crawler,SELL,score below threshold,61.7,0.08781,-12.2,dev sold,8364,48.9,-6.9,104
+2026-10-11 04:35:11,H7Aid4kHRfMj3TUuQpHF4BH9ERcnfdLxxxLu1oGSpump,cwif,SELL,dev sold,0,0.06305,-36.9,stop loss -36%,5693,18.3,-31.6,64
+2026-10-11 04:38:24,4chY8iKwrhnpKtb3dyCEeGJHSLuGu5m3SZPAvRh1pump,BEAT,SELL,dev sold,0,0.07294,-27.1,shift ended,6871,0.0,-29.7,455
