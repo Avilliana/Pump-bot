@@ -3117,3 +3117,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 07:23:48,2XXf6sSfF4jGkbmKv3Kutc5Kj6im8hkQN7pMe2tppump,Gayle,BUY,dev sold,0,0.1,,,19957,,,
 2026-10-11 07:24:53,2XXf6sSfF4jGkbmKv3Kutc5Kj6im8hkQN7pMe2tppump,Gayle,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,13682,62.9,-31.4,66
 2026-10-11 07:26:20,HJ6iNrnZtJJu7BH7r78ojtEZGdyKjZENNXXhAEqgpump,INTENTS,SELL,dev sold,0,0.14378,43.8,no trading (stale),45049,55.2,-15.3,213
+2026-10-11 08:18:59,98TsGKauaL5pKHS225wDQvYpDAU4Z4DQmq7MwAxTpump,"ちーちー",BUY,bundled: 5 launch wallets own 19%,0,0.1,,,8814,,,
+2026-10-11 08:19:06,98TsGKauaL5pKHS225wDQvYpDAU4Z4DQmq7MwAxTpump,"ちーちー",SELL,bundled: 5 launch wallets own 19%,0,0.07571,-24.3,dev sold,7235,2.3,-17.9,7
+2026-10-11 08:26:00,jRK7yZuaRMGb6t6mVyxQmbMHR3tCRVgkDXMbPrmpump,GLORP,BUY,dev sold,0,0.1,,,13727,,,
+2026-10-11 08:26:43,84tYWopFkZ2dyFboC2JFCM2nthtnpWiPRWGnwcx6pump,PLIQ,BUY,dev sold,0,0.1,,,11545,,,
+2026-10-11 08:27:49,YzQ5nyAemRbpA5cX4bknsojrKu64e9ELvsQHZjcpump,t,BUY,dev sold,0,0.1,,,8040,,,
+2026-10-11 08:28:18,6Uxgc7FfSPsAPaeJZ7dofPT6tv6tTWbefBjpCT8qpump,ZIP,BUY,dev sold,0,0.1,,,23362,,,
+2026-10-11 08:28:23,84tYWopFkZ2dyFboC2JFCM2nthtnpWiPRWGnwcx6pump,PLIQ,SELL,dev sold,0,0.17166,71.7,trailing stop,17911,125.9,-10.2,100
+2026-10-11 08:28:28,YzQ5nyAemRbpA5cX4bknsojrKu64e9ELvsQHZjcpump,t,SELL,dev sold,0,0.18247,82.5,trailing stop,14467,161.1,4.2,40
+2026-10-11 08:29:06,GQJhyQrw2YUTDQ2Th9pbmwWxYYbNxJjYwgiqcoW7MKp2,Astro,BUY,dev sold,0,0.1,,,10410,,,
+2026-10-11 08:29:40,GQJhyQrw2YUTDQ2Th9pbmwWxYYbNxJjYwgiqcoW7MKp2,Astro,SELL,dev sold,0,0.06334,-36.7,stop loss -35%,7155,3.1,-31.3,34
+2026-10-11 08:32:02,6Uxgc7FfSPsAPaeJZ7dofPT6tv6tTWbefBjpCT8qpump,ZIP,SELL,dev sold,0,0.17802,78.0,no trading (stale),44885,92.1,-19.4,224
+2026-10-11 08:33:02,jRK7yZuaRMGb6t6mVyxQmbMHR3tCRVgkDXMbPrmpump,GLORP,SELL,dev sold,0,0.05959,-40.4,stop loss -39%,8870,92.6,-35.3,423
+2026-10-11 08:33:34,AW6xooeRtgGdsPtB4hifcPdLcNZwtiCZJx2n1HBVpump,McPherson,BUY,dev sold,0,0.1,,,10582,,,
+2026-10-11 08:36:18,AW6xooeRtgGdsPtB4hifcPdLcNZwtiCZJx2n1HBVpump,McPherson,SELL,dev sold,0,0.04498,-55.0,stop loss -54%,5180,71.1,-51.1,164
+2026-10-11 08:37:56,8axVfGwLSqKssqCWCxVW3QuqGcrfp4wEzkKH1yQqpump,ALTTROLL,BUY,bundled: 10 launch wallets own 73%,0,0.1,,,35734,,,
+2026-10-11 08:38:14,8axVfGwLSqKssqCWCxVW3QuqGcrfp4wEzkKH1yQqpump,ALTTROLL,SELL,bundled: 10 launch wallets own 73%,0,0.10053,0.5,shift ended,38820,16.7,0.7,18
