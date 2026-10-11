@@ -3323,3 +3323,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 19:35:07,9UcrfQm33gAFJqvwsW9s5xrJyWxrtF1CDZdA8NHupump,Veria,SELL,dev sold,0,0.06342,-36.6,stop loss -35%,9023,10.9,-31.2,10
 2026-10-11 19:36:27,5LtFQvk2zUcKwqXRcUHtyeb3Rf2z1p4ugEsVHTTTpump,DECAHEDRON,BUY,dev sold,0,0.1,,,9925,,,
 2026-10-11 19:36:50,5LtFQvk2zUcKwqXRcUHtyeb3Rf2z1p4ugEsVHTTTpump,DECAHEDRON,SELL,dev sold,0,0.06332,-36.7,stop loss -35%,6821,0.5,-31.3,22
+2026-10-11 20:21:00,3NsvStE7Fh3u6DkFe5UtkkoBEgGduepNboVSqX8bpump,SPOONK ,BUY,dev sold,0,0.1,,,8017,,,
+2026-10-11 20:21:00,3NsvStE7Fh3u6DkFe5UtkkoBEgGduepNboVSqX8bpump,SPOONK ,SELL,dev sold,0,0.05759,-42.4,stop loss -41%,5014,0.0,-37.5,0
+2026-10-11 20:21:58,6Ybkr5GsqxkRXGhK57YEjeNgx2M2Gzi2npsKNyAqpump,ANSEMLEEK,BUY,dev holds 10.2%,0,0.1,,,10916,,,
+2026-10-11 20:22:47,6Ybkr5GsqxkRXGhK57YEjeNgx2M2Gzi2npsKNyAqpump,ANSEMLEEK,SELL,dev holds 10.2%,0,0.07603,-24.0,dev sold,8995,52.8,-17.6,49
+2026-10-11 20:23:58,5uo9QrL25N5PXGDmb1NpzDgXj4dvVbxsxznLuBU8pump,ANSEMLEEK,BUY,dev holds 10.2%,0,0.1,,,10834,,,
+2026-10-11 20:25:42,FayENs4bJCQ1PGmGqaNnVXx4E9CXxX2GTatsah39pump,ORANGGG,BUY,score below threshold,58.3,0.1,,,12466,,,
+2026-10-11 20:27:34,5uo9QrL25N5PXGDmb1NpzDgXj4dvVbxsxznLuBU8pump,ANSEMLEEK,SELL,dev holds 10.2%,0,0.19159,91.6,dev sold,21810,265.6,5.3,216
+2026-10-11 20:27:37,2VeowPKiZcgjXCCA1Zfzvjsz8LM8KBvnNZ46TuLtpump,RROOT,BUY,top10 hold 35%,0,0.1,,,10836,,,
+2026-10-11 20:29:27,2VeowPKiZcgjXCCA1Zfzvjsz8LM8KBvnNZ46TuLtpump,RROOT,SELL,top10 hold 35%,0,0.06343,-36.6,stop loss -35%,7452,0.0,-31.2,110
+2026-10-11 20:29:45,DAoX9SRHWRzQhL6AZCqEDkGsT3ofN5fLnhNgDTN7pump,CHAD,BUY,score below threshold,59.4,0.1,,,12941,,,
+2026-10-11 20:29:49,FayENs4bJCQ1PGmGqaNnVXx4E9CXxX2GTatsah39pump,ORANGGG,SELL,score below threshold,58.3,0.06161,-38.4,stop loss -37%,8327,47.3,-33.1,247
+2026-10-11 20:30:56,3PuG3kKt327tgx74C2XtopxZjZqyFqZm9QQe2CpNpump,ANSEMLEEK,BUY,dev holds 10.2%,0,0.1,,,11184,,,
+2026-10-11 20:31:02,3PuG3kKt327tgx74C2XtopxZjZqyFqZm9QQe2CpNpump,ANSEMLEEK,SELL,dev holds 10.2%,0,0.04758,-52.4,stop loss -51%,5788,6.1,-48.2,5
+2026-10-11 20:31:27,7oiCM2e5c5kEwtUffHmLHRdFvbem5rHZrhCLVxg6pump,Charles,BUY,dev sold,0,0.1,,,10113,,,
+2026-10-11 20:31:31,7oiCM2e5c5kEwtUffHmLHRdFvbem5rHZrhCLVxg6pump,Charles,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,6889,25.0,-31.9,4
+2026-10-11 20:32:35,qH4uU3mtVDHx64q2hbmtMATF16vRSZFLu9sJVk9pump,ANSEMLEEK,BUY,dev holds 10.2%,0,0.1,,,10941,,,
+2026-10-11 20:32:58,9TURYB3zQ4xJChm3k3tZYc5iT2FvAFzSB3Kr24SPpump,SOCIETY,BUY,top10 hold 35%,0,0.1,,,14809,,,
+2026-10-11 20:33:21,9TURYB3zQ4xJChm3k3tZYc5iT2FvAFzSB3Kr24SPpump,SOCIETY,SELL,top10 hold 35%,0,0.09654,-3.5,dev sold,15469,30.3,-4.3,22
+2026-10-11 20:33:22,DAoX9SRHWRzQhL6AZCqEDkGsT3ofN5fLnhNgDTN7pump,CHAD,SELL,score below threshold,59.4,0.08289,-17.1,dev sold,11618,30.1,-10.2,216
+2026-10-11 20:35:39,2q5iCLKevefFwCpKgJWQBjn4CExT1DtcVj1uZxmApump,SOCIETY,BUY,dev sold,0,0.1,,,29656,,,
+2026-10-11 20:35:40,2q5iCLKevefFwCpKgJWQBjn4CExT1DtcVj1uZxmApump,SOCIETY,SELL,dev sold,0,0.05187,-48.1,stop loss -47%,16684,0.0,-43.7,1
+2026-10-11 20:36:12,CsdRosyTgeueSitzbm1aLyVpYfsmcooHHaoBDkRrpump,CTW,BUY,bundled: 12 launch wallets own 66%,0,0.1,,,26583,,,
+2026-10-11 20:38:04,CsdRosyTgeueSitzbm1aLyVpYfsmcooHHaoBDkRrpump,CTW,SELL,bundled: 12 launch wallets own 66%,0,0.06366,-36.3,stop loss -35%,18342,28.5,-31.0,112
+2026-10-11 20:38:14,qH4uU3mtVDHx64q2hbmtMATF16vRSZFLu9sJVk9pump,ANSEMLEEK,SELL,dev holds 10.2%,0,0.24934,149.3,shift ended,35553,240.6,-1.6,339
