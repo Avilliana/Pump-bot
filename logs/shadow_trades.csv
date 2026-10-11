@@ -3361,3 +3361,37 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 21:37:59,9Wr7d6BHeXmGu8nieDLd7BttUNJZdovcJShgXGy6pump,Mali,SELL,bundled: 22 launch wallets own 6%,0,0.06338,-36.6,stop loss -35%,6172,0.1,-31.2,9
 2026-10-11 21:38:22,CXUYspHCpEqVYdERvUAx4mv8xUSEJ7AMg59MFaVjpump,MineDash,SELL,dev sold,0,0.20008,100.1,shift ended,28557,208.6,0.1,238
 2026-10-11 21:38:22,Ec2BEPqxJS5mQ6JaaRQwkJhAKUojh4tiV99FscSupump,Grokbit,SELL,dev sold,0,0.09286,-7.1,shift ended,16855,30.1,-12.7,42
+2026-10-11 22:19:48,A9zvGLz5WyMAB3D8cNyopohsBPws9o4gu87uBAThpump,trenchdog,BUY,dev sold,0,0.1,,,8570,,,
+2026-10-11 22:20:10,GbkCmbE5GssPCcaZRein8VHVDRpQYvWxEC5ReR38pump,BATONTRUMP,BUY,dev sold,0,0.1,,,10475,,,
+2026-10-11 22:20:51,A9zvGLz5WyMAB3D8cNyopohsBPws9o4gu87uBAThpump,trenchdog,SELL,dev sold,0,0.06298,-37.0,stop loss -36%,5860,11.6,-31.6,63
+2026-10-11 22:21:15,7KTJhHTipxSWKQQrYi1xHNBV5X9LjNizwMGBaBVmpump,WORKSHOP,BUY,dev sold,0,0.1,,,8978,,,
+2026-10-11 22:21:22,7KTJhHTipxSWKQQrYi1xHNBV5X9LjNizwMGBaBVmpump,WORKSHOP,SELL,dev sold,0,0.06198,-38.0,stop loss -37%,6041,1.9,-32.7,7
+2026-10-11 22:21:32,HUByYpRKf66A18Nm2x1P5brBYfvzNeVTLY8FwDXPpump,pumpjak,BUY,bundled: 12 launch wallets own 79%,0,0.1,,,45575,,,
+2026-10-11 22:22:51,3FdZ3fzu4nznGZxzr56vipYiC8B1iuWbCdJUU7dXpump,Stubby,BUY,top10 hold 35%,0,0.1,,,8359,,,
+2026-10-11 22:23:00,3FdZ3fzu4nznGZxzr56vipYiC8B1iuWbCdJUU7dXpump,Stubby,SELL,top10 hold 35%,0,0.08632,-13.7,dev sold,7819,0.0,-10.3,9
+2026-10-11 22:23:51,9uHMvLrXt1oKqFFkQ1vL2YEaw5vMfiLmStBQHJX9pump,NUNK,BUY,dev sold,0,0.1,,,8007,,,
+2026-10-11 22:24:04,GbkCmbE5GssPCcaZRein8VHVDRpQYvWxEC5ReR38pump,BATONTRUMP,SELL,dev sold,0,0.29714,197.1,take profit +201%,33622,221.0,-4.0,234
+2026-10-11 22:24:11,HUByYpRKf66A18Nm2x1P5brBYfvzNeVTLY8FwDXPpump,pumpjak,SELL,bundled: 12 launch wallets own 79%,0,0.09252,-7.5,no trading (stale),45575,0.0,0.0,159
+2026-10-11 22:24:30,FBToJ7jauge99J25WTCgbE4Th49HZN7FMG2QKgJKpump,Santaro,BUY,dev sold,0,0.1,,,11376,,,
+2026-10-11 22:24:51,9uHMvLrXt1oKqFFkQ1vL2YEaw5vMfiLmStBQHJX9pump,NUNK,SELL,dev sold,0,0.06316,-36.8,stop loss -36%,5491,24.5,-31.4,60
+2026-10-11 22:25:15,FBToJ7jauge99J25WTCgbE4Th49HZN7FMG2QKgJKpump,Santaro,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,7845,29.8,-31.0,45
+2026-10-11 22:27:32,7UMsjQD7YnKvFWiXhxug9aaaLPxFK84cYQaccMR2pump,Trenchdog,BUY,dev sold,0,0.1,,,9120,,,
+2026-10-11 22:28:10,7UMsjQD7YnKvFWiXhxug9aaaLPxFK84cYQaccMR2pump,Trenchdog,SELL,dev sold,0,0.0634,-36.6,stop loss -35%,6284,3.8,-31.2,38
+2026-10-11 22:28:58,7YzagQVA9xJARJNKL7Q2DigGo8W1mmG1FVwWhP9Spump,tide,BUY,bundled: 30 launch wallets own 14%,0,0.1,,,10544,,,
+2026-10-11 22:30:52,HJA158ZgyBhyNqRRvxRv9Y5k9o55keKGDqtiRuoPpump,NftPerp,BUY,score below threshold,60.6,0.1,,,45632,,,
+2026-10-11 22:31:13,YARG3cwRi6eufBAgSggShDG2hHakAaZgYQBimMfAeJG,token,BUY,dev sold,0,0.1,,,10171,,,
+2026-10-11 22:31:25,YARG3cwRi6eufBAgSggShDG2hHakAaZgYQBimMfAeJG,token,SELL,dev sold,0,0.06261,-37.4,stop loss -36%,6911,0.0,-32.1,12
+2026-10-11 22:31:38,Cu8Uboe2L3GkyriudSjpGCifeJgXLNkWhz4YAAzmpump,BATONTRUMP,BUY,dev sold,0,0.1,,,10321,,,
+2026-10-11 22:31:49,EqjAJQRtW8bcWYEQ9HYoa979nbVKeTvFkuYRA2cfpump,BCOIN,BUY,dev sold,0,0.1,,,8325,,,
+2026-10-11 22:31:50,Cu8Uboe2L3GkyriudSjpGCifeJgXLNkWhz4YAAzmpump,BATONTRUMP,SELL,dev sold,0,0.03803,-62.0,stop loss -61%,4281,16.3,-58.5,12
+2026-10-11 22:31:52,EqjAJQRtW8bcWYEQ9HYoa979nbVKeTvFkuYRA2cfpump,BCOIN,SELL,dev sold,0,0.04952,-50.5,stop loss -49%,4481,29.3,-46.2,3
+2026-10-11 22:32:51,7YzagQVA9xJARJNKL7Q2DigGo8W1mmG1FVwWhP9Spump,tide,SELL,bundled: 30 launch wallets own 14%,0,0.06346,-36.5,stop loss -35%,7261,22.3,-31.1,232
+2026-10-11 22:32:58,E8Q5QYbcNvqagCSP1KBbsdemw49qAqKgqKdjhU44pump,NIGR,BUY,dev sold,0,0.1,,,12112,,,
+2026-10-11 22:33:37,55mFQnB5sah3p3p8iXbEXN3Rqk3ZHgeNddfWUqbppump,BATONTRUMP,BUY,dev sold,0,0.1,,,9934,,,
+2026-10-11 22:33:39,E8Q5QYbcNvqagCSP1KBbsdemw49qAqKgqKdjhU44pump,NIGR,SELL,dev sold,0,0.06181,-38.2,stop loss -37%,8124,0.0,-32.9,41
+2026-10-11 22:33:44,HJA158ZgyBhyNqRRvxRv9Y5k9o55keKGDqtiRuoPpump,NftPerp,SELL,score below threshold,60.6,0.09252,-7.5,no trading (stale),45632,0.0,0.0,172
+2026-10-11 22:34:25,55mFQnB5sah3p3p8iXbEXN3Rqk3ZHgeNddfWUqbppump,BATONTRUMP,SELL,dev sold,0,0.06204,-38.0,stop loss -37%,6689,53.3,-32.7,48
+2026-10-11 22:34:25,7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump,Centre,BUY,score below threshold,43.9,0.1,,,9961,,,
+2026-10-11 22:34:55,7hJUp7gEh2mLhuqfKFsWRvt5XbnSBHoTx95Lnc7epump,Centre,SELL,score below threshold,43.9,0.06333,-36.7,stop loss -35%,6846,0.0,-31.3,30
+2026-10-11 22:37:10,GZKr7FDeemWXRWXg9wNnH5uRSFX32BpimdaWZMzZpump,BATONTRUMP,BUY,dev sold,0,0.1,,,9552,,,
+2026-10-11 22:37:18,GZKr7FDeemWXRWXg9wNnH5uRSFX32BpimdaWZMzZpump,BATONTRUMP,SELL,dev sold,0,0.03402,-66.0,stop loss -65%,3549,5.4,-62.8,8
