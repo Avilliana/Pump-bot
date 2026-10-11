@@ -3015,3 +3015,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 01:40:30,A4Tnv9WyD9MN5pL1uS2soUPLjeVtVE1sQLyq1tSVpump,QatBox,BUY,dev sold,0,0.1,,,30966,,,
 2026-10-11 01:40:33,55ENwxBNmGdvxhLqA49CQYNvNTpj7rhBDKY1F7Evpump,QatBox,SELL,bundled: 14 launch wallets own 7%,0,0.10305,3.1,dev sold,10380,89.1,-6.4,36
 2026-10-11 01:40:46,A4Tnv9WyD9MN5pL1uS2soUPLjeVtVE1sQLyq1tSVpump,QatBox,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,21351,7.4,-31.0,17
+2026-10-11 02:24:56,9aZzSBmXwtjuwXDGRnuTJ4jxeXCAP6RnTek5rBVQpump,POPDOG,BUY,dev sold,0,0.1,,,13077,,,
+2026-10-11 02:25:28,9aZzSBmXwtjuwXDGRnuTJ4jxeXCAP6RnTek5rBVQpump,POPDOG,SELL,dev sold,0,0.06162,-38.4,stop loss -37%,8744,20.1,-33.1,32
+2026-10-11 02:26:20,CAT4C9hCBqCfo9xTVDf6kvuk416XMoafsSuJywAjNNpd,67CAT,BUY,dev holds 28.9%,0,0.1,,,10085,,,
+2026-10-11 02:30:11,CAT4C9hCBqCfo9xTVDf6kvuk416XMoafsSuJywAjNNpd,67CAT,SELL,dev holds 28.9%,0,0.22143,121.4,trailing stop,26180,284.3,2.0,231
+2026-10-11 02:30:55,7WtarR6gzGKVNejH3uNJHRHo5nmTvQ4yijx4FWN5pump,CVRN,BUY,bundled: 4 launch wallets own 9%,0,0.1,,,9064,,,
+2026-10-11 02:32:48,7WtarR6gzGKVNejH3uNJHRHo5nmTvQ4yijx4FWN5pump,CVRN,SELL,bundled: 4 launch wallets own 9%,0,0.18039,80.4,trailing stop,15997,152.4,1.0,112
+2026-10-11 02:33:10,3hW8pkCEoKJmpwZ6BjU3bLGeRpFLWeoZzr7FbvNUpump,Callout,BUY,dev sold,0,0.1,,,8157,,,
+2026-10-11 02:34:06,3hW8pkCEoKJmpwZ6BjU3bLGeRpFLWeoZzr7FbvNUpump,Callout,SELL,dev sold,0,0.06223,-37.8,stop loss -36%,5512,1.5,-32.4,56
+2026-10-11 02:34:36,2Fad8taWxbaso6u1Cb91oV14p6m4PR52Gwc7TJRPpump,STRKT,BUY,bundled: 40 launch wallets own 25%,0,0.1,,,18594,,,
+2026-10-11 02:37:06,2Fad8taWxbaso6u1Cb91oV14p6m4PR52Gwc7TJRPpump,STRKT,SELL,bundled: 40 launch wallets own 25%,0,0.06317,-36.8,stop loss -36%,12736,49.6,-31.5,150
