@@ -3089,3 +3089,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 05:36:34,2Wze9T8aZ91pD6ZJNtRNNKrN21iBpehshf46Ycswpump,Drool,SELL,bundled: 11 launch wallets own 10%,0,0.08898,-11.0,dev sold,9210,7.6,-3.6,2
 2026-10-11 05:36:58,FRc5B8hsNCR4TWRthrnd61yShxsdFjz641ztCiQFpump,rabbicoin,BUY,dev sold,0,0.1,,,12312,,,
 2026-10-11 05:36:59,FRc5B8hsNCR4TWRthrnd61yShxsdFjz641ztCiQFpump,rabbicoin,SELL,dev sold,0,0.06251,-37.5,stop loss -36%,8348,0.0,-32.2,1
+2026-10-11 06:19:18,DwS9uzk62p5RMDWFF6hPykbq82t1QMtxK4eZ7j2jpump,Musk,BUY,dev sold,0,0.1,,,9473,,,
+2026-10-11 06:21:05,DwS9uzk62p5RMDWFF6hPykbq82t1QMtxK4eZ7j2jpump,Musk,SELL,dev sold,0,0.05628,-43.7,stop loss -43%,5791,102.9,-38.9,107
+2026-10-11 06:22:49,DS6dPTJCQMJBNCWAFQY6UKXkucVD5bo6Y9RhM84upump,ALTCLAUDIA,BUY,bundled: 6 launch wallets own 73%,0,0.1,,,35179,,,
+2026-10-11 06:24:39,B571JmZhJLfUzfRH83vATwsXhGqnU7QnjzFcDiGdpump,69420,BUY,top10 hold 65%,0,0.1,,,41110,,,
+2026-10-11 06:25:01,B571JmZhJLfUzfRH83vATwsXhGqnU7QnjzFcDiGdpump,69420,SELL,top10 hold 65%,0,0.05892,-41.1,stop loss -40%,26259,4.8,-36.1,22
+2026-10-11 06:26:00,DS6dPTJCQMJBNCWAFQY6UKXkucVD5bo6Y9RhM84upump,ALTCLAUDIA,SELL,bundled: 6 launch wallets own 73%,0,0.11822,18.2,no trading (stale),44913,27.7,1.7,190
+2026-10-11 06:26:16,2cK3oRe9RFBExVHaCADC4yC2UENCinqCSmXRMaZgpump,Bebeh,BUY,dev sold,0,0.1,,,9206,,,
+2026-10-11 06:26:47,2cK3oRe9RFBExVHaCADC4yC2UENCinqCSmXRMaZgpump,Bebeh,SELL,dev sold,0,0.03677,-63.2,stop loss -62%,3693,13.4,-59.9,31
+2026-10-11 06:26:48,631ZvPaqCfKSyi3AVCLJyrTQHKBWiKqxBcY8Lc6Xpump,Incognito,BUY,dev sold,0,0.1,,,10756,,,
+2026-10-11 06:28:15,631ZvPaqCfKSyi3AVCLJyrTQHKBWiKqxBcY8Lc6Xpump,Incognito,SELL,dev sold,0,0.17895,79.0,trailing stop,18450,152.3,-2.8,87
+2026-10-11 06:28:58,68vYHSaM4pfTynWCV17prfhC8S3LD3P4Z2ofJbq9pump,Musk,BUY,dev sold,0,0.1,,,16618,,,
+2026-10-11 06:29:35,68vYHSaM4pfTynWCV17prfhC8S3LD3P4Z2ofJbq9pump,Musk,SELL,dev sold,0,0.06223,-37.8,stop loss -36%,11216,61.1,-32.5,37
+2026-10-11 06:29:39,4tJVeSNVfCZ5EwiCWLPSP3kNLAak1Ey6uwExZ188pump,Bebeh,BUY,top10 hold 73%,0,0.1,,,30977,,,
+2026-10-11 06:29:54,4tJVeSNVfCZ5EwiCWLPSP3kNLAak1Ey6uwExZ188pump,Bebeh,SELL,top10 hold 73%,0,0.05679,-43.2,stop loss -42%,19079,44.9,-38.4,15
+2026-10-11 06:31:53,JDMdhTox65XkWFatpqkW9JtiZ8UtJMNZ4GH22Sqepump,SUPERINTEL,BUY,dev sold,0,0.1,,,8930,,,
+2026-10-11 06:32:29,FnDX3EuJV83xKy8eyu5soqZubqncJWB5bKPdnmYnpump,Bebeh,BUY,dev sold,0,0.1,,,10966,,,
+2026-10-11 06:33:03,JDMdhTox65XkWFatpqkW9JtiZ8UtJMNZ4GH22Sqepump,SUPERINTEL,SELL,dev sold,0,0.05573,-44.3,stop loss -43%,5407,93.2,-39.4,70
+2026-10-11 06:33:37,FnDX3EuJV83xKy8eyu5soqZubqncJWB5bKPdnmYnpump,Bebeh,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,7476,23.2,-31.8,68
+2026-10-11 06:36:43,5dnevgLaygfD6Vb79vQghQ8s5dauqYtJFgWKuShjpump,CTO,BUY,dev sold,0,0.1,,,13448,,,
+2026-10-11 06:37:52,5dnevgLaygfD6Vb79vQghQ8s5dauqYtJFgWKuShjpump,CTO,SELL,dev sold,0,0.03329,-66.7,stop loss -66%,4889,62.1,-63.6,69
