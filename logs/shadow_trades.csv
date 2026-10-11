@@ -3133,3 +3133,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 08:36:18,AW6xooeRtgGdsPtB4hifcPdLcNZwtiCZJx2n1HBVpump,McPherson,SELL,dev sold,0,0.04498,-55.0,stop loss -54%,5180,71.1,-51.1,164
 2026-10-11 08:37:56,8axVfGwLSqKssqCWCxVW3QuqGcrfp4wEzkKH1yQqpump,ALTTROLL,BUY,bundled: 10 launch wallets own 73%,0,0.1,,,35734,,,
 2026-10-11 08:38:14,8axVfGwLSqKssqCWCxVW3QuqGcrfp4wEzkKH1yQqpump,ALTTROLL,SELL,bundled: 10 launch wallets own 73%,0,0.10053,0.5,shift ended,38820,16.7,0.7,18
+2026-10-11 09:20:13,2FHb7gerxdqB6YVgzcP5zywUTvUB9MwZbd3V76R7pump,GLYPH8192,BUY,dev sold,0,0.1,,,12077,,,
+2026-10-11 09:20:19,2FHb7gerxdqB6YVgzcP5zywUTvUB9MwZbd3V76R7pump,GLYPH8192,SELL,dev sold,0,0.06283,-37.2,stop loss -36%,8233,0.1,-31.8,6
+2026-10-11 09:23:26,2cf9mDpBTHCca9EXTq7VJ1btnjzhneTo3TrWqw71pump,sweep,BUY,bundled: 32 launch wallets own 7%,0,0.1,,,22553,,,
+2026-10-11 09:28:22,Hg7Pd8gBWDGnv9aDEFLR3AWaH1VfbWDcKJjHM63Zpump,LAM,BUY,dev sold,0,0.1,,,8378,,,
+2026-10-11 09:28:57,2cf9mDpBTHCca9EXTq7VJ1btnjzhneTo3TrWqw71pump,sweep,SELL,bundled: 32 launch wallets own 7%,0,0.18473,84.7,no trading (stale),44926,99.4,-11.2,331
+2026-10-11 09:29:31,Hg7Pd8gBWDGnv9aDEFLR3AWaH1VfbWDcKJjHM63Zpump,LAM,SELL,dev sold,0,0.063,-37.0,stop loss -36%,5725,10.5,-31.6,69
+2026-10-11 09:29:31,6PPAyjs3dkz2Wq6EV6LQX98UabbmYj1mCvz1uGM7pump,PLIQ,BUY,bundled: 24 launch wallets own 45%,0,0.1,,,12661,,,
+2026-10-11 09:29:33,6PPAyjs3dkz2Wq6EV6LQX98UabbmYj1mCvz1uGM7pump,PLIQ,SELL,bundled: 24 launch wallets own 45%,0,0.05758,-42.4,stop loss -41%,7915,0.0,-37.5,2
+2026-10-11 09:33:52,DiV1Jfg8fFmHR4hhci1MvqqBQRihWz24cHJ4eiAGpump,Normie,BUY,dev sold,0,0.1,,,11960,,,
+2026-10-11 09:34:33,DiV1Jfg8fFmHR4hhci1MvqqBQRihWz24cHJ4eiAGpump,Normie,SELL,dev sold,0,0.06273,-37.3,stop loss -36%,8141,50.1,-31.9,41
