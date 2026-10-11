@@ -3161,3 +3161,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 11:23:37,4CFHrZoo1Uhv21VX9ULDvdzb7rdf8RSCfzSXYucXpump,Provera,SELL,top10 hold 35%,0,0.06369,-36.3,stop loss -35%,6561,7.1,-30.9,125
 2026-10-11 11:32:52,5Xy9CYmWCppTg7jKkPKdCEq8jRvud1hqWxZC55dzpump,MATRIX,BUY,past buy window (late mover),73.6,0.1,,,8951,,,
 2026-10-11 11:38:06,5Xy9CYmWCppTg7jKkPKdCEq8jRvud1hqWxZC55dzpump,MATRIX,SELL,past buy window (late mover),73.6,0.14664,46.6,shift ended,14195,59.6,-0.0,314
+2026-10-11 12:24:14,ATAaXAhkLZNykLT3X5JRACULohYc52DvGr5VhHrFpump,SUPERDOG,BUY,dev sold,0,0.1,,,12423,,,
+2026-10-11 12:24:55,ATAaXAhkLZNykLT3X5JRACULohYc52DvGr5VhHrFpump,SUPERDOG,SELL,dev sold,0,0.06071,-39.3,stop loss -38%,8185,18.2,-34.1,41
+2026-10-11 12:25:27,Ltft6EBXNMVt3k3HTVbyKP77uMkwttu7XMeAQ8Nkdex,DEX,BUY,dev sold,0,0.1,,,10145,,,
+2026-10-11 12:27:48,D8wkmpvD8Y4hVvgM4Eu3c3uax5Ya8CHg3FPQ1cs5pump,Vusan,BUY,dev sold,0,0.1,,,9011,,,
+2026-10-11 12:28:07,Ltft6EBXNMVt3k3HTVbyKP77uMkwttu7XMeAQ8Nkdex,DEX,SELL,dev sold,0,0.06298,-37.0,stop loss -36%,6923,8.5,-31.6,160
+2026-10-11 12:28:21,D8wkmpvD8Y4hVvgM4Eu3c3uax5Ya8CHg3FPQ1cs5pump,Vusan,SELL,dev sold,0,0.06127,-38.7,stop loss -37%,5985,13.0,-33.5,33
