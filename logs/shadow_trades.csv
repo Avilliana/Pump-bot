@@ -3157,3 +3157,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-11 10:34:50,2CkkQaW7zWiDHD8fgzE1o8fKwP3JCHSRiR2aXV88x7if,MS70,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,15260,92.6,-33.0,64
 2026-10-11 10:37:00,4FD8KxM3gdn9qM7sXzXcR1omF1huxYEs4YMrRjBopump,깨댕이,BUY,dev sold,0,0.1,,,8218,,,
 2026-10-11 10:37:24,4FD8KxM3gdn9qM7sXzXcR1omF1huxYEs4YMrRjBopump,깨댕이,SELL,dev sold,0,0.06205,-37.9,stop loss -37%,5536,6.6,-32.6,24
+2026-10-11 11:21:32,4CFHrZoo1Uhv21VX9ULDvdzb7rdf8RSCfzSXYucXpump,Provera,BUY,top10 hold 35%,0,0.1,,,9493,,,
+2026-10-11 11:23:37,4CFHrZoo1Uhv21VX9ULDvdzb7rdf8RSCfzSXYucXpump,Provera,SELL,top10 hold 35%,0,0.06369,-36.3,stop loss -35%,6561,7.1,-30.9,125
+2026-10-11 11:32:52,5Xy9CYmWCppTg7jKkPKdCEq8jRvud1hqWxZC55dzpump,MATRIX,BUY,past buy window (late mover),73.6,0.1,,,8951,,,
+2026-10-11 11:38:06,5Xy9CYmWCppTg7jKkPKdCEq8jRvud1hqWxZC55dzpump,MATRIX,SELL,past buy window (late mover),73.6,0.14664,46.6,shift ended,14195,59.6,-0.0,314
