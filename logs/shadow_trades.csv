@@ -3573,3 +3573,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 09:35:56,SHuQwKVPNxcTTJ8oTLQUpKGFyigzcPu8KgC9aCGpump,Ember,BUY,dev sold,0,0.1,,,10612,,,
 2026-10-12 09:37:13,GeKGtSeCfukw7Un4zT5QwPhh3EpzyfKnRYPc4Huwpump,ONCHEONI,SELL,dev sold,0,0.29782,197.8,take profit +202%,33610,221.7,-24.3,195
 2026-10-12 09:37:48,SHuQwKVPNxcTTJ8oTLQUpKGFyigzcPu8KgC9aCGpump,Ember,SELL,dev sold,0,0.29906,199.1,take profit +203%,34283,223.1,-0.8,112
+2026-10-12 10:23:02,HP8Arm1UFfANXNmW1siv9cmpEf7acWNuK54YyDiJpump,BLACKBOX,BUY,dev sold,0,0.1,,,8713,,,
+2026-10-12 10:23:37,HP8Arm1UFfANXNmW1siv9cmpEf7acWNuK54YyDiJpump,BLACKBOX,SELL,dev sold,0,0.06256,-37.4,stop loss -36%,5917,52.1,-32.1,35
+2026-10-12 10:26:55,CdALwxA38zUEnTs32Zmf28pDzuzCz3e3ztMXDgeVpump,犬 ,BUY,dev sold,0,0.1,,,8226,,,
+2026-10-12 10:27:10,CdALwxA38zUEnTs32Zmf28pDzuzCz3e3ztMXDgeVpump,犬 ,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,5652,0.0,-31.3,15
+2026-10-12 10:28:52,6RGu2y7eNQSmfy6jnHBX5DjQypq8dCgex1GQhPgapump,TOM,BUY,dev sold,0,0.1,,,14515,,,
+2026-10-12 10:29:21,6RGu2y7eNQSmfy6jnHBX5DjQypq8dCgex1GQhPgapump,TOM,SELL,dev sold,0,0.06319,-36.8,stop loss -36%,9949,11.6,-31.5,29
+2026-10-12 10:30:14,ADgKZmSVDJKiQUxWA2Z8PqGT9kpwRN2mdgGxGuZNpump,PAYLOAD,BUY,dev sold,0,0.1,,,8415,,,
+2026-10-12 10:31:43,2VNiyoLMpeUAQnd964oMrhtEYcHMGoDX2ZRSjL53pump,ComputePad,BUY,dev sold,0,0.1,,,9643,,,
+2026-10-12 10:32:08,3AdDTayCnsLEdYvZyLxfBhgfq6RHszEWAKgcZKt1pump,friens,BUY,dev sold,0,0.1,,,20739,,,
+2026-10-12 10:32:16,2VNiyoLMpeUAQnd964oMrhtEYcHMGoDX2ZRSjL53pump,ComputePad,SELL,dev sold,0,0.0624,-37.6,stop loss -36%,6531,1.4,-32.3,33
+2026-10-12 10:32:16,3AdDTayCnsLEdYvZyLxfBhgfq6RHszEWAKgcZKt1pump,friens,SELL,dev sold,0,0.06061,-39.4,stop loss -38%,13633,5.3,-34.3,8
+2026-10-12 10:32:46,ADgKZmSVDJKiQUxWA2Z8PqGT9kpwRN2mdgGxGuZNpump,PAYLOAD,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,5729,50.4,-31.9,152
+2026-10-12 10:35:28,GqfLuT1dBVvZRUpyiozFUk7cKgnceEZFejsexBoWz6zB,DroidDeck,BUY,dev sold,0,0.1,,,14888,,,
+2026-10-12 10:36:57,B2xuiundA2SSmyhjGEY3CD8uZXmBpV4BwakcFBhspump,DroidDeck,BUY,dev sold,0,0.1,,,8599,,,
+2026-10-12 10:38:03,B2xuiundA2SSmyhjGEY3CD8uZXmBpV4BwakcFBhspump,DroidDeck,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,5860,41.7,-31.9,66
+2026-10-12 10:38:32,GqfLuT1dBVvZRUpyiozFUk7cKgnceEZFejsexBoWz6zB,DroidDeck,SELL,dev sold,0,0.07204,-28.0,shift ended,11622,63.7,-30.5,185
