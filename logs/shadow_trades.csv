@@ -3503,3 +3503,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 04:38:07,8WwbC1kjNw2DzRneBNi9y6CMWYP8mmx9u9hNBpPMpump,memepaper,SELL,past buy window (late mover),63.4,0.1484,48.4,shift ended,21566,75.1,-7.3,663
 2026-10-12 04:38:07,2wYc5rBn2JRo4MrqmJn6xQEcJgsP4pfmrf9DgMTJpump,Robotheism,SELL,dev sold,0,0.17697,77.0,shift ended,18960,123.2,-4.2,188
 2026-10-12 04:38:07,EKdYNKpALYZBZDDSoWMoLTwggpyCvygEPzPND6FUpump,L,SELL,dev sold,0,0.15065,50.7,shift ended,18459,62.8,-15.5,48
+2026-10-12 05:22:40,Ac3wpr3HwcrZqFAqhS3RmscysDCq42meUnWJtLbxpump,COGE,BUY,dev sold,0,0.1,,,12294,,,
+2026-10-12 05:23:11,Ac3wpr3HwcrZqFAqhS3RmscysDCq42meUnWJtLbxpump,COGE,SELL,dev sold,0,0.03,-70.0,stop loss -69%,4035,23.4,-67.2,31
+2026-10-12 05:25:21,6w5xddFSx75KD2MVJ5YAhKDMf8crYa5qMkxZmtPxpump,Solami,BUY,dev sold,0,0.1,,,10114,,,
+2026-10-12 05:27:39,BSgcyVQ84tgzT4XUkjyyQRoZDR7by8VenF624ronpump,Solanians,BUY,dev sold,0,0.1,,,12658,,,
+2026-10-12 05:28:01,BSgcyVQ84tgzT4XUkjyyQRoZDR7by8VenF624ronpump,Solanians,SELL,dev sold,0,0.06119,-38.8,stop loss -38%,8405,13.4,-33.6,22
+2026-10-12 05:28:50,F6f3RpRYrXqqauQiWVgUuDBn1aWEHQ3bSqsuh2Qpump,spoderman,BUY,dev sold,0,0.1,,,9272,,,
+2026-10-12 05:29:02,6w5xddFSx75KD2MVJ5YAhKDMf8crYa5qMkxZmtPxpump,Solami,SELL,dev sold,0,0.30227,202.3,take profit +207%,32964,226.6,-3.0,221
+2026-10-12 05:30:07,F6f3RpRYrXqqauQiWVgUuDBn1aWEHQ3bSqsuh2Qpump,spoderman,SELL,dev sold,0,0.0482,-51.8,stop loss -51%,4852,144.2,-47.6,76
+2026-10-12 05:32:34,FkMD2u96mfgYQnDBFhBqSPyvPismT77mUqaB22jFpump,Solville,BUY,dev sold,0,0.1,,,8706,,,
+2026-10-12 05:33:19,5BeeHr7hutWTjjpEZA99t7GV5R5yHCcqHLsfKnaKpump,Sirius,BUY,dev sold,0,0.1,,,12858,,,
+2026-10-12 05:33:36,FkMD2u96mfgYQnDBFhBqSPyvPismT77mUqaB22jFpump,Solville,SELL,dev sold,0,0.06183,-38.2,stop loss -37%,5844,19.3,-32.9,62
+2026-10-12 05:35:11,F5a5YW2FsBWaqMhqEJnqZmDSM9syFJwA7X6waB7ppump,FZ7LIVE,BUY,dev sold,0,0.1,,,8131,,,
+2026-10-12 05:37:52,F5a5YW2FsBWaqMhqEJnqZmDSM9syFJwA7X6waB7ppump,FZ7LIVE,SELL,dev sold,0,0.05369,-46.3,stop loss -45%,4745,181.5,-41.6,161
+2026-10-12 05:39:00,5BeeHr7hutWTjjpEZA99t7GV5R5yHCcqHLsfKnaKpump,Sirius,SELL,dev sold,0,0.13161,31.6,shift ended,18294,151.3,-1.2,341
