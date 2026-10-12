@@ -3491,3 +3491,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 03:34:20,EAWC4myrJGkGeLiDZPomtAG5niv4CZcRjQM22qXbpump,Papr,SELL,bundled: 16 launch wallets own 6%,0,0.06351,-36.5,stop loss -35%,8280,10.6,-31.1,103
 2026-10-12 03:38:45,66Euaoh9NYeYcudwLdMcDCJGZW3R8TYtbMjjbKtNpump,CAT89,BUY,dev holds 26.6%,0,0.1,,,17064,,,
 2026-10-12 03:38:47,66Euaoh9NYeYcudwLdMcDCJGZW3R8TYtbMjjbKtNpump,CAT89,SELL,dev holds 26.6%,0,0.09242,-7.6,shift ended,17064,0.0,-0.0,2
+2026-10-12 04:27:04,8WwbC1kjNw2DzRneBNi9y6CMWYP8mmx9u9hNBpPMpump,memepaper,BUY,past buy window (late mover),63.4,0.1,,,13416,,,
+2026-10-12 04:28:15,4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump,GOD,BUY,dev sold,0,0.1,,,10130,,,
+2026-10-12 04:28:38,4yHj4x3g7W8rM3mQe7PgRgvZfxYTxn7RvzcAtLzZpump,GOD,SELL,dev sold,0,0.03084,-69.2,stop loss -68%,3417,2.6,-66.3,23
+2026-10-12 04:29:25,75zYsm3s5C2p2TYhESP4HKgbZM48M6igRGPpmkPopump,memristor,BUY,bundled: 11 launch wallets own 16%,0,0.1,,,8472,,,
+2026-10-12 04:30:44,75zYsm3s5C2p2TYhESP4HKgbZM48M6igRGPpmkPopump,memristor,SELL,bundled: 11 launch wallets own 16%,0,0.06298,-37.0,stop loss -36%,5792,18.8,-31.6,79
+2026-10-12 04:32:20,7RboPK8bGsVpjzwav66D2xt2BiyZieygKruJxjUapump,CAT89,BUY,dev holds 26.6%,0,0.1,,,45671,,,
+2026-10-12 04:34:59,2wYc5rBn2JRo4MrqmJn6xQEcJgsP4pfmrf9DgMTJpump,Robotheism,BUY,dev sold,0,0.1,,,9912,,,
+2026-10-12 04:35:25,7RboPK8bGsVpjzwav66D2xt2BiyZieygKruJxjUapump,CAT89,SELL,dev holds 26.6%,0,0.093,-7.0,no trading (stale),45908,0.5,0.0,184
+2026-10-12 04:37:19,EKdYNKpALYZBZDDSoWMoLTwggpyCvygEPzPND6FUpump,L,BUY,dev sold,0,0.1,,,11335,,,
+2026-10-12 04:38:07,8WwbC1kjNw2DzRneBNi9y6CMWYP8mmx9u9hNBpPMpump,memepaper,SELL,past buy window (late mover),63.4,0.1484,48.4,shift ended,21566,75.1,-7.3,663
+2026-10-12 04:38:07,2wYc5rBn2JRo4MrqmJn6xQEcJgsP4pfmrf9DgMTJpump,Robotheism,SELL,dev sold,0,0.17697,77.0,shift ended,18960,123.2,-4.2,188
+2026-10-12 04:38:07,EKdYNKpALYZBZDDSoWMoLTwggpyCvygEPzPND6FUpump,L,SELL,dev sold,0,0.15065,50.7,shift ended,18459,62.8,-15.5,48
