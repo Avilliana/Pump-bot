@@ -3473,3 +3473,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 02:36:56,CFWJt8SJFBwjGd3CZTxcHVnwJNVvKAvZq7WMgonEpump,CYBERWHALE,BUY,dev sold,0,0.1,,,11314,,,
 2026-10-12 02:37:32,CFWJt8SJFBwjGd3CZTxcHVnwJNVvKAvZq7WMgonEpump,CYBERWHALE,SELL,dev sold,0,0.04136,-58.6,stop loss -58%,5097,49.9,-55.0,37
 2026-10-12 02:37:58,DYtuLa5YN9jsLMLjQkxgEKxedRUt8WnYFisj96pqpump,VALIDATOR,SELL,past buy window (late mover),65.6,0.20543,105.4,shift ended,22424,129.2,-4.6,251
+2026-10-12 03:20:08,BgCgrVfEFZ1TmRQn5G3BVkwPheadwK3kk2xrCHK1pump,plot,BUY,bundled: 26 launch wallets own 17%,0,0.1,,,20515,,,
+2026-10-12 03:20:45,6FXaPKi7xVpZSwkc9PcKBahoYoVYsxuStskgqgLRpump,MineDash,BUY,dev sold,0,0.1,,,8078,,,
+2026-10-12 03:20:57,6FXaPKi7xVpZSwkc9PcKBahoYoVYsxuStskgqgLRpump,MineDash,SELL,dev sold,0,0.06308,-36.9,stop loss -36%,5533,0.0,-31.5,12
+2026-10-12 03:22:38,BgCgrVfEFZ1TmRQn5G3BVkwPheadwK3kk2xrCHK1pump,plot,SELL,bundled: 26 launch wallets own 17%,0,0.06298,-37.0,stop loss -36%,14008,24.2,-31.7,150
+2026-10-12 03:22:44,DTkkyUtNrPZK3WXd1ZvASyCbgz2pLpZApm6wspfSpump,eHOME,BUY,dev holds 54.2%,0,0.1,,,27305,,,
+2026-10-12 03:22:53,DTkkyUtNrPZK3WXd1ZvASyCbgz2pLpZApm6wspfSpump,eHOME,SELL,dev holds 54.2%,0,0.05327,-46.7,dev sold,15788,12.7,-42.2,9
+2026-10-12 03:25:53,6n1a9kGohRh5ZogG3XNePaxmzmHYsLRNDnFeGMbYpump,SQUADPAD,BUY,bundled: 9 launch wallets own 6%,0,0.1,,,9532,,,
+2026-10-12 03:26:41,6n1a9kGohRh5ZogG3XNePaxmzmHYsLRNDnFeGMbYpump,SQUADPAD,SELL,bundled: 9 launch wallets own 6%,0,0.07596,-24.0,dev sold,7850,4.9,-17.7,48
+2026-10-12 03:28:56,3snFGFdGmPPZoXMYSGCcFLrGkKo3q8Vfqp3i1TcLpump,Solamians,BUY,dev sold,0,0.1,,,10008,,,
+2026-10-12 03:30:17,1kF8KyZ1mGGBHBz8BzUMWav2jyNUeoz7pF2dNvfpump,bbheadcat,BUY,dev sold,0,0.1,,,11736,,,
+2026-10-12 03:30:51,3snFGFdGmPPZoXMYSGCcFLrGkKo3q8Vfqp3i1TcLpump,Solamians,SELL,dev sold,0,0.05971,-40.3,stop loss -39%,6488,14.0,-35.2,115
+2026-10-12 03:30:53,25RhwxN3kNqGnRrUaZDL8hq8WfmePyMEJMEHpASipump,diework,BUY,top10 hold 35%,0,0.1,,,8683,,,
+2026-10-12 03:30:59,25RhwxN3kNqGnRrUaZDL8hq8WfmePyMEJMEHpASipump,diework,SELL,top10 hold 35%,0,0.06032,-39.7,stop loss -38%,5687,0.1,-34.5,6
+2026-10-12 03:32:27,1kF8KyZ1mGGBHBz8BzUMWav2jyNUeoz7pF2dNvfpump,bbheadcat,SELL,dev sold,0,0.29793,197.9,take profit +202%,37763,221.8,3.3,130
+2026-10-12 03:32:37,EAWC4myrJGkGeLiDZPomtAG5niv4CZcRjQM22qXbpump,Papr,BUY,bundled: 16 launch wallets own 6%,0,0.1,,,12016,,,
+2026-10-12 03:34:20,EAWC4myrJGkGeLiDZPomtAG5niv4CZcRjQM22qXbpump,Papr,SELL,bundled: 16 launch wallets own 6%,0,0.06351,-36.5,stop loss -35%,8280,10.6,-31.1,103
+2026-10-12 03:38:45,66Euaoh9NYeYcudwLdMcDCJGZW3R8TYtbMjjbKtNpump,CAT89,BUY,dev holds 26.6%,0,0.1,,,17064,,,
+2026-10-12 03:38:47,66Euaoh9NYeYcudwLdMcDCJGZW3R8TYtbMjjbKtNpump,CAT89,SELL,dev holds 26.6%,0,0.09242,-7.6,shift ended,17064,0.0,-0.0,2
