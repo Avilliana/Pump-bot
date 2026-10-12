@@ -3629,3 +3629,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 12:30:06,34wQWMeV8LoJs5sjvsAnMNwWRYzG9kAjJhQxqvaTpump,Bork,SELL,bundled: 21 launch wallets own 17%,0,0.06277,-37.2,stop loss -36%,10023,31.8,-31.9,19
 2026-10-12 12:35:12,4Ny24YwaUFdKKrLWk9PkGqMYt6SwgNMtGJyQpy1qpump,LAND,SELL,score below threshold,58.1,0.20524,105.2,dev sold,20566,217.7,-23.3,333
 2026-10-12 12:38:49,933Y2juKDcYwi9C9BPtyrcuNgnUeczgYA3AuGwuupump,RTKL,SELL,score below threshold,47.5,0.14233,42.3,shift ended,25856,71.2,-18.1,648
+2026-10-12 13:39:29,98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump,HIRE,BUY,dev sold,0,0.1,,,14053,,,
+2026-10-12 13:39:57,4gCsKiZGSypYR9ykfeG1CV6CkpwYJ5sZ9oCq2XWopump,p-,BUY,dev sold,0,0.1,,,20049,,,
+2026-10-12 13:45:12,FWg3fePPbzFsLhqH4tMnEFY2RZ2r2rSTzANpn9F4pump,Altaiwif,BUY,bundled: 11 launch wallets own 75%,0,0.1,,,40299,,,
+2026-10-12 13:45:13,2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump,AIRFROG,BUY,dev holds 57.5%,0,0.1,,,14905,,,
+2026-10-12 13:45:44,AiebX96tRewr6y9fyuTPUjrxRSzzx9aTKbWTwfLBpump,$JNUT,BUY,bundled: 11 launch wallets own 66%,0,0.1,,,23238,,,
+2026-10-12 13:45:57,98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump,HIRE,SELL,dev sold,0,0.29773,197.7,take profit +202%,45168,221.4,-27.0,388
+2026-10-12 13:46:05,4gCsKiZGSypYR9ykfeG1CV6CkpwYJ5sZ9oCq2XWopump,p-,SELL,dev sold,0,0.20876,108.8,no trading (stale),45168,125.3,-2.9,368
+2026-10-12 13:48:26,FWg3fePPbzFsLhqH4tMnEFY2RZ2r2rSTzANpn9F4pump,Altaiwif,SELL,bundled: 11 launch wallets own 75%,0,0.10375,3.7,no trading (stale),45271,12.1,-4.1,193
+2026-10-12 13:48:35,AiebX96tRewr6y9fyuTPUjrxRSzzx9aTKbWTwfLBpump,$JNUT,SELL,bundled: 11 launch wallets own 66%,0,0.06174,-38.3,stop loss -37%,15592,49.9,-33.1,172
+2026-10-12 13:49:51,HfuGxmRpFvt4ELnt8tAY1NnexzVcx6uPJes1wP2hpump,Robotheism,BUY,dev sold,0,0.1,,,8229,,,
+2026-10-12 13:50:07,HfuGxmRpFvt4ELnt8tAY1NnexzVcx6uPJes1wP2hpump,Robotheism,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,5401,6.1,-34.4,16
+2026-10-12 13:51:09,2PwePTHmsRUivCTJtr4oFJ2GrkW6xwW8MBtGY9g5pump,BB,BUY,dev sold,0,0.1,,,9521,,,
+2026-10-12 13:52:12,EJQ2PTobDZjZ5cGMwAoVTgKNGTFf7U7XkbTuMW2Qpump,BLOCK,BUY,past buy window (late mover),66.8,0.1,,,8830,,,
+2026-10-12 13:52:17,54b5AwJnrh5wRYBqtYoWRCVaJ9PuszMohvpw3hUkpump,SWOLF,BUY,dev sold,0,0.1,,,13048,,,
+2026-10-12 13:52:24,54b5AwJnrh5wRYBqtYoWRCVaJ9PuszMohvpw3hUkpump,SWOLF,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,8908,7.8,-31.7,7
+2026-10-12 13:53:15,2PwePTHmsRUivCTJtr4oFJ2GrkW6xwW8MBtGY9g5pump,BB,SELL,dev sold,0,0.06069,-39.3,stop loss -38%,6273,54.5,-34.1,126
+2026-10-12 13:57:14,2ZUMLMnuVatFdDBWZZXfP3HDbwWoBiyshH3fACUypump,AIRFROG,SELL,dev holds 57.5%,0,0.23867,138.7,shift ended,38491,157.7,-1.8,720
+2026-10-12 13:57:14,EJQ2PTobDZjZ5cGMwAoVTgKNGTFf7U7XkbTuMW2Qpump,BLOCK,SELL,past buy window (late mover),66.8,0.15524,55.2,shift ended,14823,67.9,-0.4,302
