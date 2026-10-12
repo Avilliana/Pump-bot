@@ -3529,3 +3529,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 06:38:36,E5d43UqJkMnfexCuzfnwAGavhUnXQLtYHPAvCmTcpump,Kuntilanak,SELL,dev sold,0,0.10539,5.4,shift ended,11978,75.3,-22.1,724
 2026-10-12 06:38:36,7K14hcnWpUZgZEiyCUUNxTd6Yo3hHFS3ymg3FNTZpump,Kuntilanak,SELL,dev sold,0,0.08771,-12.3,shift ended,10914,121.6,-29.6,714
 2026-10-12 06:38:36,HCEmADbSYzGjBTRaU2BvLY6LNcabbgwLcpD8vNt9pump,TE,SELL,dev sold,0,0.12818,28.2,shift ended,58105,38.7,-0.6,576
+2026-10-12 07:29:16,EuLxYkm4FU9quoBjiUUMYUrRUCUbsDnW7qR8W2Aapump,Ouroboros,BUY,dev sold,0,0.1,,,9256,,,
+2026-10-12 07:30:04,EuLxYkm4FU9quoBjiUUMYUrRUCUbsDnW7qR8W2Aapump,Ouroboros,SELL,dev sold,0,0.06107,-38.9,stop loss -38%,6137,29.5,-33.7,47
+2026-10-12 07:34:56,4PkZ6LDPJM3Mt1dnUd3cdhbuPZj6NbuqNEM7VbHBGb3p,GRIMS,BUY,dev sold,0,0.1,,,8027,,,
+2026-10-12 07:36:14,4PkZ6LDPJM3Mt1dnUd3cdhbuPZj6NbuqNEM7VbHBGb3p,GRIMS,SELL,dev sold,0,0.06293,-37.1,stop loss -36%,5484,26.3,-31.7,78
+2026-10-12 07:41:24,BEpXJWJZzCPbQneXt31Kvqf9ryotrA6v5xXrVvNYpump,LMA&LMP,BUY,dev sold,0,0.1,,,9898,,,
+2026-10-12 07:42:17,3MZm1Cvruz7CMh34dtW5hMcN3zxP9NcyrXxXwhzQpump,Vaccinu,BUY,dev sold,0,0.1,,,9384,,,
+2026-10-12 07:45:24,3MZm1Cvruz7CMh34dtW5hMcN3zxP9NcyrXxXwhzQpump,Vaccinu,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,6398,28.4,-31.8,187
+2026-10-12 07:47:07,G362AdtLjbkGi3KpFgf64Gnp2kW1yCi584JVcyhTpump,REA,BUY,dev sold,0,0.1,,,8430,,,
+2026-10-12 07:47:26,G362AdtLjbkGi3KpFgf64Gnp2kW1yCi584JVcyhTpump,REA,SELL,dev sold,0,0.0617,-38.3,stop loss -37%,5648,0.0,-33.0,19
+2026-10-12 07:47:56,BEpXJWJZzCPbQneXt31Kvqf9ryotrA6v5xXrVvNYpump,LMA&LMP,SELL,dev sold,0,0.11184,11.8,shift ended,11979,179.1,-22.8,392
