@@ -3553,3 +3553,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 08:35:25,DhoEadA6owJxHEaJJMsvR8fqWjoaVzfeFaUHpViVpump,Gem,SELL,dev sold,0,0.06263,-37.4,stop loss -36%,5859,196.9,-32.0,214
 2026-10-12 08:36:12,A486Bdch6gK1M62zWJnsvf9vUghEz767TjgSF1hJY6bM,Chada,BUY,dev sold,0,0.1,,,9229,,,
 2026-10-12 08:36:29,A486Bdch6gK1M62zWJnsvf9vUghEz767TjgSF1hJY6bM,Chada,SELL,dev sold,0,0.06168,-38.3,stop loss -37%,6179,1.0,-33.0,17
+2026-10-12 09:20:28,1cHoNM4gdFs1gh4oEV1drFkLsUEXjYo4msGuemBpump,KCat,BUY,dev sold,0,0.1,,,10942,,,
+2026-10-12 09:23:17,1cHoNM4gdFs1gh4oEV1drFkLsUEXjYo4msGuemBpump,KCat,SELL,dev sold,0,0.06248,-37.5,stop loss -36%,7419,207.9,-32.2,169
+2026-10-12 09:25:37,B4tMnXMS4RNUREXHy7GDuKn6PgaYXgVt7BfDsFCWpump,GITTER,BUY,bundled: 12 launch wallets own 25%,0,0.1,,,8200,,,
+2026-10-12 09:26:41,DhHuHFmCD7xX8wnHHRGaYtKbN3LaYCcRz2sPsodHpump,WORMPAD,BUY,dev sold,0,0.1,,,9130,,,
+2026-10-12 09:27:01,DhHuHFmCD7xX8wnHHRGaYtKbN3LaYCcRz2sPsodHpump,WORMPAD,SELL,dev sold,0,0.06041,-39.6,stop loss -38%,5988,16.3,-34.4,21
+2026-10-12 09:29:48,B4tMnXMS4RNUREXHy7GDuKn6PgaYXgVt7BfDsFCWpump,GITTER,SELL,bundled: 12 launch wallets own 25%,0,0.06258,-37.4,stop loss -36%,5569,47.6,-32.1,251
+2026-10-12 09:30:59,Cs8D6bpYecb12ETF4niUofDkkGQ8QXT471WsxPRzpump,smowl,BUY,dev sold,0,0.1,,,8512,,,
+2026-10-12 09:31:15,Cs8D6bpYecb12ETF4niUofDkkGQ8QXT471WsxPRzpump,smowl,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,5848,17.7,-31.3,16
+2026-10-12 09:31:38,kac1q9rDPJGBfjkWY729JE578YGMBeaXXQAotCmpump,:),BUY,dev sold,0,0.1,,,8881,,,
+2026-10-12 09:31:57,DHXVioUwhmpcVdxftAwKAGbcHdDUj5efifXthc4hpump,Wormcat,BUY,dev sold,0,0.1,,,8189,,,
+2026-10-12 09:32:26,kac1q9rDPJGBfjkWY729JE578YGMBeaXXQAotCmpump,:),SELL,dev sold,0,0.06319,-36.8,stop loss -36%,6092,79.6,-31.4,48
+2026-10-12 09:33:13,DHXVioUwhmpcVdxftAwKAGbcHdDUj5efifXthc4hpump,Wormcat,SELL,dev sold,0,0.06196,-38.0,stop loss -37%,5510,88.8,-32.7,76
+2026-10-12 09:33:58,GeKGtSeCfukw7Un4zT5QwPhh3EpzyfKnRYPc4Huwpump,ONCHEONI,BUY,dev sold,0,0.1,,,10446,,,
+2026-10-12 09:34:18,GsEDNxUWhTxy4mY2UYEm5hUZz95kmBuFBV3ni5fvpump,ONCHEONI,BUY,dev sold,0,0.1,,,8774,,,
+2026-10-12 09:35:15,9LccETWpSLzDzWVopgk86dAfd74AbB57q1T53VNXpump,LOKI,BUY,dev sold,0,0.1,,,12205,,,
+2026-10-12 09:35:22,GsEDNxUWhTxy4mY2UYEm5hUZz95kmBuFBV3ni5fvpump,ONCHEONI,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,6046,78.8,-31.1,64
+2026-10-12 09:35:26,9LccETWpSLzDzWVopgk86dAfd74AbB57q1T53VNXpump,LOKI,SELL,dev sold,0,0.06316,-36.8,stop loss -36%,8364,0.0,-31.5,11
+2026-10-12 09:35:56,SHuQwKVPNxcTTJ8oTLQUpKGFyigzcPu8KgC9aCGpump,Ember,BUY,dev sold,0,0.1,,,10612,,,
+2026-10-12 09:37:13,GeKGtSeCfukw7Un4zT5QwPhh3EpzyfKnRYPc4Huwpump,ONCHEONI,SELL,dev sold,0,0.29782,197.8,take profit +202%,33610,221.7,-24.3,195
+2026-10-12 09:37:48,SHuQwKVPNxcTTJ8oTLQUpKGFyigzcPu8KgC9aCGpump,Ember,SELL,dev sold,0,0.29906,199.1,take profit +203%,34283,223.1,-0.8,112
