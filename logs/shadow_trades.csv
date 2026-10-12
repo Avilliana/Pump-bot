@@ -3835,3 +3835,37 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 18:38:01,4phW86xhr3hHf8CEHm8LNY8P59j3KRxGBhtxeX3Rpump,SLAVKO,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,6324,14.5,-31.1,149
 2026-10-12 18:38:11,HiqD264YBBtM4v4RS2BJ83mj61RnEE5sXHvsRpAHpump,MarsX,BUY,top10 hold 79%,0,0.1,,,44178,,,
 2026-10-12 18:38:42,HiqD264YBBtM4v4RS2BJ83mj61RnEE5sXHvsRpAHpump,MarsX,SELL,top10 hold 79%,0,0.09252,-7.5,shift ended,44178,0.0,0.0,32
+2026-10-12 19:19:08,5JRgtF4Fwnv3eNmNPuAur6dEzh83ix6mtYP4XALupump,WORM,BUY,dev sold,0,0.1,,,18675,,,
+2026-10-12 19:20:26,HoM13dz7G3aMymi9swzERjLy5MmyEvPgFturFtjNpump,SIFI,BUY,dev sold,0,0.1,,,13405,,,
+2026-10-12 19:20:32,HoM13dz7G3aMymi9swzERjLy5MmyEvPgFturFtjNpump,SIFI,SELL,dev sold,0,0.06061,-39.4,stop loss -38%,8817,1.2,-34.2,5
+2026-10-12 19:23:01,EhNeJCa8SVRWUVr4Jj6UVCjyw5ZScMnkevj9kQ9Fpump,MICROCAP,BUY,dev sold,0,0.1,,,17667,,,
+2026-10-12 19:23:39,EhNeJCa8SVRWUVr4Jj6UVCjyw5ZScMnkevj9kQ9Fpump,MICROCAP,SELL,dev sold,0,0.05927,-40.7,stop loss -39%,11360,21.4,-35.7,39
+2026-10-12 19:23:49,5JRgtF4Fwnv3eNmNPuAur6dEzh83ix6mtYP4XALupump,WORM,SELL,dev sold,0,0.0611,-38.9,stop loss -38%,12376,121.1,-33.7,281
+2026-10-12 19:25:48,Bbwpdw2He5sGQqt8YRyakkviQP3Cv9PoUwTMqyLepump,tail,BUY,dev sold,0,0.1,,,10709,,,
+2026-10-12 19:26:52,BjT69d15QrGfL2R648udjuCX4njeRv7goxD53BZJpump,MC,BUY,dev sold,0,0.1,,,13380,,,
+2026-10-12 19:26:52,F2VJm3DUBH3WD8fPUQSKj9L71BuQXEJ3R3TaYDSzpump,ape,BUY,dev sold,0,0.1,,,15929,,,
+2026-10-12 19:27:01,BjT69d15QrGfL2R648udjuCX4njeRv7goxD53BZJpump,MC,SELL,dev sold,0,0.06114,-38.9,stop loss -38%,8876,8.8,-33.7,9
+2026-10-12 19:27:09,Bbwpdw2He5sGQqt8YRyakkviQP3Cv9PoUwTMqyLepump,tail,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,7381,54.6,-31.1,81
+2026-10-12 19:27:39,5bPgBSnm1dJzK3iKz2e5j5otqhyoQhum65qMx5bjpump,MC,BUY,dev sold,0,0.1,,,27150,,,
+2026-10-12 19:29:18,37HR26Zs5SsY6TyAfb87sgZtu2bpACEE4RKS7eV3pump,$CHT,BUY,dev holds 9.6%,0,0.1,,,15174,,,
+2026-10-12 19:29:28,5bPgBSnm1dJzK3iKz2e5j5otqhyoQhum65qMx5bjpump,MC,SELL,dev sold,0,0.06074,-39.3,stop loss -38%,17979,40.3,-34.1,109
+2026-10-12 19:30:06,F2VJm3DUBH3WD8fPUQSKj9L71BuQXEJ3R3TaYDSzpump,ape,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,10744,147.1,-32.9,194
+2026-10-12 19:30:12,93wu6TB94XGdMbGztVjn59BPs359ePmWv9ZJH3MRpump,Paul,BUY,dev sold,0,0.1,,,15416,,,
+2026-10-12 19:30:15,37HR26Zs5SsY6TyAfb87sgZtu2bpACEE4RKS7eV3pump,$CHT,SELL,dev holds 9.6%,0,0.09603,-4.0,dev sold,15766,13.5,-0.2,56
+2026-10-12 19:30:43,3wDrBzcY7j6gYPyNeQJHgV5NfmQiXzCL8hWknnaLpump,Warfare,BUY,bundled: 17 launch wallets own 8%,0,0.1,,,23471,,,
+2026-10-12 19:31:07,7wDJy9Wn5UFXwjtpgia945P29YKRq4cjuyn4hSempump,CLAWDIA,BUY,bundled: 8 launch wallets own 65%,0,0.1,,,29027,,,
+2026-10-12 19:31:09,B8meAZQzg5G3jEAYko5afMCABjVVeRUTWX7ho7PEpump,TEST,BUY,dev holds 20.0%,0,0.1,,,8503,,,
+2026-10-12 19:31:14,7wDJy9Wn5UFXwjtpgia945P29YKRq4cjuyn4hSempump,CLAWDIA,SELL,bundled: 8 launch wallets own 65%,0,0.06329,-36.7,stop loss -35%,19911,0.0,-31.4,6
+2026-10-12 19:32:58,9yJtuVH4A3PbrXH3jjCXa8WXW5s5ev9T5aMfuEurpump,Dyson,BUY,dev sold,0,0.1,,,15966,,,
+2026-10-12 19:33:28,2Z9SrBq2WmtmBERaEXznDPv8yN6C4WDWyBbNHbvYpump,HallowCate,BUY,dev holds 71.2%,0,0.1,,,31066,,,
+2026-10-12 19:33:36,92RR32B8rAi3Q7ZySqsijURLgzL6a6kKcJEcYRGpump,Backt,BUY,bundled: 15 launch wallets own 12%,0,0.1,,,11184,,,
+2026-10-12 19:34:11,9yJtuVH4A3PbrXH3jjCXa8WXW5s5ev9T5aMfuEurpump,Dyson,SELL,dev sold,0,0.06285,-37.1,stop loss -36%,10883,51.0,-31.8,73
+2026-10-12 19:34:54,Hu8T4yWycHsd54gin4PnXqsk8sY6T4KekwJBT57opump,Altai,BUY,dev sold,0,0.1,,,27042,,,
+2026-10-12 19:36:14,4N2w69D7qsEStUKnYS28zk99jMYZ8F8biH5eNVHbpump,Altai,BUY,dev sold,0,0.1,,,12371,,,
+2026-10-12 19:37:23,3wDrBzcY7j6gYPyNeQJHgV5NfmQiXzCL8hWknnaLpump,Warfare,SELL,bundled: 17 launch wallets own 8%,0,0.17515,75.2,no trading (stale),44367,89.0,-25.2,400
+2026-10-12 19:37:53,92RR32B8rAi3Q7ZySqsijURLgzL6a6kKcJEcYRGpump,Backt,SELL,bundled: 15 launch wallets own 12%,0,0.06117,-38.8,stop loss -38%,7425,1.0,-33.6,258
+2026-10-12 19:38:05,4N2w69D7qsEStUKnYS28zk99jMYZ8F8biH5eNVHbpump,Altai,SELL,dev sold,0,0.06322,-36.8,stop loss -35%,8484,43.7,-31.4,111
+2026-10-12 19:38:08,Hu8T4yWycHsd54gin4PnXqsk8sY6T4KekwJBT57opump,Altai,SELL,dev sold,0,0.152,52.0,no trading (stale),44367,64.1,4.4,194
+2026-10-12 19:38:17,93wu6TB94XGdMbGztVjn59BPs359ePmWv9ZJH3MRpump,Paul,SELL,dev sold,0,0.23083,130.8,shift ended,38413,160.2,-7.4,485
+2026-10-12 19:38:17,B8meAZQzg5G3jEAYko5afMCABjVVeRUTWX7ho7PEpump,TEST,SELL,dev holds 20.0%,0,0.08326,-16.7,shift ended,7673,3.1,-10.8,428
+2026-10-12 19:38:17,2Z9SrBq2WmtmBERaEXznDPv8yN6C4WDWyBbNHbvYpump,HallowCate,SELL,dev holds 71.2%,0,0.09272,-7.3,shift ended,31143,2.5,-5.0,290
