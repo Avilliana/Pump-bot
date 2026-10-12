@@ -3539,3 +3539,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 07:47:07,G362AdtLjbkGi3KpFgf64Gnp2kW1yCi584JVcyhTpump,REA,BUY,dev sold,0,0.1,,,8430,,,
 2026-10-12 07:47:26,G362AdtLjbkGi3KpFgf64Gnp2kW1yCi584JVcyhTpump,REA,SELL,dev sold,0,0.0617,-38.3,stop loss -37%,5648,0.0,-33.0,19
 2026-10-12 07:47:56,BEpXJWJZzCPbQneXt31Kvqf9ryotrA6v5xXrVvNYpump,LMA&LMP,SELL,dev sold,0,0.11184,11.8,shift ended,11979,179.1,-22.8,392
+2026-10-12 08:22:30,9Y8CL6shxYH9XcoqWUoP62Fw1gtX4jsvv9xst1bTpump,Gem,BUY,dev sold,0,0.1,,,22253,,,
+2026-10-12 08:22:49,9RqWKkGQTr5Q4yXtXnpgauD4eSNahb68MBXAhHWipump,Farm,BUY,dev sold,0,0.1,,,8768,,,
+2026-10-12 08:23:36,9RqWKkGQTr5Q4yXtXnpgauD4eSNahb68MBXAhHWipump,Farm,SELL,dev sold,0,0.03403,-66.0,stop loss -65%,3259,44.7,-62.8,47
+2026-10-12 08:24:24,1zhxPaUd9cYDiPzhEAusxivmzkPLJbrVGAEbjCVpump,RTROLL,BUY,dev sold,0,0.1,,,13269,,,
+2026-10-12 08:25:05,CekxD64yx4U4EuuYyipKek2AxmyPSV3URccuPwEcpump,PLOY,BUY,dev sold,0,0.1,,,11674,,,
+2026-10-12 08:25:07,CekxD64yx4U4EuuYyipKek2AxmyPSV3URccuPwEcpump,PLOY,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,8015,0.0,-31.3,3
+2026-10-12 08:26:33,9Y8CL6shxYH9XcoqWUoP62Fw1gtX4jsvv9xst1bTpump,Gem,SELL,dev sold,0,0.19143,91.4,no trading (stale),45973,106.6,-9.2,243
+2026-10-12 08:26:58,1zhxPaUd9cYDiPzhEAusxivmzkPLJbrVGAEbjCVpump,RTROLL,SELL,dev sold,0,0.06237,-37.6,stop loss -36%,8979,142.7,-32.3,154
+2026-10-12 08:30:21,HSodkrSAFQDqbuEckvXtg6MsQcwCwrFsY4Sb8wAvpump,NUTS,BUY,dev sold,0,0.1,,,11779,,,
+2026-10-12 08:30:41,HSodkrSAFQDqbuEckvXtg6MsQcwCwrFsY4Sb8wAvpump,NUTS,SELL,dev sold,0,0.02445,-75.5,stop loss -75%,3162,0.0,-73.2,20
+2026-10-12 08:31:51,DhoEadA6owJxHEaJJMsvR8fqWjoaVzfeFaUHpViVpump,Gem,BUY,dev sold,0,0.1,,,8617,,,
+2026-10-12 08:35:25,DhoEadA6owJxHEaJJMsvR8fqWjoaVzfeFaUHpViVpump,Gem,SELL,dev sold,0,0.06263,-37.4,stop loss -36%,5859,196.9,-32.0,214
+2026-10-12 08:36:12,A486Bdch6gK1M62zWJnsvf9vUghEz767TjgSF1hJY6bM,Chada,BUY,dev sold,0,0.1,,,9229,,,
+2026-10-12 08:36:29,A486Bdch6gK1M62zWJnsvf9vUghEz767TjgSF1hJY6bM,Chada,SELL,dev sold,0,0.06168,-38.3,stop loss -37%,6179,1.0,-33.0,17
