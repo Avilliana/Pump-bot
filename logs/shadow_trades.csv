@@ -3517,3 +3517,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 05:35:11,F5a5YW2FsBWaqMhqEJnqZmDSM9syFJwA7X6waB7ppump,FZ7LIVE,BUY,dev sold,0,0.1,,,8131,,,
 2026-10-12 05:37:52,F5a5YW2FsBWaqMhqEJnqZmDSM9syFJwA7X6waB7ppump,FZ7LIVE,SELL,dev sold,0,0.05369,-46.3,stop loss -45%,4745,181.5,-41.6,161
 2026-10-12 05:39:00,5BeeHr7hutWTjjpEZA99t7GV5R5yHCcqHLsfKnaKpump,Sirius,SELL,dev sold,0,0.13161,31.6,shift ended,18294,151.3,-1.2,341
+2026-10-12 06:26:32,E5d43UqJkMnfexCuzfnwAGavhUnXQLtYHPAvCmTcpump,Kuntilanak,BUY,dev sold,0,0.1,,,10515,,,
+2026-10-12 06:26:42,7K14hcnWpUZgZEiyCUUNxTd6Yo3hHFS3ymg3FNTZpump,Kuntilanak,BUY,dev sold,0,0.1,,,11506,,,
+2026-10-12 06:29:00,HCEmADbSYzGjBTRaU2BvLY6LNcabbgwLcpD8vNt9pump,TE,BUY,dev sold,0,0.1,,,42053,,,
+2026-10-12 06:29:51,Eoq92BaYCdi6vEPfxJ7AkgdTyTRmM9suFSAcLsxhpump,FABLE,BUY,dev sold,0,0.1,,,9732,,,
+2026-10-12 06:30:00,Qqr1bb24nq5fzdYUtw8iHNinzuvfcuyxxMyZXGgpump,bet,BUY,dev sold,0,0.1,,,12515,,,
+2026-10-12 06:31:45,Eoq92BaYCdi6vEPfxJ7AkgdTyTRmM9suFSAcLsxhpump,FABLE,SELL,dev sold,0,0.06229,-37.7,stop loss -36%,6580,36.0,-32.4,114
+2026-10-12 06:31:45,Qqr1bb24nq5fzdYUtw8iHNinzuvfcuyxxMyZXGgpump,bet,SELL,dev sold,0,0.06017,-39.8,stop loss -39%,8172,22.7,-34.7,105
+2026-10-12 06:34:19,B5B8piW3BvF8CNZmykEjV6fyDcWK9AyKWaA3HdPQpump,mCAP,BUY,dev sold,0,0.1,,,9301,,,
+2026-10-12 06:34:51,B5B8piW3BvF8CNZmykEjV6fyDcWK9AyKWaA3HdPQpump,mCAP,SELL,dev sold,0,0.06331,-36.7,stop loss -35%,6391,8.3,-31.3,32
+2026-10-12 06:38:36,E5d43UqJkMnfexCuzfnwAGavhUnXQLtYHPAvCmTcpump,Kuntilanak,SELL,dev sold,0,0.10539,5.4,shift ended,11978,75.3,-22.1,724
+2026-10-12 06:38:36,7K14hcnWpUZgZEiyCUUNxTd6Yo3hHFS3ymg3FNTZpump,Kuntilanak,SELL,dev sold,0,0.08771,-12.3,shift ended,10914,121.6,-29.6,714
+2026-10-12 06:38:36,HCEmADbSYzGjBTRaU2BvLY6LNcabbgwLcpD8vNt9pump,TE,SELL,dev sold,0,0.12818,28.2,shift ended,58105,38.7,-0.6,576
