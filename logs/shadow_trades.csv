@@ -3437,3 +3437,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 00:37:07,C3DiaDSPF1FLk1isVcYhDw3hoLBtYHCHXy7C8DA4pump,SCAN,SELL,score below threshold,44.7,0.09252,-7.5,no trading (stale),45678,0.0,0.0,1
 2026-10-12 00:38:13,cpg5bHvZJTCXzrgVA2o9k9fRpbJXruTjubrKfospump,MEV,SELL,score below threshold,49.9,0.06091,-39.1,stop loss -38%,9291,139.4,-33.9,412
 2026-10-12 00:38:31,BrvTchmd1YbGVxpqnKRBs1Z127f9JgCcTbAA88zspump,KARMA,SELL,bundled: 38 launch wallets own 24%,0,0.2482,148.2,shift ended,29643,191.8,-16.1,165
+2026-10-12 01:27:42,EUDhQF4VPg9R1hDR8Kebj11dRTcvUkpNs9pUxyhApump,TOPCAT,BUY,bundled: 15 launch wallets own 37%,0,0.1,,,10691,,,
+2026-10-12 01:28:35,BGufpxVs9TksrHpsNkMJD6XEW5Zci4Lg5gLjfeNpump,POOLPAD,BUY,bundled: 30 launch wallets own 28%,0,0.1,,,8555,,,
+2026-10-12 01:35:15,9AHDvdnshCFg5d83tu4rSub4rRd845LRSXW6tW71pump,SOLYMPIC,BUY,dev sold,0,0.1,,,8654,,,
+2026-10-12 01:35:31,9AHDvdnshCFg5d83tu4rSub4rRd845LRSXW6tW71pump,SOLYMPIC,SELL,dev sold,0,0.06362,-36.4,stop loss -35%,5977,0.0,-30.9,16
+2026-10-12 01:36:40,EUDhQF4VPg9R1hDR8Kebj11dRTcvUkpNs9pUxyhApump,TOPCAT,SELL,bundled: 15 launch wallets own 37%,0,0.29605,196.0,take profit +200%,34106,219.8,3.6,538
+2026-10-12 01:38:33,BGufpxVs9TksrHpsNkMJD6XEW5Zci4Lg5gLjfeNpump,POOLPAD,SELL,bundled: 30 launch wallets own 28%,0,0.06198,-38.0,stop loss -37%,5742,116.7,-32.7,597
+2026-10-12 01:40:44,7FVo3mJiudCwsm6k76N3ANmJ5gK2AESuP4kwnHy7pump,Dawgs,BUY,dev sold,0,0.1,,,11617,,,
+2026-10-12 01:44:35,7FVo3mJiudCwsm6k76N3ANmJ5gK2AESuP4kwnHy7pump,Dawgs,SELL,dev sold,0,0.17659,76.6,shift ended,22166,125.2,1.7,231
