@@ -3589,3 +3589,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 10:36:57,B2xuiundA2SSmyhjGEY3CD8uZXmBpV4BwakcFBhspump,DroidDeck,BUY,dev sold,0,0.1,,,8599,,,
 2026-10-12 10:38:03,B2xuiundA2SSmyhjGEY3CD8uZXmBpV4BwakcFBhspump,DroidDeck,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,5860,41.7,-31.9,66
 2026-10-12 10:38:32,GqfLuT1dBVvZRUpyiozFUk7cKgnceEZFejsexBoWz6zB,DroidDeck,SELL,dev sold,0,0.07204,-28.0,shift ended,11622,63.7,-30.5,185
+2026-10-12 11:20:37,EokKRL27LGyEwSe7hFGPJtAmdiRD3nTsVVgcxm7Bpump,Miasma,BUY,dev sold,0,0.1,,,8395,,,
+2026-10-12 11:21:17,EokKRL27LGyEwSe7hFGPJtAmdiRD3nTsVVgcxm7Bpump,Miasma,SELL,dev sold,0,0.06283,-37.2,stop loss -36%,5726,3.3,-31.8,39
+2026-10-12 11:21:34,HudWcemeYhhhHGFdaCXRXbzJCVwrh7PQTEgNKgsvpump,REA,BUY,dev sold,0,0.1,,,9341,,,
+2026-10-12 11:21:38,HudWcemeYhhhHGFdaCXRXbzJCVwrh7PQTEgNKgsvpump,REA,SELL,dev sold,0,0.06309,-36.9,stop loss -36%,6396,1.8,-31.5,4
+2026-10-12 11:21:44,DRGU3eWESaiCqmuTuyc7rtkJMT5Pb42P3ZtVRocwPMwD,STARTUP,BUY,bundled: 5 launch wallets own 18%,0,0.1,,,17695,,,
+2026-10-12 11:22:48,8wczdXNTFH7n2Wd4ca7tiXRLpADh86c6f9M6ee3ppump,HP,BUY,dev sold,0,0.1,,,14628,,,
+2026-10-12 11:22:57,8wczdXNTFH7n2Wd4ca7tiXRLpADh86c6f9M6ee3ppump,HP,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,10104,9.8,-30.9,8
+2026-10-12 11:24:20,AirTmriksWmM3NdjQMev7ZC2BbZ7tJ6zMAGH3wUHpump,Dogcoin,BUY,dev sold,0,0.1,,,27316,,,
+2026-10-12 11:24:35,AirTmriksWmM3NdjQMev7ZC2BbZ7tJ6zMAGH3wUHpump,Dogcoin,SELL,dev sold,0,0.06299,-37.0,stop loss -36%,18648,24.3,-31.7,16
+2026-10-12 11:25:11,DRGU3eWESaiCqmuTuyc7rtkJMT5Pb42P3ZtVRocwPMwD,STARTUP,SELL,bundled: 5 launch wallets own 18%,0,0.23934,139.3,no trading (stale),45706,158.3,0.0,206
+2026-10-12 11:25:13,F71AAGV2Qeb1rKpZWmZJo5G1Lwz8Yg1yfW68gQsspump,Maru,BUY,dev sold,0,0.1,,,9569,,,
+2026-10-12 11:26:18,Ga2xwPQx2EovfM1NyuzTr9zC36LoGibSdQP3n3nsqusL,STARTUPCAT,BUY,past buy window (late mover),62.0,0.1,,,9045,,,
+2026-10-12 11:28:31,GP8AcanXaZPDFnYsf4tX6t4Quz69Bqvapo5aP5Sepump,B&C,BUY,dev sold,0,0.1,,,15547,,,
+2026-10-12 11:28:50,GP8AcanXaZPDFnYsf4tX6t4Quz69Bqvapo5aP5Sepump,B&C,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,10717,10.9,-31.1,19
+2026-10-12 11:30:44,F71AAGV2Qeb1rKpZWmZJo5G1Lwz8Yg1yfW68gQsspump,Maru,SELL,dev sold,0,0.06142,-38.6,stop loss -37%,6374,38.9,-33.3,332
+2026-10-12 11:30:56,5v44XTW2jCQ2oM4bnxx5mo1cZPCESNQWK4BMsVBwdpad,Multipad,BUY,bundled: 33 launch wallets own 37%,0,0.1,,,18399,,,
+2026-10-12 11:31:19,5v44XTW2jCQ2oM4bnxx5mo1cZPCESNQWK4BMsVBwdpad,Multipad,SELL,bundled: 33 launch wallets own 37%,0,0.06199,-38.0,stop loss -37%,12370,0.1,-32.8,23
+2026-10-12 11:31:42,FX5JXTz6jh7j1fyNqySbmpvCPUCFhgLRxYM7uBo3pump,Mathocalypse,BUY,dev sold,0,0.1,,,8090,,,
+2026-10-12 11:33:35,FX5JXTz6jh7j1fyNqySbmpvCPUCFhgLRxYM7uBo3pump,Mathocalypse,SELL,dev sold,0,0.06306,-36.9,stop loss -36%,5538,59.5,-31.5,113
+2026-10-12 11:37:01,2CJUiUG98MEvmvLbZriJFepwq2uhjX1qLhoznESwpump,GHIDRA,BUY,dev sold,0,0.1,,,11829,,,
+2026-10-12 11:37:20,2CJUiUG98MEvmvLbZriJFepwq2uhjX1qLhoznESwpump,GHIDRA,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,7966,19.6,-32.7,19
+2026-10-12 11:39:20,Ga2xwPQx2EovfM1NyuzTr9zC36LoGibSdQP3n3nsqusL,STARTUPCAT,SELL,past buy window (late mover),62.0,0.10405,4.0,shift ended,10179,71.1,-26.1,782
