@@ -3725,3 +3725,39 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 15:39:27,DLsqjNExP7YBoiq39bTaCKygi5Kfo6HsSUtMoo5pump,GrandV,SELL,dev sold,0,0.16929,69.3,shift ended,15692,140.7,-28.8,460
 2026-10-12 15:39:27,GWHgJpBEp6Jex2yKsLRENTMyubpLv4xK8CCfLadepump,4,SELL,dev sold,0,0.15602,56.0,shift ended,31434,68.5,0.5,158
 2026-10-12 15:39:27,EpWcGEPTM5Nr4egDZiztefri6drBmHPacT3mSUC8pump,ALIEN,SELL,past buy window (late mover),69.6,0.09196,-8.0,shift ended,11555,17.0,-4.6,40
+2026-10-12 16:19:58,DxntSNPAvR4ztEB8E9QGPZkxb1AJwPxWWwMnAyJdpump,Coin,BUY,top10 hold 67%,0,0.1,,,39418,,,
+2026-10-12 16:22:12,CsLYsvA8jmD6YuGPAC63efSG5N39r9XGbkpvDEkkpump,Meximutt,BUY,dev sold,0,0.1,,,9519,,,
+2026-10-12 16:23:06,J2f4tsBZfTKinaMw2s5jssYEENYJWuGBoPvLRTu6pump,Grok,BUY,dev sold,0,0.1,,,12704,,,
+2026-10-12 16:23:11,DxntSNPAvR4ztEB8E9QGPZkxb1AJwPxWWwMnAyJdpump,Coin,SELL,top10 hold 67%,0,0.10514,5.1,no trading (stale),44774,13.6,-7.5,193
+2026-10-12 16:23:32,J2f4tsBZfTKinaMw2s5jssYEENYJWuGBoPvLRTu6pump,Grok,SELL,dev sold,0,0.05891,-41.1,stop loss -40%,8124,18.0,-36.1,26
+2026-10-12 16:24:11,3WNJEKZGhT4cYZuGXF9WXkTuwuEiJctKBsjABNeNpump,Grok,BUY,dev sold,0,0.1,,,20958,,,
+2026-10-12 16:25:28,B65epyKLdBjYujwTXaeTDgAoYVxkPiT7pDpcyWNkpump,swarms,BUY,bundled: 17 launch wallets own 10%,0,0.1,,,17247,,,
+2026-10-12 16:25:41,3WNJEKZGhT4cYZuGXF9WXkTuwuEiJctKBsjABNeNpump,Grok,SELL,dev sold,0,0.06232,-37.7,stop loss -36%,14162,56.6,-32.4,91
+2026-10-12 16:26:02,FQxAwYwo3uqgJJApdBmAzLTGiHypPd5ab7gJ3SBLpump,CALLOUTS,BUY,top10 hold 38%,0,0.1,,,10322,,,
+2026-10-12 16:26:46,7qzemPYduuG3EkbqBAiMghn6yuzdWJjXJ3DifVwdpump,GARY,BUY,dev sold,0,0.1,,,11187,,,
+2026-10-12 16:27:04,7qzemPYduuG3EkbqBAiMghn6yuzdWJjXJ3DifVwdpump,GARY,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,7726,64.7,-30.9,18
+2026-10-12 16:28:11,hzws2NegkN8aK6ma1uBkVbHzF27RKmotmgFGULipump,LONG,BUY,dev sold,0,0.1,,,13479,,,
+2026-10-12 16:30:08,6PSkxKKAAnKkTazmPXYv3jVMrAZJkmYmfjc59CJkpump,WATERMELON,BUY,dev sold,0,0.1,,,14936,,,
+2026-10-12 16:30:29,6PSkxKKAAnKkTazmPXYv3jVMrAZJkmYmfjc59CJkpump,WATERMELON,SELL,dev sold,0,0.05974,-40.3,stop loss -39%,9681,14.2,-35.2,21
+2026-10-12 16:30:59,3XjhCH1DfwxineSvP3seQTVVm5ypXHHD6FLvaVZRpump,CASINO,BUY,dev sold,0,0.1,,,17759,,,
+2026-10-12 16:31:03,3abJi86kJVrwk2t7454PfwoF6jktyzQ25LSnrNSWpump,batonchan,BUY,top10 hold 78%,0,0.1,,,40993,,,
+2026-10-12 16:31:23,CsLYsvA8jmD6YuGPAC63efSG5N39r9XGbkpvDEkkpump,Meximutt,SELL,dev sold,0,0.06233,-37.7,stop loss -36%,6438,75.7,-32.3,551
+2026-10-12 16:31:26,B65epyKLdBjYujwTXaeTDgAoYVxkPiT7pDpcyWNkpump,swarms,SELL,bundled: 17 launch wallets own 10%,0,0.24054,140.5,no trading (stale),44765,159.6,-17.9,359
+2026-10-12 16:31:58,4uMrucDL2NoF1M75n4Bx1EfUdqoJJhKvYdycjY1bpump,CASINO,BUY,dev sold,0,0.1,,,44765,,,
+2026-10-12 16:32:02,4ZjEyu2Sb5eT9YW7tD6TZhJ4rsFYMwEkA51U5EgFpump,CASINO,BUY,dev sold,0,0.1,,,9499,,,
+2026-10-12 16:32:04,4ZjEyu2Sb5eT9YW7tD6TZhJ4rsFYMwEkA51U5EgFpump,CASINO,SELL,dev sold,0,0.06205,-37.9,stop loss -37%,6398,0.0,-32.6,1
+2026-10-12 16:32:40,C1cp9d3EzCb1YqkET9ff41kBovyCawLAw1uDBcw6pump,CASINO,BUY,dev sold,0,0.1,,,44765,,,
+2026-10-12 16:32:51,721FbysGJdNqtihYSszawuKuPoK1K5M9oP8wdcWgpump,FARMCADE,BUY,bundled: 20 launch wallets own 18%,0,0.1,,,14406,,,
+2026-10-12 16:34:05,3abJi86kJVrwk2t7454PfwoF6jktyzQ25LSnrNSWpump,batonchan,SELL,top10 hold 78%,0,0.10107,1.1,no trading (stale),44765,9.2,-3.4,181
+2026-10-12 16:34:05,AbkiiyVNeHsnYYugZKHg8ocC3Qo29UnA9uPk4kWmpump,ChatGPT,BUY,dev sold,0,0.1,,,12188,,,
+2026-10-12 16:34:30,EJ4k6c2PMKoFamyL7d1azGDwxKJ9EEHFWhk1GfZepump,CASINO,BUY,bundled: 11 launch wallets own 56%,0,0.1,,,29729,,,
+2026-10-12 16:34:58,4uMrucDL2NoF1M75n4Bx1EfUdqoJJhKvYdycjY1bpump,CASINO,SELL,dev sold,0,0.09252,-7.5,no trading (stale),44765,0.0,0.0,179
+2026-10-12 16:35:11,EJ4k6c2PMKoFamyL7d1azGDwxKJ9EEHFWhk1GfZepump,CASINO,SELL,bundled: 11 launch wallets own 56%,0,0.07298,-27.0,dev sold,23488,10.2,-21.0,42
+2026-10-12 16:35:41,C1cp9d3EzCb1YqkET9ff41kBovyCawLAw1uDBcw6pump,CASINO,SELL,dev sold,0,0.09252,-7.5,no trading (stale),44765,0.0,0.0,180
+2026-10-12 16:36:48,3XjhCH1DfwxineSvP3seQTVVm5ypXHHD6FLvaVZRpump,CASINO,SELL,dev sold,0,0.23357,133.6,no trading (stale),44765,152.1,-6.2,349
+2026-10-12 16:37:29,AbkiiyVNeHsnYYugZKHg8ocC3Qo29UnA9uPk4kWmpump,ChatGPT,SELL,dev sold,0,0.03737,-62.6,stop loss -62%,4962,10.8,-59.3,204
+2026-10-12 16:38:42,14CXqkSpvyZaSvE9VqbaGkiAConzqajKUzds7pQqpump,casino,BUY,bundled: 10 launch wallets own 23%,0,0.1,,,19093,,,
+2026-10-12 16:38:44,FQxAwYwo3uqgJJApdBmAzLTGiHypPd5ab7gJ3SBLpump,CALLOUTS,SELL,top10 hold 38%,0,0.12092,20.9,shift ended,13499,78.8,-11.2,762
+2026-10-12 16:38:44,hzws2NegkN8aK6ma1uBkVbHzF27RKmotmgFGULipump,LONG,SELL,dev sold,0,0.2529,152.9,shift ended,36799,184.9,3.8,633
+2026-10-12 16:38:44,721FbysGJdNqtihYSszawuKuPoK1K5M9oP8wdcWgpump,FARMCADE,SELL,bundled: 20 launch wallets own 18%,0,0.10551,5.5,shift ended,16441,71.0,-7.4,353
+2026-10-12 16:38:44,14CXqkSpvyZaSvE9VqbaGkiAConzqajKUzds7pQqpump,casino,SELL,bundled: 10 launch wallets own 23%,0,0.09594,-4.1,shift ended,19813,8.8,3.0,2
