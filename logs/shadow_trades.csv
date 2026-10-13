@@ -4093,3 +4093,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 03:35:46,DV3SM29gUnWyXyYYzYfb9uCRZPQgBi44CF3HTAcRpump,ANUBIS,BUY,dev holds 52.4%,0,0.1,,,18892,,,
 2026-10-13 03:37:30,DV3SM29gUnWyXyYYzYfb9uCRZPQgBi44CF3HTAcRpump,ANUBIS,SELL,dev holds 52.4%,0,0.08789,-12.1,dev sold,17966,93.9,-4.9,104
 2026-10-13 03:37:57,52KfCvLqWTDmgsYWQXwaAvfSe1GYVehmaZu7wfJ6pump,BLACKPAD,SELL,score below threshold,54.9,0.13679,36.8,shift ended,15891,75.0,-23.7,376
+2026-10-13 04:20:46,CGBsj1oT1cttaQn5saBmy7mr1Yfz7oZeRZPh7ERapHmN,Pasture,BUY,dev sold,0,0.1,,,8931,,,
+2026-10-13 04:21:11,CGBsj1oT1cttaQn5saBmy7mr1Yfz7oZeRZPh7ERapHmN,Pasture,SELL,dev sold,0,0.0601,-39.9,stop loss -39%,5828,6.0,-34.7,24
+2026-10-13 04:21:26,ChEX4i4eUhAN3an553C1jiBa82BGuBMtcLW8n47Npump,SI,BUY,dev sold,0,0.1,,,8991,,,
+2026-10-13 04:21:57,44qYD9WNJFvH4oc6ydFpTZan5BYpAq9yGK44mdnwpump,Chonkie,BUY,bundled: 27 launch wallets own 11%,0,0.1,,,9770,,,
+2026-10-13 04:22:19,DDypwicBd51Bnqhw8UCcpz3NFfGqjh5nJob3gRCxpump,CLAUDECHUD,BUY,dev sold,0,0.1,,,16006,,,
+2026-10-13 04:22:40,ChEX4i4eUhAN3an553C1jiBa82BGuBMtcLW8n47Npump,SI,SELL,dev sold,0,0.06364,-36.4,stop loss -35%,6209,0.0,-30.9,74
+2026-10-13 04:28:34,G3eJ4GGukKkqy8ftkC5EuzAkbersziWAyxuLCoS9pump,Runepunk,BUY,dev sold,0,0.1,,,9036,,,
+2026-10-13 04:28:52,CRrvbJUxc9o2Ae3WNsamNaG2pirPonLokx2Rs4Z13DGi,144P,BUY,bundled: 11 launch wallets own 11%,0,0.1,,,9991,,,
+2026-10-13 04:29:24,CRrvbJUxc9o2Ae3WNsamNaG2pirPonLokx2Rs4Z13DGi,144P,SELL,bundled: 11 launch wallets own 11%,0,0.0606,-39.4,dev sold,6573,20.3,-34.2,32
+2026-10-13 04:29:42,DDypwicBd51Bnqhw8UCcpz3NFfGqjh5nJob3gRCxpump,CLAUDECHUD,SELL,dev sold,0,0.25578,155.8,no trading (stale),44235,176.1,-30.1,443
+2026-10-13 04:32:51,G3eJ4GGukKkqy8ftkC5EuzAkbersziWAyxuLCoS9pump,Runepunk,SELL,dev sold,0,0.29691,196.9,take profit +201%,28991,220.8,-23.1,257
+2026-10-13 04:32:56,BW3M9CZnkq6195ADvW9wSNcqAS1kTLeiM4o5QNzupump,BOMBOCLAT,BUY,dev sold,0,0.1,,,16451,,,
+2026-10-13 04:34:01,98u8RJzuhezFwkCFVdSe1bPoQ6e2DdRG79kQ19vkpump,VAMPURR,BUY,top10 hold 57%,0,0.1,,,42066,,,
+2026-10-13 04:34:58,BW3M9CZnkq6195ADvW9wSNcqAS1kTLeiM4o5QNzupump,BOMBOCLAT,SELL,dev sold,0,0.0621,-37.9,stop loss -37%,11080,35.1,-32.6,122
+2026-10-13 04:36:07,CnesCXRH3DVp3R1vV53uFS3nnH7RGFTXKgkCMEN2pump,bob,BUY,dev sold,0,0.1,,,8815,,,
+2026-10-13 04:37:04,98u8RJzuhezFwkCFVdSe1bPoQ6e2DdRG79kQ19vkpump,VAMPURR,SELL,top10 hold 57%,0,0.09731,-2.7,no trading (stale),44235,5.2,-0.1,182
+2026-10-13 04:37:22,CnesCXRH3DVp3R1vV53uFS3nnH7RGFTXKgkCMEN2pump,bob,SELL,dev sold,0,0.06107,-38.9,stop loss -38%,5844,8.4,-33.7,75
+2026-10-13 04:38:11,F9Qmrr674MFEmG6nkLV7J7QiC6oV3kCZbw1gLUddpump,ClaudeChud,BUY,dev sold,0,0.1,,,12978,,,
+2026-10-13 04:38:16,F9Qmrr674MFEmG6nkLV7J7QiC6oV3kCZbw1gLUddpump,ClaudeChud,SELL,dev sold,0,0.06299,-37.0,stop loss -36%,8868,0.0,-31.7,5
+2026-10-13 04:38:23,44qYD9WNJFvH4oc6ydFpTZan5BYpAq9yGK44mdnwpump,Chonkie,SELL,bundled: 27 launch wallets own 11%,0,0.1695,69.5,shift ended,17920,100.6,-17.0,986
