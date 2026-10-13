@@ -4417,3 +4417,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 18:35:43,DtTicQEdhsLTjkuaydRxoVghkupKaZwmAnuXPuSnpump,SOL,SELL,dev sold,0,0.06274,-37.3,stop loss -36%,16358,5.8,-32.0,11
 2026-10-13 18:36:19,BTsNMAD3qTCWgtxykjbLpLLU9vcWUvvUncciUZMUpump,SOL,BUY,dev sold,0,0.1,,,16384,,,
 2026-10-13 18:36:34,BTsNMAD3qTCWgtxykjbLpLLU9vcWUvvUncciUZMUpump,SOL,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,11272,19.6,-31.2,15
+2026-10-13 19:34:45,6vd2rRsgTUdvXbFYkMX7enf8sbVUNz627MJbFVTPpump,CAPE,BUY,dev sold,0,0.1,,,20240,,,
+2026-10-13 19:36:26,Hqg7KjdVFkvgCgv2Twrmt6gFyDoKEqxZLdBp6eU5LuuD,SHIFTCAT,BUY,bundled: 77 launch wallets own 11%,0,0.1,,,20576,,,
+2026-10-13 19:37:09,DbB5shWvNsTp5z6Ek7JyVyzyaFhGQFQoEghr4A5pump,ALFRED,BUY,bundled: 7 launch wallets own 64%,0,0.1,,,24109,,,
+2026-10-13 19:37:12,Ac5gUqFwSnhkq4CswAJ5QpYMyqAuEdvENcbVooKPpump,CAPINU,BUY,bundled: 16 launch wallets own 34%,0,0.1,,,14643,,,
+2026-10-13 19:37:40,Ac5gUqFwSnhkq4CswAJ5QpYMyqAuEdvENcbVooKPpump,CAPINU,SELL,bundled: 16 launch wallets own 34%,0,0.05863,-41.4,dev sold,9317,56.1,-36.4,28
+2026-10-13 19:38:09,Hqg7KjdVFkvgCgv2Twrmt6gFyDoKEqxZLdBp6eU5LuuD,SHIFTCAT,SELL,bundled: 77 launch wallets own 11%,0,0.06268,-37.3,stop loss -36%,13984,12.8,-32.0,103
+2026-10-13 19:38:55,GBFY89q838L43zipwwuV5rogw7vRG1RTJ7rqDq39pump,Mamdani,BUY,dev sold,0,0.1,,,25108,,,
+2026-10-13 19:40:43,3PfXyn2291NsZYE8DNzyb9iQNiDe2HGdiR8guqgopump,NEYMAR,BUY,dev sold,0,0.1,,,16324,,,
+2026-10-13 19:41:21,DbB5shWvNsTp5z6Ek7JyVyzyaFhGQFQoEghr4A5pump,ALFRED,SELL,bundled: 7 launch wallets own 64%,0,0.16996,70.0,no trading (stale),44223,83.4,-0.5,252
+2026-10-13 19:45:33,6vd2rRsgTUdvXbFYkMX7enf8sbVUNz627MJbFVTPpump,CAPE,SELL,dev sold,0,0.06168,-38.3,stop loss -37%,13519,102.7,-33.1,648
+2026-10-13 19:47:02,AKDfpgC84T4dZo2YYBsYXte5XbosfTkSeqJfBnFJTZNN,SIG,BUY,dev sold,0,0.1,,,44166,,,
+2026-10-13 19:47:09,3PfXyn2291NsZYE8DNzyb9iQNiDe2HGdiR8guqgopump,NEYMAR,SELL,dev sold,0,0.25101,151.0,no trading (stale),44166,170.9,-17.4,386
+2026-10-13 19:49:52,9D9GVPJukxKjh7e5ncucGehL1xxycDgfBgnjsNFvpump,Abdulrahman,BUY,dev sold,0,0.1,,,8947,,,
+2026-10-13 19:49:59,9D9GVPJukxKjh7e5ncucGehL1xxycDgfBgnjsNFvpump,Abdulrahman,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,6168,0.0,-31.1,7
+2026-10-13 19:50:02,AKDfpgC84T4dZo2YYBsYXte5XbosfTkSeqJfBnFJTZNN,SIG,SELL,dev sold,0,0.09252,-7.5,no trading (stale),44166,0.0,0.0,181
+2026-10-13 19:50:34,Fd9QutBGos2oXK6ec7Et3DgYHrYijTWsuY9UVGTcpump,Inusider,BUY,dev sold,0,0.1,,,8620,,,
+2026-10-13 19:50:44,Fd9QutBGos2oXK6ec7Et3DgYHrYijTWsuY9UVGTcpump,Inusider,SELL,dev sold,0,0.06303,-37.0,stop loss -36%,5897,3.1,-31.6,10
+2026-10-13 19:51:34,BPKSQGikGZdrBt6FyQBpiAHAMuLJshThisQFXTudpump,Abdulrahman,BUY,dev sold,0,0.1,,,13906,,,
+2026-10-13 19:52:08,z9FPCymj2FJXtMmeaRE4tsBvSK8kEA6Dpd75bHSH1LL,SHILL,BUY,dev sold,0,0.1,,,11559,,,
+2026-10-13 19:52:37,BPKSQGikGZdrBt6FyQBpiAHAMuLJshThisQFXTudpump,Abdulrahman,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,9362,93.4,-32.7,63
+2026-10-13 19:53:58,9ajz6Z77vc75d4HjthKNwonxMPUErg4r27brfYw8pump,Abdulrahman,BUY,dev sold,0,0.1,,,8282,,,
+2026-10-13 19:54:07,J8ywC6K1bz8UNGmBBQwkT8T5fRs78ZKmc86fUd71pump,MYRM,BUY,bundled: 16 launch wallets own 15%,0,0.1,,,23474,,,
+2026-10-13 19:54:09,GBFY89q838L43zipwwuV5rogw7vRG1RTJ7rqDq39pump,Mamdani,SELL,dev sold,0,0.13478,34.8,shift ended,36494,65.5,-0.7,915
+2026-10-13 19:54:09,z9FPCymj2FJXtMmeaRE4tsBvSK8kEA6Dpd75bHSH1LL,SHILL,SELL,dev sold,0,0.06991,-30.1,shift ended,8761,11.1,-24.2,121
+2026-10-13 19:54:09,9ajz6Z77vc75d4HjthKNwonxMPUErg4r27brfYw8pump,Abdulrahman,SELL,dev sold,0,0.10404,4.0,shift ended,9330,13.9,-11.7,12
+2026-10-13 19:54:09,J8ywC6K1bz8UNGmBBQwkT8T5fRs78ZKmc86fUd71pump,MYRM,SELL,bundled: 16 launch wallets own 15%,0,0.09236,-7.6,shift ended,23446,0.0,-9.2,3
