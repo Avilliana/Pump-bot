@@ -4189,3 +4189,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 10:28:46,RhJGJWvAmE471aqibcSK9qY96XGCMembMxbGXkQpump,GOATIANA,BUY,dev sold,0,0.1,,,8059,,,
 2026-10-13 10:29:31,ACfj29FkvtkpAuzWhcV3xWbVCaF1n625qYssYWxopump,Jamie,SELL,bundled: 24 launch wallets own 8%,0,0.13172,31.7,no trading (stale),43808,42.2,-5.5,231
 2026-10-13 10:33:37,RhJGJWvAmE471aqibcSK9qY96XGCMembMxbGXkQpump,GOATIANA,SELL,dev sold,0,0.06313,-36.9,stop loss -36%,5516,106.3,-31.5,291
+2026-10-13 11:20:40,CpmUEiLq8XUapnqFNgGMt5NnE3CcC54CpajKP3Dpump,LOWIQ,BUY,dev sold,0,0.1,,,14628,,,
+2026-10-13 11:20:45,EvCMw9YCr681QTnW71oaJv8oFK8qgALjCZjsUsrZpump,STRETCHY,BUY,dev holds 8.2%,0,0.1,,,8344,,,
+2026-10-13 11:21:01,EvCMw9YCr681QTnW71oaJv8oFK8qgALjCZjsUsrZpump,STRETCHY,SELL,dev holds 8.2%,0,0.08705,-12.9,dev sold,7870,9.9,-5.7,16
+2026-10-13 11:21:03,CpmUEiLq8XUapnqFNgGMt5NnE3CcC54CpajKP3Dpump,LOWIQ,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,10051,7.6,-31.3,23
+2026-10-13 11:26:43,6fCKtWzEzS8iC7tWbw5jHrkFYSufhk4xnGbjjdzupump,SOLTOPIA,BUY,dev sold,0,0.1,,,16230,,,
+2026-10-13 11:26:59,6fCKtWzEzS8iC7tWbw5jHrkFYSufhk4xnGbjjdzupump,SOLTOPIA,SELL,dev sold,0,0.063,-37.0,stop loss -36%,11087,30.6,-31.7,16
+2026-10-13 11:28:32,EzNnBRcPZT3t7JaAYfmANQzuiusH1Voam2L6YS1Hpump,Lunar,BUY,past buy window (late mover),71.4,0.1,,,10250,,,
+2026-10-13 11:30:15,5qWnPTb8ePbBQr21cSTyfTUFuK5bjd2iGZspFLPGpump,ANGELA,BUY,dev sold,0,0.1,,,8065,,,
+2026-10-13 11:31:07,5qWnPTb8ePbBQr21cSTyfTUFuK5bjd2iGZspFLPGpump,ANGELA,SELL,dev sold,0,0.06199,-38.0,stop loss -37%,5428,52.1,-32.7,52
+2026-10-13 11:31:35,EzNnBRcPZT3t7JaAYfmANQzuiusH1Voam2L6YS1Hpump,Lunar,SELL,past buy window (late mover),71.4,0.06272,-37.3,stop loss -36%,7036,28.1,-31.9,183
+2026-10-13 11:34:10,4ArbtYq4oAhxBmQGdd3rc4Eph8TTjDRoChL4cRtkpump,shard,BUY,score below threshold,60.0,0.1,,,33477,,,
+2026-10-13 11:34:21,4ArbtYq4oAhxBmQGdd3rc4Eph8TTjDRoChL4cRtkpump,shard,SELL,score below threshold,60.0,0.06299,-37.0,stop loss -36%,22849,0.6,-31.7,10
+2026-10-13 11:35:24,2rbM7MhMTskJyxvHJaxrt3XsupaYNTjUzB5YhrTQpump,USDF,BUY,dev holds 9.6%,0,0.1,,,22346,,,
+2026-10-13 11:35:27,2rbM7MhMTskJyxvHJaxrt3XsupaYNTjUzB5YhrTQpump,USDF,SELL,dev holds 9.6%,0,0.06366,-36.3,stop loss -35%,15420,0.0,-31.0,3
+2026-10-13 11:36:34,4Ft8vUdoJRQHAv88bTZfigweqLGdAZYuurLxQWFrpump,Slime,BUY,dev sold,0,0.1,,,16247,,,
+2026-10-13 11:36:49,4Ft8vUdoJRQHAv88bTZfigweqLGdAZYuurLxQWFrpump,Slime,SELL,dev sold,0,0.06025,-39.7,stop loss -38%,10620,0.4,-34.6,16
