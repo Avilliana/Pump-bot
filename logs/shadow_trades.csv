@@ -4163,3 +4163,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 07:40:56,4g9raNaT7D5FbXdDnZvcK23QMo22D9jXgi6vUB9ypump,CLONES,SELL,bundled: 18 launch wallets own 62%,0,0.06275,-37.2,stop loss -36%,12370,26.5,-32.0,106
 2026-10-13 07:48:36,3QZtYjTfEM4axoEYHffU34VehUk7ehKcUm1zW4yUpump,NIPPLE,SELL,dev sold,0,0.07411,-25.9,shift ended,7469,161.4,-30.7,839
 2026-10-13 07:48:36,E8AgkiUUfYJhWxY18rfY6dU72C7k8wEkW9UtYzVkpump,ERDOS,SELL,dev sold,0,0.13633,36.3,shift ended,44613,47.2,-23.8,570
+2026-10-13 08:20:06,2FSr79nfiEnHfBFxtMQfyFgXkX53hykuumdrGcGBpump,COCKRA,BUY,dev sold,0,0.1,,,9612,,,
+2026-10-13 08:22:09,8RGgZEQ2Yz82Qw1jCWnZ8NCgM584pFuCynP4rjMhpump,FRITZFROG,BUY,dev sold,0,0.1,,,11326,,,
+2026-10-13 08:23:34,8RGgZEQ2Yz82Qw1jCWnZ8NCgM584pFuCynP4rjMhpump,FRITZFROG,SELL,dev sold,0,0.29958,199.6,take profit +204%,36644,223.6,-16.9,84
+2026-10-13 08:24:53,BUcU4oxf5SGVQ9ti8QPuh1DKGwdWiMqk5Pnd34TBpump,Shakeen,BUY,bundled: 29 launch wallets own 62%,0,0.1,,,20602,,,
+2026-10-13 08:25:14,29HFuLcPjDXaHnYXrcemEw2x6zd4vtJjphERU67Lpump,FRITZFROG,BUY,dev sold,0,0.1,,,9596,,,
+2026-10-13 08:29:04,2FSr79nfiEnHfBFxtMQfyFgXkX53hykuumdrGcGBpump,COCKRA,SELL,dev sold,0,0.06178,-38.2,stop loss -37%,6443,73.7,-32.9,538
+2026-10-13 08:29:30,29HFuLcPjDXaHnYXrcemEw2x6zd4vtJjphERU67Lpump,FRITZFROG,SELL,dev sold,0,0.06321,-36.8,stop loss -35%,6580,155.4,-31.4,256
+2026-10-13 08:31:41,BUcU4oxf5SGVQ9ti8QPuh1DKGwdWiMqk5Pnd34TBpump,Shakeen,SELL,bundled: 29 launch wallets own 62%,0,0.20064,100.6,no trading (stale),44593,116.5,-0.6,408
+2026-10-13 08:33:18,cLnxjEUmSRGmM6Zgz4BLetFentqERaaPn66rZqSpump,realist,BUY,dev sold,0,0.1,,,9062,,,
+2026-10-13 08:34:41,J5WGacTCfXLF35Pwvpbaxs9o9a4nm2gAssJ9bhiepump,DOGE,BUY,dev sold,0,0.1,,,8367,,,
+2026-10-13 08:37:22,cLnxjEUmSRGmM6Zgz4BLetFentqERaaPn66rZqSpump,realist,SELL,dev sold,0,0.06226,-37.7,stop loss -36%,6124,110.2,-32.4,244
+2026-10-13 08:38:30,8e3NfBHARkM8S2U6xcmwCraSYFRSDPcJdDwvYAVyhctk,RETRO,BUY,dev sold,0,0.1,,,9614,,,
+2026-10-13 08:38:48,J5WGacTCfXLF35Pwvpbaxs9o9a4nm2gAssJ9bhiepump,DOGE,SELL,dev sold,0,0.06885,-31.1,shift ended,6250,146.6,-25.3,247
+2026-10-13 08:38:48,8e3NfBHARkM8S2U6xcmwCraSYFRSDPcJdDwvYAVyhctk,RETRO,SELL,dev sold,0,0.08338,-16.6,shift ended,8686,3.0,-18.2,18
