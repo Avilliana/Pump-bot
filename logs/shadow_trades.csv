@@ -4177,3 +4177,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 08:38:30,8e3NfBHARkM8S2U6xcmwCraSYFRSDPcJdDwvYAVyhctk,RETRO,BUY,dev sold,0,0.1,,,9614,,,
 2026-10-13 08:38:48,J5WGacTCfXLF35Pwvpbaxs9o9a4nm2gAssJ9bhiepump,DOGE,SELL,dev sold,0,0.06885,-31.1,shift ended,6250,146.6,-25.3,247
 2026-10-13 08:38:48,8e3NfBHARkM8S2U6xcmwCraSYFRSDPcJdDwvYAVyhctk,RETRO,SELL,dev sold,0,0.08338,-16.6,shift ended,8686,3.0,-18.2,18
+2026-10-13 09:20:29,ESJZLdNaYh74sQ7do38hbsZY5eZKmXVv7RNH8czgpump,沃亚克,BUY,dev sold,0,0.1,,,8814,,,
+2026-10-13 09:20:51,ESJZLdNaYh74sQ7do38hbsZY5eZKmXVv7RNH8czgpump,沃亚克,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,6007,18.4,-31.8,22
+2026-10-13 09:28:36,H82pRE7zehNajWrZnKhTLzNoSN7qpC6kCz8evG7jpump,SL,BUY,dev sold,0,0.1,,,10556,,,
+2026-10-13 09:31:05,H82pRE7zehNajWrZnKhTLzNoSN7qpC6kCz8evG7jpump,SL,SELL,dev sold,0,0.0925,-7.5,no trading (stale),10556,0.0,0.0,149
