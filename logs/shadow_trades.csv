@@ -4263,3 +4263,53 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 13:50:42,9PtfiLeNLWXf3EPaKb3bsSqF8kuNPew1qL1iTYswCEAL,ceal,SELL,dev holds 35.5%,0,0.11749,17.5,shift ended,11801,40.7,-30.6,481
 2026-10-13 13:50:42,8cQaaSeZTUaFWTKbX2Chd4GnPC6BXs3NphFBGL1xpump,SPRITE,SELL,dev sold,0,0.10697,7.0,shift ended,14639,16.0,-17.9,218
 2026-10-13 13:50:42,4A68FxMhKnS81zDPKCa94TrqB9syewBe3eiLzaYupump,NOMA,SELL,dev sold,0,0.17411,74.1,shift ended,24823,90.0,-18.6,154
+2026-10-13 14:28:32,2XmfTtSQ5AafnWxqnR7eys5kzSVTPAr4KRtwBVTgpump,si.gov,BUY,dev sold,0,0.1,,,16082,,,
+2026-10-13 14:28:41,2XmfTtSQ5AafnWxqnR7eys5kzSVTPAr4KRtwBVTgpump,si.gov,SELL,dev sold,0,0.05919,-40.8,stop loss -40%,10328,28.0,-35.8,9
+2026-10-13 14:28:45,37bUSyTCbY8qDV6z56k9zbK8AqyJzTiYm17q6YRrpump,si,BUY,dev sold,0,0.1,,,16314,,,
+2026-10-13 14:28:46,Be8MDUudBC4miMsJs1UdQo6LdVaNUZrSQe1YenQPPyFn,SI,BUY,dev sold,0,0.1,,,15494,,,
+2026-10-13 14:28:46,37bUSyTCbY8qDV6z56k9zbK8AqyJzTiYm17q6YRrpump,si,SELL,dev sold,0,0.06289,-37.1,stop loss -36%,11126,0.0,-31.8,1
+2026-10-13 14:28:57,Be8MDUudBC4miMsJs1UdQo6LdVaNUZrSQe1YenQPPyFn,SI,SELL,dev sold,0,0.01859,-81.4,stop loss -81%,3180,18.0,-79.5,11
+2026-10-13 14:29:29,9BGNkLUjpjp9aE5pnuGfgipdNynPzB3LLuZGp5TPpump,si.gov,BUY,dev sold,0,0.1,,,11316,,,
+2026-10-13 14:30:22,9BGNkLUjpjp9aE5pnuGfgipdNynPzB3LLuZGp5TPpump,si.gov,SELL,dev sold,0,0.30126,201.3,take profit +206%,36818,225.4,-19.3,53
+2026-10-13 14:30:57,8xp3p69C1QvRaksh5EeFpACsa23iZ61jVws4yTNspump,Genesis,BUY,dev sold,0,0.1,,,11522,,,
+2026-10-13 14:31:34,FzknrZdt7ybySjnYwbs1r1r5hejpEshtGcF8qSWQpump,si.gov,BUY,dev sold,0,0.1,,,8111,,,
+2026-10-13 14:31:40,FzknrZdt7ybySjnYwbs1r1r5hejpEshtGcF8qSWQpump,si.gov,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,5446,16.8,-32.9,5
+2026-10-13 14:31:59,ANVE2G5mzFTFo7JS5VwAjD6LxUzsvmA5CkbD6RMeWRcN,si.gov,BUY,dev sold,0,0.1,,,10311,,,
+2026-10-13 14:32:11,ANVE2G5mzFTFo7JS5VwAjD6LxUzsvmA5CkbD6RMeWRcN,si.gov,SELL,dev sold,0,0.02765,-72.4,stop loss -71%,3123,0.0,-69.7,12
+2026-10-13 14:32:37,51K61rkfE8ZYCxN6qwz48Myen35h5fSzwmi88HPkpump,SEALS,BUY,top10 hold 49%,0,0.1,,,13563,,,
+2026-10-13 14:33:32,8xp3p69C1QvRaksh5EeFpACsa23iZ61jVws4yTNspump,Genesis,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,7954,134.9,-31.0,155
+2026-10-13 14:35:09,51K61rkfE8ZYCxN6qwz48Myen35h5fSzwmi88HPkpump,SEALS,SELL,top10 hold 49%,0,0.0924,-7.6,no trading (stale),13563,0.0,0.0,151
+2026-10-13 14:35:20,FS2QggKwd6qPrZYJyugdQ9KnF6AxyeXxPsfmq2kSpump,CI,BUY,dev sold,0,0.1,,,44420,,,
+2026-10-13 14:35:33,F65dVLSKzE8TiRj3qTYZevmis878BDp43dSAd7JLpump,CI,BUY,dev holds 9.8%,0,0.1,,,8929,,,
+2026-10-13 14:35:34,F65dVLSKzE8TiRj3qTYZevmis878BDp43dSAd7JLpump,CI,SELL,dev holds 9.8%,0,0.03724,-62.8,stop loss -62%,3628,0.0,-59.4,1
+2026-10-13 14:36:17,73aUETHtrqEJFj3YEFnCYhjSddZKk6Rs83EU7rNcFYe9,SCI,BUY,dev sold,0,0.1,,,21589,,,
+2026-10-13 14:36:43,4ZouQQqsRNUJFNHByCrwsAxnW937nXgC8icbKRixS5xh,SCI,BUY,dev sold,0,0.1,,,8531,,,
+2026-10-13 14:36:43,73aUETHtrqEJFj3YEFnCYhjSddZKk6Rs83EU7rNcFYe9,SCI,SELL,dev sold,0,0.06358,-36.4,stop loss -35%,14880,25.5,-31.1,27
+2026-10-13 14:36:47,4ZouQQqsRNUJFNHByCrwsAxnW937nXgC8icbKRixS5xh,SCI,SELL,dev sold,0,0.06313,-36.9,stop loss -36%,5846,0.4,-31.5,4
+2026-10-13 14:37:01,Amzqb5MZYpBc8K663Ksxpr1BuiB8rbSVKN6yi5Vapump,GAETHJE,BUY,dev sold,0,0.1,,,12664,,,
+2026-10-13 14:37:04,5DJ1NWTyJaSQtDjaEeuhV3wLJkRd7b6ypR9G5kzu5kuS,SCI,BUY,dev sold,0,0.1,,,8501,,,
+2026-10-13 14:37:09,Amzqb5MZYpBc8K663Ksxpr1BuiB8rbSVKN6yi5Vapump,GAETHJE,SELL,dev sold,0,0.06308,-36.9,stop loss -36%,8637,5.4,-31.6,8
+2026-10-13 14:37:41,5DJ1NWTyJaSQtDjaEeuhV3wLJkRd7b6ypR9G5kzu5kuS,SCI,SELL,dev sold,0,0.2962,196.2,take profit +200%,27122,220.1,2.2,37
+2026-10-13 14:37:47,9wDe3tdc7zMzCZ2SWKsxDjMLjrfEmcoNnwL4Qe8ytpcL,SCI,BUY,dev holds 17.7%,0,0.1,,,14680,,,
+2026-10-13 14:37:54,9wDe3tdc7zMzCZ2SWKsxDjMLjrfEmcoNnwL4Qe8ytpcL,SCI,SELL,dev holds 17.7%,0,0.06306,-36.9,stop loss -36%,10040,0.0,-31.6,8
+2026-10-13 14:38:12,FS2QggKwd6qPrZYJyugdQ9KnF6AxyeXxPsfmq2kSpump,CI,SELL,dev sold,0,0.09252,-7.5,no trading (stale),44272,0.0,0.0,172
+2026-10-13 14:38:26,GDBZVfBvV6jZ8fjwWThGyrNMLVDJjmCrWJnEUJ7rpump,SCI,BUY,dev sold,0,0.1,,,15152,,,
+2026-10-13 14:38:36,GDBZVfBvV6jZ8fjwWThGyrNMLVDJjmCrWJnEUJ7rpump,SCI,SELL,dev sold,0,0.06305,-36.9,stop loss -36%,10361,7.3,-31.6,10
+2026-10-13 14:39:27,5L6BvSLX7yDbZzQqfbfBCZ235gRS1d6TLFFiBjLCpump,PSST,BUY,dev sold,0,0.1,,,8841,,,
+2026-10-13 14:39:42,5L6BvSLX7yDbZzQqfbfBCZ235gRS1d6TLFFiBjLCpump,PSST,SELL,dev sold,0,0.06179,-38.2,stop loss -37%,5931,18.6,-32.9,15
+2026-10-13 14:40:19,E175RPBzeXUnm5SrTqGWambLjcsJPZmmuAJiLyVFpump,AZE,BUY,dev sold,0,0.1,,,11694,,,
+2026-10-13 14:40:58,E175RPBzeXUnm5SrTqGWambLjcsJPZmmuAJiLyVFpump,AZE,SELL,dev sold,0,0.06006,-39.9,stop loss -39%,7623,0.0,-34.8,39
+2026-10-13 14:42:05,G5hUhyiMpCpFCR6NZ9czcpfNycJy1MxkwET4URr8pump,SCI,BUY,bundled: 23 launch wallets own 63%,0,0.1,,,22930,,,
+2026-10-13 14:44:16,Ht3Ct27dNu6wpYHAuxLMnv4amrCTMtQ1FJchT3Kmpump,Solchic,BUY,bundled: 73.2 SOL bought in launch block,0,0.1,,,38168,,,
+2026-10-13 14:44:37,5CJYFHSJVhLjiDNgzrEb111oPr89xr2RKP7A3zohpump,AZE,BUY,dev sold,0,0.1,,,10423,,,
+2026-10-13 14:45:23,Fm8EocM65Zmd2yPgJhw3c822eeqPgwSXyroJSiKspump,REPAD,BUY,bundled: 23 launch wallets own 11%,0,0.1,,,8277,,,
+2026-10-13 14:45:36,5CJYFHSJVhLjiDNgzrEb111oPr89xr2RKP7A3zohpump,AZE,SELL,dev sold,0,0.05978,-40.2,stop loss -39%,6764,48.7,-35.1,59
+2026-10-13 14:45:43,HVRk8L3RQkr6wHxisSmThPJkF5EsuQMENmFbDDNNpump,Super Cryp,BUY,bundled: 11 launch wallets own 63%,0,0.1,,,19860,,,
+2026-10-13 14:45:50,Dm8FtYAQTAMVwRdXTmSn5LHd55zqavQZQRNnfEqepump,HASH,BUY,bundled: 23 launch wallets own 24%,0,0.1,,,10873,,,
+2026-10-13 14:45:55,G5hUhyiMpCpFCR6NZ9czcpfNycJy1MxkwET4URr8pump,SCI,SELL,bundled: 23 launch wallets own 63%,0,0.17891,78.9,no trading (stale),44272,93.1,-0.0,229
+2026-10-13 14:45:58,Dm8FtYAQTAMVwRdXTmSn5LHd55zqavQZQRNnfEqepump,HASH,SELL,bundled: 23 launch wallets own 24%,0,0.05747,-42.5,stop loss -41%,6785,14.3,-37.6,9
+2026-10-13 14:46:15,Fm8EocM65Zmd2yPgJhw3c822eeqPgwSXyroJSiKspump,REPAD,SELL,bundled: 23 launch wallets own 11%,0,0.07323,-26.8,dev sold,6574,0.0,-24.4,52
+2026-10-13 14:46:52,EBgsEKCyo2WkyPctbmjoZwWHDnbnpPXt4iw9swydpump,Blaze,BUY,dev sold,0,0.1,,,25245,,,
+2026-10-13 14:46:55,EBgsEKCyo2WkyPctbmjoZwWHDnbnpPXt4iw9swydpump,Blaze,SELL,dev sold,0,0.06192,-38.1,stop loss -37%,16945,0.4,-32.9,4
+2026-10-13 14:47:04,Ht3Ct27dNu6wpYHAuxLMnv4amrCTMtQ1FJchT3Kmpump,Solchic,SELL,bundled: 73.2 SOL bought in launch block,0,0.10738,7.4,shift ended,44272,16.0,-10.2,168
+2026-10-13 14:47:04,HVRk8L3RQkr6wHxisSmThPJkF5EsuQMENmFbDDNNpump,Super Cryp,SELL,bundled: 11 launch wallets own 63%,0,0.09234,-7.7,shift ended,19838,0.0,-0.2,81
