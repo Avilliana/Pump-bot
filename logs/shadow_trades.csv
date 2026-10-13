@@ -4155,3 +4155,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 06:38:47,97bsu1NdbHcMTsarHpYyac8i8NkvEXKVSDHd543jpump,Conscious,SELL,dev sold,0,0.05979,-40.2,stop loss -39%,5242,35.8,-35.1,97
 2026-10-13 06:38:52,H15S4bJfaAmQuFRCWJZQPvDNX66vKjvTUqYuo61upump,HH,SELL,dev sold,0,0.10964,9.6,shift ended,11500,150.7,-8.9,244
 2026-10-13 06:38:52,8zjBdBESRFiRBbSc79TvbewSRc9GAWtPHkWGMMPSpump,UNFUND,SELL,bundled: 18 launch wallets own 11%,0,0.14584,45.8,shift ended,13434,64.9,-10.2,28
+2026-10-13 07:34:37,3QZtYjTfEM4axoEYHffU34VehUk7ehKcUm1zW4yUpump,NIPPLE,BUY,dev sold,0,0.1,,,9243,,,
+2026-10-13 07:36:59,Fs8NTDn1xHkxqygHTZx5H45EKVNVUP4y3umHAkaypump,PF50,BUY,dev sold,0,0.1,,,12908,,,
+2026-10-13 07:37:16,Fs8NTDn1xHkxqygHTZx5H45EKVNVUP4y3umHAkaypump,PF50,SELL,dev sold,0,0.06367,-36.3,stop loss -35%,8915,1.1,-30.9,17
+2026-10-13 07:39:06,E8AgkiUUfYJhWxY18rfY6dU72C7k8wEkW9UtYzVkpump,ERDOS,BUY,dev sold,0,0.1,,,30312,,,
+2026-10-13 07:39:10,4g9raNaT7D5FbXdDnZvcK23QMo22D9jXgi6vUB9ypump,CLONES,BUY,bundled: 18 launch wallets own 62%,0,0.1,,,18179,,,
+2026-10-13 07:40:56,4g9raNaT7D5FbXdDnZvcK23QMo22D9jXgi6vUB9ypump,CLONES,SELL,bundled: 18 launch wallets own 62%,0,0.06275,-37.2,stop loss -36%,12370,26.5,-32.0,106
+2026-10-13 07:48:36,3QZtYjTfEM4axoEYHffU34VehUk7ehKcUm1zW4yUpump,NIPPLE,SELL,dev sold,0,0.07411,-25.9,shift ended,7469,161.4,-30.7,839
+2026-10-13 07:48:36,E8AgkiUUfYJhWxY18rfY6dU72C7k8wEkW9UtYzVkpump,ERDOS,SELL,dev sold,0,0.13633,36.3,shift ended,44613,47.2,-23.8,570
