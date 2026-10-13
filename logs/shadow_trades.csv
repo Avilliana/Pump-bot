@@ -4067,3 +4067,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 02:37:54,E27Vj7jXc2cH2hAMb6zAqgb1emofGaFvuwozHUiTpump,Dodo,SELL,dev sold,0,0.21648,116.5,shift ended,43730,133.6,-2.8,280
 2026-10-13 02:37:54,9XvEqB9WtAw2Pcyfo1Nt8YUHzHEhpKQydEcEsKGGpump,SNIBBU,SELL,dev sold,0,0.08205,-18.0,shift ended,8362,35.2,-28.1,61
 2026-10-13 02:37:54,5M413duQ1dmBDU7dZPTHFfYgnfxY9yDxG7dWggGUpump,DUVE,SELL,dev sold,0,0.16919,69.2,shift ended,38524,99.3,-5.6,32
+2026-10-13 03:19:49,BbFHJyAJnJ2CcUJYWM8DsBjojCtAX9j5jpEC8v38pump,FNB,BUY,dev sold,0,0.1,,,9160,,,
+2026-10-13 03:20:56,sRLnPy6QR2fcWTzxusmLxq6DCSLczvh9TLaQcCGpump,NI,BUY,dev sold,0,0.1,,,8058,,,
+2026-10-13 03:21:18,sRLnPy6QR2fcWTzxusmLxq6DCSLczvh9TLaQcCGpump,NI,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,5564,0.4,-31.0,23
+2026-10-13 03:22:36,E1rjzpy7G5zKVPTA111jrwdQ2nhEUvmogDn1Hqjdpump,Manya,BUY,top10 hold 52%,0,0.1,,,38458,,,
+2026-10-13 03:22:44,E1rjzpy7G5zKVPTA111jrwdQ2nhEUvmogDn1Hqjdpump,Manya,SELL,top10 hold 52%,0,0.05212,-47.9,stop loss -47%,21751,8.9,-43.4,8
+2026-10-13 03:23:15,ETQGatvQJQcS8VZUMTCXWqcfikW9mubbUzt6UNRApump,ANUBIS,BUY,dev holds 52.4%,0,0.1,,,13075,,,
+2026-10-13 03:23:16,ETQGatvQJQcS8VZUMTCXWqcfikW9mubbUzt6UNRApump,ANUBIS,SELL,dev holds 52.4%,0,0.0222,-77.8,dev sold,3193,0.0,-75.6,1
+2026-10-13 03:25:31,GXReAqpmKWgXjPqJ9g57ZL4XLrzTX9HuNTXvdgwnpump,ANUBIS,BUY,dev holds 52.4%,0,0.1,,,16010,,,
+2026-10-13 03:26:00,GXReAqpmKWgXjPqJ9g57ZL4XLrzTX9HuNTXvdgwnpump,ANUBIS,SELL,dev holds 52.4%,0,0.02285,-77.1,dev sold,4020,34.5,-74.9,29
+2026-10-13 03:26:04,4W6V7mnnK9zk5R2a144uxmBicygEKieTDBtNYw4Xpump,Babieca,BUY,dev sold,0,0.1,,,9446,,,
+2026-10-13 03:26:42,BbFHJyAJnJ2CcUJYWM8DsBjojCtAX9j5jpEC8v38pump,FNB,SELL,dev sold,0,0.0622,-37.8,stop loss -37%,6184,88.9,-32.5,412
+2026-10-13 03:26:50,HtRfiZ6GNDfy8g6MAPHgZMyxaXjUYgf9kEHUW52ppump,insane,BUY,top10 hold 56%,0,0.1,,,38142,,,
+2026-10-13 03:28:05,FZdwUNsfkXmiXSHjHgr5vriCEtDtQMi5kpdyBCSLpump,ANUBIS,BUY,dev holds 52.4%,0,0.1,,,13205,,,
+2026-10-13 03:28:32,FZdwUNsfkXmiXSHjHgr5vriCEtDtQMi5kpdyBCSLpump,ANUBIS,SELL,dev holds 52.4%,0,0.05165,-48.3,dev sold,7411,48.3,-43.9,27
+2026-10-13 03:29:52,HtRfiZ6GNDfy8g6MAPHgZMyxaXjUYgf9kEHUW52ppump,insane,SELL,top10 hold 56%,0,0.10616,6.2,no trading (stale),43878,14.7,-0.5,182
+2026-10-13 03:29:59,6s5GQju9FFaAinYuVjw2tXUL13cboiu2SZ5NT6K8pump,Popdog,BUY,dev holds 43.2%,0,0.1,,,16465,,,
+2026-10-13 03:30:09,3DS1kJWUzAR1AJZFYUXg5TuaM6J8XLb6WnTy5E8Vpump,it,BUY,dev sold,0,0.1,,,8306,,,
+2026-10-13 03:30:10,6s5GQju9FFaAinYuVjw2tXUL13cboiu2SZ5NT6K8pump,Popdog,SELL,dev holds 43.2%,0,0.02414,-75.9,dev sold,4362,8.8,-73.5,11
+2026-10-13 03:31:02,Co4Y3L4UEbuqSeTVMNxySecnJxXyodSBMHjwmEeepump,ANUBIS,BUY,dev holds 52.4%,0,0.1,,,16909,,,
+2026-10-13 03:31:41,52KfCvLqWTDmgsYWQXwaAvfSe1GYVehmaZu7wfJ6pump,BLACKPAD,BUY,score below threshold,54.9,0.1,,,10744,,,
+2026-10-13 03:31:43,Co4Y3L4UEbuqSeTVMNxySecnJxXyodSBMHjwmEeepump,ANUBIS,SELL,dev holds 52.4%,0,0.05251,-47.5,dev sold,9642,81.1,-43.0,41
+2026-10-13 03:32:06,3DS1kJWUzAR1AJZFYUXg5TuaM6J8XLb6WnTy5E8Vpump,it,SELL,dev sold,0,0.06251,-37.5,stop loss -36%,5637,32.5,-32.1,117
+2026-10-13 03:34:05,4W6V7mnnK9zk5R2a144uxmBicygEKieTDBtNYw4Xpump,Babieca,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,6456,12.9,-31.9,481
+2026-10-13 03:35:46,DV3SM29gUnWyXyYYzYfb9uCRZPQgBi44CF3HTAcRpump,ANUBIS,BUY,dev holds 52.4%,0,0.1,,,18892,,,
+2026-10-13 03:37:30,DV3SM29gUnWyXyYYzYfb9uCRZPQgBi44CF3HTAcRpump,ANUBIS,SELL,dev holds 52.4%,0,0.08789,-12.1,dev sold,17966,93.9,-4.9,104
+2026-10-13 03:37:57,52KfCvLqWTDmgsYWQXwaAvfSe1GYVehmaZu7wfJ6pump,BLACKPAD,SELL,score below threshold,54.9,0.13679,36.8,shift ended,15891,75.0,-23.7,376
