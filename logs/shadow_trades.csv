@@ -4025,3 +4025,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-12 23:31:47,9M5e39e5MP7yBu43nvxTUpRYuavB4tH9XuCzpkWupump,OUTSIDE,SELL,dev sold,0,0.06189,-38.1,stop loss -37%,12966,7.3,-32.9,26
 2026-10-12 23:37:27,4CUYm1R4WVcCkniTJbWr8LtQdDnjhQH2kFAVHk24pump,LOFO,BUY,bundled: 12 launch wallets own 26%,0,0.1,,,9860,,,
 2026-10-12 23:37:29,4CUYm1R4WVcCkniTJbWr8LtQdDnjhQH2kFAVHk24pump,LOFO,SELL,bundled: 12 launch wallets own 26%,0,0.07145,-28.5,dev sold,7639,0.0,-22.5,2
+2026-10-13 00:19:10,7HECTv1DLHTGwwegxt4v18zGYp6GD1tHprAmoprSpump,Urara,BUY,dev sold,0,0.1,,,9302,,,
+2026-10-13 00:19:21,7HECTv1DLHTGwwegxt4v18zGYp6GD1tHprAmoprSpump,Urara,SELL,dev sold,0,0.06287,-37.1,stop loss -36%,6347,25.4,-31.8,11
+2026-10-13 00:22:09,AUbRDF9JYbE88TpgBp2qxoZ8CcGdsHeoBc1EY69fpump,BEAV,BUY,dev sold,0,0.1,,,11450,,,
+2026-10-13 00:24:31,B6H53s166ushW2XPTUbCo1YHE9mATbwBsDnzLzCXBBmX,Meguro,BUY,dev sold,0,0.1,,,8282,,,
+2026-10-13 00:25:08,B6H53s166ushW2XPTUbCo1YHE9mATbwBsDnzLzCXBBmX,Meguro,SELL,dev sold,0,0.06186,-38.1,stop loss -37%,5563,4.9,-32.8,37
+2026-10-13 00:25:43,AUbRDF9JYbE88TpgBp2qxoZ8CcGdsHeoBc1EY69fpump,BEAV,SELL,dev sold,0,0.06052,-39.5,stop loss -38%,7520,39.4,-34.3,214
+2026-10-13 00:29:45,DyLkvPi2Dn9fNgSJcN8mV6FruFuAcPAV9y4aG1WBpump,BID,BUY,dev sold,0,0.1,,,10943,,,
+2026-10-13 00:31:17,DyLkvPi2Dn9fNgSJcN8mV6FruFuAcPAV9y4aG1WBpump,BID,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,7180,16.6,-34.4,92
+2026-10-13 00:32:25,B52xVCxWPKXSQ2KJM5JX6L8Z1bifTYLBEP2hwXNpwAGT,wAGENTS,BUY,dev holds 10.0%,0,0.1,,,21407,,,
+2026-10-13 00:35:27,3E3otDjg8vaQCE3XLE7pjD6vfCZVmMjYfdZnvcV7pump,X,BUY,bundled: 25 launch wallets own 17%,0,0.1,,,27227,,,
+2026-10-13 00:35:58,3ZKBr4BuL3THGZPREFV4AvrMP4fWQA9rEoAD3m76pump,Experiment,BUY,bundled: 14 launch wallets own 19%,0,0.1,,,8769,,,
+2026-10-13 00:37:00,B52xVCxWPKXSQ2KJM5JX6L8Z1bifTYLBEP2hwXNpwAGT,wAGENTS,SELL,dev holds 10.0%,0,0.18491,84.9,no trading (stale),42719,99.6,-0.0,275
+2026-10-13 00:37:31,caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump,BOOBIES,BUY,dev sold,0,0.1,,,13338,,,
+2026-10-13 00:38:18,3E3otDjg8vaQCE3XLE7pjD6vfCZVmMjYfdZnvcV7pump,X,SELL,bundled: 25 launch wallets own 17%,0,0.14535,45.4,shift ended,42719,56.9,-23.8,172
+2026-10-13 00:38:18,3ZKBr4BuL3THGZPREFV4AvrMP4fWQA9rEoAD3m76pump,Experiment,SELL,bundled: 14 launch wallets own 19%,0,0.08288,-17.1,shift ended,7876,28.3,-19.9,140
+2026-10-13 00:38:18,caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump,BOOBIES,SELL,dev sold,0,0.08432,-15.7,shift ended,12178,14.4,-25.3,47
