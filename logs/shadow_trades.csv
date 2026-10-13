@@ -4373,3 +4373,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 16:39:05,7BRKgqmru38yMfdyG6d6N58t94DFnGCNg5P3wkTqpump,Dead,SELL,score below threshold,40.9,0.14189,41.9,shift ended,20099,65.1,-28.7,505
 2026-10-13 16:39:05,9PfyZJQqX1iwyr16VQ5nkDQ2JHajFdrL83LG2F5gpump,INSIDER,SELL,dev sold,0,0.21843,118.4,shift ended,26782,135.9,-10.6,272
 2026-10-13 16:39:05,CYKk8XFcBNy2cZo14HKWCmizykUhEMkNUkTrXT9tpump,PUNCHTOWN,SELL,dev holds 10.0%,0,0.0917,-8.3,shift ended,8423,0.0,-0.7,15
+2026-10-13 17:19:40,DRPDTRjTg2RrmfVM8g6DXMtXBGRWb37i7VTm2Ymgpump,wizardcat,BUY,dev sold,0,0.1,,,10021,,,
+2026-10-13 17:21:41,DRPDTRjTg2RrmfVM8g6DXMtXBGRWb37i7VTm2Ymgpump,wizardcat,SELL,dev sold,0,0.31969,219.7,take profit +224%,34610,245.4,-10.6,121
+2026-10-13 17:22:45,CBQ9xe3LQyWuQs9Aqwn4Xec4YTPJffoWiMczubexpump,Cheeseball,BUY,dev sold,0,0.1,,,12622,,,
+2026-10-13 17:23:09,CBQ9xe3LQyWuQs9Aqwn4Xec4YTPJffoWiMczubexpump,Cheeseball,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,8539,4.4,-32.3,24
+2026-10-13 17:26:56,DPzu1ARLyWJ1jCcs5pakEorLLhfbwrxVKpnSodshpump,MOODENG,BUY,dev sold,0,0.1,,,18389,,,
+2026-10-13 17:27:51,DPzu1ARLyWJ1jCcs5pakEorLLhfbwrxVKpnSodshpump,MOODENG,SELL,dev sold,0,0.06207,-37.9,stop loss -37%,12377,28.5,-32.7,55
+2026-10-13 17:32:18,G4v2qh4fv4hNFn566VAvzeSYXGS1XB79w2iJpCFHpump,VEXA,BUY,dev sold,0,0.1,,,21137,,,
+2026-10-13 17:32:19,G4v2qh4fv4hNFn566VAvzeSYXGS1XB79w2iJpCFHpump,VEXA,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,14496,2.9,-31.4,1
+2026-10-13 17:33:51,2N8c4pXu6T2oBxE8ZDBYb3QgwMkyTe673HiBaYSNpump,LouLou,BUY,dev sold,0,0.1,,,8310,,,
+2026-10-13 17:33:57,6JjgDinw7wbsoGYzxJ2S3sZYjiEpLbz6XGsYSEi7pump,DICKCOIN,BUY,dev sold,0,0.1,,,10496,,,
+2026-10-13 17:34:04,6JjgDinw7wbsoGYzxJ2S3sZYjiEpLbz6XGsYSEi7pump,DICKCOIN,SELL,dev sold,0,0.06273,-37.3,stop loss -36%,7145,1.0,-31.9,6
+2026-10-13 17:34:27,5KJfvx19bt3GGHiSDEK84yEJHh7HAuRbuNveBrBapump,DICKCOIN,BUY,dev sold,0,0.1,,,8673,,,
+2026-10-13 17:34:33,2N8c4pXu6T2oBxE8ZDBYb3QgwMkyTe673HiBaYSNpump,LouLou,SELL,dev sold,0,0.06299,-37.0,stop loss -36%,5682,12.3,-31.6,42
+2026-10-13 17:34:42,5KJfvx19bt3GGHiSDEK84yEJHh7HAuRbuNveBrBapump,DICKCOIN,SELL,dev sold,0,0.06182,-38.2,stop loss -37%,5821,29.8,-32.9,15
+2026-10-13 17:37:28,42FyocgFF9KTMm7bcJUaFjz3egF87ccaEoKd56kfpump,MIKO,BUY,dev sold,0,0.1,,,11970,,,
+2026-10-13 17:37:37,CZquMFFBHzYAUKumuxz51dzkp1GhgfXGCeMquP3Hpump,berry,BUY,bundled: 24 launch wallets own 28%,0,0.1,,,12347,,,
+2026-10-13 17:37:52,CZquMFFBHzYAUKumuxz51dzkp1GhgfXGCeMquP3Hpump,berry,SELL,bundled: 24 launch wallets own 28%,0,0.06367,-36.3,stop loss -35%,8527,9.7,-30.9,15
+2026-10-13 17:38:24,42FyocgFF9KTMm7bcJUaFjz3egF87ccaEoKd56kfpump,MIKO,SELL,dev sold,0,0.06165,-38.3,stop loss -37%,8008,17.3,-33.1,56
