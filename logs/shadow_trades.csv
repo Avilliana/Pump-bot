@@ -4391,3 +4391,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 17:37:37,CZquMFFBHzYAUKumuxz51dzkp1GhgfXGCeMquP3Hpump,berry,BUY,bundled: 24 launch wallets own 28%,0,0.1,,,12347,,,
 2026-10-13 17:37:52,CZquMFFBHzYAUKumuxz51dzkp1GhgfXGCeMquP3Hpump,berry,SELL,bundled: 24 launch wallets own 28%,0,0.06367,-36.3,stop loss -35%,8527,9.7,-30.9,15
 2026-10-13 17:38:24,42FyocgFF9KTMm7bcJUaFjz3egF87ccaEoKd56kfpump,MIKO,SELL,dev sold,0,0.06165,-38.3,stop loss -37%,8008,17.3,-33.1,56
+2026-10-13 18:19:49,7LpWj8eZFtnjAgmF4N772D2FtZUkqohbiK61Tkxapump,SIGOV,BUY,bundled: 11 launch wallets own 57%,0,0.1,,,18524,,,
+2026-10-13 18:21:04,HoHg4LHV6XSc7wZTfwsXNgCJM6e5kT5hNze52bV6pump,worm,BUY,dev sold,0,0.1,,,9929,,,
+2026-10-13 18:21:21,HqRxARJuh5Av4nNQ4wq8kRUifGBYFN6iQMRnWkYRpump,NOPHIL,BUY,dev sold,0,0.1,,,14571,,,
+2026-10-13 18:22:14,HoHg4LHV6XSc7wZTfwsXNgCJM6e5kT5hNze52bV6pump,worm,SELL,dev sold,0,0.06148,-38.5,stop loss -37%,6626,10.0,-33.3,70
+2026-10-13 18:22:16,2tLMbZSHAnrbozV524cJxQCCSSZutwQGJRqiW71Hpump,PENNY,BUY,dev sold,0,0.1,,,10746,,,
+2026-10-13 18:22:19,2tLMbZSHAnrbozV524cJxQCCSSZutwQGJRqiW71Hpump,PENNY,SELL,dev sold,0,0.06128,-38.7,stop loss -37%,7147,5.5,-33.5,3
+2026-10-13 18:22:24,7LpWj8eZFtnjAgmF4N772D2FtZUkqohbiK61Tkxapump,SIGOV,SELL,bundled: 11 launch wallets own 57%,0,0.0816,-18.4,dev sold,16363,49.4,-11.7,155
+2026-10-13 18:26:58,HqRxARJuh5Av4nNQ4wq8kRUifGBYFN6iQMRnWkYRpump,NOPHIL,SELL,dev sold,0,0.06163,-38.4,stop loss -37%,9742,62.7,-33.1,337
+2026-10-13 18:29:42,qRX6g4mmkHiiUXic1Ku6rjWwMV3cSTS1DrQss6dELjQ,VIFY,BUY,top10 hold 68%,0,0.1,,,22907,,,
+2026-10-13 18:31:16,EzS2AXdJ2V1QBTKvDiSdvBGybVD72LdyRrz5teALkVmo,Luna,BUY,dev sold,0,0.1,,,9821,,,
+2026-10-13 18:31:19,EzS2AXdJ2V1QBTKvDiSdvBGybVD72LdyRrz5teALkVmo,Luna,SELL,dev sold,0,0.0632,-36.8,stop loss -35%,6735,0.0,-31.4,3
+2026-10-13 18:31:33,EjHxko3qNDd5SiZ5JH6oFhCvP18FZo2HiUxzQjFSG77P,GURU,BUY,dev sold,0,0.1,,,8141,,,
+2026-10-13 18:32:35,Gd44n2uB4tfwDjAFT2sJUM8Qy8pVuYTvgzRtRZM8pump,$SI.gov,BUY,bundled: 11 launch wallets own 70%,0,0.1,,,32394,,,
+2026-10-13 18:32:51,CcvxiPHwgbVSrF5akyNALUN9WHm8kNWXvtXbgvGNpump,MOLD,BUY,dev sold,0,0.1,,,16024,,,
+2026-10-13 18:33:02,F6z4utrEZKf3mx8Zsmfsj4yHyvkCqHLd8a1o4njQpump,DSM,BUY,dev sold,0,0.1,,,9915,,,
+2026-10-13 18:33:13,CcvxiPHwgbVSrF5akyNALUN9WHm8kNWXvtXbgvGNpump,MOLD,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,11026,9.1,-31.2,22
+2026-10-13 18:33:20,qRX6g4mmkHiiUXic1Ku6rjWwMV3cSTS1DrQss6dELjQ,VIFY,SELL,top10 hold 68%,0,0.1788,78.8,no trading (stale),44202,93.0,-8.5,218
+2026-10-13 18:33:50,F6z4utrEZKf3mx8Zsmfsj4yHyvkCqHLd8a1o4njQpump,DSM,SELL,dev sold,0,0.31005,210.0,take profit +214%,33211,235.0,-21.9,48
+2026-10-13 18:33:51,Gd44n2uB4tfwDjAFT2sJUM8Qy8pVuYTvgzRtRZM8pump,$SI.gov,SELL,bundled: 11 launch wallets own 70%,0,0.07483,-25.2,dev sold,26237,5.9,-21.4,76
+2026-10-13 18:34:02,9yv2GgqtsSD8g5YBBraUFzLBAdCYBAM4CoVFg8pGpump,WORM,BUY,dev sold,0,0.1,,,13838,,,
+2026-10-13 18:34:07,9yv2GgqtsSD8g5YBBraUFzLBAdCYBAM4CoVFg8pGpump,WORM,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,9490,19.2,-31.4,4
+2026-10-13 18:35:31,DtTicQEdhsLTjkuaydRxoVghkupKaZwmAnuXPuSnpump,SOL,BUY,dev sold,0,0.1,,,24054,,,
+2026-10-13 18:35:33,EjHxko3qNDd5SiZ5JH6oFhCvP18FZo2HiUxzQjFSG77P,GURU,SELL,dev sold,0,0.06309,-36.9,stop loss -36%,5576,23.7,-31.5,240
+2026-10-13 18:35:43,DtTicQEdhsLTjkuaydRxoVghkupKaZwmAnuXPuSnpump,SOL,SELL,dev sold,0,0.06274,-37.3,stop loss -36%,16358,5.8,-32.0,11
+2026-10-13 18:36:19,BTsNMAD3qTCWgtxykjbLpLLU9vcWUvvUncciUZMUpump,SOL,BUY,dev sold,0,0.1,,,16384,,,
+2026-10-13 18:36:34,BTsNMAD3qTCWgtxykjbLpLLU9vcWUvvUncciUZMUpump,SOL,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,11272,19.6,-31.2,15
