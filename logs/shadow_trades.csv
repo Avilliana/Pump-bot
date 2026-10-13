@@ -4181,3 +4181,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 09:20:51,ESJZLdNaYh74sQ7do38hbsZY5eZKmXVv7RNH8czgpump,沃亚克,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,6007,18.4,-31.8,22
 2026-10-13 09:28:36,H82pRE7zehNajWrZnKhTLzNoSN7qpC6kCz8evG7jpump,SL,BUY,dev sold,0,0.1,,,10556,,,
 2026-10-13 09:31:05,H82pRE7zehNajWrZnKhTLzNoSN7qpC6kCz8evG7jpump,SL,SELL,dev sold,0,0.0925,-7.5,no trading (stale),10556,0.0,0.0,149
+2026-10-13 10:19:32,wXXfyCbEJmoQHERJQ5RDALsqdXeuqopnDDaZ36Jpump,IDLE,BUY,bundled: 30 launch wallets own 23%,0,0.1,,,8515,,,
+2026-10-13 10:20:20,wXXfyCbEJmoQHERJQ5RDALsqdXeuqopnDDaZ36Jpump,IDLE,SELL,bundled: 30 launch wallets own 23%,0,0.06204,-38.0,stop loss -37%,5735,9.0,-32.6,48
+2026-10-13 10:25:40,ACfj29FkvtkpAuzWhcV3xWbVCaF1n625qYssYWxopump,Jamie,BUY,bundled: 24 launch wallets own 8%,0,0.1,,,30849,,,
+2026-10-13 10:26:52,CamSVFn3G4nVq8dSjYEA5Lb7Q2VHk7kj8HcRcfuHpump,MuseOS,BUY,score below threshold,49.8,0.1,,,10179,,,
+2026-10-13 10:27:17,CamSVFn3G4nVq8dSjYEA5Lb7Q2VHk7kj8HcRcfuHpump,MuseOS,SELL,score below threshold,49.8,0.06198,-38.0,stop loss -37%,6847,6.1,-32.7,26
+2026-10-13 10:28:46,RhJGJWvAmE471aqibcSK9qY96XGCMembMxbGXkQpump,GOATIANA,BUY,dev sold,0,0.1,,,8059,,,
+2026-10-13 10:29:31,ACfj29FkvtkpAuzWhcV3xWbVCaF1n625qYssYWxopump,Jamie,SELL,bundled: 24 launch wallets own 8%,0,0.13172,31.7,no trading (stale),43808,42.2,-5.5,231
+2026-10-13 10:33:37,RhJGJWvAmE471aqibcSK9qY96XGCMembMxbGXkQpump,GOATIANA,SELL,dev sold,0,0.06313,-36.9,stop loss -36%,5516,106.3,-31.5,291
