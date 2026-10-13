@@ -4533,3 +4533,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 22:47:26,2Hqkr1Ac3SUV88p1HNAKyfvFxdqP1g1xmz6m6JoCpump,Paramedick,SELL,dev sold,0,0.2959,195.9,take profit +200%,26020,219.8,4.1,80
 2026-10-13 22:47:42,H1nWSYvB7o48g2yaT3ii2qrXgk1oQysmURL4MJQZpump,JIZZMASS,SELL,dev sold,0,0.06235,-37.6,stop loss -36%,12162,26.7,-32.4,41
 2026-10-13 22:51:15,6qydCjgv4qrvmDgGRWwHYPY2dwoVPt92YXBiU3cCpump,CTOWN,SELL,bundled: 13 launch wallets own 27%,0,0.11982,19.8,shift ended,12078,82.2,-5.8,581
+2026-10-13 23:31:29,FxNUnQVTktvV1Hyft73KJ7oTCNQD9EVDJ7Wpz6g4pump,DOCA,BUY,dev sold,0,0.1,,,10537,,,
+2026-10-13 23:31:50,FxNUnQVTktvV1Hyft73KJ7oTCNQD9EVDJ7Wpz6g4pump,DOCA,SELL,dev sold,0,0.04975,-50.2,stop loss -49%,5700,20.7,-45.9,21
+2026-10-13 23:32:23,HtvjizuoJ3CXgyea2oRBMG9UYVwUhMzr61K1JCF7pump,FOMCooor,BUY,dev sold,0,0.1,,,16284,,,
+2026-10-13 23:33:03,2qeh9wDQ9Y44BB8FrC7YwgqP3RYc7u5TJoA1FHvkpump,DOCA,BUY,dev sold,0,0.1,,,10024,,,
+2026-10-13 23:34:41,HtvjizuoJ3CXgyea2oRBMG9UYVwUhMzr61K1JCF7pump,FOMCooor,SELL,dev sold,0,0.01903,-81.0,stop loss -80%,3419,64.5,-79.0,138
+2026-10-13 23:36:51,2qeh9wDQ9Y44BB8FrC7YwgqP3RYc7u5TJoA1FHvkpump,DOCA,SELL,dev sold,0,0.30894,208.9,take profit +213%,33456,233.7,-4.5,228
+2026-10-13 23:37:37,5cXw3C2Bdt9SCts6n2TfTfWGsWND7nVTPWHZpk4vpump,/codelock/,BUY,dev sold,0,0.1,,,20975,,,
+2026-10-13 23:38:14,5cXw3C2Bdt9SCts6n2TfTfWGsWND7nVTPWHZpk4vpump,/codelock/,SELL,dev sold,0,0.01443,-85.6,stop loss -85%,3367,65.3,-83.9,36
+2026-10-13 23:41:08,2nNf2yJXFGihaPCTTSdgnh7atUNMde2pwUvs6faxpump,CHUD,BUY,dev sold,0,0.1,,,10490,,,
+2026-10-13 23:41:37,2nNf2yJXFGihaPCTTSdgnh7atUNMde2pwUvs6faxpump,CHUD,SELL,dev sold,0,0.0331,-66.9,stop loss -66%,3794,27.6,-63.8,28
+2026-10-13 23:41:49,GBENmxEDiAZSto5wFiznFhs8YKWN7N7ZFVSQEjbBpump,WIZARDDOG,BUY,bundled: 8 launch wallets own 70%,0,0.1,,,30248,,,
+2026-10-13 23:42:19,61DZMQe7J67t6ebFYxk8hzkzNj1B5vVN5KD3kxgWpump,ROXY,BUY,dev sold,0,0.1,,,16246,,,
+2026-10-13 23:43:27,61DZMQe7J67t6ebFYxk8hzkzNj1B5vVN5KD3kxgWpump,ROXY,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,11148,36.8,-31.4,68
+2026-10-13 23:46:13,GBENmxEDiAZSto5wFiznFhs8YKWN7N7ZFVSQEjbBpump,WIZARDDOG,SELL,bundled: 8 launch wallets own 70%,0,0.13434,34.3,no trading (stale),43870,45.0,-24.7,263
