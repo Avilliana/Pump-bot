@@ -4205,3 +4205,35 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 11:35:27,2rbM7MhMTskJyxvHJaxrt3XsupaYNTjUzB5YhrTQpump,USDF,SELL,dev holds 9.6%,0,0.06366,-36.3,stop loss -35%,15420,0.0,-31.0,3
 2026-10-13 11:36:34,4Ft8vUdoJRQHAv88bTZfigweqLGdAZYuurLxQWFrpump,Slime,BUY,dev sold,0,0.1,,,16247,,,
 2026-10-13 11:36:49,4Ft8vUdoJRQHAv88bTZfigweqLGdAZYuurLxQWFrpump,Slime,SELL,dev sold,0,0.06025,-39.7,stop loss -38%,10620,0.4,-34.6,16
+2026-10-13 12:20:59,6juZB8BdDdzUc6siXP12nQJcmPdXEmN399JoiP5Epump,REYEL,BUY,dev holds 35.5%,0,0.1,,,12181,,,
+2026-10-13 12:21:29,BzqsWbd23RhZsec8KZkAfoAnJTBJ3W9JtTnKbRMppump,binancians,BUY,dev holds 15.2%,0,0.1,,,16659,,,
+2026-10-13 12:22:13,6EJoriZ543DyhjFzEpNoAmqt3RsRkVoj1GyMRL2Ppump,pumpkoin,BUY,dev sold,0,0.1,,,10311,,,
+2026-10-13 12:22:35,BzqsWbd23RhZsec8KZkAfoAnJTBJ3W9JtTnKbRMppump,binancians,SELL,dev holds 15.2%,0,0.05068,-49.3,stop loss -48%,9172,0.0,-44.9,66
+2026-10-13 12:22:54,6EJoriZ543DyhjFzEpNoAmqt3RsRkVoj1GyMRL2Ppump,pumpkoin,SELL,dev sold,0,0.06285,-37.1,stop loss -36%,7033,0.4,-31.8,41
+2026-10-13 12:23:00,871v8CESdjEq4vGT9fQ6QcwHSJ2EsUcFFPW5sR9o99UP,Angelique,BUY,dev sold,0,0.1,,,9398,,,
+2026-10-13 12:23:02,871v8CESdjEq4vGT9fQ6QcwHSJ2EsUcFFPW5sR9o99UP,Angelique,SELL,dev sold,0,0.06303,-37.0,stop loss -36%,6428,1.1,-31.6,2
+2026-10-13 12:25:22,8wd5tEniZUrqEMen5eoPfhP92YAVVTFZBFZH2gLupump,LOIS,BUY,dev sold,0,0.1,,,8920,,,
+2026-10-13 12:25:35,9zV9EqRwcLWxhPoBnekQyYGGMfKGujCWBcF6siXcmomM,Seals,BUY,dev sold,0,0.1,,,43549,,,
+2026-10-13 12:25:35,DjURq1nU7h7YQ3ZQayMB2Djx6eq2CcWDRsfa9jVfpump,binancians,BUY,dev sold,0,0.1,,,13188,,,
+2026-10-13 12:28:16,9zV9EqRwcLWxhPoBnekQyYGGMfKGujCWBcF6siXcmomM,Seals,SELL,dev sold,0,0.09252,-7.5,no trading (stale),43549,0.0,0.0,161
+2026-10-13 12:28:57,8wd5tEniZUrqEMen5eoPfhP92YAVVTFZBFZH2gLupump,LOIS,SELL,dev sold,0,0.06141,-38.6,stop loss -37%,5947,0.0,-33.3,215
+2026-10-13 12:29:06,DjURq1nU7h7YQ3ZQayMB2Djx6eq2CcWDRsfa9jVfpump,binancians,SELL,dev sold,0,0.30587,205.9,take profit +210%,43549,230.2,-8.1,211
+2026-10-13 12:29:14,JC1A1xuU4WBR6DR2Jov3hsFjdr9Ykm5s4jAQd58MSYUe,Sol,BUY,dev sold,0,0.1,,,15014,,,
+2026-10-13 12:29:30,JC1A1xuU4WBR6DR2Jov3hsFjdr9Ykm5s4jAQd58MSYUe,Sol,SELL,dev sold,0,0.06245,-37.6,stop loss -36%,10175,22.6,-32.3,15
+2026-10-13 12:30:41,4jWAfkwcWR32NwgRFoUBRzmgzjHkzoz8NTBAXd7Bpump,QUANTSEM,BUY,dev sold,0,0.1,,,8686,,,
+2026-10-13 12:30:45,4jWAfkwcWR32NwgRFoUBRzmgzjHkzoz8NTBAXd7Bpump,QUANTSEM,SELL,dev sold,0,0.06365,-36.3,stop loss -35%,6001,1.0,-30.9,4
+2026-10-13 12:30:47,BiHWoJogALu8WkCrmxBfr4aEnztbwf9AVKme2TT8pump,READ,BUY,dev sold,0,0.1,,,13017,,,
+2026-10-13 12:31:31,4so2H2mLwRAeSBaCf2AhUSeopaFwqREXuuUP8VKUpump,QUANTSEM,BUY,bundled: 17 launch wallets own 14%,0,0.1,,,10604,,,
+2026-10-13 12:31:40,4so2H2mLwRAeSBaCf2AhUSeopaFwqREXuuUP8VKUpump,QUANTSEM,SELL,bundled: 17 launch wallets own 14%,0,0.07396,-26.0,dev sold,8502,1.5,-19.8,9
+2026-10-13 12:34:18,9TtePNRPFsYQnyssJChsWkifhSxfUGdQqjDbvyCopump,Goatiana,BUY,dev sold,0,0.1,,,8812,,,
+2026-10-13 12:34:31,4Lsq1q31juMnG7gziFGCorh3pQ6NgyfwY3yhnoZspump,RETROELON,BUY,dev sold,0,0.1,,,15261,,,
+2026-10-13 12:34:47,9TtePNRPFsYQnyssJChsWkifhSxfUGdQqjDbvyCopump,Goatiana,SELL,dev sold,0,0.06191,-38.1,stop loss -37%,5922,1.9,-32.8,29
+2026-10-13 12:36:25,BiHWoJogALu8WkCrmxBfr4aEnztbwf9AVKme2TT8pump,READ,SELL,dev sold,0,0.29627,196.3,take profit +201%,41635,219.9,-8.8,338
+2026-10-13 12:37:15,6juZB8BdDdzUc6siXP12nQJcmPdXEmN399JoiP5Epump,REYEL,SELL,dev holds 35.5%,0,0.0305,-69.5,dev sold,4065,177.8,-66.6,976
+2026-10-13 12:37:28,Cvxjad6JbFKYotPjLQh3y6HbJjx17neLRppzaYL5pump,Sola,BUY,bundled: 12 launch wallets own 31%,0,0.1,,,8607,,,
+2026-10-13 12:37:43,8vbPw25NFJYXNXRy3agEqnM88jNud28v2YVwwAGwpump,BRUNO,BUY,dev sold,0,0.1,,,16719,,,
+2026-10-13 12:38:06,Cvxjad6JbFKYotPjLQh3y6HbJjx17neLRppzaYL5pump,Sola,SELL,bundled: 12 launch wallets own 31%,0,0.06029,-39.7,stop loss -38%,5635,3.8,-34.5,37
+2026-10-13 12:38:36,wtAgHikcnTGj7W4kRHcMWmrrngZfBzyt8nEsZd9pump,BRUNO,BUY,dev sold,0,0.1,,,10154,,,
+2026-10-13 12:38:59,8vbPw25NFJYXNXRy3agEqnM88jNud28v2YVwwAGwpump,BRUNO,SELL,dev sold,0,0.06138,-38.6,stop loss -37%,11130,36.5,-33.4,76
+2026-10-13 12:39:09,wtAgHikcnTGj7W4kRHcMWmrrngZfBzyt8nEsZd9pump,BRUNO,SELL,dev sold,0,0.06361,-36.4,stop loss -35%,7009,45.7,-31.0,33
+2026-10-13 12:39:17,4Lsq1q31juMnG7gziFGCorh3pQ6NgyfwY3yhnoZspump,RETROELON,SELL,dev sold,0,0.17564,75.6,shift ended,28946,89.7,-9.2,286
