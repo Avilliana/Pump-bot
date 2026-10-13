@@ -4113,3 +4113,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 04:38:11,F9Qmrr674MFEmG6nkLV7J7QiC6oV3kCZbw1gLUddpump,ClaudeChud,BUY,dev sold,0,0.1,,,12978,,,
 2026-10-13 04:38:16,F9Qmrr674MFEmG6nkLV7J7QiC6oV3kCZbw1gLUddpump,ClaudeChud,SELL,dev sold,0,0.06299,-37.0,stop loss -36%,8868,0.0,-31.7,5
 2026-10-13 04:38:23,44qYD9WNJFvH4oc6ydFpTZan5BYpAq9yGK44mdnwpump,Chonkie,SELL,bundled: 27 launch wallets own 11%,0,0.1695,69.5,shift ended,17920,100.6,-17.0,986
+2026-10-13 05:19:20,CCXwBAncfvieg67Cop2EgaWHC8dUzWUhRPg2o5ihwYrB,Nietzsche,BUY,dev sold,0,0.1,,,8418,,,
+2026-10-13 05:20:39,CCXwBAncfvieg67Cop2EgaWHC8dUzWUhRPg2o5ihwYrB,Nietzsche,SELL,dev sold,0,0.06232,-37.7,stop loss -36%,5696,103.3,-32.3,79
+2026-10-13 05:23:09,DUg7s47kNDVr9Hbfx8RUuNAeTDgqMFXYFLaosQZQpump,Rin,BUY,dev sold,0,0.1,,,9133,,,
+2026-10-13 05:24:54,FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump,Topless,BUY,dev sold,0,0.1,,,9173,,,
+2026-10-13 05:25:50,FL4B8VKuZhiGXfawvrMP4HT9o1X8M4DbtDc1Bcz9pump,Topless,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,6309,24.4,-31.2,57
+2026-10-13 05:26:14,DUg7s47kNDVr9Hbfx8RUuNAeTDgqMFXYFLaosQZQpump,Rin,SELL,dev sold,0,0.09234,-7.7,no trading (stale),9127,0.0,-0.1,184
+2026-10-13 05:26:51,FepKukShfekCs9Eu7PWuEjxGzWWxMNPvhNNpM4DQpump,Dust,BUY,dev holds 38.4%,0,0.1,,,12265,,,
+2026-10-13 05:27:03,FepKukShfekCs9Eu7PWuEjxGzWWxMNPvhNNpM4DQpump,Dust,SELL,dev holds 38.4%,0,0.05931,-40.7,stop loss -39%,7898,64.5,-35.6,12
+2026-10-13 05:29:01,HzgAC5usEor8i2wARtGBSGaR3ywact529nJuMeBjpump,LION,BUY,dev sold,0,0.1,,,13875,,,
+2026-10-13 05:32:32,2vEfc1hijo7kY5ae14EZQwn3DFrZX9UYAXAcpFzGpump,Xputer,BUY,dev sold,0,0.1,,,11086,,,
+2026-10-13 05:33:40,3mMb7tiNhvtDoiqchXJCXDNpbeczFdT3zTFEjnAQpump,Dram,BUY,dev holds 47.7%,0,0.1,,,8765,,,
+2026-10-13 05:33:42,3mMb7tiNhvtDoiqchXJCXDNpbeczFdT3zTFEjnAQpump,Dram,SELL,dev holds 47.7%,0,0.32019,220.2,take profit +225%,30352,246.3,0.0,2
+2026-10-13 05:33:43,HzgAC5usEor8i2wARtGBSGaR3ywact529nJuMeBjpump,LION,SELL,dev sold,0,0.05912,-40.9,stop loss -40%,8902,19.8,-35.8,282
+2026-10-13 05:36:17,2vEfc1hijo7kY5ae14EZQwn3DFrZX9UYAXAcpFzGpump,Xputer,SELL,dev sold,0,0.09132,-8.7,no trading (stale),10953,0.0,-1.5,224
+2026-10-13 05:36:24,9L7mYw3ukrX3Q5Ahh7CM8p7m2pnzECc6wfgzBPdQpump,Puter,BUY,dev sold,0,0.1,,,12234,,,
+2026-10-13 05:38:29,9L7mYw3ukrX3Q5Ahh7CM8p7m2pnzECc6wfgzBPdQpump,Puter,SELL,dev sold,0,0.08631,-13.7,shift ended,11426,0.1,-6.6,125
