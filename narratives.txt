@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-together
 cat
-simple
-gomo
-hunt
-fees
-straight
-stars
-small
-paws
-already
-movement
-building
-stays
-turns
+viral
+his
+open
+ai
+across
+inspired
+literally
+views
+rewards
+wif
+paired
+born
+him
+halloween
