@@ -4043,3 +4043,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 00:38:18,caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump,BOOBIES,SELL,dev sold,0,0.08432,-15.7,shift ended,12178,14.4,-25.3,47
 2026-10-13 01:28:27,2zR3E8824DgoGavk995g4DRrDeXqrjf5u5EQipPopump,LOFO,BUY,dev sold,0,0.1,,,17712,,,
 2026-10-13 01:31:50,2zR3E8824DgoGavk995g4DRrDeXqrjf5u5EQipPopump,LOFO,SELL,dev sold,0,0.22444,124.4,no trading (stale),42900,142.2,0.1,203
+2026-10-13 02:20:16,BjcJwfz8fVncxNgZ5DKFgyFR3G7hfivBEPb66dZ1pump,DUVE,BUY,dev holds 15.3%,0,0.1,,,9511,,,
+2026-10-13 02:20:27,BjcJwfz8fVncxNgZ5DKFgyFR3G7hfivBEPb66dZ1pump,DUVE,SELL,dev holds 15.3%,0,0.11746,17.5,dev sold,12086,40.9,0.0,11
+2026-10-13 02:21:43,Df73bDXUM9FjDGKbSGakNUaG2LQLLGse7ZW7VEgpump,GCAT,BUY,dev sold,0,0.1,,,8587,,,
+2026-10-13 02:23:25,3iyEb9PtiZaCjc4HRz2HExxR2tMMJNx6VjCHSBcQpump,Vampinu,BUY,dev sold,0,0.1,,,12118,,,
+2026-10-13 02:23:42,3iyEb9PtiZaCjc4HRz2HExxR2tMMJNx6VjCHSBcQpump,Vampinu,SELL,dev sold,0,0.02587,-74.1,stop loss -73%,3437,29.6,-71.6,17
+2026-10-13 02:24:28,Df73bDXUM9FjDGKbSGakNUaG2LQLLGse7ZW7VEgpump,GCAT,SELL,dev sold,0,0.30052,200.5,take profit +205%,27888,224.8,-11.4,166
+2026-10-13 02:24:53,H7zHPbaL3wge8VVPThfgJYc5PAt98FKH4Yht9jAopump,BRAINPAD,BUY,bundled: 22 launch wallets own 15%,0,0.1,,,8371,,,
+2026-10-13 02:28:18,DHR5UEZ3HL6m9mwGeVkMKz4NcuXzNHS1zD4rzzj6pump,Swan,BUY,dev sold,0,0.1,,,9148,,,
+2026-10-13 02:29:46,27KascPop9hKEKkstwoJ7U9HDFzWJnjLGHMqvLzZpump,orbit,BUY,dev sold,0,0.1,,,8834,,,
+2026-10-13 02:29:51,27KascPop9hKEKkstwoJ7U9HDFzWJnjLGHMqvLzZpump,orbit,SELL,dev sold,0,0.06331,-36.7,stop loss -35%,6071,0.2,-31.3,4
+2026-10-13 02:30:01,3SfrxYeKgwZ5znMShA3DqNTffECSDDTBJ9qdVgCYpump,BLOCK,BUY,dev sold,0,0.1,,,11103,,,
+2026-10-13 02:30:48,At67xHXK8s2yR6oxuiJ5XJZYBAHnSJXaWURRsnZQpump,MJP,BUY,dev sold,0,0.1,,,8027,,,
+2026-10-13 02:30:53,At67xHXK8s2yR6oxuiJ5XJZYBAHnSJXaWURRsnZQpump,MJP,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,5465,0.0,-31.9,5
+2026-10-13 02:31:12,8JZAGSdMsJm19UmGcwWbtfBaY1MeUrR2QnmBnF8Apump,Swan,BUY,dev sold,0,0.1,,,10407,,,
+2026-10-13 02:31:14,8JZAGSdMsJm19UmGcwWbtfBaY1MeUrR2QnmBnF8Apump,Swan,SELL,dev sold,0,0.06198,-38.0,stop loss -37%,7001,0.0,-32.7,2
+2026-10-13 02:32:15,DHR5UEZ3HL6m9mwGeVkMKz4NcuXzNHS1zD4rzzj6pump,Swan,SELL,dev sold,0,0.06245,-37.6,stop loss -36%,6201,117.0,-32.2,236
+2026-10-13 02:32:34,H7zHPbaL3wge8VVPThfgJYc5PAt98FKH4Yht9jAopump,BRAINPAD,SELL,bundled: 22 launch wallets own 15%,0,0.06296,-37.0,stop loss -36%,5759,74.6,-31.7,461
+2026-10-13 02:32:38,3SfrxYeKgwZ5znMShA3DqNTffECSDDTBJ9qdVgCYpump,BLOCK,SELL,dev sold,0,0.06149,-38.5,stop loss -37%,7409,57.3,-33.3,157
+2026-10-13 02:33:15,E27Vj7jXc2cH2hAMb6zAqgb1emofGaFvuwozHUiTpump,Dodo,BUY,dev sold,0,0.1,,,18718,,,
+2026-10-13 02:36:53,9XvEqB9WtAw2Pcyfo1Nt8YUHzHEhpKQydEcEsKGGpump,SNIBBU,BUY,dev sold,0,0.1,,,9405,,,
+2026-10-13 02:37:22,5M413duQ1dmBDU7dZPTHFfYgnfxY9yDxG7dWggGUpump,DUVE,BUY,dev sold,0,0.1,,,21093,,,
+2026-10-13 02:37:54,E27Vj7jXc2cH2hAMb6zAqgb1emofGaFvuwozHUiTpump,Dodo,SELL,dev sold,0,0.21648,116.5,shift ended,43730,133.6,-2.8,280
+2026-10-13 02:37:54,9XvEqB9WtAw2Pcyfo1Nt8YUHzHEhpKQydEcEsKGGpump,SNIBBU,SELL,dev sold,0,0.08205,-18.0,shift ended,8362,35.2,-28.1,61
+2026-10-13 02:37:54,5M413duQ1dmBDU7dZPTHFfYgnfxY9yDxG7dWggGUpump,DUVE,SELL,dev sold,0,0.16919,69.2,shift ended,38524,99.3,-5.6,32
