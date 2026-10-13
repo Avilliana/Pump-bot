@@ -4041,3 +4041,5 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 00:38:18,3E3otDjg8vaQCE3XLE7pjD6vfCZVmMjYfdZnvcV7pump,X,SELL,bundled: 25 launch wallets own 17%,0,0.14535,45.4,shift ended,42719,56.9,-23.8,172
 2026-10-13 00:38:18,3ZKBr4BuL3THGZPREFV4AvrMP4fWQA9rEoAD3m76pump,Experiment,SELL,bundled: 14 launch wallets own 19%,0,0.08288,-17.1,shift ended,7876,28.3,-19.9,140
 2026-10-13 00:38:18,caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump,BOOBIES,SELL,dev sold,0,0.08432,-15.7,shift ended,12178,14.4,-25.3,47
+2026-10-13 01:28:27,2zR3E8824DgoGavk995g4DRrDeXqrjf5u5EQipPopump,LOFO,BUY,dev sold,0,0.1,,,17712,,,
+2026-10-13 01:31:50,2zR3E8824DgoGavk995g4DRrDeXqrjf5u5EQipPopump,LOFO,SELL,dev sold,0,0.22444,124.4,no trading (stale),42900,142.2,0.1,203
