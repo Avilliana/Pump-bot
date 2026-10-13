@@ -4343,3 +4343,33 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 15:37:47,2SVdwqgnRBPvArSrTaw2ujbJp2MDybMz16H9564rpump,WORM,SELL,dev sold,0,0.06358,-36.4,stop loss -35%,6118,4.7,-31.0,19
 2026-10-13 15:39:21,97ft4Tm7Set5m8pBuTMJgAotZVFStxgp28jwPv7ypump,BTP,SELL,bundled: 11 launch wallets own 72%,0,0.11789,17.9,shift ended,44219,27.3,0.0,133
 2026-10-13 15:39:21,2nLy9Ep3AsCksCHMcv21AYYLpwePzGrQJMXEbJchpump,HWH,SELL,bundled: 5 launch wallets own 61%,0,0.08421,-15.8,shift ended,18121,18.8,-23.8,118
+2026-10-13 16:20:13,3sNeCmwJmYShfkPK5WhZeucxjhs4QCtWn4XuYY8Ppump,GEN,BUY,top10 hold 42%,0,0.1,,,19327,,,
+2026-10-13 16:20:31,7dH7vjMBkXwvE4ejdQNVsHSS4vWGnDzfMGGSFJKspump,CIG/ACC,BUY,dev sold,0,0.1,,,9814,,,
+2026-10-13 16:21:05,7dH7vjMBkXwvE4ejdQNVsHSS4vWGnDzfMGGSFJKspump,CIG/ACC,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,6687,20.4,-31.9,33
+2026-10-13 16:27:12,3sNeCmwJmYShfkPK5WhZeucxjhs4QCtWn4XuYY8Ppump,GEN,SELL,top10 hold 42%,0,0.21217,112.2,no trading (stale),44252,129.0,0.3,419
+2026-10-13 16:27:30,FSwDKKTGDUZvYzkzrDszFDD89xCnEkxQfK2FcmgJpump,Daniel,BUY,dev sold,0,0.1,,,8261,,,
+2026-10-13 16:29:50,BTmGszwmLkvQKuuSjbCkMSqERJ7kSzu1NpwLtZffpump,lettuce,BUY,dev sold,0,0.1,,,11294,,,
+2026-10-13 16:30:14,FSwDKKTGDUZvYzkzrDszFDD89xCnEkxQfK2FcmgJpump,Daniel,SELL,dev sold,0,0.29601,196.0,take profit +200%,26418,219.9,-5.6,164
+2026-10-13 16:30:40,7BRKgqmru38yMfdyG6d6N58t94DFnGCNg5P3wkTqpump,Dead,BUY,score below threshold,40.9,0.1,,,13107,,,
+2026-10-13 16:30:57,DmuTFg6wYCRWpWAMqspzaYmtDz3N3GMZx2iTTdcjpump,HODL,BUY,dev sold,0,0.1,,,9635,,,
+2026-10-13 16:32:26,BTmGszwmLkvQKuuSjbCkMSqERJ7kSzu1NpwLtZffpump,lettuce,SELL,dev sold,0,0.06187,-38.1,stop loss -37%,7583,38.2,-32.9,155
+2026-10-13 16:32:51,DmuTFg6wYCRWpWAMqspzaYmtDz3N3GMZx2iTTdcjpump,HODL,SELL,dev sold,0,0.06331,-36.7,stop loss -35%,6620,75.4,-31.3,113
+2026-10-13 16:32:52,D1cpdEZLFu4BnFNHrH5oHmXoZo97Fj8U9PBjRNDxpump,BACKSIES,BUY,bundled: 12 launch wallets own 6%,0,0.1,,,8825,,,
+2026-10-13 16:33:13,8prJDPVYSAzVthTBvBK1KbVqzTADhn8ohbEsZwaBpump,Gemini 4,BUY,top10 hold 64%,0,0.1,,,20981,,,
+2026-10-13 16:33:32,8prJDPVYSAzVthTBvBK1KbVqzTADhn8ohbEsZwaBpump,Gemini 4,SELL,top10 hold 64%,0,0.0801,-19.9,dev sold,18192,25.4,-13.3,19
+2026-10-13 16:33:39,59iwQE1FSTDqJxajukdUPjbLi8sSBf319E5JXymXpump,CASTLE,BUY,bundled: 5 launch wallets own 18%,0,0.1,,,10614,,,
+2026-10-13 16:33:49,D1cpdEZLFu4BnFNHrH5oHmXoZo97Fj8U9PBjRNDxpump,BACKSIES,SELL,bundled: 12 launch wallets own 6%,0,0.06364,-36.4,stop loss -35%,6096,21.2,-30.9,57
+2026-10-13 16:34:11,59iwQE1FSTDqJxajukdUPjbLi8sSBf319E5JXymXpump,CASTLE,SELL,bundled: 5 launch wallets own 18%,0,0.05868,-41.3,stop loss -40%,6761,5.2,-36.3,32
+2026-10-13 16:34:34,9PfyZJQqX1iwyr16VQ5nkDQ2JHajFdrL83LG2F5gpump,INSIDER,BUY,dev sold,0,0.1,,,11351,,,
+2026-10-13 16:34:59,9WZrp3MJPwqPKywqSkypN8bDzsLfX6jPRoDUvcbDpump,STOCKINU,BUY,dev sold,0,0.1,,,11803,,,
+2026-10-13 16:35:40,6p8KfTfvNs1JX8HdKPkSDsTJwz33837zo8BtTwwepump,MIC,BUY,dev sold,0,0.1,,,10281,,,
+2026-10-13 16:36:08,9WZrp3MJPwqPKywqSkypN8bDzsLfX6jPRoDUvcbDpump,STOCKINU,SELL,dev sold,0,0.06353,-36.5,stop loss -35%,8136,33.2,-31.1,69
+2026-10-13 16:36:29,EZ7RFLpHv14NK8b6wQuRefLvspYTy1TFpj5756TKpump,PINCHA,BUY,dev sold,0,0.1,,,9156,,,
+2026-10-13 16:36:46,EZ7RFLpHv14NK8b6wQuRefLvspYTy1TFpj5756TKpump,PINCHA,SELL,dev sold,0,0.06195,-38.0,stop loss -37%,6157,0.1,-32.7,17
+2026-10-13 16:36:54,GMgpns2Q8S3gRpvpjUdMhnEeKknz9EjwjS9kDw98sH5e,cheeseball,BUY,dev sold,0,0.1,,,9152,,,
+2026-10-13 16:37:28,6p8KfTfvNs1JX8HdKPkSDsTJwz33837zo8BtTwwepump,MIC,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,7009,182.5,-31.8,108
+2026-10-13 16:38:19,GMgpns2Q8S3gRpvpjUdMhnEeKknz9EjwjS9kDw98sH5e,cheeseball,SELL,dev sold,0,0.29801,198.0,take profit +202%,29470,222.0,-14.4,85
+2026-10-13 16:38:50,CYKk8XFcBNy2cZo14HKWCmizykUhEMkNUkTrXT9tpump,PUNCHTOWN,BUY,dev holds 10.0%,0,0.1,,,8480,,,
+2026-10-13 16:39:05,7BRKgqmru38yMfdyG6d6N58t94DFnGCNg5P3wkTqpump,Dead,SELL,score below threshold,40.9,0.14189,41.9,shift ended,20099,65.1,-28.7,505
+2026-10-13 16:39:05,9PfyZJQqX1iwyr16VQ5nkDQ2JHajFdrL83LG2F5gpump,INSIDER,SELL,dev sold,0,0.21843,118.4,shift ended,26782,135.9,-10.6,272
+2026-10-13 16:39:05,CYKk8XFcBNy2cZo14HKWCmizykUhEMkNUkTrXT9tpump,PUNCHTOWN,SELL,dev holds 10.0%,0,0.0917,-8.3,shift ended,8423,0.0,-0.7,15
