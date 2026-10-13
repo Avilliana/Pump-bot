@@ -4517,3 +4517,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 21:50:46,2Luv5g5MxSUpFhDDqJodvtYGVSvSzwUtTrud1VuXpump,USDR,SELL,dev holds 76.0%,0,0.11316,13.2,shift ended,43989,22.2,-1.4,475
 2026-10-13 21:50:46,968Qieg184NnSbRXXdGbTTi5XkRMguTRpVYSBzjepump,POPE,SELL,dev sold,0,0.14566,45.7,shift ended,16863,57.5,-20.1,128
 2026-10-13 21:50:46,G7XZPh14iLmW9yUthvHjSRw5nXDDBMszD4xBKVp7pump,bird,SELL,dev sold,0,0.0821,-17.9,shift ended,7217,8.4,-20.3,20
+2026-10-13 22:32:19,5D1oEv6FZmKC1DX4DFNj95DpNJbQrg6M557CmuaQpump,Urara,BUY,dev sold,0,0.1,,,9039,,,
+2026-10-13 22:33:22,BQbYcUdo1EQTynNGvXbd1qNbfAmiXNwz6MwLH6xjpump,DWELL,BUY,bundled: 41 launch wallets own 17%,0,0.1,,,8888,,,
+2026-10-13 22:33:30,BQbYcUdo1EQTynNGvXbd1qNbfAmiXNwz6MwLH6xjpump,DWELL,SELL,bundled: 41 launch wallets own 17%,0,0.05902,-41.0,dev sold,5697,0.4,-35.9,8
+2026-10-13 22:33:49,5D1oEv6FZmKC1DX4DFNj95DpNJbQrg6M557CmuaQpump,Urara,SELL,dev sold,0,0.06265,-37.3,stop loss -36%,6147,39.2,-32.0,90
+2026-10-13 22:34:12,jq4yKhqGNzWCQhgQYB89CDEYQYjLHGcvDy9WNJHpump,ARCADES,BUY,dev sold,0,0.1,,,8619,,,
+2026-10-13 22:34:34,jq4yKhqGNzWCQhgQYB89CDEYQYjLHGcvDy9WNJHpump,ARCADES,SELL,dev sold,0,0.29844,198.4,take profit +203%,27800,222.5,-0.2,22
+2026-10-13 22:35:27,6b7uVhNL3XW3TRADPebnCyMVSawGCHk1qgRGRVYhHGeo,GEOGO,BUY,bundled: 12 launch wallets own 6%,0,0.1,,,13188,,,
+2026-10-13 22:41:34,6qydCjgv4qrvmDgGRWwHYPY2dwoVPt92YXBiU3cCpump,CTOWN,BUY,bundled: 13 launch wallets own 27%,0,0.1,,,9317,,,
+2026-10-13 22:41:42,6b7uVhNL3XW3TRADPebnCyMVSawGCHk1qgRGRVYhHGeo,GEOGO,SELL,bundled: 12 launch wallets own 6%,0,0.06293,-37.1,stop loss -36%,9009,100.2,-31.7,375
+2026-10-13 22:45:35,2FRrWd8D8FpR5asjLWPhNTT34mcX2k2oU68Bq3v6pump,DICK,BUY,dev sold,0,0.1,,,9196,,,
+2026-10-13 22:45:58,2FRrWd8D8FpR5asjLWPhNTT34mcX2k2oU68Bq3v6pump,DICK,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,6346,4.6,-31.0,23
+2026-10-13 22:46:06,2Hqkr1Ac3SUV88p1HNAKyfvFxdqP1g1xmz6m6JoCpump,Paramedick,BUY,dev sold,0,0.1,,,8135,,,
+2026-10-13 22:47:00,H1nWSYvB7o48g2yaT3ii2qrXgk1oQysmURL4MJQZpump,JIZZMASS,BUY,dev sold,0,0.1,,,17987,,,
+2026-10-13 22:47:26,2Hqkr1Ac3SUV88p1HNAKyfvFxdqP1g1xmz6m6JoCpump,Paramedick,SELL,dev sold,0,0.2959,195.9,take profit +200%,26020,219.8,4.1,80
+2026-10-13 22:47:42,H1nWSYvB7o48g2yaT3ii2qrXgk1oQysmURL4MJQZpump,JIZZMASS,SELL,dev sold,0,0.06235,-37.6,stop loss -36%,12162,26.7,-32.4,41
+2026-10-13 22:51:15,6qydCjgv4qrvmDgGRWwHYPY2dwoVPt92YXBiU3cCpump,CTOWN,SELL,bundled: 13 launch wallets own 27%,0,0.11982,19.8,shift ended,12078,82.2,-5.8,581
