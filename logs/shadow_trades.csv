@@ -4859,3 +4859,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 19:00:36,2fFDQUm6NVj7k1sRSNGoq8p7pRUknsgtUmTuNqW9pump,Higher,BUY,dev sold,0,0.1,,,9890,,,
 2026-10-14 19:00:44,2fFDQUm6NVj7k1sRSNGoq8p7pRUknsgtUmTuNqW9pump,Higher,SELL,dev sold,0,0.05946,-40.5,stop loss -39%,6384,4.2,-35.5,7
 2026-10-14 19:00:45,B9XWvCzFe93iwnLBEhFUHLKBM47yggTTQUapCxeCLAiM,CLAIM,SELL,bundled: 82 launch wallets own 47%,0,0.10812,8.1,shift ended,14833,18.8,0.4,32
+2026-10-14 19:37:30,3caUPXr9tt1s7nwXbR2kar7SUQhyBc1c5935QKhtpump,EH,BUY,top10 hold 44%,0,0.1,,,8992,,,
+2026-10-14 19:38:51,3sHVVD6VQ15hzYp2pgURmF2V1FRBV4nm4fvK5SnEpump,SWARMCHASERS,BUY,dev sold,0,0.1,,,9248,,,
+2026-10-14 19:39:23,3caUPXr9tt1s7nwXbR2kar7SUQhyBc1c5935QKhtpump,EH,SELL,top10 hold 44%,0,0.07172,-28.3,dev sold,6994,13.7,-22.2,113
+2026-10-14 19:40:32,3sHVVD6VQ15hzYp2pgURmF2V1FRBV4nm4fvK5SnEpump,SWARMCHASERS,SELL,dev sold,0,0.29762,197.6,take profit +202%,29738,221.6,-2.6,101
+2026-10-14 19:40:34,BrrbeyUtnfnRwHuocwaxaqvQKf4inogxfa376u2Spump,WILBER,BUY,dev sold,0,0.1,,,9941,,,
+2026-10-14 19:41:59,BrrbeyUtnfnRwHuocwaxaqvQKf4inogxfa376u2Spump,WILBER,SELL,dev sold,0,0.06361,-36.4,stop loss -35%,6862,48.2,-31.0,84
+2026-10-14 19:44:32,YTixdBhLinvgRsgCyX3LvgwHFQeN39X1hwX8nzVpump,ADELINA,BUY,dev sold,0,0.1,,,10777,,,
+2026-10-14 19:44:49,3713L9khq4uQuy8tJL44Bern4T2hcZjTD4EDHmUspump,ghostdog,BUY,dev sold,0,0.1,,,11347,,,
+2026-10-14 19:45:44,YTixdBhLinvgRsgCyX3LvgwHFQeN39X1hwX8nzVpump,ADELINA,SELL,dev sold,0,0.06133,-38.7,stop loss -37%,7173,53.0,-33.4,73
+2026-10-14 19:49:32,9BVJVVpTNMGM6YyU3yqSvzETcNFoqh2z5Ly4Ritwpump,FRES,BUY,bundled: 16 launch wallets own 9%,0,0.1,,,9800,,,
+2026-10-14 19:49:35,6fY1MgCENKiu9hz6Wa2kRrjv8dBVpkGotM1gjTzNpump,FALTAI,BUY,dev sold,0,0.1,,,8785,,,
+2026-10-14 19:49:52,9BVJVVpTNMGM6YyU3yqSvzETcNFoqh2z5Ly4Ritwpump,FRES,SELL,bundled: 16 launch wallets own 9%,0,0.02937,-70.6,stop loss -70%,3151,13.6,-67.9,20
+2026-10-14 19:50:01,6fY1MgCENKiu9hz6Wa2kRrjv8dBVpkGotM1gjTzNpump,FALTAI,SELL,dev sold,0,0.04264,-57.4,stop loss -56%,4080,21.8,-53.6,26
+2026-10-14 19:50:56,3713L9khq4uQuy8tJL44Bern4T2hcZjTD4EDHmUspump,ghostdog,SELL,dev sold,0,0.06166,-38.3,stop loss -37%,7597,196.0,-33.1,368
+2026-10-14 19:52:46,66YhXZCFXEZWQy4Mi7U7eYVVoyz2xa12kLNgueqspump,starboy,BUY,dev sold,0,0.1,,,8006,,,
+2026-10-14 19:53:25,8rVXLQUS5YZhXwb5YeAUpicbSoDpdB5c1n9jL11kpump,Biberty,BUY,dev sold,0,0.1,,,10529,,,
+2026-10-14 19:53:51,4pidCp55EE2Y4MXPyxdU4pD1kvmakcszov6KD5iVpump,FLYALTAI,BUY,dev sold,0,0.1,,,8810,,,
+2026-10-14 19:53:53,4pidCp55EE2Y4MXPyxdU4pD1kvmakcszov6KD5iVpump,FLYALTAI,SELL,dev sold,0,0.03826,-61.7,stop loss -61%,3676,0.0,-58.3,2
+2026-10-14 19:53:56,8rVXLQUS5YZhXwb5YeAUpicbSoDpdB5c1n9jL11kpump,Biberty,SELL,dev sold,0,0.02697,-73.0,stop loss -72%,3113,30.9,-70.4,30
+2026-10-14 19:54:09,66YhXZCFXEZWQy4Mi7U7eYVVoyz2xa12kLNgueqspump,starboy,SELL,dev sold,0,0.06319,-36.8,stop loss -36%,5492,0.6,-31.4,82
