@@ -4587,3 +4587,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 02:50:33,9B6hqEGcm9GEQexN4BbR4V7WRsK656gGXhDoUQYspump,TOMI,SELL,dev sold,0,0.31629,216.3,take profit +221%,33706,241.7,-6.9,488
 2026-10-14 02:50:58,23UQPjo1ASYdzk8m7f8zMvDpJwAaGdUndYecigJwpump,Trenchlab,BUY,bundled: 8 launch wallets own 21%,0,0.1,,,11170,,,
 2026-10-14 02:51:32,23UQPjo1ASYdzk8m7f8zMvDpJwAaGdUndYecigJwpump,Trenchlab,SELL,bundled: 8 launch wallets own 21%,0,0.09668,-3.3,shift ended,11689,13.7,-9.1,34
+2026-10-14 03:36:41,3sMxAbfcpkCV9TLrGvhduhGWwVQGKyad6yKzK2PWpump,Eikon,BUY,dev holds 52.4%,0,0.1,,,19001,,,
+2026-10-14 03:36:46,3sMxAbfcpkCV9TLrGvhduhGWwVQGKyad6yKzK2PWpump,Eikon,SELL,dev holds 52.4%,0,0.03745,-62.6,dev sold,7755,10.5,-59.2,5
+2026-10-14 03:37:20,Rds2hHtzkqDwwSs9Gxk2ea36CqDvn6bKjUjgH1ppump,depth,BUY,bundled: 17 launch wallets own 6%,0,0.1,,,9466,,,
+2026-10-14 03:39:01,Rds2hHtzkqDwwSs9Gxk2ea36CqDvn6bKjUjgH1ppump,depth,SELL,bundled: 17 launch wallets own 6%,0,0.06283,-37.2,stop loss -36%,6456,13.6,-31.8,100
+2026-10-14 03:43:53,CNjPXwL1gxBFvXe6hukavh64eCGo9qekdSz65Uxxpump,Autism,BUY,dev sold,0,0.1,,,9165,,,
+2026-10-14 03:44:06,CNjPXwL1gxBFvXe6hukavh64eCGo9qekdSz65Uxxpump,Autism,SELL,dev sold,0,0.05953,-40.5,stop loss -39%,5924,1.5,-35.4,13
+2026-10-14 03:46:05,72WVj3waXYPiDmXYFayH994fKzkcQg37exhSe5a7pump,Eikon,BUY,dev holds 52.4%,0,0.1,,,16663,,,
+2026-10-14 03:46:42,72WVj3waXYPiDmXYFayH994fKzkcQg37exhSe5a7pump,Eikon,SELL,dev holds 52.4%,0,0.02389,-76.1,dev sold,4371,54.3,-73.8,37
+2026-10-14 03:48:50,7xW3wGMtkhWCJMf6cj9BoqJu7nxdpnkFo7N2MrxLpump,Eikon,BUY,dev holds 52.4%,0,0.1,,,13184,,,
+2026-10-14 03:48:54,7xW3wGMtkhWCJMf6cj9BoqJu7nxdpnkFo7N2MrxLpump,Eikon,SELL,dev holds 52.4%,0,0.02272,-77.3,dev sold,3293,7.5,-75.0,4
+2026-10-14 03:50:09,7eLadVxAQYJLp7dRMW15pZ123pPTCGN2ZYJu8EzFpump,Eikon,BUY,dev holds 52.4%,0,0.1,,,19336,,,
+2026-10-14 03:50:33,7eLadVxAQYJLp7dRMW15pZ123pPTCGN2ZYJu8EzFpump,Eikon,SELL,dev holds 52.4%,0,0.02063,-79.4,dev sold,4393,35.6,-77.3,23
+2026-10-14 03:52:17,9JqffVjYGfQ8s4haML7PNKV88BY81RJMGnWzE6YUpump,Eikon,BUY,dev holds 52.4%,0,0.1,,,15428,,,
+2026-10-14 03:52:55,9JqffVjYGfQ8s4haML7PNKV88BY81RJMGnWzE6YUpump,Eikon,SELL,dev holds 52.4%,0,0.10002,0.0,dev sold,16693,21.8,-1.6,37
