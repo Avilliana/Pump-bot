@@ -4701,3 +4701,33 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 12:58:05,A9SxzauzesAmzQMG5roJdAF9JZpKNWGQEaSmo7iipump,MIM,BUY,dev sold,0,0.1,,,8386,,,
 2026-10-14 12:59:02,A9SxzauzesAmzQMG5roJdAF9JZpKNWGQEaSmo7iipump,MIM,SELL,dev sold,0,0.0629,-37.1,stop loss -36%,5726,30.9,-31.7,57
 2026-10-14 13:01:11,CfU5fAuvT4g4MoTmCg6BaYs39UYjhcxYBSc8nk6apump,PUNK,SELL,score below threshold,54.6,0.12707,27.1,shift ended,11457,79.8,-17.6,598
+2026-10-14 13:40:17,51LF2Ea9hcAnwQHKcHzgESpF4fS8VvX2h9WWvF6jjiYv,DOG,BUY,dev sold,0,0.1,,,8021,,,
+2026-10-14 13:40:50,8ehXENyR42HDuAfFnB2EWLNZm7BruebRexV1cKHipump,ATTENTION,BUY,bundled: 14 launch wallets own 21%,0,0.1,,,8818,,,
+2026-10-14 13:40:53,51LF2Ea9hcAnwQHKcHzgESpF4fS8VvX2h9WWvF6jjiYv,DOG,SELL,dev sold,0,0.06153,-38.5,stop loss -37%,5359,35.1,-33.2,35
+2026-10-14 13:40:58,8ehXENyR42HDuAfFnB2EWLNZm7BruebRexV1cKHipump,ATTENTION,SELL,bundled: 14 launch wallets own 21%,0,0.08707,-12.9,dev sold,8318,12.8,-5.7,7
+2026-10-14 13:41:33,5Br8j6aYtpvEJ11JU2B3QP1nSU9pBJ3bjyx7nEcmpump,PR,BUY,bundled: 8 launch wallets own 13%,0,0.1,,,19190,,,
+2026-10-14 13:41:59,5Br8j6aYtpvEJ11JU2B3QP1nSU9pBJ3bjyx7nEcmpump,PR,SELL,bundled: 8 launch wallets own 13%,0,0.0619,-38.1,stop loss -37%,12881,14.2,-32.9,26
+2026-10-14 13:42:15,GdJZeb16FSeVzMBrdfYZe9eyxdjxYVG3iSKepsaZpump,JailMusk,BUY,dev sold,0,0.1,,,8901,,,
+2026-10-14 13:42:32,GdJZeb16FSeVzMBrdfYZe9eyxdjxYVG3iSKepsaZpump,JailMusk,SELL,dev sold,0,0.06148,-38.5,stop loss -37%,5940,37.0,-33.3,17
+2026-10-14 13:42:39,9128TyTGHK9v4qtHDZLVcfdJmVLVE8u5z1AYGgGDpump,MUSKI,BUY,dev sold,0,0.1,,,11130,,,
+2026-10-14 13:43:24,6BeadtTU4qLrkgoWjdnRYaVWhZBx8ZJbSsmudqevpump,Elephant,BUY,dev sold,0,0.1,,,11671,,,
+2026-10-14 13:43:31,6BeadtTU4qLrkgoWjdnRYaVWhZBx8ZJbSsmudqevpump,Elephant,SELL,dev sold,0,0.06208,-37.9,stop loss -37%,7862,0.6,-32.6,8
+2026-10-14 13:43:43,9128TyTGHK9v4qtHDZLVcfdJmVLVE8u5z1AYGgGDpump,MUSKI,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,7687,80.3,-30.9,63
+2026-10-14 13:44:56,5tdjzU7Qf1JJmv5GD4zXVtuydXKmAY4QGBUEJd6Upump,Molly,BUY,dev sold,0,0.1,,,13369,,,
+2026-10-14 13:45:23,5tdjzU7Qf1JJmv5GD4zXVtuydXKmAY4QGBUEJd6Upump,Molly,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,9178,27.7,-31.4,28
+2026-10-14 13:48:36,9GKtzLYrSYfc9n47HoKH1Horz9vJp7UnHF83qiWSpump,Bread,BUY,dev sold,0,0.1,,,9387,,,
+2026-10-14 13:49:42,9fvhztnU5vASJiANvJCdF1nNMQh4wAa6bCsvNbH8pump,SI,BUY,bundled: 15 launch wallets own 8%,0,0.1,,,17849,,,
+2026-10-14 13:50:04,9fvhztnU5vASJiANvJCdF1nNMQh4wAa6bCsvNbH8pump,SI,SELL,bundled: 15 launch wallets own 8%,0,0.06358,-36.4,stop loss -35%,12304,28.6,-31.1,22
+2026-10-14 13:50:36,9GKtzLYrSYfc9n47HoKH1Horz9vJp7UnHF83qiWSpump,Bread,SELL,dev sold,0,0.06283,-37.2,stop loss -36%,6408,69.1,-31.8,120
+2026-10-14 13:52:00,EXq4U7Q14fyAZDTZJLXudYPNWewcNmqh67qE2JCZpump,FSR,BUY,dev sold,0,0.1,,,10317,,,
+2026-10-14 13:52:42,EXq4U7Q14fyAZDTZJLXudYPNWewcNmqh67qE2JCZpump,FSR,SELL,dev sold,0,0.06138,-38.6,stop loss -37%,6873,30.7,-33.4,41
+2026-10-14 13:53:13,2fwGkEYCrvfWCerxiNRBKvNya2hJKTsGDFJTZFBKzuBh,TAIL,BUY,dev sold,0,0.1,,,9860,,,
+2026-10-14 13:53:41,7aZRHSPRLu79atjEE8DSXYc4KPU3oPw87rGHNmBkpump,TAILERS,BUY,dev sold,0,0.1,,,11338,,,
+2026-10-14 13:53:42,2fwGkEYCrvfWCerxiNRBKvNya2hJKTsGDFJTZFBKzuBh,TAIL,SELL,dev sold,0,0.05991,-40.1,stop loss -39%,6413,23.2,-35.0,29
+2026-10-14 13:53:45,7aZRHSPRLu79atjEE8DSXYc4KPU3oPw87rGHNmBkpump,TAILERS,SELL,dev sold,0,0.06154,-38.5,stop loss -37%,7572,0.0,-33.2,3
+2026-10-14 13:56:54,ARuz7bvUwtCAAkgfWcqJquRARXUBKdpbaBGdDmePpump,ily,BUY,dev sold,0,0.1,,,15488,,,
+2026-10-14 13:57:03,AJrRaXxm2ub8JhC147cirbNhrrwNgUQZbR8GNT8Gpump,Mymo,BUY,dev sold,0,0.1,,,8171,,,
+2026-10-14 13:57:38,Cbo3AnekUdyJpNthQcyHDT1PX87RHoAFAXuDBzEnpump,ily,BUY,dev sold,0,0.1,,,11937,,,
+2026-10-14 13:58:05,Cbo3AnekUdyJpNthQcyHDT1PX87RHoAFAXuDBzEnpump,ily,SELL,dev sold,0,0.06339,-36.6,stop loss -35%,8209,5.4,-31.2,28
+2026-10-14 13:58:07,ARuz7bvUwtCAAkgfWcqJquRARXUBKdpbaBGdDmePpump,ily,SELL,dev sold,0,0.05817,-41.8,stop loss -41%,9777,27.4,-36.9,73
+2026-10-14 13:58:51,AJrRaXxm2ub8JhC147cirbNhrrwNgUQZbR8GNT8Gpump,Mymo,SELL,dev sold,0,0.07472,-25.3,shift ended,6620,0.4,-27.7,108
