@@ -4831,3 +4831,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 16:56:43,7AUfAXFiZTjmK54xRpBvqMwLbcRwFnCZaMebgjXVpump,Timmy,SELL,dev sold,0,0.09239,-7.6,shift ended,13062,0.0,-0.0,57
 2026-10-14 16:56:43,BWgoniuEsfEoMrw4K5QG2kmc7TVbcPRqST5brW9zpump,TripleT,SELL,dev sold,0,0.08645,-13.5,shift ended,11519,9.0,-6.4,57
 2026-10-14 16:56:43,8t2oeCcDpnrpAuoRb2SAxwKkf2Y18YyEp5Gfu3fPpump,AEON,SELL,dev sold,0,0.09233,-7.7,shift ended,8899,0.0,0.0,47
+2026-10-14 17:39:13,28eGKk7GabX9m21A86ZeeqndeoWBi3bCYjf8moF3pump,ChaCha,BUY,dev sold,0,0.1,,,10526,,,
+2026-10-14 17:41:42,qyPCYh2RK841EQn4ozfGFwn8kEYfCRUtaStzwr5pump,PUILD,BUY,score below threshold,44.7,0.1,,,12033,,,
+2026-10-14 17:41:47,qyPCYh2RK841EQn4ozfGFwn8kEYfCRUtaStzwr5pump,PUILD,SELL,score below threshold,44.7,0.06169,-38.3,stop loss -37%,8055,0.1,-33.1,5
+2026-10-14 17:43:48,28eGKk7GabX9m21A86ZeeqndeoWBi3bCYjf8moF3pump,ChaCha,SELL,dev sold,0,0.06037,-39.6,stop loss -38%,6898,167.0,-34.5,275
+2026-10-14 17:44:18,HejuhRQFaEYo9XU8vCaBuw3sqLN8uFNk1DNTGiiNpump,Skullcap,BUY,dev sold,0,0.1,,,8950,,,
+2026-10-14 17:45:22,HejuhRQFaEYo9XU8vCaBuw3sqLN8uFNk1DNTGiiNpump,Skullcap,SELL,dev sold,0,0.04153,-58.5,stop loss -57%,4045,77.8,-54.7,63
+2026-10-14 17:46:37,6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump,Pluto,BUY,dev sold,0,0.1,,,11627,,,
+2026-10-14 17:47:17,GToApvFot2bxnBZJRg22i8ZE68UU3HEt1iBFk9Ebpump,PICHU,BUY,dev sold,0,0.1,,,10189,,,
+2026-10-14 17:47:23,GToApvFot2bxnBZJRg22i8ZE68UU3HEt1iBFk9Ebpump,PICHU,SELL,dev sold,0,0.03962,-60.4,stop loss -59%,4400,0.1,-56.8,6
+2026-10-14 17:51:40,HMSEBM5uL74NHVLDkEt7fq2FLKVCzZkXkpnBf7eNpump,CJ,BUY,bundled: 5 launch wallets own 71%,0,0.1,,,33701,,,
+2026-10-14 17:53:11,2PUeiauKFzFjrjKfKiDaS5ozXmoAPzvXtfJSJhZ5pump,Apollo,BUY,dev sold,0,0.1,,,8628,,,
+2026-10-14 17:53:14,2PUeiauKFzFjrjKfKiDaS5ozXmoAPzvXtfJSJhZ5pump,Apollo,SELL,dev sold,0,0.03685,-63.2,stop loss -62%,3469,0.0,-59.8,2
+2026-10-14 17:54:27,6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump,Pluto,SELL,dev sold,0,0.10146,1.5,shift ended,12765,61.2,-18.4,471
+2026-10-14 17:54:27,HMSEBM5uL74NHVLDkEt7fq2FLKVCzZkXkpnBf7eNpump,CJ,SELL,bundled: 5 launch wallets own 71%,0,0.1181,18.1,shift ended,42982,27.5,0.0,167
