@@ -4673,3 +4673,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 11:35:44,6csNg6jbFg5dfWbWQ9sCjn3LNUqvwCikwNPLc2uBpump,LUNA,SELL,dev sold,0,0.06233,-37.7,stop loss -36%,6631,0.0,-32.4,2
 2026-10-14 11:37:59,ZDD4AReL5kkRCueSu69mxJsvdXHdYJHMmmzCpchpump,Harley,BUY,dev sold,0,0.1,,,16457,,,
 2026-10-14 11:46:34,ZDD4AReL5kkRCueSu69mxJsvdXHdYJHMmmzCpchpump,Harley,SELL,dev sold,0,0.24776,147.8,no trading (stale),43968,167.4,0.2,515
+2026-10-14 12:42:08,9GbxXQWjdoXXixk5LmV4VwRutmurQRuUC24xb5Fxpump,mogpadfun,BUY,bundled: 24 launch wallets own 35%,0,0.1,,,11555,,,
+2026-10-14 12:42:18,9GbxXQWjdoXXixk5LmV4VwRutmurQRuUC24xb5Fxpump,mogpadfun,SELL,bundled: 24 launch wallets own 35%,0,0.06346,-36.5,stop loss -35%,7956,10.1,-31.1,10
+2026-10-14 12:43:00,AVvE5qVGf5zVQavQzJZpQeXsNrdUXCVjSstUL3SYpump,mogpadfun,BUY,bundled: 14 launch wallets own 29%,0,0.1,,,12147,,,
+2026-10-14 12:43:31,AVvE5qVGf5zVQavQzJZpQeXsNrdUXCVjSstUL3SYpump,mogpadfun,SELL,bundled: 14 launch wallets own 29%,0,0.06216,-37.8,stop loss -37%,8193,20.2,-32.6,31
+2026-10-14 12:45:09,8hwu5tg3NxCY4rcJjmPvzagUgRg7L71Gcmc77YDnpump,GUILDHALL,BUY,bundled: 14 launch wallets own 27%,0,0.1,,,10899,,,
+2026-10-14 12:46:16,6icuRbWNgoCCG1iXtqGGT8k6t4PXgZYB23tc57YLpump,seer,BUY,dev sold,0,0.1,,,16347,,,
+2026-10-14 12:47:58,89SbHFg9k4fCmFEYhgwsxWdgopQPyPMHqzUKK16spump,Musclecat,BUY,dev sold,0,0.1,,,8520,,,
+2026-10-14 12:48:00,HLMew8bhTB1iB9JxMsUfVhbuqqZXWfQmPwHFheb4pump,SCAP,BUY,dev sold,0,0.1,,,10599,,,
+2026-10-14 12:48:08,HLMew8bhTB1iB9JxMsUfVhbuqqZXWfQmPwHFheb4pump,SCAP,SELL,dev sold,0,0.06168,-38.3,stop loss -37%,7095,0.0,-33.1,9
+2026-10-14 12:48:23,89SbHFg9k4fCmFEYhgwsxWdgopQPyPMHqzUKK16spump,Musclecat,SELL,dev sold,0,0.06338,-36.6,stop loss -35%,5862,0.0,-31.2,25
+2026-10-14 12:48:54,8hwu5tg3NxCY4rcJjmPvzagUgRg7L71Gcmc77YDnpump,GUILDHALL,SELL,bundled: 14 launch wallets own 27%,0,0.09918,-0.8,dev sold,11699,120.1,0.1,226
+2026-10-14 12:49:38,H4C2yajEmfVwF7mKDWzbNzzj24prdTTD2uk2gRHApump,GUILDHALL,BUY,bundled: 14 launch wallets own 28%,0,0.1,,,10254,,,
+2026-10-14 12:50:58,6icuRbWNgoCCG1iXtqGGT8k6t4PXgZYB23tc57YLpump,seer,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,11269,52.7,-31.1,282
+2026-10-14 12:51:13,CfU5fAuvT4g4MoTmCg6BaYs39UYjhcxYBSc8nk6apump,PUNK,BUY,score below threshold,54.6,0.1,,,8334,,,
+2026-10-14 12:52:48,9Mbdnz1QGPUfXuzWB4a1H7ehXuFHYUSDzkbmedGqpump,CoolCat,BUY,dev holds 8.2%,0,0.1,,,8783,,,
+2026-10-14 12:53:32,3dmhxEUqr5ihKdj8wUKjVAucxUVwUiQBp5gdYcHspump,DOPEHAT,BUY,bundled: 16 launch wallets own 72%,0,0.1,,,37442,,,
+2026-10-14 12:53:42,3dmhxEUqr5ihKdj8wUKjVAucxUVwUiQBp5gdYcHspump,DOPEHAT,SELL,bundled: 16 launch wallets own 72%,0,0.0348,-65.2,stop loss -64%,14207,3.0,-62.1,10
+2026-10-14 12:53:44,6kBBbc5h86mgFS4dRE77avvrtP8svA3o6S1yZwT6pump,MIM,BUY,dev sold,0,0.1,,,11927,,,
+2026-10-14 12:53:46,HRXXRgvWD3mgkG7TzyWAWrZgoXtNNAtBeYNTxvbqpump,OMIT,BUY,dev sold,0,0.1,,,12148,,,
+2026-10-14 12:53:47,H4C2yajEmfVwF7mKDWzbNzzj24prdTTD2uk2gRHApump,GUILDHALL,SELL,bundled: 14 launch wallets own 28%,0,0.22627,126.3,dev sold,24996,189.3,0.4,249
+2026-10-14 12:54:50,6kBBbc5h86mgFS4dRE77avvrtP8svA3o6S1yZwT6pump,MIM,SELL,dev sold,0,0.06264,-37.4,stop loss -36%,8105,14.9,-32.0,66
+2026-10-14 12:55:07,9Mbdnz1QGPUfXuzWB4a1H7ehXuFHYUSDzkbmedGqpump,CoolCat,SELL,dev holds 8.2%,0,0.09398,-6.0,dev sold,8939,8.9,-0.4,139
+2026-10-14 12:55:49,HRXXRgvWD3mgkG7TzyWAWrZgoXtNNAtBeYNTxvbqpump,OMIT,SELL,dev sold,0,0.06347,-36.5,stop loss -35%,8364,10.1,-31.1,123
+2026-10-14 12:56:51,8qvSXs2GFt4i4apC5MPP4faNnHHzKkf1zJgmVmabpump,MIM,BUY,dev sold,0,0.1,,,8805,,,
+2026-10-14 12:57:18,8qvSXs2GFt4i4apC5MPP4faNnHHzKkf1zJgmVmabpump,MIM,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,6078,8.3,-31.0,28
+2026-10-14 12:58:05,A9SxzauzesAmzQMG5roJdAF9JZpKNWGQEaSmo7iipump,MIM,BUY,dev sold,0,0.1,,,8386,,,
+2026-10-14 12:59:02,A9SxzauzesAmzQMG5roJdAF9JZpKNWGQEaSmo7iipump,MIM,SELL,dev sold,0,0.0629,-37.1,stop loss -36%,5726,30.9,-31.7,57
+2026-10-14 13:01:11,CfU5fAuvT4g4MoTmCg6BaYs39UYjhcxYBSc8nk6apump,PUNK,SELL,score below threshold,54.6,0.12707,27.1,shift ended,11457,79.8,-17.6,598
