@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-cat
-viral
-his
-open
+trade
+fund
+old
+agents
+marketplace
+ecosystem
 ai
-across
-inspired
-literally
-views
-rewards
-wif
-paired
-born
-him
 halloween
+movement
+earn
+share
+together
+cult
+isn
+coming
