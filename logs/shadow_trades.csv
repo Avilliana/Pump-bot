@@ -4601,3 +4601,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 03:50:33,7eLadVxAQYJLp7dRMW15pZ123pPTCGN2ZYJu8EzFpump,Eikon,SELL,dev holds 52.4%,0,0.02063,-79.4,dev sold,4393,35.6,-77.3,23
 2026-10-14 03:52:17,9JqffVjYGfQ8s4haML7PNKV88BY81RJMGnWzE6YUpump,Eikon,BUY,dev holds 52.4%,0,0.1,,,15428,,,
 2026-10-14 03:52:55,9JqffVjYGfQ8s4haML7PNKV88BY81RJMGnWzE6YUpump,Eikon,SELL,dev holds 52.4%,0,0.10002,0.0,dev sold,16693,21.8,-1.6,37
+2026-10-14 04:36:48,ApTjPkN2vpCk9dJQJVZNzwRfVJJPLV5WvEzCNhbcpump,RIP,BUY,dev sold,0,0.1,,,9017,,,
+2026-10-14 04:38:22,ApTjPkN2vpCk9dJQJVZNzwRfVJJPLV5WvEzCNhbcpump,RIP,SELL,dev sold,0,0.05944,-40.6,stop loss -39%,5820,18.2,-35.5,94
+2026-10-14 04:40:49,B9ni3frhef3eQxfmgZWAiStR5Us7nSKTo91i5qrkpump,inu,BUY,dev sold,0,0.1,,,8189,,,
+2026-10-14 04:41:37,B9ni3frhef3eQxfmgZWAiStR5Us7nSKTo91i5qrkpump,inu,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,5625,0.0,-31.3,48
+2026-10-14 04:45:57,4H3KknyLbpYCiiLg7mLGnfUWggXki5ygU2k43fPmpump,Demi,BUY,bundled: 20 launch wallets own 62%,0,0.1,,,19667,,,
+2026-10-14 04:46:01,4H3KknyLbpYCiiLg7mLGnfUWggXki5ygU2k43fPmpump,Demi,SELL,bundled: 20 launch wallets own 62%,0,0.06155,-38.5,stop loss -37%,13126,0.7,-33.3,4
+2026-10-14 04:54:40,HmAratchaChqCA4RCDHBtkdbKLMSNE7ATUo2R7nypump,Unicorn,BUY,bundled: 31 launch wallets own 23%,0,0.1,,,13553,,,
+2026-10-14 04:55:30,HmAratchaChqCA4RCDHBtkdbKLMSNE7ATUo2R7nypump,Unicorn,SELL,bundled: 31 launch wallets own 23%,0,0.09363,-6.4,shift ended,13733,24.1,-9.2,50
