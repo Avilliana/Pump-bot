@@ -4653,3 +4653,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 09:40:56,G41WytzreGQ3QrDubbYakvktPcasyF6rtFwawDKYxTvq,PLAYDEN,SELL,dev sold,0,0.06032,-39.7,stop loss -38%,7062,62.1,-34.5,321
 2026-10-14 09:47:40,auMsHXHYLFxxwaAQNayrBVTeMLtSveomfQn6juJpump,DOMAIN,BUY,dev sold,0,0.1,,,21796,,,
 2026-10-14 09:49:57,auMsHXHYLFxxwaAQNayrBVTeMLtSveomfQn6juJpump,DOMAIN,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,15023,29.1,-31.1,137
+2026-10-14 10:36:47,2SQjdwo8rxaXyeJdg9t83eu1ZLAQ4FxmrFtJZuK1pump,hatch,BUY,bundled: 26 launch wallets own 11%,0,0.1,,,12628,,,
+2026-10-14 10:39:08,2SQjdwo8rxaXyeJdg9t83eu1ZLAQ4FxmrFtJZuK1pump,hatch,SELL,bundled: 26 launch wallets own 11%,0,0.063,-37.0,stop loss -36%,8630,42.8,-31.7,141
+2026-10-14 10:40:16,25vGRXNijku6ebJatDy7wztppc1yPv673ybuTvkmRagB,Chutaro,BUY,dev sold,0,0.1,,,8864,,,
+2026-10-14 10:40:37,25vGRXNijku6ebJatDy7wztppc1yPv673ybuTvkmRagB,Chutaro,SELL,dev sold,0,0.06016,-39.8,stop loss -39%,5790,5.8,-34.7,22
+2026-10-14 10:46:33,z2fCL5SgAbhcaEumffwbpVAz6niE7zsjmPLSKwWpump,MILK,BUY,dev sold,0,0.1,,,13504,,,
+2026-10-14 10:47:23,z2fCL5SgAbhcaEumffwbpVAz6niE7zsjmPLSKwWpump,MILK,SELL,dev sold,0,0.05683,-43.2,stop loss -42%,8331,73.7,-38.3,50
+2026-10-14 10:47:57,8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump,TW,BUY,dev holds 10.0%,0,0.1,,,9773,,,
+2026-10-14 10:47:58,J7oSm2Tb9Gq89iZCSYgVKkQj6iKtNFsm5B4X8ooipump,BIJ,BUY,dev sold,0,0.1,,,8004,,,
+2026-10-14 10:49:45,J7oSm2Tb9Gq89iZCSYgVKkQj6iKtNFsm5B4X8ooipump,BIJ,SELL,dev sold,0,0.06217,-37.8,stop loss -37%,5403,28.2,-32.5,106
+2026-10-14 10:51:00,GfsqWsXnQwb68Kn7yh9bN763AHgywzoiCtQjqvLJpump,hallowinu,BUY,dev sold,0,0.1,,,8316,,,
+2026-10-14 10:51:09,GfsqWsXnQwb68Kn7yh9bN763AHgywzoiCtQjqvLJpump,hallowinu,SELL,dev sold,0,0.06102,-39.0,stop loss -38%,5510,0.2,-33.7,9
+2026-10-14 10:51:49,8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump,TW,SELL,dev holds 10.0%,0,0.29846,198.5,take profit +203%,31514,222.4,-6.4,232
+2026-10-14 10:53:50,H1hYPqm4resoBfzcgPEHPyq4XUZEV82kpq2KNyyWpump,Gladiator,BUY,dev sold,0,0.1,,,8145,,,
+2026-10-14 10:54:02,H1hYPqm4resoBfzcgPEHPyq4XUZEV82kpq2KNyyWpump,Gladiator,SELL,dev sold,0,0.06159,-38.4,stop loss -37%,5447,0.0,-33.1,12
+2026-10-14 10:54:02,5iRVyztZjL7RJchSpmpmcuwqy3pniUUH98qZgRAHpump,MARSX,BUY,dev sold,0,0.1,,,43874,,,
+2026-10-14 10:54:54,5iRVyztZjL7RJchSpmpmcuwqy3pniUUH98qZgRAHpump,MARSX,SELL,dev sold,0,0.09252,-7.5,shift ended,43874,0.0,0.0,53
