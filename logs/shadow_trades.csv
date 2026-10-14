@@ -4573,3 +4573,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 01:52:22,EHBTLa5G6pER6LFi4SsVtXTxMs7SqUxAFVY1UVqKpump,LTR,BUY,dev sold,0,0.1,,,13868,,,
 2026-10-14 01:53:25,B7xXzVwCQ2qmMroXPm8zgTZwyprR335DNrZgeynApump,CAMEL,SELL,dev sold,0,0.10303,3.0,shift ended,9618,120.9,-24.7,290
 2026-10-14 01:53:25,EHBTLa5G6pER6LFi4SsVtXTxMs7SqUxAFVY1UVqKpump,LTR,SELL,dev sold,0,0.1424,42.4,shift ended,21340,66.5,0.3,63
+2026-10-14 02:35:33,BM9cNqmccUgHj2mzKYFHtLdutTJQUMJu9zuKswEcpump,tap,BUY,dev sold,0,0.1,,,15855,,,
+2026-10-14 02:35:42,BM9cNqmccUgHj2mzKYFHtLdutTJQUMJu9zuKswEcpump,tap,SELL,dev sold,0,0.06353,-36.5,stop loss -35%,10924,0.1,-31.1,9
+2026-10-14 02:37:45,6PfCuFUJusZhNWBE6pqyyYVP2SMskhy7CJKpsEc2pump,Umbra,BUY,bundled: 42 launch wallets own 17%,0,0.1,,,8886,,,
+2026-10-14 02:38:48,6PfCuFUJusZhNWBE6pqyyYVP2SMskhy7CJKpsEc2pump,Umbra,SELL,bundled: 42 launch wallets own 17%,0,0.0627,-37.3,stop loss -36%,6048,1.8,-31.9,63
+2026-10-14 02:39:20,G33RAmZB6VmKChkCRtX1JUMswkkMLoPKgMGQSRL7pump,Corpse,BUY,bundled: 19 launch wallets own 11%,0,0.1,,,8314,,,
+2026-10-14 02:39:46,2ussyzVoq8i782SnH1RPFY6UB8jTTyMM5zJ9DdhWpump,Traderman,BUY,bundled: 31 launch wallets own 6%,0,0.1,,,9016,,,
+2026-10-14 02:40:13,2ussyzVoq8i782SnH1RPFY6UB8jTTyMM5zJ9DdhWpump,Traderman,SELL,bundled: 31 launch wallets own 6%,0,0.06225,-37.7,stop loss -36%,6092,6.7,-32.4,27
+2026-10-14 02:41:32,G33RAmZB6VmKChkCRtX1JUMswkkMLoPKgMGQSRL7pump,Corpse,SELL,bundled: 19 launch wallets own 11%,0,0.06293,-37.1,stop loss -36%,5678,23.1,-31.7,132
+2026-10-14 02:42:25,9B6hqEGcm9GEQexN4BbR4V7WRsK656gGXhDoUQYspump,TOMI,BUY,dev sold,0,0.1,,,9864,,,
+2026-10-14 02:48:27,LktYKzQfZfnrEVowcA2PW4hSMVdAQmjaCaREZyBpump,PUMP,BUY,bundled: 36 launch wallets own 23%,0,0.1,,,14679,,,
+2026-10-14 02:49:17,LktYKzQfZfnrEVowcA2PW4hSMVdAQmjaCaREZyBpump,PUMP,SELL,bundled: 36 launch wallets own 23%,0,0.0633,-36.7,stop loss -35%,10077,11.8,-31.4,50
+2026-10-14 02:50:33,9B6hqEGcm9GEQexN4BbR4V7WRsK656gGXhDoUQYspump,TOMI,SELL,dev sold,0,0.31629,216.3,take profit +221%,33706,241.7,-6.9,488
+2026-10-14 02:50:58,23UQPjo1ASYdzk8m7f8zMvDpJwAaGdUndYecigJwpump,Trenchlab,BUY,bundled: 8 launch wallets own 21%,0,0.1,,,11170,,,
+2026-10-14 02:51:32,23UQPjo1ASYdzk8m7f8zMvDpJwAaGdUndYecigJwpump,Trenchlab,SELL,bundled: 8 launch wallets own 21%,0,0.09668,-3.3,shift ended,11689,13.7,-9.1,34
