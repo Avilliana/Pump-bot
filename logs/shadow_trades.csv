@@ -4647,3 +4647,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 08:56:19,devBsBQst86ZPeMcG33KXh1iouMxL91gqokDQTQgdt8,DEV,SELL,dev sold,0,0.16722,67.2,shift ended,15255,99.8,4.7,262
 2026-10-14 08:56:19,48faGFGsLUZKZQeYAANFXJgm6VtjGpkiVyopunmZpump,Buddy,SELL,dev sold,0,0.07167,-28.3,shift ended,7002,134.9,-25.1,221
 2026-10-14 08:56:19,D4NJ5CHS5pUw1bKJKNfoKrzK9dr8LMUDYNpKxPQXpump,TAKOPI,SELL,dev sold,0,0.15542,55.4,shift ended,18250,84.6,-28.5,179
+2026-10-14 09:35:35,G41WytzreGQ3QrDubbYakvktPcasyF6rtFwawDKYxTvq,PLAYDEN,BUY,dev sold,0,0.1,,,10787,,,
+2026-10-14 09:39:46,BD6kfzxYN1VMiJ4AJ4Bv94FxBontRHFMhZv169TSpTYQ,Kitler,BUY,dev sold,0,0.1,,,10199,,,
+2026-10-14 09:40:05,BD6kfzxYN1VMiJ4AJ4Bv94FxBontRHFMhZv169TSpTYQ,Kitler,SELL,dev sold,0,0.06288,-37.1,stop loss -36%,6960,0.0,-31.8,19
+2026-10-14 09:40:56,G41WytzreGQ3QrDubbYakvktPcasyF6rtFwawDKYxTvq,PLAYDEN,SELL,dev sold,0,0.06032,-39.7,stop loss -38%,7062,62.1,-34.5,321
+2026-10-14 09:47:40,auMsHXHYLFxxwaAQNayrBVTeMLtSveomfQn6juJpump,DOMAIN,BUY,dev sold,0,0.1,,,21796,,,
+2026-10-14 09:49:57,auMsHXHYLFxxwaAQNayrBVTeMLtSveomfQn6juJpump,DOMAIN,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,15023,29.1,-31.1,137
