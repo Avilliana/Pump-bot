@@ -4893,3 +4893,33 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 20:51:27,yuzSfjGVFm4rthSbY9g4PjCCPZxCTNHms4cUa8REPLY,REPLY,SELL,bundled: 34 launch wallets own 15%,0,0.10001,0.0,shift ended,11435,19.0,-19.6,971
 2026-10-14 20:51:27,6Mzzoueurm7NVdDcoSwwzHVEXY8jvV7do1oVBnGypump,BREADWINNER,SELL,dev sold,0,0.09168,-8.3,shift ended,10644,4.7,-3.5,10
 2026-10-14 20:51:27,FTDvGUjHCLuZcNazEzYdx6UdBHpGa8YMxTQdh3tXpump,arkum,SELL,bundled: 8 launch wallets own 26%,0,0.07427,-25.7,shift ended,7230,0.0,-19.5,6
+2026-10-14 21:35:04,8B5Lg7cR4b1GsLdtmCHfoRAS32ptV39xVu13sJF8pump,GV3,BUY,dev sold,0,0.1,,,11071,,,
+2026-10-14 21:35:13,8B5Lg7cR4b1GsLdtmCHfoRAS32ptV39xVu13sJF8pump,GV3,SELL,dev sold,0,0.05866,-41.3,stop loss -40%,7049,10.7,-36.3,9
+2026-10-14 21:35:57,H8zCoYBXKcPwjAvHQseuJ675gJHNh2BiLe2Wnrzvpump,ANIMAL,BUY,dev sold,0,0.1,,,9933,,,
+2026-10-14 21:36:02,H8zCoYBXKcPwjAvHQseuJ675gJHNh2BiLe2Wnrzvpump,ANIMAL,SELL,dev sold,0,0.06337,-36.6,stop loss -35%,6831,0.0,-31.2,5
+2026-10-14 21:37:50,2rQtJrBkruP7ASsxrGfzximEFM8jGUGhaYHVREqapump,PEPPA,BUY,dev sold,0,0.1,,,11510,,,
+2026-10-14 21:39:45,2rQtJrBkruP7ASsxrGfzximEFM8jGUGhaYHVREqapump,PEPPA,SELL,dev sold,0,0.29657,196.6,take profit +201%,36863,220.3,0.8,114
+2026-10-14 21:40:25,FwVDtYnp6dvjihmrcmqQTqQU75DcBsrMeypcKMDSpump,CLOD,BUY,dev sold,0,0.1,,,12088,,,
+2026-10-14 21:40:28,EsJejtjc6TUALeDKPvZjHrEYQXyh49JNBo2UtbeNpump,20XX,BUY,past buy window (late mover),64.6,0.1,,,9576,,,
+2026-10-14 21:41:06,DfA3oWemxDs4TkfvaWntqDowydMyS4V7CwzFPhb8pump,HIGHER,BUY,dev sold,0,0.1,,,10706,,,
+2026-10-14 21:41:28,DfA3oWemxDs4TkfvaWntqDowydMyS4V7CwzFPhb8pump,HIGHER,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,7210,19.1,-32.7,22
+2026-10-14 21:42:46,9k6yrbzamj2FJNDh1scUZm5YgrWB97ShqS7ErpNqpump,HIGHER,BUY,dev sold,0,0.1,,,9719,,,
+2026-10-14 21:42:53,9k6yrbzamj2FJNDh1scUZm5YgrWB97ShqS7ErpNqpump,HIGHER,SELL,dev sold,0,0.06015,-39.8,stop loss -39%,6346,3.2,-34.7,7
+2026-10-14 21:42:57,EsJejtjc6TUALeDKPvZjHrEYQXyh49JNBo2UtbeNpump,20XX,SELL,past buy window (late mover),64.6,0.09235,-7.7,no trading (stale),9576,0.0,0.0,149
+2026-10-14 21:43:34,FwVDtYnp6dvjihmrcmqQTqQU75DcBsrMeypcKMDSpump,CLOD,SELL,dev sold,0,0.06245,-37.6,stop loss -36%,8203,163.5,-32.2,189
+2026-10-14 21:43:49,AkLkzBNjaMpvARRovxmykiEYPsngm4p7X7ixKCT7pump,Mochi,BUY,dev sold,0,0.1,,,15007,,,
+2026-10-14 21:44:16,b6K8QWeYgc76ddK7q8tvkHuaKi4FheVwvZuMBnvpump,TALENT,BUY,score below threshold,49.8,0.1,,,9976,,,
+2026-10-14 21:45:39,F3oEiupsjQihKJix6khEp23ou9PgwYaWwiGjg3wUpump,Niggabob,BUY,dev sold,0,0.1,,,9196,,,
+2026-10-14 21:46:03,AkLkzBNjaMpvARRovxmykiEYPsngm4p7X7ixKCT7pump,Mochi,SELL,dev sold,0,0.06219,-37.8,stop loss -37%,10123,30.6,-32.5,134
+2026-10-14 21:46:07,F3oEiupsjQihKJix6khEp23ou9PgwYaWwiGjg3wUpump,Niggabob,SELL,dev sold,0,0.06204,-38.0,stop loss -37%,6192,31.8,-32.7,28
+2026-10-14 21:48:07,5ci1XLVZQfDKRyqPhbm15qeEfLL5Cc67bwv4VU1WGMxt,DuveFiles,BUY,dev sold,0,0.1,,,10653,,,
+2026-10-14 21:48:22,EzQB3ojux3vsB4p454D6ojxU9KziPGuqfa5GWfVdpump,Shalmon,BUY,dev sold,0,0.1,,,12995,,,
+2026-10-14 21:48:51,5ci1XLVZQfDKRyqPhbm15qeEfLL5Cc67bwv4VU1WGMxt,DuveFiles,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,7316,9.3,-31.3,44
+2026-10-14 21:51:08,Ch3wy7xCnraXY873XVM7tS698Ev1WXAZNd5dpLetpump,CRIP,BUY,dev sold,0,0.1,,,11749,,,
+2026-10-14 21:51:40,Ch3wy7xCnraXY873XVM7tS698Ev1WXAZNd5dpLetpump,CRIP,SELL,dev sold,0,0.02545,-74.5,stop loss -74%,3281,20.3,-72.1,33
+2026-10-14 21:52:07,kKAarUM5bZfeD2HbTwJg94jvphNvVy8Bk5gazgvpump,haste,BUY,past buy window (late mover),64.2,0.1,,,16389,,,
+2026-10-14 21:52:46,9eKh3xJNA1EhX9odThTNKkPihNVG3f7bTRsL4wNmpump,Paper,BUY,dev sold,0,0.1,,,31796,,,
+2026-10-14 21:53:08,b6K8QWeYgc76ddK7q8tvkHuaKi4FheVwvZuMBnvpump,TALENT,SELL,score below threshold,49.8,0.08171,-18.3,shift ended,8832,14.5,-30.0,532
+2026-10-14 21:53:08,EzQB3ojux3vsB4p454D6ojxU9KziPGuqfa5GWfVdpump,Shalmon,SELL,dev sold,0,0.17297,73.0,shift ended,24280,203.4,-15.5,286
+2026-10-14 21:53:08,kKAarUM5bZfeD2HbTwJg94jvphNvVy8Bk5gazgvpump,haste,SELL,past buy window (late mover),64.2,0.07453,-25.5,shift ended,13232,9.5,-21.2,61
+2026-10-14 21:53:08,9eKh3xJNA1EhX9odThTNKkPihNVG3f7bTRsL4wNmpump,Paper,SELL,dev sold,0,0.09096,-9.0,shift ended,31270,1.6,-12.1,22
