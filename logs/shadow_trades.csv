@@ -4547,3 +4547,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-13 23:42:19,61DZMQe7J67t6ebFYxk8hzkzNj1B5vVN5KD3kxgWpump,ROXY,BUY,dev sold,0,0.1,,,16246,,,
 2026-10-13 23:43:27,61DZMQe7J67t6ebFYxk8hzkzNj1B5vVN5KD3kxgWpump,ROXY,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,11148,36.8,-31.4,68
 2026-10-13 23:46:13,GBENmxEDiAZSto5wFiznFhs8YKWN7N7ZFVSQEjbBpump,WIZARDDOG,SELL,bundled: 8 launch wallets own 70%,0,0.13434,34.3,no trading (stale),43870,45.0,-24.7,263
+2026-10-14 00:22:49,8kiSHWAzV7VMCvYQnc3811yGFosVTP7xsZYnNSnrpump,BUJOE,BUY,dev sold,0,0.1,,,38530,,,
+2026-10-14 00:22:54,8kiSHWAzV7VMCvYQnc3811yGFosVTP7xsZYnNSnrpump,BUJOE,SELL,dev sold,0,0.0632,-36.8,stop loss -35%,26382,6.8,-31.5,5
+2026-10-14 00:23:31,qgMCq1r21b2tg9XwqxRXLEEQ9tZ48TaJLWPnidEaChX,Cashforth,BUY,dev sold,0,0.1,,,12026,,,
+2026-10-14 00:24:21,qgMCq1r21b2tg9XwqxRXLEEQ9tZ48TaJLWPnidEaChX,Cashforth,SELL,dev sold,0,0.04138,-58.6,stop loss -58%,5419,179.0,-54.9,51
+2026-10-14 00:29:41,DiKHBgcEEK8dUScbhTLSpTxeLvpf6RC3qewrCLzspump,BRAIN,BUY,dev sold,0,0.1,,,12708,,,
+2026-10-14 00:30:10,HDi8ZNqp3sxxtah224tA7wdba6UY1tqJysaQybQtpump,MODDER,BUY,bundled: 32 launch wallets own 10%,0,0.1,,,19404,,,
+2026-10-14 00:31:20,DiKHBgcEEK8dUScbhTLSpTxeLvpf6RC3qewrCLzspump,BRAIN,SELL,dev sold,0,0.03652,-63.5,stop loss -63%,5062,152.6,-60.2,98
+2026-10-14 00:31:20,HDi8ZNqp3sxxtah224tA7wdba6UY1tqJysaQybQtpump,MODDER,SELL,bundled: 32 launch wallets own 10%,0,0.06091,-39.1,stop loss -38%,12817,27.6,-33.9,70
