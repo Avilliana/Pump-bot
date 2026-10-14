@@ -4761,3 +4761,33 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 14:54:26,DmB1C97ctauTo5E3BpRf3iHjcQk1SvvW7wgYuPxpump,MOLANA,SELL,top10 hold 78%,0,0.12268,22.7,no trading (stale),42584,32.5,-10.5,208
 2026-10-14 14:54:46,4z1XrCszQHz9XvxuNTJ3ctqdcXSAKGVNodrFKcEJWATT,WATT,SELL,dev sold,0,0.14971,49.7,shift ended,24766,61.7,-26.9,513
 2026-10-14 14:54:46,35TPpxpSxcjn9zVYyhTkM2sRyppDrbgfhA2GwMYTpump,CHEER,SELL,dev sold,0,0.09067,-9.3,shift ended,11081,0.3,-22.8,47
+2026-10-14 15:40:23,2BBHovh8W1EeBBHBT5NA7ZVQpoo59F6sx1fWVavWpump,Turtle,BUY,dev sold,0,0.1,,,9552,,,
+2026-10-14 15:40:41,2BBHovh8W1EeBBHBT5NA7ZVQpoo59F6sx1fWVavWpump,Turtle,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,6534,0.0,-31.6,18
+2026-10-14 15:40:50,6g4wEg5SYKJiAa1akaPnL4UQByGD5RU9GdnY8n2pLnch,Launchr,BUY,bundled: 41 launch wallets own 12%,0,0.1,,,11656,,,
+2026-10-14 15:40:57,8VaWQWiHfQ9rPJwVaxpuxEwvCFHmcaEWss4jtK4pump,tugi,BUY,dev sold,0,0.1,,,8372,,,
+2026-10-14 15:41:10,8VaWQWiHfQ9rPJwVaxpuxEwvCFHmcaEWss4jtK4pump,tugi,SELL,dev sold,0,0.06241,-37.6,stop loss -36%,5673,15.5,-32.2,13
+2026-10-14 15:42:07,CZvsBSgHxowtJQJSyxxeRsSUshzMsgcXV5xNHuqpqBoo,Safe,BUY,dev sold,0,0.1,,,9538,,,
+2026-10-14 15:43:03,6g4wEg5SYKJiAa1akaPnL4UQByGD5RU9GdnY8n2pLnch,Launchr,SELL,bundled: 41 launch wallets own 12%,0,0.0627,-37.3,stop loss -36%,7930,0.0,-32.0,133
+2026-10-14 15:43:35,AS4AbBw2s83RreVY9dY99vSx11yg4XorkeLj2fjZpump,Nyambeni,BUY,dev sold,0,0.1,,,8562,,,
+2026-10-14 15:43:35,HkFb8PhN1n1dqQyHWLerMpERjQUB584ZiqnFDDnWpump,Waluigi,BUY,dev sold,0,0.1,,,12074,,,
+2026-10-14 15:43:39,AS4AbBw2s83RreVY9dY99vSx11yg4XorkeLj2fjZpump,Nyambeni,SELL,dev sold,0,0.06199,-38.0,stop loss -37%,5761,0.0,-32.7,4
+2026-10-14 15:44:03,CZvsBSgHxowtJQJSyxxeRsSUshzMsgcXV5xNHuqpqBoo,Safe,SELL,dev sold,0,0.06182,-38.2,stop loss -37%,6400,58.0,-32.9,115
+2026-10-14 15:45:43,vampDhkvZJTyxdABh6y3MSrywi6W1WNkA5fak2LdNu3,Vamp,BUY,dev sold,0,0.1,,,8836,,,
+2026-10-14 15:46:38,HRz89dzm7DP3GwHcBqrsusbYp8yjZVRS2LLQ1aahpump,Waluigi,BUY,dev sold,0,0.1,,,9162,,,
+2026-10-14 15:46:59,HkFb8PhN1n1dqQyHWLerMpERjQUB584ZiqnFDDnWpump,Waluigi,SELL,dev sold,0,0.29919,199.2,take profit +203%,39005,223.1,-15.0,203
+2026-10-14 15:47:38,HRz89dzm7DP3GwHcBqrsusbYp8yjZVRS2LLQ1aahpump,Waluigi,SELL,dev sold,0,0.06159,-38.4,stop loss -37%,6125,22.8,-33.1,60
+2026-10-14 15:47:57,8xsA9DBBkkZxpBD75KXQR11BJDcBHTiZDBGiRxtbpump,Safe,BUY,dev sold,0,0.1,,,10901,,,
+2026-10-14 15:48:33,8xsA9DBBkkZxpBD75KXQR11BJDcBHTiZDBGiRxtbpump,Safe,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,7531,12.3,-30.9,36
+2026-10-14 15:48:58,vampDhkvZJTyxdABh6y3MSrywi6W1WNkA5fak2LdNu3,Vamp,SELL,dev sold,0,0.06254,-37.5,stop loss -36%,5989,38.8,-32.1,195
+2026-10-14 15:53:40,Fok8XrA4QXV478NmpJz93CEVCsrMemX8xEdGsKsnpump,OPTIMUS,BUY,dev sold,0,0.1,,,19300,,,
+2026-10-14 15:53:46,FpStNuX77sYSvt29xX4Hnd2M8duBM1bMXBL8uCcLpump,Jesus,BUY,dev sold,0,0.1,,,20907,,,
+2026-10-14 15:54:02,FpStNuX77sYSvt29xX4Hnd2M8duBM1bMXBL8uCcLpump,Jesus,SELL,dev sold,0,0.06321,-36.8,stop loss -35%,14326,0.8,-31.5,16
+2026-10-14 15:54:12,2ku49J6u3q3a7TezTTMrTqDR4LzvWyUNexYvFakbpump,Jesus,BUY,dev sold,0,0.1,,,9827,,,
+2026-10-14 15:54:19,2ku49J6u3q3a7TezTTMrTqDR4LzvWyUNexYvFakbpump,Jesus,SELL,dev sold,0,0.06001,-40.0,stop loss -39%,6402,0.0,-34.9,7
+2026-10-14 15:54:45,25qz395qEbnNVBZnxVH6Hx9cNQdsVVXKojvLcPPQ7aY2,Jesus,BUY,dev sold,0,0.1,,,10183,,,
+2026-10-14 15:55:07,25qz395qEbnNVBZnxVH6Hx9cNQdsVVXKojvLcPPQ7aY2,Jesus,SELL,dev sold,0,0.06195,-38.0,stop loss -37%,6847,28.0,-32.8,22
+2026-10-14 15:56:57,5HZhQ3p1VcVtUABdEHomvbLEmodh1mfHLf5CLRYRpump,AIRING,BUY,dev sold,0,0.1,,,17245,,,
+2026-10-14 15:57:10,5HZhQ3p1VcVtUABdEHomvbLEmodh1mfHLf5CLRYRpump,AIRING,SELL,dev sold,0,0.05775,-42.3,stop loss -41%,10806,18.9,-37.3,13
+2026-10-14 15:57:30,5sesiVLZcs8CMaMR7fNNGWEhquUCzq4cCpT5NsPwpump,Chip,BUY,dev sold,0,0.1,,,11639,,,
+2026-10-14 15:58:15,5sesiVLZcs8CMaMR7fNNGWEhquUCzq4cCpT5NsPwpump,Chip,SELL,dev sold,0,0.06224,-37.8,stop loss -36%,7860,48.0,-32.5,45
+2026-10-14 15:58:35,Fok8XrA4QXV478NmpJz93CEVCsrMemX8xEdGsKsnpump,OPTIMUS,SELL,dev sold,0,0.17393,73.9,shift ended,36237,90.4,-17.1,295
