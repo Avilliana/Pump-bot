@@ -4615,3 +4615,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 05:47:20,CkKYecrMUKXts6AH1rWpsg7xPW7weRGA3sAui3zppump,LENIETZSCHE,SELL,dev sold,0,0.06007,-39.9,stop loss -39%,8866,7.1,-34.8,63
 2026-10-14 05:52:26,CqTEJus3chYbG8qKoFudhRiCLymBUMuZzuF5X1AGpump,Roxy,BUY,dev sold,0,0.1,,,8337,,,
 2026-10-14 05:52:43,CqTEJus3chYbG8qKoFudhRiCLymBUMuZzuF5X1AGpump,Roxy,SELL,dev sold,0,0.06321,-36.8,stop loss -35%,5721,5.9,-31.4,17
+2026-10-14 06:42:25,HcFw9kF79DHRUyyRo39jkv6nZpfAicZVwpntP8pnpump,OCTIZHANG,BUY,dev sold,0,0.1,,,8642,,,
+2026-10-14 06:42:42,HcFw9kF79DHRUyyRo39jkv6nZpfAicZVwpntP8pnpump,OCTIZHANG,SELL,dev sold,0,0.06339,-36.6,stop loss -35%,5946,16.5,-31.2,17
+2026-10-14 06:43:39,6ZMdBWGDSDACCFLyNDcBhwKvJyLCmXViToRo1bP2pump,HUSKY,BUY,dev sold,0,0.1,,,9107,,,
+2026-10-14 06:43:48,HGTr23cTAnqjyrTv4y1TJwdKmEeB1ET3E2z8jTGLpump,AlphaNIST,BUY,dev sold,0,0.1,,,9859,,,
+2026-10-14 06:44:07,6ZMdBWGDSDACCFLyNDcBhwKvJyLCmXViToRo1bP2pump,HUSKY,SELL,dev sold,0,0.06191,-38.1,stop loss -37%,6120,17.5,-32.8,28
+2026-10-14 06:44:15,HGTr23cTAnqjyrTv4y1TJwdKmEeB1ET3E2z8jTGLpump,AlphaNIST,SELL,dev sold,0,0.06199,-38.0,stop loss -37%,6633,0.0,-32.7,27
+2026-10-14 06:48:11,BUp94dvej8KbeJwWTxtc6rSS3DL8tMEMkyCwtoZ6pump,sem,BUY,score below threshold,43.6,0.1,,,24217,,,
+2026-10-14 06:48:30,BUp94dvej8KbeJwWTxtc6rSS3DL8tMEMkyCwtoZ6pump,sem,SELL,score below threshold,43.6,0.06153,-38.5,stop loss -37%,16156,24.2,-33.3,19
+2026-10-14 06:54:19,3fKGK26MHB1kKYD5SZudkGbfLuiPx3kk1pmxJJF7pump,SYMBIOTE,BUY,dev sold,0,0.1,,,10584,,,
+2026-10-14 06:54:50,3fKGK26MHB1kKYD5SZudkGbfLuiPx3kk1pmxJJF7pump,SYMBIOTE,SELL,dev sold,0,0.06273,-37.3,stop loss -36%,7204,2.4,-31.9,31
