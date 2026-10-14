@@ -4625,3 +4625,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 06:48:30,BUp94dvej8KbeJwWTxtc6rSS3DL8tMEMkyCwtoZ6pump,sem,SELL,score below threshold,43.6,0.06153,-38.5,stop loss -37%,16156,24.2,-33.3,19
 2026-10-14 06:54:19,3fKGK26MHB1kKYD5SZudkGbfLuiPx3kk1pmxJJF7pump,SYMBIOTE,BUY,dev sold,0,0.1,,,10584,,,
 2026-10-14 06:54:50,3fKGK26MHB1kKYD5SZudkGbfLuiPx3kk1pmxJJF7pump,SYMBIOTE,SELL,dev sold,0,0.06273,-37.3,stop loss -36%,7204,2.4,-31.9,31
+2026-10-14 07:48:01,6UnhfrLVgDbGh9dPW9nNiBeM24TXtsC4433dBzUupump,XESUNET,BUY,dev sold,0,0.1,,,19425,,,
+2026-10-14 07:48:36,6UnhfrLVgDbGh9dPW9nNiBeM24TXtsC4433dBzUupump,XESUNET,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,13208,1.7,-32.0,36
+2026-10-14 07:48:50,G3bL2zwCpUPdfWULUW7PVkpGsVkcBVfocTEE42wbpump,Xesunet,BUY,dev sold,0,0.1,,,9962,,,
+2026-10-14 07:49:22,G3bL2zwCpUPdfWULUW7PVkpGsVkcBVfocTEE42wbpump,Xesunet,SELL,dev sold,0,0.05905,-40.9,stop loss -40%,6387,1.1,-35.9,32
+2026-10-14 07:51:04,H6qLkh1WcDWk1gyh6RgUEfMPVqeTsZdGP4t9q3kHpump,att,BUY,dev sold,0,0.1,,,13245,,,
+2026-10-14 07:51:08,H6qLkh1WcDWk1gyh6RgUEfMPVqeTsZdGP4t9q3kHpump,att,SELL,dev sold,0,0.04641,-53.6,stop loss -53%,6678,0.1,-49.6,4
+2026-10-14 07:52:26,8JjqkqtF8sv7J8W4HR9ZF2mUXWN6G9hSA9X8VuF3pump,inu,BUY,dev sold,0,0.1,,,8349,,,
+2026-10-14 07:53:39,B828p96biw91vzL7Kx9MNmYMKgawUpD6pymZXXi6pump,Luna,BUY,dev sold,0,0.1,,,9853,,,
+2026-10-14 07:53:43,8JjqkqtF8sv7J8W4HR9ZF2mUXWN6G9hSA9X8VuF3pump,inu,SELL,dev sold,0,0.05851,-41.5,stop loss -40%,5306,6.5,-36.4,77
+2026-10-14 07:53:50,B828p96biw91vzL7Kx9MNmYMKgawUpD6pymZXXi6pump,Luna,SELL,dev sold,0,0.06289,-37.1,stop loss -36%,6725,7.6,-31.7,11
+2026-10-14 07:57:37,6CRY6c6hvXhdh5CCvYXEu1TtNPJuw88x3wN3aMf5pump,Aftermath,BUY,dev sold,0,0.1,,,8435,,,
+2026-10-14 07:58:19,6CRY6c6hvXhdh5CCvYXEu1TtNPJuw88x3wN3aMf5pump,Aftermath,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,5763,1.7,-31.7,42
