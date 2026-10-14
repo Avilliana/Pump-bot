@@ -4845,3 +4845,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 17:53:14,2PUeiauKFzFjrjKfKiDaS5ozXmoAPzvXtfJSJhZ5pump,Apollo,SELL,dev sold,0,0.03685,-63.2,stop loss -62%,3469,0.0,-59.8,2
 2026-10-14 17:54:27,6jijW4Ne924kqj8XYLKXFrhpeHy5y2qxoKgGzJHQpump,Pluto,SELL,dev sold,0,0.10146,1.5,shift ended,12765,61.2,-18.4,471
 2026-10-14 17:54:27,HMSEBM5uL74NHVLDkEt7fq2FLKVCzZkXkpnBf7eNpump,CJ,SELL,bundled: 5 launch wallets own 71%,0,0.1181,18.1,shift ended,42982,27.5,0.0,167
+2026-10-14 18:44:01,DoxPZwMQpx58ENTcUemn1Qf1Pysi19XN33x7fnWVpump,Elon,BUY,dev sold,0,0.1,,,12032,,,
+2026-10-14 18:45:54,DoxPZwMQpx58ENTcUemn1Qf1Pysi19XN33x7fnWVpump,Elon,SELL,dev sold,0,0.2979,197.9,take profit +202%,38702,221.7,-15.4,114
+2026-10-14 18:49:08,BuUpkEREPFgdxXr4X8sE3W75A3z3ciAzzwM8d75Wpump,a/acc,BUY,bundled: 13 launch wallets own 11%,0,0.1,,,13151,,,
+2026-10-14 18:49:12,HAXyS5UiptqhjtnvKiRny67WyJghZpMKGk3Q8Pd7pump,ChaCha,BUY,dev sold,0,0.1,,,8651,,,
+2026-10-14 18:49:23,HAXyS5UiptqhjtnvKiRny67WyJghZpMKGk3Q8Pd7pump,ChaCha,SELL,dev sold,0,0.05814,-41.9,stop loss -41%,5463,0.0,-36.9,11
+2026-10-14 18:50:35,BuUpkEREPFgdxXr4X8sE3W75A3z3ciAzzwM8d75Wpump,a/acc,SELL,bundled: 13 launch wallets own 11%,0,0.30101,201.0,take profit +205%,42736,225.0,-2.8,87
+2026-10-14 18:53:22,FYqSJFnZLab74BT28FKkSqM5TGuh3jbCCNn6Ayfbpump,Etherpump,BUY,dev sold,0,0.1,,,9126,,,
+2026-10-14 18:53:52,FYqSJFnZLab74BT28FKkSqM5TGuh3jbCCNn6Ayfbpump,Etherpump,SELL,dev sold,0,0.05893,-41.1,stop loss -40%,5840,9.2,-36.0,30
+2026-10-14 18:56:12,LvMpgLzxiYwYDDXyG82aTTr2Ac83FQpwWBf2bFgpump,Socks,BUY,dev sold,0,0.1,,,13393,,,
+2026-10-14 19:00:13,B9XWvCzFe93iwnLBEhFUHLKBM47yggTTQUapCxeCLAiM,CLAIM,BUY,bundled: 82 launch wallets own 47%,0,0.1,,,12684,,,
+2026-10-14 19:00:15,LvMpgLzxiYwYDDXyG82aTTr2Ac83FQpwWBf2bFgpump,Socks,SELL,dev sold,0,0.06254,-37.5,stop loss -36%,9086,69.0,-32.2,243
+2026-10-14 19:00:36,2fFDQUm6NVj7k1sRSNGoq8p7pRUknsgtUmTuNqW9pump,Higher,BUY,dev sold,0,0.1,,,9890,,,
+2026-10-14 19:00:44,2fFDQUm6NVj7k1sRSNGoq8p7pRUknsgtUmTuNqW9pump,Higher,SELL,dev sold,0,0.05946,-40.5,stop loss -39%,6384,4.2,-35.5,7
+2026-10-14 19:00:45,B9XWvCzFe93iwnLBEhFUHLKBM47yggTTQUapCxeCLAiM,CLAIM,SELL,bundled: 82 launch wallets own 47%,0,0.10812,8.1,shift ended,14833,18.8,0.4,32
