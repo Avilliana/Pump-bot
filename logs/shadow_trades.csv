@@ -4879,3 +4879,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 19:53:53,4pidCp55EE2Y4MXPyxdU4pD1kvmakcszov6KD5iVpump,FLYALTAI,SELL,dev sold,0,0.03826,-61.7,stop loss -61%,3676,0.0,-58.3,2
 2026-10-14 19:53:56,8rVXLQUS5YZhXwb5YeAUpicbSoDpdB5c1n9jL11kpump,Biberty,SELL,dev sold,0,0.02697,-73.0,stop loss -72%,3113,30.9,-70.4,30
 2026-10-14 19:54:09,66YhXZCFXEZWQy4Mi7U7eYVVoyz2xa12kLNgueqspump,starboy,SELL,dev sold,0,0.06319,-36.8,stop loss -36%,5492,0.6,-31.4,82
+2026-10-14 20:32:41,9SpXx5Hdw6STbC5VNp7GaXVs7Y37uH2orioeLbZ7pump,ESP32,BUY,dev sold,0,0.1,,,10155,,,
+2026-10-14 20:34:03,9SpXx5Hdw6STbC5VNp7GaXVs7Y37uH2orioeLbZ7pump,ESP32,SELL,dev sold,0,0.06198,-38.0,stop loss -37%,6830,23.1,-32.7,83
+2026-10-14 20:35:16,yuzSfjGVFm4rthSbY9g4PjCCPZxCTNHms4cUa8REPLY,REPLY,BUY,bundled: 34 launch wallets own 15%,0,0.1,,,10586,,,
+2026-10-14 20:39:41,EcPtGch8Ycu1chCZ1BPXLPhLdhvSgByVBsy87kWWpump,ARCADE,BUY,dev sold,0,0.1,,,18210,,,
+2026-10-14 20:42:59,EcPtGch8Ycu1chCZ1BPXLPhLdhvSgByVBsy87kWWpump,ARCADE,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,12403,81.6,-31.8,198
+2026-10-14 20:47:43,4u3j1Pmc93ynR4TPSmH6TD6KSJniksWEgQe2NaQmpump,Reverse,BUY,bundled: 16 launch wallets own 22%,0,0.1,,,19752,,,
+2026-10-14 20:50:40,9g6BBcUjsGoYC2yh7VYJL5TNazqJp7d6cpHZGobRpump,BREADWINNER,BUY,dev sold,0,0.1,,,10261,,,
+2026-10-14 20:51:16,6Mzzoueurm7NVdDcoSwwzHVEXY8jvV7do1oVBnGypump,BREADWINNER,BUY,dev sold,0,0.1,,,10724,,,
+2026-10-14 20:51:18,9g6BBcUjsGoYC2yh7VYJL5TNazqJp7d6cpHZGobRpump,BREADWINNER,SELL,dev sold,0,0.06049,-39.5,stop loss -38%,6737,33.9,-34.3,37
+2026-10-14 20:51:19,4u3j1Pmc93ynR4TPSmH6TD6KSJniksWEgQe2NaQmpump,Reverse,SELL,bundled: 16 launch wallets own 22%,0,0.20038,100.4,no trading (stale),42711,116.2,-0.4,216
+2026-10-14 20:51:20,FTDvGUjHCLuZcNazEzYdx6UdBHpGa8YMxTQdh3tXpump,arkum,BUY,bundled: 8 launch wallets own 26%,0,0.1,,,8980,,,
+2026-10-14 20:51:27,yuzSfjGVFm4rthSbY9g4PjCCPZxCTNHms4cUa8REPLY,REPLY,SELL,bundled: 34 launch wallets own 15%,0,0.10001,0.0,shift ended,11435,19.0,-19.6,971
+2026-10-14 20:51:27,6Mzzoueurm7NVdDcoSwwzHVEXY8jvV7do1oVBnGypump,BREADWINNER,SELL,dev sold,0,0.09168,-8.3,shift ended,10644,4.7,-3.5,10
+2026-10-14 20:51:27,FTDvGUjHCLuZcNazEzYdx6UdBHpGa8YMxTQdh3tXpump,arkum,SELL,bundled: 8 launch wallets own 26%,0,0.07427,-25.7,shift ended,7230,0.0,-19.5,6
