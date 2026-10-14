@@ -4637,3 +4637,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 07:53:50,B828p96biw91vzL7Kx9MNmYMKgawUpD6pymZXXi6pump,Luna,SELL,dev sold,0,0.06289,-37.1,stop loss -36%,6725,7.6,-31.7,11
 2026-10-14 07:57:37,6CRY6c6hvXhdh5CCvYXEu1TtNPJuw88x3wN3aMf5pump,Aftermath,BUY,dev sold,0,0.1,,,8435,,,
 2026-10-14 07:58:19,6CRY6c6hvXhdh5CCvYXEu1TtNPJuw88x3wN3aMf5pump,Aftermath,SELL,dev sold,0,0.06294,-37.1,stop loss -36%,5763,1.7,-31.7,42
+2026-10-14 08:38:01,5F3tCmoRksMeRwsBma93jJYRuPo7aQ5bmahdqfaProad,ROAD,BUY,dev sold,0,0.1,,,11381,,,
+2026-10-14 08:51:58,devBsBQst86ZPeMcG33KXh1iouMxL91gqokDQTQgdt8,DEV,BUY,dev sold,0,0.1,,,8437,,,
+2026-10-14 08:52:39,48faGFGsLUZKZQeYAANFXJgm6VtjGpkiVyopunmZpump,Buddy,BUY,dev sold,0,0.1,,,9009,,,
+2026-10-14 08:53:06,D693bnJYnWtFoSH6AyJYjxR4qVmR6RxXH4RAprVTpump,BUSABASE,BUY,score below threshold,59.7,0.1,,,10891,,,
+2026-10-14 08:53:21,D4NJ5CHS5pUw1bKJKNfoKrzK9dr8LMUDYNpKxPQXpump,TAKOPI,BUY,dev sold,0,0.1,,,10864,,,
+2026-10-14 08:53:43,D693bnJYnWtFoSH6AyJYjxR4qVmR6RxXH4RAprVTpump,BUSABASE,SELL,score below threshold,59.7,0.06781,-32.2,dev sold,8009,0.0,-26.5,37
+2026-10-14 08:56:19,5F3tCmoRksMeRwsBma93jJYRuPo7aQ5bmahdqfaProad,ROAD,SELL,dev sold,0,0.1399,39.9,shift ended,17128,106.2,-28.0,1098
+2026-10-14 08:56:19,devBsBQst86ZPeMcG33KXh1iouMxL91gqokDQTQgdt8,DEV,SELL,dev sold,0,0.16722,67.2,shift ended,15255,99.8,4.7,262
+2026-10-14 08:56:19,48faGFGsLUZKZQeYAANFXJgm6VtjGpkiVyopunmZpump,Buddy,SELL,dev sold,0,0.07167,-28.3,shift ended,7002,134.9,-25.1,221
+2026-10-14 08:56:19,D4NJ5CHS5pUw1bKJKNfoKrzK9dr8LMUDYNpKxPQXpump,TAKOPI,SELL,dev sold,0,0.15542,55.4,shift ended,18250,84.6,-28.5,179
