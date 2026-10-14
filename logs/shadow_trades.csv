@@ -4669,3 +4669,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 10:54:02,H1hYPqm4resoBfzcgPEHPyq4XUZEV82kpq2KNyyWpump,Gladiator,SELL,dev sold,0,0.06159,-38.4,stop loss -37%,5447,0.0,-33.1,12
 2026-10-14 10:54:02,5iRVyztZjL7RJchSpmpmcuwqy3pniUUH98qZgRAHpump,MARSX,BUY,dev sold,0,0.1,,,43874,,,
 2026-10-14 10:54:54,5iRVyztZjL7RJchSpmpmcuwqy3pniUUH98qZgRAHpump,MARSX,SELL,dev sold,0,0.09252,-7.5,shift ended,43874,0.0,0.0,53
+2026-10-14 11:35:42,6csNg6jbFg5dfWbWQ9sCjn3LNUqvwCikwNPLc2uBpump,LUNA,BUY,dev sold,0,0.1,,,9803,,,
+2026-10-14 11:35:44,6csNg6jbFg5dfWbWQ9sCjn3LNUqvwCikwNPLc2uBpump,LUNA,SELL,dev sold,0,0.06233,-37.7,stop loss -36%,6631,0.0,-32.4,2
+2026-10-14 11:37:59,ZDD4AReL5kkRCueSu69mxJsvdXHdYJHMmmzCpchpump,Harley,BUY,dev sold,0,0.1,,,16457,,,
+2026-10-14 11:46:34,ZDD4AReL5kkRCueSu69mxJsvdXHdYJHMmmzCpchpump,Harley,SELL,dev sold,0,0.24776,147.8,no trading (stale),43968,167.4,0.2,515
