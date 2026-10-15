@@ -5089,3 +5089,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 06:56:40,6SHZLuPTLbgiThe1oBrGp2udzbvitbd8G6qRFNQkpump,REA,BUY,dev sold,0,0.1,,,11159,,,
 2026-10-15 06:56:40,AFxtWvwBFdadzz3nojf9THu15LqvmrMqmtVzAgAApump,REA,SELL,dev sold,0,0.0616,-38.4,stop loss -37%,8440,46.4,-33.2,58
 2026-10-15 06:56:54,6SHZLuPTLbgiThe1oBrGp2udzbvitbd8G6qRFNQkpump,REA,SELL,dev sold,0,0.06072,-39.3,stop loss -38%,7353,1.7,-34.1,14
+2026-10-15 07:43:39,5Uoqpbr78poi7CTWastMQANAZKzt85XLCDVCtq77pump,SYCAMORE,BUY,dev holds 52.9%,0,0.1,,,13987,,,
+2026-10-15 07:43:56,5Uoqpbr78poi7CTWastMQANAZKzt85XLCDVCtq77pump,SYCAMORE,SELL,dev holds 52.9%,0,0.0216,-78.4,dev sold,3324,8.0,-76.2,17
+2026-10-15 07:47:12,3EC7gRDGKgqPHc9ipJxxChoeyseE2xAbQHZUSSTfpump,SYCAMORE,BUY,dev holds 52.9%,0,0.1,,,23777,,,
+2026-10-15 07:47:13,3EC7gRDGKgqPHc9ipJxxChoeyseE2xAbQHZUSSTfpump,SYCAMORE,SELL,dev holds 52.9%,0,0.08879,-11.2,dev sold,22834,0.0,-4.0,1
+2026-10-15 07:47:51,ET5ru7yjLu6cUT5SDHiT9yXSdJmiXJ3isBWGiqdxpump,Odango,BUY,dev sold,0,0.1,,,12141,,,
+2026-10-15 07:49:50,2tMSXBkaLQBx9rh8ZHmRzRBxc7egbXMmUZ1M9kmupump,Nihilism,BUY,top10 hold 46%,0,0.1,,,10245,,,
+2026-10-15 07:50:28,2tMSXBkaLQBx9rh8ZHmRzRBxc7egbXMmUZ1M9kmupump,Nihilism,SELL,top10 hold 46%,0,0.06288,-37.1,stop loss -36%,6991,0.0,-31.8,38
+2026-10-15 07:51:00,ET5ru7yjLu6cUT5SDHiT9yXSdJmiXJ3isBWGiqdxpump,Odango,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,8387,107.5,-30.9,189
+2026-10-15 07:58:37,12kQB4WCZj1Kr61maq4M1APGSa4ynrjTmYUWWPhppump,CAKE,BUY,bundled: 7 launch wallets own 56%,0,0.1,,,13865,,,
+2026-10-15 08:02:36,12kQB4WCZj1Kr61maq4M1APGSa4ynrjTmYUWWPhppump,CAKE,SELL,bundled: 7 launch wallets own 56%,0,0.12043,20.4,shift ended,18050,30.2,-5.9,239
