@@ -5309,3 +5309,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 18:54:32,CcPoqJepNKFUHkYSFveTcxPzAF5WuvaF79WJzP1upump,Ryan,SELL,dev sold,0,0.06316,-36.8,stop loss -36%,6953,14.0,-31.5,46
 2026-10-15 18:56:06,4Fp39bp42GJ9zFoDe3wqv9T4GQMEjj4yq25GQ7pcpump,MILLIE,BUY,dev sold,0,0.1,,,14284,,,
 2026-10-15 18:56:14,4Fp39bp42GJ9zFoDe3wqv9T4GQMEjj4yq25GQ7pcpump,MILLIE,SELL,dev sold,0,0.06138,-38.6,stop loss -37%,9512,10.0,-33.4,8
+2026-10-15 19:35:58,4kZmguiPJZav7LW6TXsA8TYE5U7cncwgDurLk1sMpump,JACK,BUY,dev sold,0,0.1,,,11055,,,
+2026-10-15 19:36:37,4kZmguiPJZav7LW6TXsA8TYE5U7cncwgDurLk1sMpump,JACK,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,7618,0.2,-31.1,39
+2026-10-15 19:38:47,8vbV8XKyCnB3x7EnYYoK4Qiowxx1SYEus9jxw6Hfpump,Perception,BUY,dev sold,0,0.1,,,11449,,,
+2026-10-15 19:39:52,CutMs2JunUG5GuwrwNidYJarpJuFsfnBpuYMHU1fpump,HONEYPOT,BUY,dev sold,0,0.1,,,8547,,,
+2026-10-15 19:40:08,8vbV8XKyCnB3x7EnYYoK4Qiowxx1SYEus9jxw6Hfpump,Perception,SELL,dev sold,0,0.05327,-46.7,stop loss -46%,6626,7.2,-42.1,81
+2026-10-15 19:40:45,CutMs2JunUG5GuwrwNidYJarpJuFsfnBpuYMHU1fpump,HONEYPOT,SELL,dev sold,0,0.36366,263.7,take profit +269%,33590,293.0,-6.0,53
+2026-10-15 19:41:05,2w5ZxgzfpNoQ3pJcVxMjmFJteEokzehTbm7hjXxvpump,Grokazon,BUY,dev sold,0,0.1,,,13661,,,
+2026-10-15 19:41:45,2w5ZxgzfpNoQ3pJcVxMjmFJteEokzehTbm7hjXxvpump,Grokazon,SELL,dev sold,0,0.06315,-36.9,stop loss -36%,9357,2.0,-31.5,40
+2026-10-15 19:42:44,6KVRU9rys4VG7ZYmvKH7eNVZ7qy6Gz51NFkgjWjnpump,HONEYPOT,BUY,dev sold,0,0.1,,,9546,,,
+2026-10-15 19:42:52,6KVRU9rys4VG7ZYmvKH7eNVZ7qy6Gz51NFkgjWjnpump,HONEYPOT,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,6580,1.1,-31.1,8
+2026-10-15 19:45:07,D54t7xxbkjjQPdnfymbBagbq1GJvXrDJQPdGeLrWpump,motion,BUY,dev sold,0,0.1,,,14747,,,
+2026-10-15 19:45:29,D54t7xxbkjjQPdnfymbBagbq1GJvXrDJQPdGeLrWpump,motion,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,10133,0.0,-31.3,21
+2026-10-15 19:48:03,EYBsCvNjXdsYKvWyRJiHUKyhUVpATD2BQgkej9L6pump,194YO,BUY,dev sold,0,0.1,,,9103,,,
+2026-10-15 19:49:05,EYBsCvNjXdsYKvWyRJiHUKyhUVpATD2BQgkej9L6pump,194YO,SELL,dev sold,0,0.06347,-36.5,stop loss -35%,6270,131.9,-31.1,62
+2026-10-15 19:49:32,3SsByARLCFX2LiXbj6Lo1E4Ser31CfA19iLfyV9Upump,FRONTIER,BUY,dev sold,0,0.1,,,11280,,,
+2026-10-15 19:50:07,3SsByARLCFX2LiXbj6Lo1E4Ser31CfA19iLfyV9Upump,FRONTIER,SELL,dev sold,0,0.06062,-39.4,stop loss -38%,7421,15.7,-34.2,35
+2026-10-15 19:51:20,AgTgwEL3WgFm7LbJ8Sk59hswj15W4iXhe9tGt4gZasEt,Petix,BUY,dev holds 11.2%,0,0.1,,,17569,,,
+2026-10-15 19:51:35,EBpGvGUhH3BrGJrw7j1k43YDyA1k48JbmxWh56ENpump,Quantum,BUY,dev sold,0,0.1,,,10547,,,
+2026-10-15 19:51:58,vM8FrjHs7Fbiw9dgWecKiNrSLJRDQA18k3x6mLXpump,STREAM,BUY,past buy window (late mover),65.2,0.1,,,8982,,,
+2026-10-15 19:52:08,vM8FrjHs7Fbiw9dgWecKiNrSLJRDQA18k3x6mLXpump,STREAM,SELL,past buy window (late mover),65.2,0.06329,-36.7,stop loss -35%,6169,5.5,-31.3,10
+2026-10-15 19:52:38,AgTgwEL3WgFm7LbJ8Sk59hswj15W4iXhe9tGt4gZasEt,Petix,SELL,dev holds 11.2%,0,0.07081,-29.2,shift ended,13478,6.9,-26.5,78
+2026-10-15 19:52:38,EBpGvGUhH3BrGJrw7j1k43YDyA1k48JbmxWh56ENpump,Quantum,SELL,dev sold,0,0.08383,-16.2,shift ended,9578,13.0,-24.9,63
