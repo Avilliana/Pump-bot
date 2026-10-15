@@ -5433,3 +5433,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 22:50:48,DaK3Y3QDSRKy3Ud18EDcPzC56iERSVyddJnJ3X4Xpump,DOAN,SELL,dev holds 10.2%,0,0.08556,-14.4,dev sold,10925,38.8,-7.3,73
 2026-10-15 22:50:51,BKy4UnWjrkGQe3AFdMnN1uUJEJAqm8JdZk7sjxVTpump,POLY,BUY,dev sold,0,0.1,,,8624,,,
 2026-10-15 22:51:45,BKy4UnWjrkGQe3AFdMnN1uUJEJAqm8JdZk7sjxVTpump,POLY,SELL,dev sold,0,0.08474,-15.3,shift ended,7919,42.5,-17.2,53
+2026-10-15 23:29:11,2nvgVDePgMENAhe5u3KJd3uqdDoGARv22bcxsgZKpump,anon-1b,BUY,dev sold,0,0.1,,,14132,,,
+2026-10-15 23:29:36,2nvgVDePgMENAhe5u3KJd3uqdDoGARv22bcxsgZKpump,anon-1b,SELL,dev sold,0,0.05637,-43.6,stop loss -42%,8647,20.2,-38.8,25
+2026-10-15 23:30:49,1myzKQQkqkfSLAZVmuXQyWZbg7CyYWF8byrAz1Lpump,anon-1b,BUY,dev sold,0,0.1,,,11741,,,
+2026-10-15 23:32:15,1myzKQQkqkfSLAZVmuXQyWZbg7CyYWF8byrAz1Lpump,anon-1b,SELL,dev sold,0,0.06257,-37.4,stop loss -36%,7971,99.7,-32.1,86
+2026-10-15 23:33:29,DtwTSERs35NXVXiYSwzCp2SwkN2GXD766kWtPgsxpump,FSS,BUY,score below threshold,44.1,0.1,,,14905,,,
+2026-10-15 23:35:01,BdvPV2W9rDSDfE5LshAppwjTiWxqWUEnn2m55cbpump,HOP,BUY,dev sold,0,0.1,,,15177,,,
+2026-10-15 23:36:19,CQYxPFsCk5DaD6q14Qnccj45BX4KfB5334LELmnVpump,well,BUY,bundled: 11 launch wallets own 15%,0,0.1,,,10045,,,
+2026-10-15 23:37:49,ET6ra4t5NsTfCwDKS8AnT7XFBqgBoNxFPpwroE4cpump,e,BUY,dev sold,0,0.1,,,9300,,,
+2026-10-15 23:38:11,8Me5qCEcGtHE7fxMMwrJGBxNSpi211Ga3idPLXJmpump,LQL,BUY,bundled: 15 launch wallets own 28%,0,0.1,,,10730,,,
+2026-10-15 23:38:13,BdvPV2W9rDSDfE5LshAppwjTiWxqWUEnn2m55cbpump,HOP,SELL,dev sold,0,0.03605,-63.9,stop loss -63%,5971,169.0,-60.7,192
+2026-10-15 23:38:46,8Me5qCEcGtHE7fxMMwrJGBxNSpi211Ga3idPLXJmpump,LQL,SELL,bundled: 15 launch wallets own 28%,0,0.06311,-36.9,stop loss -36%,7347,36.6,-31.5,36
+2026-10-15 23:40:38,DtwTSERs35NXVXiYSwzCp2SwkN2GXD766kWtPgsxpump,FSS,SELL,score below threshold,44.1,0.06236,-37.6,stop loss -36%,10087,11.6,-32.4,429
+2026-10-15 23:41:05,ET6ra4t5NsTfCwDKS8AnT7XFBqgBoNxFPpwroE4cpump,e,SELL,dev sold,0,0.06274,-37.3,stop loss -36%,6332,83.6,-31.9,196
+2026-10-15 23:42:34,84R77CNusLQk9ibkR65iVMzAGdvbfgUipWfwdoaWpump,ChainSplit,BUY,dev holds 28.5%,0,0.1,,,8614,,,
+2026-10-15 23:43:37,CQYxPFsCk5DaD6q14Qnccj45BX4KfB5334LELmnVpump,well,SELL,bundled: 11 launch wallets own 15%,0,0.29914,199.1,take profit +203%,32479,223.1,-4.9,439
+2026-10-15 23:47:13,84R77CNusLQk9ibkR65iVMzAGdvbfgUipWfwdoaWpump,ChainSplit,SELL,dev holds 28.5%,0,0.09321,-6.8,shift ended,8696,6.5,-5.3,279
