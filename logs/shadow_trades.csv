@@ -4973,3 +4973,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-14 23:48:46,BUD7ts6kb139RD1zd1uFBf9FYvnx62Vy649zS9k4pump,Vookeil,BUY,bundled: 37 launch wallets own 23%,0,0.1,,,9961,,,
 2026-10-14 23:49:09,98wFkDudB3xx186AWXBjb7tvYJvLvUxW4PJ62XEKpump,fae,SELL,dev sold,0,0.1266,26.6,shift ended,11228,57.1,-7.3,178
 2026-10-14 23:49:09,BUD7ts6kb139RD1zd1uFBf9FYvnx62Vy649zS9k4pump,Vookeil,SELL,bundled: 37 launch wallets own 23%,0,0.09201,-8.0,shift ended,9924,4.9,-7.2,23
+2026-10-15 00:41:58,CX7cgfzSxZzDLXQKgtao5J2UA4PKdwAooe2c8Mafpump,GRIM,BUY,dev sold,0,0.1,,,8298,,,
+2026-10-15 00:42:18,CX7cgfzSxZzDLXQKgtao5J2UA4PKdwAooe2c8Mafpump,GRIM,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,5718,20.0,-31.1,20
+2026-10-15 00:49:11,4xrLSqqxrSacEb2D2tGzG2tKyagJ6RhGSN2M1Vsppump,BEPE,BUY,dev sold,0,0.1,,,10132,,,
+2026-10-15 00:49:35,4xrLSqqxrSacEb2D2tGzG2tKyagJ6RhGSN2M1Vsppump,BEPE,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,6955,4.4,-31.4,25
+2026-10-15 00:53:35,CHy19AmonBx2goy86H3th7YAmkoBT7Mtj6eeCHibpump,$BYD,BUY,dev sold,0,0.1,,,42186,,,
+2026-10-15 00:56:37,8LxdpBmcvreR9fGkqXdBtoJgdxJ2w13ztURLYWbCpump,WOGE,BUY,dev sold,0,0.1,,,13209,,,
+2026-10-15 00:56:43,CHy19AmonBx2goy86H3th7YAmkoBT7Mtj6eeCHibpump,$BYD,SELL,dev sold,0,0.09261,-7.4,no trading (stale),42175,0.0,-0.0,188
+2026-10-15 00:58:12,8LxdpBmcvreR9fGkqXdBtoJgdxJ2w13ztURLYWbCpump,WOGE,SELL,dev sold,0,0.02768,-72.3,stop loss -71%,4005,213.4,-69.7,95
+2026-10-15 01:01:11,6YafUE7Q5buHBMZP6oVbzm9Yuoa74n8uXnrsDy43pump,browserd,BUY,score below threshold,46.4,0.1,,,42764,,,
+2026-10-15 01:01:26,6YafUE7Q5buHBMZP6oVbzm9Yuoa74n8uXnrsDy43pump,browserd,SELL,score below threshold,46.4,0.09252,-7.5,shift ended,42764,0.0,0.0,14
