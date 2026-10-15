@@ -5017,3 +5017,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 02:49:11,WehnVFnZTdg7Ct7kLvYGnZzKqyAy13wN7fSbHfPpump,KANTE,BUY,dev sold,0,0.1,,,18869,,,
 2026-10-15 02:51:11,WehnVFnZTdg7Ct7kLvYGnZzKqyAy13wN7fSbHfPpump,KANTE,SELL,dev sold,0,0.05666,-43.3,stop loss -42%,11601,102.9,-38.5,120
 2026-10-15 02:52:59,56QM2aW731mRpDJs9qoJhafgkVvzco1RzZcjNKQVpump,PUMPKART,SELL,bundled: 12 launch wallets own 7%,0,0.13918,39.2,shift ended,12315,178.4,-13.0,896
+2026-10-15 03:33:26,FevUmVUVh8DA7JFs8NTeSeGdivFU4KZJJeoFB1WGpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,11242,,,
+2026-10-15 03:33:27,FevUmVUVh8DA7JFs8NTeSeGdivFU4KZJJeoFB1WGpump,LUMINOUS,SELL,dev holds 52.4%,0,0.02459,-75.4,dev sold,3035,9.4,-73.0,1
+2026-10-15 03:33:27,4aMD7TAujKhojDpw4Kgs7xbF4AKycfH9Mr8ehqzzpump,BATFISH,BUY,dev sold,0,0.1,,,11530,,,
+2026-10-15 03:34:41,Ki95qhKwtZrsZuq9YbVHwG3j9KMudhf5tKQ3QjEpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,11844,,,
+2026-10-15 03:34:49,Ki95qhKwtZrsZuq9YbVHwG3j9KMudhf5tKQ3QjEpump,LUMINOUS,SELL,dev holds 52.4%,0,0.02322,-76.8,dev sold,3023,3.0,-74.5,8
+2026-10-15 03:35:02,Dhbc1wWHybyMg8i2xyqGaxzdDJmZMCMvTzsjJ1ejpump,Dolly,BUY,dev sold,0,0.1,,,12361,,,
+2026-10-15 03:35:56,Dhbc1wWHybyMg8i2xyqGaxzdDJmZMCMvTzsjJ1ejpump,Dolly,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,8484,175.3,-31.4,54
+2026-10-15 03:36:13,ChBwKY8uKYzmHbjB9wDR2wN1YaxTD5ygacevmmripump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,15354,,,
+2026-10-15 03:36:51,ChBwKY8uKYzmHbjB9wDR2wN1YaxTD5ygacevmmripump,LUMINOUS,SELL,dev holds 52.4%,0,0.02533,-74.7,dev sold,4265,70.7,-72.2,38
+2026-10-15 03:38:00,2m8AM7oPNTZv3V2w85p1V5H2eteQ8JMK1aCEt2jnpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,14983,,,
+2026-10-15 03:38:53,G6qDSB6SYBervsYbfH5mpd5cWuKDRYRxUpdrdFZVpump,Slime,BUY,dev sold,0,0.1,,,11774,,,
+2026-10-15 03:39:37,G6qDSB6SYBervsYbfH5mpd5cWuKDRYRxUpdrdFZVpump,Slime,SELL,dev sold,0,0.06302,-37.0,stop loss -36%,8049,123.4,-31.6,45
+2026-10-15 03:40:09,4aMD7TAujKhojDpw4Kgs7xbF4AKycfH9Mr8ehqzzpump,BATFISH,SELL,dev sold,0,0.30605,206.1,take profit +210%,38105,230.5,-11.3,401
+2026-10-15 03:42:13,2m8AM7oPNTZv3V2w85p1V5H2eteQ8JMK1aCEt2jnpump,LUMINOUS,SELL,dev holds 52.4%,0,0.2598,159.8,no trading (stale),42012,180.4,-0.3,253
+2026-10-15 03:43:17,EoB9aFFS5XJ4PXTGCm9r1pSCJEts7cNb5cLxtHWypump,DOGEHOUSE,BUY,dev sold,0,0.1,,,14096,,,
+2026-10-15 03:44:19,EoB9aFFS5XJ4PXTGCm9r1pSCJEts7cNb5cLxtHWypump,DOGEHOUSE,SELL,dev sold,0,0.06245,-37.6,stop loss -36%,9548,104.8,-32.3,62
+2026-10-15 03:45:17,c68PWVdjRjLvcK3LHW9oVp6bkpGrZ4N3Pz1R3Smpump,DECK,BUY,bundled: 31 launch wallets own 5%,0,0.1,,,9889,,,
+2026-10-15 03:45:40,c68PWVdjRjLvcK3LHW9oVp6bkpGrZ4N3Pz1R3Smpump,DECK,SELL,bundled: 31 launch wallets own 5%,0,0.06183,-38.2,stop loss -37%,6636,0.0,-32.9,23
+2026-10-15 03:48:16,7jeSqtmknRQYuiMHA1sca2UKx3SFmeUFUwizHQnkpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,15403,,,
+2026-10-15 03:49:29,7jeSqtmknRQYuiMHA1sca2UKx3SFmeUFUwizHQnkpump,LUMINOUS,SELL,dev holds 52.4%,0,0.02576,-74.2,dev sold,4350,79.0,-71.8,72
+2026-10-15 03:51:41,5MfybprW7Zf914rB4tV17KTL72K3vCsaaPKizKDqpump,shiyo,BUY,dev sold,0,0.1,,,16051,,,
+2026-10-15 03:51:48,HohHdfTac16KRRReJGnEVpmumfpqnG11N3GH123upump,JEVL,BUY,score below threshold,53.5,0.1,,,8494,,,
+2026-10-15 03:52:06,5MfybprW7Zf914rB4tV17KTL72K3vCsaaPKizKDqpump,shiyo,SELL,dev sold,0,0.06297,-37.0,stop loss -36%,10960,49.3,-31.7,25
+2026-10-15 03:52:43,HohHdfTac16KRRReJGnEVpmumfpqnG11N3GH123upump,JEVL,SELL,score below threshold,53.5,0.10841,8.4,shift ended,9967,17.3,-8.6,55
