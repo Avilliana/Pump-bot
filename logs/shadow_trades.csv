@@ -5157,3 +5157,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 14:03:43,8XVZUnMvMQzZs44RQjAUxa4ajDhc1CGMXFpC4o16pump,AUTCRAFT,BUY,dev sold,0,0.1,,,8255,,,
 2026-10-15 14:04:05,9sfAtahu2carW4wU8xWsUEtbCekheRWsZ333CSuFpump,BLUBBER,SELL,dev sold,0,0.22749,127.5,shift ended,25258,162.6,5.2,160
 2026-10-15 14:04:05,8XVZUnMvMQzZs44RQjAUxa4ajDhc1CGMXFpC4o16pump,AUTCRAFT,SELL,dev sold,0,0.10505,5.1,shift ended,9388,119.1,4.3,22
+2026-10-15 14:42:11,B3rmwGUK6cyLjMdxWS9z72iBeVTj23N2JrJbWW62pump,OPUS,BUY,bundled: 12 launch wallets own 20%,0,0.1,,,13780,,,
+2026-10-15 14:43:09,6rJD1heB8txcfKvymWVWXwn9xrtLRX4AyA4TVtvbpump,BRAINDRAIN,BUY,dev sold,0,0.1,,,11262,,,
+2026-10-15 14:43:48,6rJD1heB8txcfKvymWVWXwn9xrtLRX4AyA4TVtvbpump,BRAINDRAIN,SELL,dev sold,0,0.06303,-37.0,stop loss -36%,7702,0.7,-31.6,38
+2026-10-15 14:43:58,8HB6b9xCkec9eMQswWbdK9ZsydDmzYfRKrU9sWo9pump,FRANKLIN,BUY,dev sold,0,0.1,,,24706,,,
+2026-10-15 14:44:50,B3rmwGUK6cyLjMdxWS9z72iBeVTj23N2JrJbWW62pump,OPUS,SELL,bundled: 12 launch wallets own 20%,0,0.14534,45.3,dev sold,21639,177.5,-1.7,159
+2026-10-15 14:46:13,5X6rmpc7GNQgeyMgGYAjZgXYY7arRMvPTUwWJtCSpump,Hermès,BUY,dev sold,0,0.1,,,11243,,,
+2026-10-15 14:46:52,3YW4DA2raDTcy63M3EfDYxX2QSEb8hnp6yQg73oBpump,BRAINDRAIN,BUY,dev sold,0,0.1,,,13841,,,
+2026-10-15 14:47:12,5X6rmpc7GNQgeyMgGYAjZgXYY7arRMvPTUwWJtCSpump,Hermès,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,7746,0.0,-31.1,59
+2026-10-15 14:49:05,3YW4DA2raDTcy63M3EfDYxX2QSEb8hnp6yQg73oBpump,BRAINDRAIN,SELL,dev sold,0,0.06269,-37.3,stop loss -36%,9492,99.4,-32.0,133
+2026-10-15 14:49:16,6bEVFwGfzBCeL7vQhDFgTBcemJkcAHXbBkETX26Qpump,PAPER,BUY,bundled: 19 launch wallets own 6%,0,0.1,,,16047,,,
+2026-10-15 14:49:19,4FzAudshDU3FTQtFeHPKocMfnoX2ixCMGXN4yUu7pump,RIVER,BUY,bundled: 14 launch wallets own 25%,0,0.1,,,10658,,,
+2026-10-15 14:49:24,4FzAudshDU3FTQtFeHPKocMfnoX2ixCMGXN4yUu7pump,RIVER,SELL,bundled: 14 launch wallets own 25%,0,0.0595,-40.5,stop loss -39%,6884,20.1,-35.4,6
+2026-10-15 14:50:10,6bEVFwGfzBCeL7vQhDFgTBcemJkcAHXbBkETX26Qpump,PAPER,SELL,bundled: 19 launch wallets own 6%,0,0.06334,-36.7,stop loss -35%,11022,15.4,-31.3,54
+2026-10-15 14:50:55,5ZnuyTehWNVmeLKZ8txH7bReMFjaqLHh9PDg2tkFpump,DCITY,BUY,dev sold,0,0.1,,,11410,,,
+2026-10-15 14:51:17,Hnvzjzv3287W5d72MAjsng3qiJAsPqn3Baf2bFH1pump,MANU,BUY,dev sold,0,0.1,,,10376,,,
+2026-10-15 14:51:21,6og1kabQxGCiN57z13UATWob8SNEAezCqvfG77Vhpump,Nearlana,BUY,dev sold,0,0.1,,,8267,,,
+2026-10-15 14:51:33,Hnvzjzv3287W5d72MAjsng3qiJAsPqn3Baf2bFH1pump,MANU,SELL,dev sold,0,0.06355,-36.5,stop loss -35%,7155,7.2,-31.0,16
+2026-10-15 14:51:46,6og1kabQxGCiN57z13UATWob8SNEAezCqvfG77Vhpump,Nearlana,SELL,dev sold,0,0.06212,-37.9,stop loss -37%,5575,38.0,-32.6,25
+2026-10-15 14:52:00,4Rcq3wEbUSCzbf1UgT3A3JtaNrTp9FU2xGGe12wepump,Xshop,BUY,dev sold,0,0.1,,,20538,,,
+2026-10-15 14:52:25,GVA3P1qH7siuHzT75kAKKuoTZB5Hi9xvN4Xd3WD9pump,Nearlana,BUY,dev sold,0,0.1,,,19306,,,
+2026-10-15 14:52:59,GVA3P1qH7siuHzT75kAKKuoTZB5Hi9xvN4Xd3WD9pump,Nearlana,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,12992,73.1,-32.7,34
+2026-10-15 14:53:53,3LFqCh9Nhvi82Wbmn4LTiWuiDec6ZPvHrwZmmRMHpump,Nearlana,BUY,dev sold,0,0.1,,,16618,,,
+2026-10-15 14:54:44,8HB6b9xCkec9eMQswWbdK9ZsydDmzYfRKrU9sWo9pump,FRANKLIN,SELL,dev sold,0,0.15894,58.9,no trading (stale),42744,71.5,-24.9,646
+2026-10-15 14:55:18,5ZnuyTehWNVmeLKZ8txH7bReMFjaqLHh9PDg2tkFpump,DCITY,SELL,dev sold,0,0.2959,195.9,take profit +200%,36462,219.5,-2.6,264
+2026-10-15 14:56:14,EaK6aHwLFefwfWiYaLgFZ4sV53eXrexcbyK7caFfpump,STOMP,BUY,bundled: 24 launch wallets own 9%,0,0.1,,,8831,,,
+2026-10-15 14:56:25,EaK6aHwLFefwfWiYaLgFZ4sV53eXrexcbyK7caFfpump,STOMP,SELL,bundled: 24 launch wallets own 9%,0,0.07556,-24.4,dev sold,7234,0.2,-18.1,11
+2026-10-15 14:56:35,4Rcq3wEbUSCzbf1UgT3A3JtaNrTp9FU2xGGe12wepump,Xshop,SELL,dev sold,0,0.19286,92.9,no trading (stale),42744,108.1,-14.4,275
+2026-10-15 14:57:15,3LFqCh9Nhvi82Wbmn4LTiWuiDec6ZPvHrwZmmRMHpump,Nearlana,SELL,dev sold,0,0.23833,138.3,shift ended,42744,157.2,1.9,202
