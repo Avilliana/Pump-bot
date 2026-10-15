@@ -5061,3 +5061,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 04:51:34,GcXkTZpNLXZRp3Lnr5KYEyVaivJRdfDHZNqrLcp1pump,SCREAM,SELL,bundled: 10 launch wallets own 75%,0,0.12062,20.6,dev sold,41905,31.9,0.0,110
 2026-10-15 04:51:42,CvxHAN6epr4uUjh8VYunxX2XbqcDJfWzWLbZvUzspump,STARMAN,SELL,dev sold,0,0.06073,-39.3,stop loss -38%,6929,5.9,-34.1,25
 2026-10-15 04:52:21,Nuhksmxq3AZ6ZrzVHshKnQd8QTTRSXCb7a6AU7oMsoc,SOC,SELL,dev holds 70.0%,0,0.10832,8.3,shift ended,42674,17.0,-4.3,196
+2026-10-15 05:34:48,2MCSv6nLDEVvdrd2hAJLDqwjDxcM6qYjgkNUBUfqpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,29508,,,
+2026-10-15 05:37:58,2MCSv6nLDEVvdrd2hAJLDqwjDxcM6qYjgkNUBUfqpump,LUMINOUS,SELL,dev holds 52.4%,0,0.13193,31.9,no trading (stale),42029,42.4,0.0,190
+2026-10-15 05:42:26,8YTmMy5xyY13tQ1CfTy31mWQACRoXqL53weAGxtQpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,12119,,,
+2026-10-15 05:42:42,4xZeDd4nWTLEZzRFjUd2qwHa2R2iagPKvyRMUzdApump,UNSAID,BUY,dev sold,0,0.1,,,9599,,,
+2026-10-15 05:43:07,4xZeDd4nWTLEZzRFjUd2qwHa2R2iagPKvyRMUzdApump,UNSAID,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,6624,5.5,-31.0,26
+2026-10-15 05:43:15,8YTmMy5xyY13tQ1CfTy31mWQACRoXqL53weAGxtQpump,LUMINOUS,SELL,dev holds 52.4%,0,0.0281,-71.9,dev sold,3730,57.3,-69.2,50
+2026-10-15 05:46:20,739q9aEWFxY9m3GnurKX5u6AgyiFTJXtHEE96umXpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,15309,,,
+2026-10-15 05:46:48,739q9aEWFxY9m3GnurKX5u6AgyiFTJXtHEE96umXpump,LUMINOUS,SELL,dev holds 52.4%,0,0.05259,-47.4,dev sold,8744,74.1,-42.9,28
+2026-10-15 05:48:05,Hbcyeyse1sUB8u4YfBnCSFcq7tGa4KDqorEvjHcspump,UNSAID,BUY,bundled: 36 launch wallets own 43%,0,0.1,,,8712,,,
+2026-10-15 05:49:08,9vVqdP84W3n9Cjzz7mcZdPYBfKJvhAC5EiUYKB4hpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,14348,,,
+2026-10-15 05:51:40,7gZoL67bQBwFiU7tNBaegZsjbWk5zotviwgFrPsopump,SURFROG,BUY,bundled: 19 launch wallets own 73%,0,0.1,,,35823,,,
+2026-10-15 05:52:29,Hbcyeyse1sUB8u4YfBnCSFcq7tGa4KDqorEvjHcspump,UNSAID,SELL,bundled: 36 launch wallets own 43%,0,0.12783,27.8,shift ended,12047,86.1,3.7,264
+2026-10-15 05:52:29,9vVqdP84W3n9Cjzz7mcZdPYBfKJvhAC5EiUYKB4hpump,LUMINOUS,SELL,dev holds 52.4%,0,0.27152,171.5,shift ended,42049,193.1,-0.2,201
+2026-10-15 05:52:29,7gZoL67bQBwFiU7tNBaegZsjbWk5zotviwgFrPsopump,SURFROG,SELL,bundled: 19 launch wallets own 73%,0,0.09635,-3.6,shift ended,37304,4.1,-4.4,49
