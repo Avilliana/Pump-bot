@@ -5401,3 +5401,35 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 21:54:35,HLSh9nsmPnNNmGau97z3uwsuFPS6sXBpdkYiHYJcpump,AKITA,SELL,dev holds 9.6%,0,0.13093,30.9,shift ended,21674,58.5,7.6,118
 2026-10-15 21:54:35,C4pEtBdZvEjqx8ZVwu6eYA87LPtosHzM8eFErnamepad,NAMEPAD,SELL,score below threshold,58.9,0.11313,13.1,shift ended,12163,35.9,0.6,68
 2026-10-15 21:54:35,5buwds6Xj9V8bXa15fq5F2WJ1UygbNhKe832RN2Xpump,MOOFCAT,SELL,dev sold,0,0.08993,-10.1,shift ended,12212,2.5,-2.6,2
+2026-10-15 22:34:38,93BnvZsTpCue6k6J6qR9bTXWVKBzezLRNiVD64cwpump,botcraft,BUY,bundled: 34 launch wallets own 16%,0,0.1,,,11334,,,
+2026-10-15 22:35:11,2FakFZRyjHjbs8HyZFNrFE5C5ZdUXG5Vz1JuduVupump,AMC,BUY,dev holds 9.0%,0,0.1,,,13882,,,
+2026-10-15 22:35:12,93BnvZsTpCue6k6J6qR9bTXWVKBzezLRNiVD64cwpump,botcraft,SELL,bundled: 34 launch wallets own 16%,0,0.03667,-63.3,stop loss -62%,4534,2.3,-60.0,34
+2026-10-15 22:35:39,GgqNzsuS5YExQkSTGFdeU6zrW4AQQ46XHs61vVVipump,BOOBIES,BUY,bundled: 7 launch wallets own 70%,0,0.1,,,29890,,,
+2026-10-15 22:36:21,GgqNzsuS5YExQkSTGFdeU6zrW4AQQ46XHs61vVVipump,BOOBIES,SELL,bundled: 7 launch wallets own 70%,0,0.01826,-81.7,stop loss -81%,6026,37.6,-79.8,42
+2026-10-15 22:36:25,2oAjBuofqiVvskQwnjdXmefx1JYRRw5yiku8V7M9pump,River,BUY,bundled: 4 launch wallets own 13%,0,0.1,,,9809,,,
+2026-10-15 22:36:58,2FakFZRyjHjbs8HyZFNrFE5C5ZdUXG5Vz1JuduVupump,AMC,SELL,dev holds 9.0%,0,0.06189,-38.1,stop loss -37%,9320,19.8,-32.9,107
+2026-10-15 22:37:04,Bp69NHvNDQaurRbiGfzCJyncXwQAhJUvySFiUbozpump,CHILLMONKEY,BUY,score below threshold,40.0,0.1,,,20399,,,
+2026-10-15 22:37:26,BV9ums6PQ6A1eYwFWVnAEPn6kFhzqykfRR8P2y8cpump,BUBBLE,BUY,dev sold,0,0.1,,,8851,,,
+2026-10-15 22:37:37,AyucKaMdEc2GjocCB6hpLNp8gnkh7DtTKRkhSccdpump,YORU,BUY,bundled: 20 launch wallets own 38%,0,0.1,,,17607,,,
+2026-10-15 22:37:42,AyucKaMdEc2GjocCB6hpLNp8gnkh7DtTKRkhSccdpump,YORU,SELL,bundled: 20 launch wallets own 38%,0,0.09154,-8.5,dev sold,17438,12.2,-1.2,5
+2026-10-15 22:37:45,BV9ums6PQ6A1eYwFWVnAEPn6kFhzqykfRR8P2y8cpump,BUBBLE,SELL,dev sold,0,0.06044,-39.6,stop loss -38%,5808,17.6,-34.4,19
+2026-10-15 22:37:47,9y1VBDa53RxYtTYJdNhabPQ71Z5ZrsHsjsZyh3rxpump,ANCAP,BUY,dev sold,0,0.1,,,8058,,,
+2026-10-15 22:37:47,C9FZ462s4VRVgn1iC5PMNfLoNh6ZfW7YJbWM8pSupump,FRONT+,BUY,dev holds 50.8%,0,0.1,,,15888,,,
+2026-10-15 22:37:49,9y1VBDa53RxYtTYJdNhabPQ71Z5ZrsHsjsZyh3rxpump,ANCAP,SELL,dev sold,0,0.06364,-36.4,stop loss -35%,5567,0.4,-30.9,2
+2026-10-15 22:38:22,C9FZ462s4VRVgn1iC5PMNfLoNh6ZfW7YJbWM8pSupump,FRONT+,SELL,dev holds 50.8%,0,0.0183,-81.7,dev sold,3213,37.5,-79.8,35
+2026-10-15 22:38:54,2oAjBuofqiVvskQwnjdXmefx1JYRRw5yiku8V7M9pump,River,SELL,bundled: 4 launch wallets own 13%,0,0.29772,197.7,take profit +202%,31548,221.6,0.4,149
+2026-10-15 22:40:08,8PwXxnCJ5SEGCrUrPNcRw1ioFrFw8EKML5fqwFFopump,FRONTIER+,BUY,dev holds 50.8%,0,0.1,,,15086,,,
+2026-10-15 22:43:52,8PwXxnCJ5SEGCrUrPNcRw1ioFrFw8EKML5fqwFFopump,FRONTIER+,SELL,dev holds 50.8%,0,0.16175,61.7,no trading (stale),26358,74.7,-1.2,223
+2026-10-15 22:43:58,12sQLdvQbhSALfjCzT7puLYSdGkEzKwXFWpacfq9pump,Catcoin,BUY,dev sold,0,0.1,,,8009,,,
+2026-10-15 22:46:00,12sQLdvQbhSALfjCzT7puLYSdGkEzKwXFWpacfq9pump,Catcoin,SELL,dev sold,0,0.06285,-37.2,stop loss -36%,5465,56.9,-31.8,122
+2026-10-15 22:46:06,8df2xuq1c4wRKEdiqBzkRJwkdZyVvSPLng3FmmZkpump,LOCKEDCAT,BUY,dev holds 50.0%,0,0.1,,,30743,,,
+2026-10-15 22:46:18,Bp69NHvNDQaurRbiGfzCJyncXwQAhJUvySFiUbozpump,CHILLMONKEY,SELL,score below threshold,40.0,0.10533,5.3,dev sold,23231,26.8,-7.6,554
+2026-10-15 22:47:34,3p6xYRMj42rAnpz7q8GQwQjDFXwjCHTKiohiHPUNpump,PCAT,BUY,dev sold,0,0.1,,,9790,,,
+2026-10-15 22:47:38,3AjueqE4RaFYrq6Jjch9QHtugDHUithrnFEJaZyrpump,DOAN,BUY,dev holds 10.2%,0,0.1,,,10005,,,
+2026-10-15 22:47:42,3AjueqE4RaFYrq6Jjch9QHtugDHUithrnFEJaZyrpump,DOAN,SELL,dev holds 10.2%,0,0.04159,-58.4,stop loss -57%,4532,12.7,-54.7,4
+2026-10-15 22:47:43,3p6xYRMj42rAnpz7q8GQwQjDFXwjCHTKiohiHPUNpump,PCAT,SELL,dev sold,0,0.06145,-38.5,stop loss -37%,6530,9.1,-33.3,9
+2026-10-15 22:49:29,8df2xuq1c4wRKEdiqBzkRJwkdZyVvSPLng3FmmZkpump,LOCKEDCAT,SELL,dev holds 50.0%,0,0.13106,31.1,no trading (stale),43500,41.5,-8.5,203
+2026-10-15 22:49:35,DaK3Y3QDSRKy3Ud18EDcPzC56iERSVyddJnJ3X4Xpump,DOAN,BUY,dev holds 10.2%,0,0.1,,,11792,,,
+2026-10-15 22:50:48,DaK3Y3QDSRKy3Ud18EDcPzC56iERSVyddJnJ3X4Xpump,DOAN,SELL,dev holds 10.2%,0,0.08556,-14.4,dev sold,10925,38.8,-7.3,73
+2026-10-15 22:50:51,BKy4UnWjrkGQe3AFdMnN1uUJEJAqm8JdZk7sjxVTpump,POLY,BUY,dev sold,0,0.1,,,8624,,,
+2026-10-15 22:51:45,BKy4UnWjrkGQe3AFdMnN1uUJEJAqm8JdZk7sjxVTpump,POLY,SELL,dev sold,0,0.08474,-15.3,shift ended,7919,42.5,-17.2,53
