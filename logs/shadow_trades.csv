@@ -5075,3 +5075,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 05:52:29,Hbcyeyse1sUB8u4YfBnCSFcq7tGa4KDqorEvjHcspump,UNSAID,SELL,bundled: 36 launch wallets own 43%,0,0.12783,27.8,shift ended,12047,86.1,3.7,264
 2026-10-15 05:52:29,9vVqdP84W3n9Cjzz7mcZdPYBfKJvhAC5EiUYKB4hpump,LUMINOUS,SELL,dev holds 52.4%,0,0.27152,171.5,shift ended,42049,193.1,-0.2,201
 2026-10-15 05:52:29,7gZoL67bQBwFiU7tNBaegZsjbWk5zotviwgFrPsopump,SURFROG,SELL,bundled: 19 launch wallets own 73%,0,0.09635,-3.6,shift ended,37304,4.1,-4.4,49
+2026-10-15 06:45:10,VqJxmMCpu1sSzfi3VxV2mry9GEfczvzXGumSp5Wpump,Nuannuan,BUY,dev sold,0,0.1,,,12091,,,
+2026-10-15 06:45:16,VqJxmMCpu1sSzfi3VxV2mry9GEfczvzXGumSp5Wpump,Nuannuan,SELL,dev sold,0,0.0582,-41.8,stop loss -41%,7638,11.3,-36.8,6
+2026-10-15 06:46:55,pxfCbyS6TMafTLT5gcGYPjPsRftx5NBNJzg9dXvpump,Nuannuan,BUY,dev sold,0,0.1,,,12658,,,
+2026-10-15 06:46:59,pxfCbyS6TMafTLT5gcGYPjPsRftx5NBNJzg9dXvpump,Nuannuan,SELL,dev sold,0,0.06216,-37.8,stop loss -37%,8536,0.0,-32.6,3
+2026-10-15 06:48:52,5fnw2BiYU8cpWrRC62kpoYJcxA9nvR1MKJaHhzkypump,REA,BUY,dev sold,0,0.1,,,42049,,,
+2026-10-15 06:49:42,hZgMNtv8LsWFCAYcCmhDegpA9qzReqQ8u8edmmvpump,REA,BUY,dev sold,0,0.1,,,10259,,,
+2026-10-15 06:49:57,hZgMNtv8LsWFCAYcCmhDegpA9qzReqQ8u8edmmvpump,REA,SELL,dev sold,0,0.06272,-37.3,stop loss -36%,6982,0.2,-31.9,15
+2026-10-15 06:51:49,5fnw2BiYU8cpWrRC62kpoYJcxA9nvR1MKJaHhzkypump,REA,SELL,dev sold,0,0.09252,-7.5,no trading (stale),41885,0.0,0.0,177
+2026-10-15 06:55:42,AFxtWvwBFdadzz3nojf9THu15LqvmrMqmtVzAgAApump,REA,BUY,dev sold,0,0.1,,,12627,,,
+2026-10-15 06:56:35,56d2z9RAWMPdCDK47TjVMLRhknqsAihUDbAn2zASpump,SYCAMORE,BUY,dev sold,0,0.1,,,11867,,,
+2026-10-15 06:56:39,56d2z9RAWMPdCDK47TjVMLRhknqsAihUDbAn2zASpump,SYCAMORE,SELL,dev sold,0,0.04615,-53.9,stop loss -53%,5957,0.0,-49.8,4
+2026-10-15 06:56:40,6SHZLuPTLbgiThe1oBrGp2udzbvitbd8G6qRFNQkpump,REA,BUY,dev sold,0,0.1,,,11159,,,
+2026-10-15 06:56:40,AFxtWvwBFdadzz3nojf9THu15LqvmrMqmtVzAgAApump,REA,SELL,dev sold,0,0.0616,-38.4,stop loss -37%,8440,46.4,-33.2,58
+2026-10-15 06:56:54,6SHZLuPTLbgiThe1oBrGp2udzbvitbd8G6qRFNQkpump,REA,SELL,dev sold,0,0.06072,-39.3,stop loss -38%,7353,1.7,-34.1,14
