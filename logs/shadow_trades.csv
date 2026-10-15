@@ -5147,3 +5147,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 12:58:51,E6PByaUyVqq3Ekz3GEvwctgCgdeKCRTr4nKegitBpump,Uni,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,11382,21.7,-31.1,97
 2026-10-15 13:01:06,HzLjbEvqtGypYnJudCWzXqnPK5LhDvz4gL4azmAopump,XMart,BUY,dev sold,0,0.1,,,8121,,,
 2026-10-15 13:02:01,HzLjbEvqtGypYnJudCWzXqnPK5LhDvz4gL4azmAopump,XMart,SELL,dev sold,0,0.06162,-38.4,stop loss -37%,5433,68.0,-33.1,55
+2026-10-15 13:45:33,J9vsuG8R8Fv6kg75K3LXq1AeW1JcMNLG9RafUMuqpump,NOBLUR,BUY,dev sold,0,0.1,,,12977,,,
+2026-10-15 13:46:31,J9vsuG8R8Fv6kg75K3LXq1AeW1JcMNLG9RafUMuqpump,NOBLUR,SELL,dev sold,0,0.06207,-37.9,stop loss -37%,8738,56.0,-32.7,58
+2026-10-15 13:50:14,A7zcCnwoN96TovFUrkbrAtsKNvYhrhaGGYGQQ2u3pump,XMART,BUY,dev sold,0,0.1,,,8100,,,
+2026-10-15 13:52:24,A7zcCnwoN96TovFUrkbrAtsKNvYhrhaGGYGQQ2u3pump,XMART,SELL,dev sold,0,0.06324,-36.8,stop loss -35%,5560,138.2,-31.4,130
+2026-10-15 14:01:25,9sfAtahu2carW4wU8xWsUEtbCekheRWsZ333CSuFpump,BLUBBER,BUY,dev sold,0,0.1,,,10278,,,
+2026-10-15 14:02:17,UzAxNdy9HCVxQ9UGmCqxjFJBD4sLgFxScNByxQSpump,SOFI,BUY,dev sold,0,0.1,,,12779,,,
+2026-10-15 14:02:56,UzAxNdy9HCVxQ9UGmCqxjFJBD4sLgFxScNByxQSpump,SOFI,SELL,dev sold,0,0.06087,-39.1,stop loss -38%,8439,10.7,-34.0,39
+2026-10-15 14:03:43,8XVZUnMvMQzZs44RQjAUxa4ajDhc1CGMXFpC4o16pump,AUTCRAFT,BUY,dev sold,0,0.1,,,8255,,,
+2026-10-15 14:04:05,9sfAtahu2carW4wU8xWsUEtbCekheRWsZ333CSuFpump,BLUBBER,SELL,dev sold,0,0.22749,127.5,shift ended,25258,162.6,5.2,160
+2026-10-15 14:04:05,8XVZUnMvMQzZs44RQjAUxa4ajDhc1CGMXFpC4o16pump,AUTCRAFT,SELL,dev sold,0,0.10505,5.1,shift ended,9388,119.1,4.3,22
