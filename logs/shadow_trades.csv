@@ -5101,3 +5101,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 08:02:36,12kQB4WCZj1Kr61maq4M1APGSa4ynrjTmYUWWPhppump,CAKE,SELL,bundled: 7 launch wallets own 56%,0,0.12043,20.4,shift ended,18050,30.2,-5.9,239
 2026-10-15 08:49:43,HzwyBdASDkCuwhb6DKZjmMat49zt7hnXZjNMf246pump,PEBBLE,BUY,dev sold,0,0.1,,,9374,,,
 2026-10-15 08:50:14,HzwyBdASDkCuwhb6DKZjmMat49zt7hnXZjNMf246pump,PEBBLE,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,6446,0.5,-31.2,31
+2026-10-15 09:39:09,4bFyHEtq9HjAmT31RFf741USYGFGwZ2b1kmb4zTspump,Sofi,BUY,dev sold,0,0.1,,,9729,,,
+2026-10-15 09:40:06,4bFyHEtq9HjAmT31RFf741USYGFGwZ2b1kmb4zTspump,Sofi,SELL,dev sold,0,0.06117,-38.8,stop loss -38%,6459,15.8,-33.6,57
+2026-10-15 09:41:55,64xncy8vrFNCfABgnwP6Wqi5gLKDdjtrATeWQkD2pump,H2O,BUY,dev sold,0,0.1,,,14115,,,
+2026-10-15 09:43:56,GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump,APE,BUY,bundled: 11 launch wallets own 72%,0,0.1,,,15592,,,
+2026-10-15 09:44:15,DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump,FOMOHAND,BUY,bundled: 5 launch wallets own 46%,0,0.1,,,9983,,,
+2026-10-15 09:47:05,DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump,FOMOHAND,SELL,bundled: 5 launch wallets own 46%,0,0.12221,22.2,dev sold,13199,45.7,-1.4,170
+2026-10-15 09:48:16,64xncy8vrFNCfABgnwP6Wqi5gLKDdjtrATeWQkD2pump,H2O,SELL,dev sold,0,0.06301,-37.0,stop loss -36%,9648,37.6,-31.7,381
+2026-10-15 09:48:57,GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump,APE,SELL,bundled: 11 launch wallets own 72%,0,0.25121,151.2,no trading (stale),42284,171.1,-19.4,300
