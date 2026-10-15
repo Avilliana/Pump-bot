@@ -5109,3 +5109,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 09:47:05,DRqSqPAXkxtCTbCASRygN7MCYMeKkwAGZvg4LXPGpump,FOMOHAND,SELL,bundled: 5 launch wallets own 46%,0,0.12221,22.2,dev sold,13199,45.7,-1.4,170
 2026-10-15 09:48:16,64xncy8vrFNCfABgnwP6Wqi5gLKDdjtrATeWQkD2pump,H2O,SELL,dev sold,0,0.06301,-37.0,stop loss -36%,9648,37.6,-31.7,381
 2026-10-15 09:48:57,GkGWDk5y3vE84MVnVC8XnfbfBFc3TFp32vjvB8Pdpump,APE,SELL,bundled: 11 launch wallets own 72%,0,0.25121,151.2,no trading (stale),42284,171.1,-19.4,300
+2026-10-15 10:36:27,vaJ2tXfvML8sFstrEYtza7tmJGvbmBAp8Dvx3Qxpump,UNSUB,BUY,dev sold,0,0.1,,,9369,,,
+2026-10-15 10:42:24,G9SttqiXqdZgZxyFV1R3iiACiRkHmHT4iXW3chY8pump,BILLION,BUY,dev sold,0,0.1,,,10128,,,
+2026-10-15 10:44:55,96QCsTBL9G5LK1xoki3hK6pCpmifyKxNeAE4hZzgpump,NEYMAR,BUY,dev holds 20.0%,0,0.1,,,32348,,,
+2026-10-15 10:46:01,96QCsTBL9G5LK1xoki3hK6pCpmifyKxNeAE4hZzgpump,NEYMAR,SELL,dev holds 20.0%,0,0.06216,-37.8,stop loss -37%,21775,0.6,-32.6,66
+2026-10-15 10:46:49,BwfhQdmN6ChQSvMagZTMtL15JCL9skyEpm1ukB57pump,HELLCAT,BUY,bundled: 21 launch wallets own 73%,0,0.1,,,39948,,,
+2026-10-15 10:47:13,GvUtAGtemUoTEh4bLcnQ3e7wzCudWWDQ2Ah3WZtUpump,Chase,BUY,dev sold,0,0.1,,,9388,,,
+2026-10-15 10:48:14,vaJ2tXfvML8sFstrEYtza7tmJGvbmBAp8Dvx3Qxpump,UNSUB,SELL,dev sold,0,0.06069,-39.3,stop loss -38%,6168,39.4,-34.1,707
+2026-10-15 10:49:11,G9SttqiXqdZgZxyFV1R3iiACiRkHmHT4iXW3chY8pump,BILLION,SELL,dev sold,0,0.06164,-38.4,stop loss -37%,6771,163.8,-33.1,407
+2026-10-15 10:49:52,BwfhQdmN6ChQSvMagZTMtL15JCL9skyEpm1ukB57pump,HELLCAT,SELL,bundled: 21 launch wallets own 73%,0,0.09724,-2.8,no trading (stale),41976,5.1,1.8,183
+2026-10-15 10:50:58,GjFuWuuy3RSE5HExUUcm7MTLaYhDg9jnDJGuDahfpump,100K,BUY,dev sold,0,0.1,,,16004,,,
+2026-10-15 10:51:00,GjFuWuuy3RSE5HExUUcm7MTLaYhDg9jnDJGuDahfpump,100K,SELL,dev sold,0,0.06293,-37.1,stop loss -36%,10906,12.5,-31.9,2
+2026-10-15 10:52:33,3Bv9fRcho9KAv4Jh9RqB1aJSLJhKob8XUBoo334Qpump,TAMPERMONKEY,BUY,dev sold,0,0.1,,,8653,,,
+2026-10-15 10:52:53,3Bv9fRcho9KAv4Jh9RqB1aJSLJhKob8XUBoo334Qpump,TAMPERMONKEY,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,5857,32.6,-32.3,20
+2026-10-15 10:55:05,GvUtAGtemUoTEh4bLcnQ3e7wzCudWWDQ2Ah3WZtUpump,Chase,SELL,dev sold,0,0.10899,9.0,shift ended,11072,69.5,-10.9,472
