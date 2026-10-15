@@ -12,18 +12,18 @@ tokeniz
 sibos
 
 # ---- AUTO (updated daily by update_narratives.py; edits below get overwritten) ----
-trade
-fund
-old
-agents
-marketplace
-ecosystem
 ai
-halloween
-movement
-earn
-share
-together
-cult
-isn
-coming
+cat
+tools
+near
+pumpkin
+twist
+mix
+pumpkincat
+season
+culture
+perfect
+meta
+following
+known
+walk
