@@ -5287,3 +5287,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 17:52:19,8dypnmLDnWgRup9UcVk6H5WJ6aFFtcju6wqyJZKppump,AI-POLY,SELL,dev sold,0,0.10556,5.6,shift ended,13466,195.5,-27.2,716
 2026-10-15 17:52:19,DLKZSpwBVhpk8TUseUShGJXW8TSkDVZRUETNky7mhfNn,ARCHER,SELL,bundled: 9 launch wallets own 8%,0,0.18927,89.3,shift ended,19093,104.6,0.0,206
 2026-10-15 17:52:19,2tni4XmCTeWLffjNMgta2NmgbgTVtGtpSoemnQD5pump,RIVALS,SELL,dev holds 8.2%,0,0.15865,58.6,shift ended,16308,83.9,-0.4,122
+2026-10-15 18:39:56,G6J3U1caqAuQNiLMSDPLcG73FfnRunDqMF9NihM5pump,DOTF,BUY,dev holds 78.3%,0,0.1,,,43356,,,
+2026-10-15 18:40:12,95LduyaqLQkaPKJTG1BnJiFhAXjDndKY3RSknbJpump,Click,BUY,dev sold,0,0.1,,,16297,,,
+2026-10-15 18:41:23,95LduyaqLQkaPKJTG1BnJiFhAXjDndKY3RSknbJpump,Click,SELL,dev sold,0,0.06035,-39.6,stop loss -38%,10669,17.9,-34.5,71
+2026-10-15 18:42:38,G6J3U1caqAuQNiLMSDPLcG73FfnRunDqMF9NihM5pump,DOTF,SELL,dev holds 78.3%,0,0.09252,-7.5,no trading (stale),43356,0.0,0.0,162
+2026-10-15 18:43:19,AqMrw1tXhMQvu771f3jYr7XcP84u5pJYgWYpBtNbpump,BIMBO,BUY,dev sold,0,0.1,,,8758,,,
+2026-10-15 18:45:21,8VbRsD1tTbjnj9e5xzMSpp3tAcnXq4tiRo6Vsx52pump,put,BUY,dev sold,0,0.1,,,10477,,,
+2026-10-15 18:46:00,LYvL7spWxkFUA5xdPeYHNCVcbU67GGNHjqqxF2spump,SCF,BUY,dev sold,0,0.1,,,8029,,,
+2026-10-15 18:46:28,8VbRsD1tTbjnj9e5xzMSpp3tAcnXq4tiRo6Vsx52pump,put,SELL,dev sold,0,0.05174,-48.3,stop loss -47%,5891,98.2,-43.8,67
+2026-10-15 18:47:21,AqMrw1tXhMQvu771f3jYr7XcP84u5pJYgWYpBtNbpump,BIMBO,SELL,dev sold,0,0.29701,197.0,take profit +201%,28109,221.0,-11.0,242
+2026-10-15 18:48:05,LYvL7spWxkFUA5xdPeYHNCVcbU67GGNHjqqxF2spump,SCF,SELL,dev sold,0,0.30021,200.2,take profit +205%,26114,224.5,-9.4,126
+2026-10-15 18:48:38,65v5tWHbxa99Bq13WhctnLMfBNJ3xknnAhPqwy82pump,鬧鬧,BUY,dev sold,0,0.1,,,11398,,,
+2026-10-15 18:48:47,DUgERVXirToaQVh8NDMwdtB2mtkwUCyfB1fn75eUpump,DICKBUTTIFIER,BUY,bundled: 20 launch wallets own 6%,0,0.1,,,8671,,,
+2026-10-15 18:49:03,DUgERVXirToaQVh8NDMwdtB2mtkwUCyfB1fn75eUpump,DICKBUTTIFIER,SELL,bundled: 20 launch wallets own 6%,0,0.09049,-9.5,dev sold,8499,4.6,-2.0,16
+2026-10-15 18:49:09,4ji9u8CAWYWG7wEbCuE2SDdNA7WqkvNHvaycbUxwpump,Cinder,BUY,dev sold,0,0.1,,,12910,,,
+2026-10-15 18:49:09,4ji9u8CAWYWG7wEbCuE2SDdNA7WqkvNHvaycbUxwpump,Cinder,SELL,dev sold,0,0.06297,-37.0,stop loss -36%,8818,0.0,-31.7,0
+2026-10-15 18:51:03,65v5tWHbxa99Bq13WhctnLMfBNJ3xknnAhPqwy82pump,鬧鬧,SELL,dev sold,0,0.29605,196.1,take profit +200%,36440,219.7,0.4,145
+2026-10-15 18:51:53,2HkzWDeuyMsQyNYMwyTLckzr3E39xpgycHrsrK9rpump,HERNANDO,BUY,dev sold,0,0.1,,,13870,,,
+2026-10-15 18:52:01,2HkzWDeuyMsQyNYMwyTLckzr3E39xpgycHrsrK9rpump,HERNANDO,SELL,dev sold,0,0.0631,-36.9,stop loss -36%,9493,34.3,-31.6,8
+2026-10-15 18:53:45,CcPoqJepNKFUHkYSFveTcxPzAF5WuvaF79WJzP1upump,Ryan,BUY,dev sold,0,0.1,,,10146,,,
+2026-10-15 18:54:32,CcPoqJepNKFUHkYSFveTcxPzAF5WuvaF79WJzP1upump,Ryan,SELL,dev sold,0,0.06316,-36.8,stop loss -36%,6953,14.0,-31.5,46
+2026-10-15 18:56:06,4Fp39bp42GJ9zFoDe3wqv9T4GQMEjj4yq25GQ7pcpump,MILLIE,BUY,dev sold,0,0.1,,,14284,,,
+2026-10-15 18:56:14,4Fp39bp42GJ9zFoDe3wqv9T4GQMEjj4yq25GQ7pcpump,MILLIE,SELL,dev sold,0,0.06138,-38.6,stop loss -37%,9512,10.0,-33.4,8
