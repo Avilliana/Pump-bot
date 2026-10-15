@@ -5123,3 +5123,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 10:52:33,3Bv9fRcho9KAv4Jh9RqB1aJSLJhKob8XUBoo334Qpump,TAMPERMONKEY,BUY,dev sold,0,0.1,,,8653,,,
 2026-10-15 10:52:53,3Bv9fRcho9KAv4Jh9RqB1aJSLJhKob8XUBoo334Qpump,TAMPERMONKEY,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,5857,32.6,-32.3,20
 2026-10-15 10:55:05,GvUtAGtemUoTEh4bLcnQ3e7wzCudWWDQ2Ah3WZtUpump,Chase,SELL,dev sold,0,0.10899,9.0,shift ended,11072,69.5,-10.9,472
+2026-10-15 11:37:27,Ek4RBtvYYJc996wtPjXKfxk6yU818GBSN62gJ9aqpump,P-22,BUY,dev sold,0,0.1,,,8353,,,
+2026-10-15 11:37:51,Ek4RBtvYYJc996wtPjXKfxk6yU818GBSN62gJ9aqpump,P-22,SELL,dev sold,0,0.0631,-36.9,stop loss -36%,5721,4.0,-31.5,24
+2026-10-15 11:40:06,4jLBV2phahxGYRFxfBjNJMRntXR5hjz5MJFZDxAqpump,Cosmo,BUY,dev sold,0,0.1,,,9542,,,
+2026-10-15 11:40:41,4jLBV2phahxGYRFxfBjNJMRntXR5hjz5MJFZDxAqpump,Cosmo,SELL,dev sold,0,0.06234,-37.7,stop loss -36%,6456,8.3,-32.3,35
