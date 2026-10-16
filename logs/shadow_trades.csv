@@ -5591,3 +5591,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 10:53:52,GpzWWb7bRUQtXE4AzYugXmmZW46DhWdL2tgKpHsGpump,normie,BUY,dev sold,0,0.1,,,8982,,,
 2026-10-16 10:54:30,HN6w3mGH17R1HHn2o6RdSp5ZYqf3p8Gaovteta9Mpump,ZKAPI,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,6719,6.2,-31.0,63
 2026-10-16 10:54:42,GpzWWb7bRUQtXE4AzYugXmmZW46DhWdL2tgKpHsGpump,normie,SELL,dev sold,0,0.07668,-23.3,shift ended,7466,3.7,-24.4,50
+2026-10-16 11:36:47,3n79bAscLDnus36NyvrnxifTRbSqSU2hBS5sGYN1pump,CORA,BUY,dev sold,0,0.1,,,11308,,,
+2026-10-16 11:41:09,3n79bAscLDnus36NyvrnxifTRbSqSU2hBS5sGYN1pump,CORA,SELL,dev sold,0,0.06247,-37.5,stop loss -36%,7665,115.5,-32.2,262
+2026-10-16 11:44:11,6jB9HdtveWSYsF8gJHtnPSWHjptTZ3Xa4EVxw6mZpump,TMD,BUY,bundled: 12 launch wallets own 75%,0,0.1,,,39447,,,
+2026-10-16 11:45:35,6jB9HdtveWSYsF8gJHtnPSWHjptTZ3Xa4EVxw6mZpump,TMD,SELL,bundled: 12 launch wallets own 75%,0,0.03554,-64.5,stop loss -64%,15279,6.7,-61.3,84
