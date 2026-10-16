@@ -5449,3 +5449,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-15 23:42:34,84R77CNusLQk9ibkR65iVMzAGdvbfgUipWfwdoaWpump,ChainSplit,BUY,dev holds 28.5%,0,0.1,,,8614,,,
 2026-10-15 23:43:37,CQYxPFsCk5DaD6q14Qnccj45BX4KfB5334LELmnVpump,well,SELL,bundled: 11 launch wallets own 15%,0,0.29914,199.1,take profit +203%,32479,223.1,-4.9,439
 2026-10-15 23:47:13,84R77CNusLQk9ibkR65iVMzAGdvbfgUipWfwdoaWpump,ChainSplit,SELL,dev holds 28.5%,0,0.09321,-6.8,shift ended,8696,6.5,-5.3,279
+2026-10-16 00:22:21,G1QdDAyK4Nst16s9213TbV39PGaixRd617Yfm5jnpump,BC,BUY,dev sold,0,0.1,,,9214,,,
+2026-10-16 00:23:19,G1QdDAyK4Nst16s9213TbV39PGaixRd617Yfm5jnpump,BC,SELL,dev sold,0,0.06153,-38.5,stop loss -37%,6154,12.5,-33.2,58
+2026-10-16 00:23:24,4C6DhuAj4VCJpJPYXtfai6ZFMLiJPfi5n6v9juk1pump,FILO,BUY,dev sold,0,0.1,,,10108,,,
+2026-10-16 00:23:56,4C6DhuAj4VCJpJPYXtfai6ZFMLiJPfi5n6v9juk1pump,FILO,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,6879,57.0,-31.9,32
+2026-10-16 00:24:53,4UQsHX4ohoNm6RSwpdpbiyEf4sBnKvw8F7jfg1Nopump,BC,BUY,dev sold,0,0.1,,,9513,,,
+2026-10-16 00:25:03,4UQsHX4ohoNm6RSwpdpbiyEf4sBnKvw8F7jfg1Nopump,BC,SELL,dev sold,0,0.0613,-38.7,stop loss -37%,6329,0.1,-33.5,10
+2026-10-16 00:26:20,DBbBt37UCVqAZuakToMYfcQ8FrGAFAKRJmE499Zpump,GPU,BUY,score below threshold,44.6,0.1,,,10375,,,
+2026-10-16 00:27:43,7UUf4nw1gckXBt3DtdXayJ4SQQ8NTtCGuzNYWZjbpump,shitcoin,BUY,bundled: 9 launch wallets own 10%,0,0.1,,,8526,,,
+2026-10-16 00:28:16,DBbBt37UCVqAZuakToMYfcQ8FrGAFAKRJmE499Zpump,GPU,SELL,score below threshold,44.6,0.06312,-36.9,stop loss -36%,7106,0.0,-31.5,117
+2026-10-16 00:28:30,HvLT7dkf6wTw5Km6NuNd91VRYnKjRx5TUs19wbMrpump,Lily,BUY,dev sold,0,0.1,,,8425,,,
+2026-10-16 00:28:45,HvLT7dkf6wTw5Km6NuNd91VRYnKjRx5TUs19wbMrpump,Lily,SELL,dev sold,0,0.06244,-37.6,stop loss -36%,5700,0.1,-32.2,15
+2026-10-16 00:28:57,7UUf4nw1gckXBt3DtdXayJ4SQQ8NTtCGuzNYWZjbpump,shitcoin,SELL,bundled: 9 launch wallets own 10%,0,0.06364,-36.4,stop loss -35%,5878,23.6,-30.9,74
+2026-10-16 00:35:56,8bhWUnvPrNdqBAvx1z7fKsLm2bKnmuiELdcwLsqdpump,WW,BUY,bundled: 21 launch wallets own 18%,0,0.1,,,8354,,,
+2026-10-16 00:36:18,8bhWUnvPrNdqBAvx1z7fKsLm2bKnmuiELdcwLsqdpump,WW,SELL,bundled: 21 launch wallets own 18%,0,0.06834,-31.7,dev sold,6194,0.0,-30.0,22
