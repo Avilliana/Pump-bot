@@ -5515,3 +5515,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 03:51:45,AVKY9npmSwxZXJGQpZNp3FtLRavYT1iv2cyfUuvepump,S3XYR,BUY,dev sold,0,0.1,,,8893,,,
 2026-10-16 03:52:37,5y56y6RT3CUxUwGpktNj4vvSiRfTFphEsXoBU5Knpump,ENU,SELL,dev sold,0,0.20695,107.0,shift ended,19188,123.8,-11.8,236
 2026-10-16 03:52:37,AVKY9npmSwxZXJGQpZNp3FtLRavYT1iv2cyfUuvepump,S3XYR,SELL,dev sold,0,0.08706,-12.9,shift ended,8388,4.4,-18.9,52
+2026-10-16 04:39:56,8t1uLgLLjRFM5fKSJ6NQgcqufLkWkKaLf4DSVd1Ypump,Elon,BUY,dev sold,0,0.1,,,11017,,,
+2026-10-16 04:40:06,8t1uLgLLjRFM5fKSJ6NQgcqufLkWkKaLf4DSVd1Ypump,Elon,SELL,dev sold,0,0.06269,-37.3,stop loss -36%,7494,0.0,-32.0,10
+2026-10-16 04:49:45,C59cBh3G8D3Gv2rXmyfCiPdmnXZ1166uM6R5VGoZpump,crackdotfun,BUY,dev sold,0,0.1,,,11593,,,
+2026-10-16 04:50:07,C59cBh3G8D3Gv2rXmyfCiPdmnXZ1166uM6R5VGoZpump,crackdotfun,SELL,dev sold,0,0.06364,-36.4,stop loss -35%,8004,22.6,-31.0,21
+2026-10-16 04:51:06,5gFQJKGAbMZwErxr1Kk2xckEJS3Udt65GNwya9vrpump,Unstuck,BUY,bundled: 5 launch wallets own 15%,0,0.1,,,8445,,,
+2026-10-16 04:51:56,5gFQJKGAbMZwErxr1Kk2xckEJS3Udt65GNwya9vrpump,Unstuck,SELL,bundled: 5 launch wallets own 15%,0,0.12036,20.4,dev sold,10998,68.2,-4.3,51
