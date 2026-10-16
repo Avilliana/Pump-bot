@@ -5767,3 +5767,5 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 20:46:58,H9yYmyGeUHvCsD98R5Xqk6ofGf3GhSdRU92udbJrpump,PUMP,SELL,bundled: 27 launch wallets own 12%,0,0.03884,-61.2,stop loss -60%,4898,20.0,-57.7,18
 2026-10-16 20:50:15,2UrJcvursk12wiWc59TR1L8h95snmMgyimySrZ1ppump,TTM,BUY,bundled: 9 launch wallets own 75%,0,0.1,,,41373,,,
 2026-10-16 20:50:58,2UrJcvursk12wiWc59TR1L8h95snmMgyimySrZ1ppump,TTM,SELL,bundled: 9 launch wallets own 75%,0,0.09531,-4.7,shift ended,42612,3.0,0.3,43
+2026-10-16 21:18:49,6VvtZeFQjEhqUzp2iMcVv3Wmkn4SX4Msojv5agvnpump,PASS,BUY,dev sold,0,0.1,,,13881,,,
+2026-10-16 21:18:52,4VjdJXbacsnnRDGvbkMFrrWsRUoE5DCrQGU97hUkpump,CARTEL,BUY,bundled: 15 launch wallets own 79%,0,0.1,,,42814,,,
