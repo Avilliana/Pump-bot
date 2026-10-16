@@ -5501,3 +5501,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 02:51:54,8TEvAWySk7XfBvLtc5YDvNvYZGb2qpqGQBUfsC8upump,Eloooong,BUY,dev sold,0,0.1,,,9403,,,
 2026-10-16 02:52:53,7XoHiioxfPewqysZRQDbS3MuwY69pJ3GuTpgsmgrpump,MENTOR,SELL,dev holds 10.0%,0,0.12829,28.3,shift ended,18902,78.7,-4.2,695
 2026-10-16 02:52:53,8TEvAWySk7XfBvLtc5YDvNvYZGb2qpqGQBUfsC8upump,Eloooong,SELL,dev sold,0,0.10969,9.7,shift ended,11162,76.1,-4.0,59
+2026-10-16 03:37:08,FTbLCDt9XQUF3VnqRikkM3XNnbRMXJUPUtpra51Dpump,FLOKI,BUY,dev sold,0,0.1,,,8555,,,
+2026-10-16 03:38:17,FTbLCDt9XQUF3VnqRikkM3XNnbRMXJUPUtpra51Dpump,FLOKI,SELL,dev sold,0,0.29856,198.6,take profit +203%,27604,222.7,-12.1,68
+2026-10-16 03:39:14,895Wgvqwhvwpnx7vtRDwXnTBweA7n1GAh8M9cYa5pump,FLOKI,BUY,dev sold,0,0.1,,,9212,,,
+2026-10-16 03:42:42,895Wgvqwhvwpnx7vtRDwXnTBweA7n1GAh8M9cYa5pump,FLOKI,SELL,dev sold,0,0.05927,-40.7,stop loss -39%,5895,48.3,-35.6,208
+2026-10-16 03:43:23,5aepFZpsthNZ9begQrQqZ5WwZTAupqU8QojdmuTVpump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,15413,,,
+2026-10-16 03:43:55,5aepFZpsthNZ9begQrQqZ5WwZTAupqU8QojdmuTVpump,LUMINOUS,SELL,dev holds 52.4%,0,0.05752,-42.5,dev sold,9621,101.2,-37.6,32
+2026-10-16 03:45:49,BaheqQSXApyaPZXrDGXK25MYkuC8RrD193j1az7ppump,LUMINOUS,BUY,dev holds 52.4%,0,0.1,,,18315,,,
+2026-10-16 03:46:20,FB96hu3rSSzGFnFCXXgoQQet9c4rAY2M8tgRuqx8pump,Eloncoin,BUY,dev sold,0,0.1,,,21778,,,
+2026-10-16 03:46:36,FB96hu3rSSzGFnFCXXgoQQet9c4rAY2M8tgRuqx8pump,Eloncoin,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,14978,1.8,-31.2,16
+2026-10-16 03:48:40,5y56y6RT3CUxUwGpktNj4vvSiRfTFphEsXoBU5Knpump,ENU,BUY,dev sold,0,0.1,,,8578,,,
+2026-10-16 03:49:40,BaheqQSXApyaPZXrDGXK25MYkuC8RrD193j1az7ppump,LUMINOUS,SELL,dev holds 52.4%,0,0.21771,117.7,no trading (stale),43031,134.9,-1.4,230
+2026-10-16 03:51:45,AVKY9npmSwxZXJGQpZNp3FtLRavYT1iv2cyfUuvepump,S3XYR,BUY,dev sold,0,0.1,,,8893,,,
+2026-10-16 03:52:37,5y56y6RT3CUxUwGpktNj4vvSiRfTFphEsXoBU5Knpump,ENU,SELL,dev sold,0,0.20695,107.0,shift ended,19188,123.8,-11.8,236
+2026-10-16 03:52:37,AVKY9npmSwxZXJGQpZNp3FtLRavYT1iv2cyfUuvepump,S3XYR,SELL,dev sold,0,0.08706,-12.9,shift ended,8388,4.4,-18.9,52
