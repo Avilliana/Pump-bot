@@ -5769,3 +5769,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 20:50:58,2UrJcvursk12wiWc59TR1L8h95snmMgyimySrZ1ppump,TTM,SELL,bundled: 9 launch wallets own 75%,0,0.09531,-4.7,shift ended,42612,3.0,0.3,43
 2026-10-16 21:18:49,6VvtZeFQjEhqUzp2iMcVv3Wmkn4SX4Msojv5agvnpump,PASS,BUY,dev sold,0,0.1,,,13881,,,
 2026-10-16 21:18:52,4VjdJXbacsnnRDGvbkMFrrWsRUoE5DCrQGU97hUkpump,CARTEL,BUY,bundled: 15 launch wallets own 79%,0,0.1,,,42814,,,
+2026-10-16 22:35:00,Cipy42M4yDTmVUkNepPogGtPRzUqq4nMjgaNnyJ9pump,Hotdog,BUY,dev sold,0,0.1,,,8437,,,
+2026-10-16 22:40:47,6bC3128mhbzPc7oL3b5D9GPkxKJBriUwXVic7Rcapump,PEDRO,BUY,dev holds 15.3%,0,0.1,,,42892,,,
+2026-10-16 22:41:00,7VrwyBaNL44hC3FSmmGcsgLHZ5zTmKuUVUbyantVpump,PACK,BUY,dev holds 29.9%,0,0.1,,,12029,,,
+2026-10-16 22:41:00,7VrwyBaNL44hC3FSmmGcsgLHZ5zTmKuUVUbyantVpump,PACK,SELL,dev holds 29.9%,0,0.06103,-39.0,stop loss -38%,7967,0.0,-33.8,1
+2026-10-16 22:41:36,7gC1gaEezuXF2mAEXTzkmJMxCAko3vcPVB2XReCpump,RL,BUY,bundled: 24 launch wallets own 6%,0,0.1,,,19235,,,
+2026-10-16 22:42:28,7gC1gaEezuXF2mAEXTzkmJMxCAko3vcPVB2XReCpump,RL,SELL,bundled: 24 launch wallets own 6%,0,0.06254,-37.5,stop loss -36%,13037,15.4,-32.2,52
+2026-10-16 22:43:17,6bC3128mhbzPc7oL3b5D9GPkxKJBriUwXVic7Rcapump,PEDRO,SELL,dev holds 15.3%,0,0.09252,-7.5,no trading (stale),42875,0.0,0.0,150
+2026-10-16 22:45:42,8Ji5gLV882UBNXbkqALCLHDZx9neAikLnp3pYqtrpump,Onboard,BUY,dev sold,0,0.1,,,8428,,,
+2026-10-16 22:46:48,EUgnJFo9ki296cqL3f9FDoaeWdz39mF5nmyFjadpump,MOD,BUY,bundled: 62 launch wallets own 24%,0,0.1,,,17900,,,
+2026-10-16 22:47:18,8Ji5gLV882UBNXbkqALCLHDZx9neAikLnp3pYqtrpump,Onboard,SELL,dev sold,0,0.05971,-40.3,stop loss -39%,5465,82.8,-35.2,96
+2026-10-16 22:47:24,q3yW8YpTdptVu3GxEnURNvDygw6owRNND6haw1Zpump,MALU,BUY,dev holds 15.3%,0,0.1,,,16130,,,
+2026-10-16 22:47:25,q3yW8YpTdptVu3GxEnURNvDygw6owRNND6haw1Zpump,MALU,SELL,dev holds 15.3%,0,0.0507,-49.3,dev sold,8884,1.7,-44.9,1
+2026-10-16 22:48:49,EUgnJFo9ki296cqL3f9FDoaeWdz39mF5nmyFjadpump,MOD,SELL,bundled: 62 launch wallets own 24%,0,0.06247,-37.5,stop loss -36%,12126,2.4,-32.3,120
+2026-10-16 22:50:10,FxD7Ch3JyTHnSDhjdFDYG1UN77QqnXounpraDJScpump,FCAT,BUY,dev sold,0,0.1,,,11547,,,
+2026-10-16 22:50:29,DfeBxYt6BkHyx7QgsJLMCFE5NBHQCEuqPqDKsWXbpump,SORRY,BUY,dev holds 15.3%,0,0.1,,,8533,,,
+2026-10-16 22:50:54,GmKk2C631f28k7G5AFbmvvEtHDP4HUJVRxUDk2dVpump,LANDED,BUY,top10 hold 40%,0,0.1,,,14853,,,
+2026-10-16 22:51:00,DfeBxYt6BkHyx7QgsJLMCFE5NBHQCEuqPqDKsWXbpump,SORRY,SELL,dev holds 15.3%,0,0.06346,-36.5,stop loss -35%,5877,0.0,-31.1,31
+2026-10-16 22:51:47,Cipy42M4yDTmVUkNepPogGtPRzUqq4nMjgaNnyJ9pump,Hotdog,SELL,dev sold,0,0.10099,1.0,shift ended,9222,39.0,-29.1,1007
+2026-10-16 22:51:47,FxD7Ch3JyTHnSDhjdFDYG1UN77QqnXounpraDJScpump,FCAT,SELL,dev sold,0,0.11881,18.8,shift ended,14836,117.3,-6.4,97
+2026-10-16 22:51:47,GmKk2C631f28k7G5AFbmvvEtHDP4HUJVRxUDk2dVpump,LANDED,SELL,top10 hold 40%,0,0.12373,23.7,shift ended,19863,43.0,-1.4,53
