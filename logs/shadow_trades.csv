@@ -5581,3 +5581,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 09:42:46,EbkmPxpGUndfpCw9bJbXsRdbpijYSzXS5yNAfURpump,BIRD,SELL,dev sold,0,0.06203,-38.0,stop loss -37%,6374,2.7,-32.7,25
 2026-10-16 09:47:36,APK3kNoLGwi2pZAuCdRRA5oenvREMC9eaqhqwL3cpump,Vaquita,BUY,dev sold,0,0.1,,,16448,,,
 2026-10-16 09:47:56,APK3kNoLGwi2pZAuCdRRA5oenvREMC9eaqhqwL3cpump,Vaquita,SELL,dev sold,0,0.06335,-36.7,stop loss -35%,11299,3.7,-31.3,21
+2026-10-16 10:36:43,EWoWymUHRCvGpoYN81EYJHEmzzivMMaaFM8uXBQppump,Lulu,BUY,dev sold,0,0.1,,,9863,,,
+2026-10-16 10:39:51,26PA5FuhvWotDDqosc4KB1PwECnat1zJyvdqKfeSpump,JERKOFF,BUY,bundled: 15 launch wallets own 75%,0,0.1,,,34025,,,
+2026-10-16 10:40:05,26PA5FuhvWotDDqosc4KB1PwECnat1zJyvdqKfeSpump,JERKOFF,SELL,bundled: 15 launch wallets own 75%,0,0.01762,-82.4,stop loss -82%,6626,0.0,-80.5,14
+2026-10-16 10:42:54,EWoWymUHRCvGpoYN81EYJHEmzzivMMaaFM8uXBQppump,Lulu,SELL,dev sold,0,0.06285,-37.2,stop loss -36%,6727,118.0,-31.8,371
+2026-10-16 10:49:39,9q6M4bi3WhFeAot4sMzEG1Di2HG2dGvETFK5iuBUpump,teslajak,BUY,bundled: 8 launch wallets own 71%,0,0.1,,,34879,,,
+2026-10-16 10:52:52,9q6M4bi3WhFeAot4sMzEG1Di2HG2dGvETFK5iuBUpump,teslajak,SELL,bundled: 8 launch wallets own 71%,0,0.11623,16.2,no trading (stale),43783,25.5,1.6,192
+2026-10-16 10:53:28,HN6w3mGH17R1HHn2o6RdSp5ZYqf3p8Gaovteta9Mpump,ZKAPI,BUY,dev sold,0,0.1,,,9730,,,
+2026-10-16 10:53:52,GpzWWb7bRUQtXE4AzYugXmmZW46DhWdL2tgKpHsGpump,normie,BUY,dev sold,0,0.1,,,8982,,,
+2026-10-16 10:54:30,HN6w3mGH17R1HHn2o6RdSp5ZYqf3p8Gaovteta9Mpump,ZKAPI,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,6719,6.2,-31.0,63
+2026-10-16 10:54:42,GpzWWb7bRUQtXE4AzYugXmmZW46DhWdL2tgKpHsGpump,normie,SELL,dev sold,0,0.07668,-23.3,shift ended,7466,3.7,-24.4,50
