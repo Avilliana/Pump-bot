@@ -5491,3 +5491,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 01:50:58,Ayr3Gi716NcvufdRcfbioLoi7djSBazUhDUbCjyg2F3W,SEPOLIA,BUY,dev sold,0,0.1,,,20040,,,
 2026-10-16 01:51:22,Ayr3Gi716NcvufdRcfbioLoi7djSBazUhDUbCjyg2F3W,SEPOLIA,SELL,dev sold,0,0.06346,-36.5,stop loss -35%,13787,22.3,-31.2,24
 2026-10-16 01:53:16,EU34nvpairqagskgi2VdX2fCHGnLauURNycrGVJWpump,KICKFLIP,SELL,score below threshold,54.2,0.09178,-8.2,shift ended,10196,23.4,-14.1,790
+2026-10-16 02:41:18,7XoHiioxfPewqysZRQDbS3MuwY69pJ3GuTpgsmgrpump,MENTOR,BUY,dev holds 10.0%,0,0.1,,,13582,,,
+2026-10-16 02:42:20,R2ppuJ7qRyMGz3P4f1QddLMZG4CfTGN1toHZi7Hpump,DeLorean,BUY,dev sold,0,0.1,,,8792,,,
+2026-10-16 02:45:42,HL8QfkRjinVcSDAPUVRjfk1Xe2CgS8A3CAtTxxyxpump,Roccat,BUY,dev sold,0,0.1,,,9552,,,
+2026-10-16 02:46:07,R2ppuJ7qRyMGz3P4f1QddLMZG4CfTGN1toHZi7Hpump,DeLorean,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,6096,113.9,-30.9,227
+2026-10-16 02:47:53,2ya8txM6AfMeTWsKeB6H7PAD2PB7AFCmE8Y54ctFpump,Fishcopter,BUY,bundled: 7 launch wallets own 49%,0,0.1,,,13959,,,
+2026-10-16 02:48:45,2ya8txM6AfMeTWsKeB6H7PAD2PB7AFCmE8Y54ctFpump,Fishcopter,SELL,bundled: 7 launch wallets own 49%,0,0.06129,-38.7,stop loss -37%,9281,49.1,-33.5,52
+2026-10-16 02:50:20,HL8QfkRjinVcSDAPUVRjfk1Xe2CgS8A3CAtTxxyxpump,Roccat,SELL,dev sold,0,0.29794,197.9,take profit +202%,30747,221.9,-18.8,278
+2026-10-16 02:51:54,8TEvAWySk7XfBvLtc5YDvNvYZGb2qpqGQBUfsC8upump,Eloooong,BUY,dev sold,0,0.1,,,9403,,,
+2026-10-16 02:52:53,7XoHiioxfPewqysZRQDbS3MuwY69pJ3GuTpgsmgrpump,MENTOR,SELL,dev holds 10.0%,0,0.12829,28.3,shift ended,18902,78.7,-4.2,695
+2026-10-16 02:52:53,8TEvAWySk7XfBvLtc5YDvNvYZGb2qpqGQBUfsC8upump,Eloooong,SELL,dev sold,0,0.10969,9.7,shift ended,11162,76.1,-4.0,59
