@@ -5569,3 +5569,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 08:00:00,8DQzWohFEMWruKUC5G2hEgBcs4bhJ1y7oJuyxZHpump,LULU,SELL,bundled: 9 launch wallets own 58%,0,0.12574,25.7,shift ended,21806,35.9,0.0,416
 2026-10-16 08:00:00,Gu9XrigcDqU7ZsDooVVF4xKYeADswEMFgdSuHRqapump,CAT,SELL,dev holds 26.8%,0,0.13396,34.0,shift ended,15722,85.9,-17.1,79
 2026-10-16 08:00:00,HzPtoHmVRzQj8KftMqvKaGVkgKejGitezah4tCyWpump,LIPS,SELL,top10 hold 76%,0,0.11782,17.8,shift ended,43660,27.2,0.2,60
+2026-10-16 08:39:27,3ZgTWcu5Wxp2F12VvHvNShSP9a1EAQkf1qCRdAhQpump,FORCE,BUY,dev sold,0,0.1,,,17911,,,
+2026-10-16 08:44:34,DgHiqasMtBReybzsWVMDmCcJrcWeos4v4v9zoQLepump,Levy,BUY,bundled: 12 launch wallets own 6%,0,0.1,,,10619,,,
+2026-10-16 08:44:40,DgHiqasMtBReybzsWVMDmCcJrcWeos4v4v9zoQLepump,Levy,SELL,bundled: 12 launch wallets own 6%,0,0.06258,-37.4,dev sold,7212,0.0,-32.1,6
+2026-10-16 08:47:50,3ZgTWcu5Wxp2F12VvHvNShSP9a1EAQkf1qCRdAhQpump,FORCE,SELL,dev sold,0,0.22641,126.4,no trading (stale),43775,144.3,-23.9,503
+2026-10-16 08:54:47,CugfrDV6rr8JWgc4Xnnpw1g8aXm7QKjaLpGuFq1kpump,Candy,BUY,dev sold,0,0.1,,,8051,,,
+2026-10-16 08:55:36,CugfrDV6rr8JWgc4Xnnpw1g8aXm7QKjaLpGuFq1kpump,Candy,SELL,dev sold,0,0.12781,27.8,shift ended,11134,49.4,-10.9,49
