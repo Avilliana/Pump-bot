@@ -5661,3 +5661,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 16:53:10,2uns6dbhA1BjwKWMVyPAMttxftuwd5vkLrbvZpsvpump,AI,SELL,dev sold,0,0.06238,-37.6,stop loss -36%,7038,18.0,-32.3,24
 2026-10-16 16:53:22,62oaBX22Ap4rALQxBAU3wWJs3L2AZhR3YFm17Kfopump,RRL,SELL,bundled: 14 launch wallets own 33%,0,0.21748,117.5,shift ended,26338,139.7,-19.9,557
 2026-10-16 16:53:22,CTjkcUrtpEBXpXXbiziwUbpWzWKb58nGrKxviHW7pump,ELON,SELL,dev sold,0,0.16953,69.5,shift ended,18190,101.2,-5.0,20
+2026-10-16 17:35:34,4QX7uiijDTzEJDuKq2NM7HwomCGkexfi3hgAQLxApump,ERIC,BUY,dev sold,0,0.1,,,14831,,,
+2026-10-16 17:35:39,A2zAPmfuVe5purfBCApT5UyDsAtLpYWS8uf6maEjwiBm,PILLGO,BUY,score below threshold,61.4,0.1,,,8221,,,
+2026-10-16 17:36:21,5mwy2VdtbwSaVxRcJdijaSYDbkx7n8dVhGQaC346pump,GUMBUN,BUY,bundled: 8 launch wallets own 60%,0,0.1,,,16830,,,
+2026-10-16 17:37:04,A2zAPmfuVe5purfBCApT5UyDsAtLpYWS8uf6maEjwiBm,PILLGO,SELL,score below threshold,61.4,0.05972,-40.3,stop loss -39%,5332,0.5,-35.1,85
+2026-10-16 17:37:18,Ad2YxhaLo2WroAuAJDcCFWbBoVZamWiZPP17ibWepump,MUSK4,BUY,dev sold,0,0.1,,,19400,,,
+2026-10-16 17:37:24,Ad2YxhaLo2WroAuAJDcCFWbBoVZamWiZPP17ibWepump,MUSK4,SELL,dev sold,0,0.06355,-36.4,stop loss -35%,13366,0.0,-31.1,6
+2026-10-16 17:39:09,7v64WWD3eYtHoyGH88URHLh7Cpnu2qY4QBijnJ41Q9gW,ELON,BUY,dev sold,0,0.1,,,42321,,,
+2026-10-16 17:40:09,4QX7uiijDTzEJDuKq2NM7HwomCGkexfi3hgAQLxApump,ERIC,SELL,dev sold,0,0.06365,-36.3,stop loss -35%,10238,176.8,-31.0,275
+2026-10-16 17:41:20,AxkiXdYD9ATjT7K2ATPYyn6mUpGBNkP9YieDAQ91pump,PKS,BUY,bundled: 161 launch wallets own 19%,0,0.1,,,25955,,,
+2026-10-16 17:42:05,7v64WWD3eYtHoyGH88URHLh7Cpnu2qY4QBijnJ41Q9gW,ELON,SELL,dev sold,0,0.09252,-7.5,no trading (stale),42764,0.0,0.0,175
+2026-10-16 17:42:33,Faz5VwC7fFvw5U8ZnLF7T4iWuvHtW3Rr44bUpffCpump,ELON,BUY,dev sold,0,0.1,,,22258,,,
+2026-10-16 17:43:31,5mwy2VdtbwSaVxRcJdijaSYDbkx7n8dVhGQaC346pump,GUMBUN,SELL,bundled: 8 launch wallets own 60%,0,0.06242,-37.6,stop loss -36%,11512,112.0,-32.3,430
+2026-10-16 17:43:35,4j1BXKis8k1xmQ36CdJW1dYKckrekXdWBWZnEGQSpump,ELON,BUY,dev holds 9.8%,0,0.1,,,8504,,,
+2026-10-16 17:43:39,4j1BXKis8k1xmQ36CdJW1dYKckrekXdWBWZnEGQSpump,ELON,SELL,dev holds 9.8%,0,0.06636,-33.6,dev sold,6123,0.0,-28.0,4
+2026-10-16 17:45:45,Faz5VwC7fFvw5U8ZnLF7T4iWuvHtW3Rr44bUpffCpump,ELON,SELL,dev sold,0,0.17803,78.0,no trading (stale),42764,92.1,-26.7,192
+2026-10-16 17:49:17,5WFFrkvW1LCPMjxhxVqbmfwApWLi3CX2eq3cz4PQpump,VAULTA,BUY,dev sold,0,0.1,,,12972,,,
+2026-10-16 17:49:31,5WFFrkvW1LCPMjxhxVqbmfwApWLi3CX2eq3cz4PQpump,VAULTA,SELL,dev sold,0,0.02187,-78.1,stop loss -77%,3122,0.0,-75.9,13
+2026-10-16 17:49:53,EBaGR5P9QBfs2yQo5yvFt7c49FgjtKk5Vn1rFw3Ppump,CUPSEY,BUY,dev holds 9.8%,0,0.1,,,8552,,,
+2026-10-16 17:50:36,AxkiXdYD9ATjT7K2ATPYyn6mUpGBNkP9YieDAQ91pump,PKS,SELL,bundled: 161 launch wallets own 19%,0,0.09031,-9.7,shift ended,25348,45.1,-15.5,556
+2026-10-16 17:50:36,EBaGR5P9QBfs2yQo5yvFt7c49FgjtKk5Vn1rFw3Ppump,CUPSEY,SELL,dev holds 9.8%,0,0.09418,-5.8,shift ended,8723,18.5,-23.7,42
