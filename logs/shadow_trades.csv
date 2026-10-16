@@ -5595,3 +5595,35 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 11:41:09,3n79bAscLDnus36NyvrnxifTRbSqSU2hBS5sGYN1pump,CORA,SELL,dev sold,0,0.06247,-37.5,stop loss -36%,7665,115.5,-32.2,262
 2026-10-16 11:44:11,6jB9HdtveWSYsF8gJHtnPSWHjptTZ3Xa4EVxw6mZpump,TMD,BUY,bundled: 12 launch wallets own 75%,0,0.1,,,39447,,,
 2026-10-16 11:45:35,6jB9HdtveWSYsF8gJHtnPSWHjptTZ3Xa4EVxw6mZpump,TMD,SELL,bundled: 12 launch wallets own 75%,0,0.03554,-64.5,stop loss -64%,15279,6.7,-61.3,84
+2026-10-16 15:36:42,A4WbSuKb3dBMGDWq1uCewAa1mHiUoN6hW7GaTCpLNCEd,fleg,BUY,dev sold,0,0.1,,,18186,,,
+2026-10-16 15:37:06,H3b7aDD7Gzm9XAN2xcn5GTv75TR3NSVGTfYnkeEwpump,Utobux,BUY,top10 hold 59%,0,0.1,,,16934,,,
+2026-10-16 15:37:34,UP1gFJMQgq2n6e7FTtoE7zvbPecX9FmEPFaTqv8WR1T,WRIT,BUY,bundled: 31 launch wallets own 11%,0,0.1,,,10354,,,
+2026-10-16 15:38:23,2yVDrzZBUECFMHNcjo2Bx8MK9V3X1bBXxAubWhpvpump,fleg,BUY,dev sold,0,0.1,,,14126,,,
+2026-10-16 15:38:45,2yVDrzZBUECFMHNcjo2Bx8MK9V3X1bBXxAubWhpvpump,fleg,SELL,dev sold,0,0.0632,-36.8,stop loss -35%,9682,0.0,-31.5,23
+2026-10-16 15:38:47,A4WbSuKb3dBMGDWq1uCewAa1mHiUoN6hW7GaTCpLNCEd,fleg,SELL,dev sold,0,0.06325,-36.7,stop loss -35%,12472,37.8,-31.4,125
+2026-10-16 15:42:42,9n5Ygs6RnchQKeQJjTf1VbQw6tekS5Hyx52rcpHcpump,GATTACA,BUY,dev sold,0,0.1,,,9963,,,
+2026-10-16 15:44:01,FYevS5aMRA4CfvDLUSSDCMcMjPSQpDYszAuggaUrpump,ATTENTION,BUY,dev sold,0,0.1,,,10411,,,
+2026-10-16 15:44:37,5436RHYCRnxDVLh9s5p1A7qsh6J8ArTW2isQWiAnpump,TESCREAL,BUY,dev sold,0,0.1,,,11953,,,
+2026-10-16 15:44:40,5436RHYCRnxDVLh9s5p1A7qsh6J8ArTW2isQWiAnpump,TESCREAL,SELL,dev sold,0,0.06289,-37.1,stop loss -36%,8155,0.2,-31.8,3
+2026-10-16 15:45:25,FYevS5aMRA4CfvDLUSSDCMcMjPSQpDYszAuggaUrpump,ATTENTION,SELL,dev sold,0,0.06244,-37.6,stop loss -36%,7055,24.6,-32.2,84
+2026-10-16 15:46:37,UP1gFJMQgq2n6e7FTtoE7zvbPecX9FmEPFaTqv8WR1T,WRIT,SELL,bundled: 31 launch wallets own 11%,0,0.06337,-36.6,stop loss -35%,7130,100.9,-31.2,544
+2026-10-16 15:47:05,HbimLrDZa9qzrtzMht6QVSErY3zTizL52ns1bap2pump,17/10,BUY,dev sold,0,0.1,,,11020,,,
+2026-10-16 15:47:39,A6rAG33iJPoyWJpueVUhm6cENdSevMYj5MYa5CeJpump,17/10,BUY,dev sold,0,0.1,,,13571,,,
+2026-10-16 15:47:55,D2qLM1G9z7Pu5jmp9bRu1u3Zxss9zcpWCf56zj7bpump,MUSKSTEIN,BUY,dev sold,0,0.1,,,8414,,,
+2026-10-16 15:48:01,D2qLM1G9z7Pu5jmp9bRu1u3Zxss9zcpWCf56zj7bpump,MUSKSTEIN,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,5811,0.0,-30.9,6
+2026-10-16 15:48:08,A6rAG33iJPoyWJpueVUhm6cENdSevMYj5MYa5CeJpump,17/10,SELL,dev sold,0,0.06295,-37.1,stop loss -36%,9266,23.8,-31.7,29
+2026-10-16 15:48:09,HbimLrDZa9qzrtzMht6QVSErY3zTizL52ns1bap2pump,17/10,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,7505,48.8,-31.9,64
+2026-10-16 15:48:29,9n5Ygs6RnchQKeQJjTf1VbQw6tekS5Hyx52rcpHcpump,GATTACA,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,6882,52.2,-31.0,348
+2026-10-16 15:48:38,Bcs9KkA8s5Aptm3hvG3Q3HWiCaoHw4SoiRLkGcFPKNJR,NEYMAR,BUY,dev holds 50.0%,0,0.1,,,11502,,,
+2026-10-16 15:49:04,7NUDZp4BKyrY8uAXcKGJZUqL5VtDpeUAf1KzfVzcpump,baguette,BUY,dev sold,0,0.1,,,8028,,,
+2026-10-16 15:49:28,Bcs9KkA8s5Aptm3hvG3Q3HWiCaoHw4SoiRLkGcFPKNJR,NEYMAR,SELL,dev holds 50.0%,0,0.02342,-76.6,stop loss -76%,2960,35.6,-74.3,50
+2026-10-16 15:49:38,CFzAaUiFGEDxyxKe9FkqapgPD8PSrEHTBzAyuLCBpump,baguette,BUY,dev sold,0,0.1,,,8113,,,
+2026-10-16 15:49:51,H3b7aDD7Gzm9XAN2xcn5GTv75TR3NSVGTfYnkeEwpump,Utobux,SELL,top10 hold 59%,0,0.23471,134.7,no trading (stale),42962,153.3,-25.9,765
+2026-10-16 15:50:15,7NUDZp4BKyrY8uAXcKGJZUqL5VtDpeUAf1KzfVzcpump,baguette,SELL,dev sold,0,0.06317,-36.8,stop loss -36%,5505,91.3,-31.4,71
+2026-10-16 15:50:50,CFzAaUiFGEDxyxKe9FkqapgPD8PSrEHTBzAyuLCBpump,baguette,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,5600,0.0,-31.0,72
+2026-10-16 15:51:28,D76bHiftcAiFYznSGCoxWWordS9PnzSejvYxayuhpump,SOCCAR,BUY,dev sold,0,0.1,,,12031,,,
+2026-10-16 15:51:42,D76bHiftcAiFYznSGCoxWWordS9PnzSejvYxayuhpump,SOCCAR,SELL,dev sold,0,0.06305,-36.9,stop loss -36%,8230,4.4,-31.6,15
+2026-10-16 15:52:08,Gu6cCzZRm1xTTkfmYfXnqcF42sJFzTKkmN1uHrTrpump,Sola,BUY,dev sold,0,0.1,,,8388,,,
+2026-10-16 15:53:02,9BJAnbS6S3WRGYaEjnbEMidb1gVBRTUhKDLxw6FCpump,Nee-gye,BUY,dev sold,0,0.1,,,9329,,,
+2026-10-16 15:53:09,Gu6cCzZRm1xTTkfmYfXnqcF42sJFzTKkmN1uHrTrpump,Sola,SELL,dev sold,0,0.13921,39.2,shift ended,12630,54.2,1.2,61
+2026-10-16 15:53:09,9BJAnbS6S3WRGYaEjnbEMidb1gVBRTUhKDLxw6FCpump,Nee-gye,SELL,dev sold,0,0.10026,0.3,shift ended,10126,22.1,-4.6,7
