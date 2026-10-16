@@ -5789,3 +5789,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 22:51:47,Cipy42M4yDTmVUkNepPogGtPRzUqq4nMjgaNnyJ9pump,Hotdog,SELL,dev sold,0,0.10099,1.0,shift ended,9222,39.0,-29.1,1007
 2026-10-16 22:51:47,FxD7Ch3JyTHnSDhjdFDYG1UN77QqnXounpraDJScpump,FCAT,SELL,dev sold,0,0.11881,18.8,shift ended,14836,117.3,-6.4,97
 2026-10-16 22:51:47,GmKk2C631f28k7G5AFbmvvEtHDP4HUJVRxUDk2dVpump,LANDED,SELL,top10 hold 40%,0,0.12373,23.7,shift ended,19863,43.0,-1.4,53
+2026-10-16 23:29:17,BCuHESBtYiA4fe5yEnYNhSB76y8s1J5D2m2aRdnvpump,NN,BUY,dev sold,0,0.1,,,21317,,,
+2026-10-16 23:29:22,7Fmt7p7oR7CTCziX1bATxooLGXd8WQeiU31F4cK5pump,THOR,BUY,dev sold,0,0.1,,,8587,,,
+2026-10-16 23:29:56,BCuHESBtYiA4fe5yEnYNhSB76y8s1J5D2m2aRdnvpump,NN,SELL,dev sold,0,0.01531,-84.7,stop loss -84%,3623,40.2,-83.0,39
+2026-10-16 23:30:33,7Fmt7p7oR7CTCziX1bATxooLGXd8WQeiU31F4cK5pump,THOR,SELL,dev sold,0,0.06289,-37.1,stop loss -36%,5862,68.1,-31.7,71
+2026-10-16 23:38:37,9ues3fff2kQ4zgEymVV27ij9n7ZhkAyTTNHL8M6tSway,SWAY,BUY,dev sold,0,0.1,,,12661,,,
+2026-10-16 23:39:25,3kj9H4vUQHJMKiAiVPbqPFqyaNRyhS12trDBAeejpump,FTR,BUY,bundled: 11 launch wallets own 71%,0,0.1,,,31432,,,
+2026-10-16 23:41:51,9ues3fff2kQ4zgEymVV27ij9n7ZhkAyTTNHL8M6tSway,SWAY,SELL,dev sold,0,0.06257,-37.4,stop loss -36%,8595,24.0,-32.1,194
+2026-10-16 23:43:07,3kj9H4vUQHJMKiAiVPbqPFqyaNRyhS12trDBAeejpump,FTR,SELL,bundled: 11 launch wallets own 71%,0,0.12614,26.1,no trading (stale),42810,36.2,-5.5,222
+2026-10-16 23:43:53,94YZQRL1ruSvqyRBdRsRo7k2UyQBonNNX38mQmERpump,FWR,BUY,bundled: 11 launch wallets own 75%,0,0.1,,,25739,,,
+2026-10-16 23:44:31,94YZQRL1ruSvqyRBdRsRo7k2UyQBonNNX38mQmERpump,FWR,SELL,bundled: 11 launch wallets own 75%,0,0.06274,-37.3,stop loss -36%,17503,33.4,-32.0,38
+2026-10-16 23:45:31,4c5B2u7XbNYLuAWzq3Wv1DdkfHj3Fy8G9jrtDHJ1pump,MAPLE,BUY,dev sold,0,0.1,,,9399,,,
+2026-10-16 23:45:55,4c5B2u7XbNYLuAWzq3Wv1DdkfHj3Fy8G9jrtDHJ1pump,MAPLE,SELL,dev sold,0,0.031,-69.0,stop loss -68%,3187,59.7,-66.1,25
