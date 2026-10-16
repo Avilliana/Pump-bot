@@ -5537,3 +5537,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 05:52:24,94BfFHQrAHewvj2aCb1vdCTViCRFGRPnvAu7SJG1pump,GALAX,SELL,past buy window (late mover),70.8,0.08418,-15.8,shift ended,7432,2.8,-8.8,168
 2026-10-16 05:52:24,CozsQBMeyevUrS235aurrwUsKVRpyRE6rFdv4GoVpump,Unstuck,SELL,top10 hold 40%,0,0.14292,42.9,shift ended,12383,56.5,-1.3,148
 2026-10-16 05:52:24,2cNxA3YcobJkrcCwVfT6EzQDUZWUScynQpNHB3rXpump,Viewer,SELL,bundled: 5 launch wallets own 8%,0,0.11643,16.4,shift ended,14378,45.6,-10.0,58
+2026-10-16 06:41:46,66gGkkBewbDi554qcChFPRhWpvWWcBrtHqEcAQmGpump,Nigel,BUY,dev sold,0,0.1,,,10927,,,
+2026-10-16 06:41:52,66gGkkBewbDi554qcChFPRhWpvWWcBrtHqEcAQmGpump,Nigel,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,7536,0.0,-31.0,6
+2026-10-16 06:43:00,7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump,LOOM,BUY,bundled: 26 launch wallets own 16%,0,0.1,,,10563,,,
+2026-10-16 06:44:19,125ekaaWqEovRWBVSjeLZ8PBWDFGUwVXwNob8tRcpump,FEDLIENS,BUY,bundled: 9 launch wallets own 54%,0,0.1,,,14981,,,
+2026-10-16 06:45:30,125ekaaWqEovRWBVSjeLZ8PBWDFGUwVXwNob8tRcpump,FEDLIENS,SELL,bundled: 9 launch wallets own 54%,0,0.05801,-42.0,stop loss -41%,9432,15.7,-37.0,71
+2026-10-16 06:51:57,qec9KoAxkkAdF8xUQnvrP3D4PVoyrS87D3JduYFpump,Nole,BUY,dev sold,0,0.1,,,10304,,,
+2026-10-16 06:53:16,7GCMYJcykHZ3qJH3e5vQi4J9qAPdb3Xninkgk6sYpump,LOOM,SELL,bundled: 26 launch wallets own 16%,0,0.29723,197.2,take profit +201%,33971,221.1,-9.0,616
+2026-10-16 06:56:14,GEznYASSyQxvTZb9JbnjGNC44EDuQCxjSe6WoGKMpump,MASKJAK,BUY,top10 hold 54%,0,0.1,,,12460,,,
+2026-10-16 06:56:27,GEznYASSyQxvTZb9JbnjGNC44EDuQCxjSe6WoGKMpump,MASKJAK,SELL,top10 hold 54%,0,0.05936,-40.6,stop loss -39%,8027,2.5,-35.6,13
+2026-10-16 06:57:27,9kNqH2URtotjzExT8EiUYjU7THhuDofRx63CmvFznn2j,Roadster,BUY,dev sold,0,0.1,,,9153,,,
+2026-10-16 06:57:48,9kNqH2URtotjzExT8EiUYjU7THhuDofRx63CmvFznn2j,Roadster,SELL,dev sold,0,0.06225,-37.7,stop loss -36%,6185,1.9,-32.4,21
+2026-10-16 06:57:57,qec9KoAxkkAdF8xUQnvrP3D4PVoyrS87D3JduYFpump,Nole,SELL,dev sold,0,0.06214,-37.9,stop loss -37%,6949,44.4,-32.6,360
+2026-10-16 06:58:09,G5BTWmEjzgQB2Vou4HuM2CPZi2cVfhxUzt5xjhtCpump,ERIC,BUY,dev sold,0,0.1,,,8671,,,
+2026-10-16 06:58:23,G5BTWmEjzgQB2Vou4HuM2CPZi2cVfhxUzt5xjhtCpump,ERIC,SELL,dev sold,0,0.06332,-36.7,stop loss -35%,5959,9.3,-31.3,15
