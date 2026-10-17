@@ -6049,3 +6049,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 18:36:50,8wMaNEFDD668o1efcXfc9xNN8MH4pCTExeruQborpump,GREEN,SELL,dev sold,0,0.05962,-40.4,stop loss -39%,8805,0.3,-35.3,23
 2026-10-17 18:38:28,KH2Egne6A1AcgYGympGfkUVGtKueyDbMykiQTg5pump,WORMAT,SELL,bundled: 13.9 SOL bought in launch block,0,0.12913,29.1,shift ended,16417,138.1,0.3,514
 2026-10-17 18:38:28,6TAFBuNtJ7p4ciVkXSGXFhzNvk1DVkudSySJ2Ti8pump,blocus,SELL,dev holds 17.1%,0,0.10326,3.3,shift ended,42629,11.6,0.0,144
+2026-10-17 19:28:44,F3xXrhd73zZsNB8E6j4iRSjbdLvNwh1rrQc9VWazpump,HeyGPT,BUY,dev sold,0,0.1,,,8365,,,
+2026-10-17 19:29:14,DfXSRUZu447SZqRrK3uH8YxqYEtZ9XEAbk38WWZRpump,SNOW,BUY,dev sold,0,0.1,,,13465,,,
+2026-10-17 19:30:53,HuHEQrLTk6rqGofZwWb4xycWWxYJTyCCszTszfMYpump,TRUUP,BUY,bundled: 9 launch wallets own 75%,0,0.1,,,32132,,,
+2026-10-17 19:32:46,wiben7BURMAbyWyHrSD7bsBV1Svr7cQaJ9rPmu9SPu4,wibet,BUY,score below threshold,45.6,0.1,,,10750,,,
+2026-10-17 19:34:12,DfXSRUZu447SZqRrK3uH8YxqYEtZ9XEAbk38WWZRpump,SNOW,SELL,dev sold,0,0.06136,-38.6,stop loss -37%,8963,51.2,-33.4,298
+2026-10-17 19:34:23,wiben7BURMAbyWyHrSD7bsBV1Svr7cQaJ9rPmu9SPu4,wibet,SELL,score below threshold,45.6,0.15164,51.6,dev sold,17619,73.0,-4.4,98
+2026-10-17 19:34:30,HuHEQrLTk6rqGofZwWb4xycWWxYJTyCCszTszfMYpump,TRUUP,SELL,bundled: 9 launch wallets own 75%,0,0.12305,23.1,no trading (stale),42695,32.9,-4.6,216
+2026-10-17 19:35:23,XFt4mE5PrxVw4SeSTQBkJWq5YC7bMv22qMzNnxXpump,WORLD,BUY,bundled: 29 launch wallets own 13%,0,0.1,,,9005,,,
+2026-10-17 19:35:35,XFt4mE5PrxVw4SeSTQBkJWq5YC7bMv22qMzNnxXpump,WORLD,SELL,bundled: 29 launch wallets own 13%,0,0.06764,-32.4,dev sold,6608,3.8,-26.6,12
+2026-10-17 19:36:47,4kTwgZm3RH38QNP3BAGN56GU8j8A33AtfKtui9eNpump,WORLD,BUY,bundled: 33 launch wallets own 19%,0,0.1,,,9204,,,
+2026-10-17 19:37:14,CGLjV7RvswA2GzWrupTmc8VvHVqUbhPmRtbdybH5pump,JEUNES,BUY,dev sold,0,0.1,,,10637,,,
+2026-10-17 19:37:29,4kTwgZm3RH38QNP3BAGN56GU8j8A33AtfKtui9eNpump,WORLD,SELL,bundled: 33 launch wallets own 19%,0,0.06138,-38.6,stop loss -37%,6133,3.9,-33.4,42
+2026-10-17 19:37:43,F3xXrhd73zZsNB8E6j4iRSjbdLvNwh1rrQc9VWazpump,HeyGPT,SELL,dev sold,0,0.29579,195.8,take profit +200%,26737,219.7,-12.8,539
+2026-10-17 19:37:44,CGLjV7RvswA2GzWrupTmc8VvHVqUbhPmRtbdybH5pump,JEUNES,SELL,dev sold,0,0.06281,-37.2,stop loss -36%,7249,7.0,-31.8,31
+2026-10-17 19:40:59,DWzPyjCKv4j1KBYTnZE9f189v6BPocBtsEQ5cYMhpump,Michael,BUY,dev sold,0,0.1,,,11427,,,
+2026-10-17 19:42:49,5HX8bYfXQD9ykyWfVzTnkJQJNqhhxoxcgws4AWcmpump,EcoGPT,BUY,dev sold,0,0.1,,,8475,,,
+2026-10-17 19:42:58,5HX8bYfXQD9ykyWfVzTnkJQJNqhhxoxcgws4AWcmpump,EcoGPT,SELL,dev sold,0,0.06167,-38.3,stop loss -37%,5675,0.2,-33.0,9
+2026-10-17 19:43:38,7Tr69PEhb3QpaD2gxPwiEaNvQ9SFJJ7V7b71nZWHpump,rebond,BUY,dev sold,0,0.1,,,12368,,,
+2026-10-17 19:44:38,DWzPyjCKv4j1KBYTnZE9f189v6BPocBtsEQ5cYMhpump,Michael,SELL,dev sold,0,0.0635,-36.5,stop loss -35%,7873,69.3,-31.1,219
+2026-10-17 19:46:41,7Tr69PEhb3QpaD2gxPwiEaNvQ9SFJJ7V7b71nZWHpump,rebond,SELL,dev sold,0,0.10095,1.0,shift ended,13510,38.2,-12.8,183
