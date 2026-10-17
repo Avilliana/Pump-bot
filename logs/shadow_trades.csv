@@ -5927,3 +5927,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 13:48:22,EAytFavDD5NaEJ1UWWLMKpewDxbqdPkKTfvMgG6rpump,quAnt,BUY,dev sold,0,0.1,,,9915,,,
 2026-10-17 13:48:35,EAytFavDD5NaEJ1UWWLMKpewDxbqdPkKTfvMgG6rpump,quAnt,SELL,dev sold,0,0.05915,-40.8,stop loss -40%,6368,20.5,-35.8,13
 2026-10-17 13:50:43,FBUnhNqv3KtYtdWzQBJ2mdT5SsbL17MuzV3YhD6Lpump,QUANT,SELL,dev sold,0,0.14647,46.5,shift ended,12677,98.5,-25.5,210
+2026-10-17 14:32:10,D2xaGADgbiihGMf9aYzy7HdfXrJXn2hdsPkAoR9Jpump,FDP,BUY,top10 hold 73%,0,0.1,,,32732,,,
+2026-10-17 14:34:05,7kfZSnQRxRuaowqPYqBs56Zg3NV9zBURPqvQbNt5pump,minimaneki,BUY,dev holds 56.6%,0,0.1,,,20000,,,
+2026-10-17 14:34:53,D47Zc7NHKqTUmkahBiQezteNfj6gNjYXH32NDyPRpump,114514,BUY,dev sold,0,0.1,,,8111,,,
+2026-10-17 14:35:58,D47Zc7NHKqTUmkahBiQezteNfj6gNjYXH32NDyPRpump,114514,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,5592,29.4,-31.1,66
+2026-10-17 14:36:16,D2xaGADgbiihGMf9aYzy7HdfXrJXn2hdsPkAoR9Jpump,FDP,SELL,top10 hold 73%,0,0.12106,21.1,no trading (stale),42789,30.7,-17.6,246
+2026-10-17 14:36:52,7kfZSnQRxRuaowqPYqBs56Zg3NV9zBURPqvQbNt5pump,minimaneki,SELL,dev holds 56.6%,0,0.02372,-76.3,stop loss -75%,5209,10.5,-74.0,167
+2026-10-17 14:36:57,6S2yCR1ABxkAXDrhXq4r1nn38w5EJfHEx5CyqLkGpump,Solcasino,BUY,dev sold,0,0.1,,,12804,,,
+2026-10-17 14:39:08,DEbwTLRAEyKodfKN4TmDCrRgZQpmWRFKUGPs9xpdpump,114514,BUY,dev sold,0,0.1,,,9026,,,
+2026-10-17 14:39:32,DEbwTLRAEyKodfKN4TmDCrRgZQpmWRFKUGPs9xpdpump,114514,SELL,dev sold,0,0.0627,-37.3,stop loss -36%,6143,15.9,-31.9,24
+2026-10-17 14:41:52,6S2yCR1ABxkAXDrhXq4r1nn38w5EJfHEx5CyqLkGpump,Solcasino,SELL,dev sold,0,0.30408,204.1,take profit +208%,42075,228.3,-28.8,295
+2026-10-17 14:43:01,AxApuqAfDCoDkkqPp7jbhh6eTpjYzASsqX5KKsc3pump,Solcasino,BUY,dev holds 55.0%,0,0.1,,,29963,,,
+2026-10-17 14:43:59,ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam,21M,BUY,score below threshold,52.3,0.1,,,10393,,,
+2026-10-17 14:44:34,snPHu3d9UtnGe52ECqKU8r3MQEvf4ev8hawTyFwpump,ONCE,BUY,dev holds 10.0%,0,0.1,,,8365,,,
+2026-10-17 14:46:27,AxApuqAfDCoDkkqPp7jbhh6eTpjYzASsqX5KKsc3pump,Solcasino,SELL,dev holds 55.0%,0,0.1324,32.4,no trading (stale),42830,42.9,-5.9,205
+2026-10-17 14:46:34,snPHu3d9UtnGe52ECqKU8r3MQEvf4ev8hawTyFwpump,ONCE,SELL,dev holds 10.0%,0,0.06331,-36.7,stop loss -35%,5749,87.9,-31.3,120
+2026-10-17 14:47:05,wSYcmMbpDmugyh5xES42g5akh3dGkQ1cNjg8Mn8pump,ClaudeJak,BUY,dev sold,0,0.1,,,8115,,,
+2026-10-17 14:47:21,ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam,21M,SELL,score below threshold,52.3,0.31178,211.8,take profit +216%,34998,236.8,-10.9,202
+2026-10-17 14:47:55,wSYcmMbpDmugyh5xES42g5akh3dGkQ1cNjg8Mn8pump,ClaudeJak,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,5589,3.7,-31.1,50
