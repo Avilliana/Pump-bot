@@ -5815,3 +5815,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 00:36:57,FESFoBLxuZ2PFfnugbyqbVgBsVf4dqLupdf34ZKupump,TDH,SELL,bundled: 5 launch wallets own 74%,0,0.11838,18.4,no trading (stale),42818,27.8,-6.5,287
 2026-10-17 00:37:11,6p8hdxTDH4fJmHYR3bXzUhA8ptAAYDmcFF7u1BX6pump,KIT,SELL,bundled: 7 launch wallets own 75%,0,0.11671,16.7,no trading (stale),42818,26.0,-12.7,212
 2026-10-17 00:38:15,AKoaEDx4bquvTKXCAMf8ejZwJBr6pJtmQJjK8HL9pump,LEVERAGE,SELL,bundled: 13 launch wallets own 16%,0,0.16152,61.5,shift ended,20595,165.5,-14.1,170
+2026-10-17 01:34:24,4X9eLVJq5jsqK4qjGc7JJQysZim7aWFovS9KsWTUpump,SEXCOIN,BUY,dev sold,0,0.1,,,27338,,,
+2026-10-17 01:36:52,6PAFiZjq8zV5TLFseCNBGrD74Hvsw429xwRz5um3pump,BAGWORK,BUY,past buy window (late mover),64.6,0.1,,,34158,,,
+2026-10-17 01:39:11,4X9eLVJq5jsqK4qjGc7JJQysZim7aWFovS9KsWTUpump,SEXCOIN,SELL,dev sold,0,0.14538,45.4,no trading (stale),42900,56.9,-19.6,287
+2026-10-17 01:43:59,GyPHjWu3WBxbjo4RDcLQAg8goeHK7kuULRJpU34Npump,PURR,BUY,dev sold,0,0.1,,,8769,,,
+2026-10-17 01:44:11,6PAFiZjq8zV5TLFseCNBGrD74Hvsw429xwRz5um3pump,BAGWORK,SELL,past buy window (late mover),64.6,0.11629,16.3,no trading (stale),42847,25.6,-7.4,440
+2026-10-17 01:45:22,GyPHjWu3WBxbjo4RDcLQAg8goeHK7kuULRJpU34Npump,PURR,SELL,dev sold,0,0.0635,-36.5,stop loss -35%,6044,71.1,-31.1,83
+2026-10-17 01:47:30,HZUbWmuc2FgRNSFyRbUsc1AM1maEU9WcnJ4PRccSpump,Lacy,BUY,dev sold,0,0.1,,,9106,,,
+2026-10-17 01:48:32,HZUbWmuc2FgRNSFyRbUsc1AM1maEU9WcnJ4PRccSpump,Lacy,SELL,dev sold,0,0.05371,-46.3,stop loss -45%,5315,43.1,-41.6,62
+2026-10-17 01:48:50,FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump,MOMO,BUY,dev holds 10.0%,0,0.1,,,42847,,,
+2026-10-17 01:51:26,FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump,MOMO,SELL,dev holds 10.0%,0,0.09252,-7.5,no trading (stale),42847,0.0,0.0,156
+2026-10-17 01:51:38,3STQfPiqZGaHMZvY4KVuSZummz872ZBD9xj6ShDWpump,pwf,BUY,past buy window (late mover),63.1,0.1,,,13870,,,
+2026-10-17 01:52:03,3STQfPiqZGaHMZvY4KVuSZummz872ZBD9xj6ShDWpump,pwf,SELL,past buy window (late mover),63.1,0.10452,4.5,shift ended,15680,13.1,-0.6,25
