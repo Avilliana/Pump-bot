@@ -5845,3 +5845,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 02:47:28,CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump,Eternia,BUY,dev holds 52.4%,0,0.1,,,29412,,,
 2026-10-17 02:47:41,7QATrK8yQsM5mCU9yf1ZfFFgVdTZdvZq3oguafoRpump,Chameleon,SELL,dev sold,0,0.06365,-36.4,stop loss -35%,11353,81.9,-31.0,192
 2026-10-17 02:50:51,CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump,Eternia,SELL,dev holds 52.4%,0,0.13471,34.7,no trading (stale),42777,45.4,0.0,202
+2026-10-17 03:31:46,9LpJ8wxd9Lqv6f4duQeCB4eKREzw233BziUpd6WEpump,TheoCat,BUY,dev holds 35.5%,0,0.1,,,8571,,,
+2026-10-17 03:31:51,9LpJ8wxd9Lqv6f4duQeCB4eKREzw233BziUpd6WEpump,TheoCat,SELL,dev holds 35.5%,0,0.04043,-59.6,dev sold,3777,13.4,-55.9,5
+2026-10-17 03:42:03,AMMwpxtafHSvftiKojTWqvUpbQrkXUdhYAzaf4jipump,FINAL,BUY,dev sold,0,0.1,,,11384,,,
+2026-10-17 03:42:57,AMMwpxtafHSvftiKojTWqvUpbQrkXUdhYAzaf4jipump,FINAL,SELL,dev sold,0,0.06332,-36.7,stop loss -35%,7820,82.6,-31.3,54
+2026-10-17 03:49:48,3drdwwXwKZQcwTso57mzbiQz2USuiWh3W42PpFkHpump,dungcoin,BUY,dev sold,0,0.1,,,10276,,,
+2026-10-17 03:50:42,3drdwwXwKZQcwTso57mzbiQz2USuiWh3W42PpFkHpump,dungcoin,SELL,dev sold,0,0.10397,4.0,shift ended,11562,46.9,-13.2,54
