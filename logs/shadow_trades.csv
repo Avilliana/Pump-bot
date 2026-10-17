@@ -5851,3 +5851,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 03:42:57,AMMwpxtafHSvftiKojTWqvUpbQrkXUdhYAzaf4jipump,FINAL,SELL,dev sold,0,0.06332,-36.7,stop loss -35%,7820,82.6,-31.3,54
 2026-10-17 03:49:48,3drdwwXwKZQcwTso57mzbiQz2USuiWh3W42PpFkHpump,dungcoin,BUY,dev sold,0,0.1,,,10276,,,
 2026-10-17 03:50:42,3drdwwXwKZQcwTso57mzbiQz2USuiWh3W42PpFkHpump,dungcoin,SELL,dev sold,0,0.10397,4.0,shift ended,11562,46.9,-13.2,54
+2026-10-17 04:31:17,HhAja4gSP1KW9ceDFMKHDmNVX7VovCS8xtsu6LKtpump,FMR,BUY,bundled: 8 launch wallets own 65%,0,0.1,,,21626,,,
+2026-10-17 04:33:05,J1NMshaSj7FS9G6cCZbJ6cXQGu96q2UHye8oXk5spump,ELON,BUY,dev sold,0,0.1,,,13707,,,
+2026-10-17 04:38:34,HhAja4gSP1KW9ceDFMKHDmNVX7VovCS8xtsu6LKtpump,FMR,SELL,bundled: 8 launch wallets own 65%,0,0.18415,84.2,no trading (stale),42978,98.7,-6.4,438
+2026-10-17 04:38:36,J1NMshaSj7FS9G6cCZbJ6cXQGu96q2UHye8oXk5spump,ELON,SELL,dev sold,0,0.29045,190.4,no trading (stale),42978,213.5,-28.6,331
+2026-10-17 04:42:28,34BH5Wv4gMZQAYwaB8WDBCcNji43XQVYb4Ux1WdVpump,Percy,BUY,dev sold,0,0.1,,,8282,,,
+2026-10-17 04:44:42,34BH5Wv4gMZQAYwaB8WDBCcNji43XQVYb4Ux1WdVpump,Percy,SELL,dev sold,0,0.06301,-37.0,stop loss -36%,5665,105.3,-31.6,134
