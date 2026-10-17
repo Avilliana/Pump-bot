@@ -5977,3 +5977,37 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 15:38:27,fz2XfQeUzpXEC83RAe1hCsfp2LJGTTL2EADNmyWpump,ROGUE,SELL,dev holds 53.3%,0,0.09562,-4.4,shift ended,11006,20.0,-17.1,232
 2026-10-17 15:38:27,F7vs3bbu7Qn3aB2L6WAs28Vq6tgXw4CLby5LDRUwpump,DT,SELL,dev sold,0,0.08913,-10.9,shift ended,12651,51.6,-25.4,102
 2026-10-17 15:38:27,4PWScUpkY2RboBkcWNkQ69UwK3WGsaCC9xPbZJmbpump,Panthère,SELL,dev holds 15.2%,0,0.09381,-6.2,shift ended,36010,1.4,0.4,16
+2026-10-17 16:30:28,2ij5dVYmvp4KdUzeF6dzknC9tSYDeQjZRsbxWAsppump,FireKitten,BUY,dev sold,0,0.1,,,11726,,,
+2026-10-17 16:32:13,7zJh5NKxmWFxQGJ1F68QRYhViRtRsbK9mxaYAQiZpump,NORMIE,BUY,dev sold,0,0.1,,,9758,,,
+2026-10-17 16:33:58,9jyiZ5zCZEgRsbwurxkYHMEXxXVDnetyhXcJ52LXpump,PEGGY,BUY,dev sold,0,0.1,,,8738,,,
+2026-10-17 16:34:26,9jyiZ5zCZEgRsbwurxkYHMEXxXVDnetyhXcJ52LXpump,PEGGY,SELL,dev sold,0,0.05136,-48.6,stop loss -47%,4879,0.6,-44.2,29
+2026-10-17 16:34:26,7zJh5NKxmWFxQGJ1F68QRYhViRtRsbK9mxaYAQiZpump,NORMIE,SELL,dev sold,0,0.0632,-36.8,stop loss -35%,6692,15.4,-31.4,133
+2026-10-17 16:34:50,bojvJb3cEwN7Kizx1LpkgcbWSdkbE4uP71tpnGapump,MACARON,BUY,dev sold,0,0.1,,,10223,,,
+2026-10-17 16:35:16,AztFGQMfaMJEZ41TcAsXvsrUWXXZvB9UhofTHmtYmMxb,Memecoin,BUY,dev sold,0,0.1,,,11207,,,
+2026-10-17 16:35:16,AztFGQMfaMJEZ41TcAsXvsrUWXXZvB9UhofTHmtYmMxb,Memecoin,SELL,dev sold,0,0.04604,-54.0,stop loss -53%,5613,0.0,-49.9,0
+2026-10-17 16:37:45,BWAE5T44bcgSJS3iYWgYo877dcEWYyxQj1brF9Awpump,Chico,BUY,dev sold,0,0.1,,,8323,,,
+2026-10-17 16:37:51,2ij5dVYmvp4KdUzeF6dzknC9tSYDeQjZRsbxWAsppump,FireKitten,SELL,dev sold,0,0.31904,219.0,take profit +224%,40395,244.5,-9.5,443
+2026-10-17 16:38:10,bojvJb3cEwN7Kizx1LpkgcbWSdkbE4uP71tpnGapump,MACARON,SELL,dev sold,0,0.30473,204.7,take profit +209%,33650,229.2,-11.2,200
+2026-10-17 16:38:20,MxuYxy8F98vagdSMWdbhNZ3EQj19CRATFJ8SfDTpump,LePoing,BUY,dev sold,0,0.1,,,11065,,,
+2026-10-17 16:38:33,BWAE5T44bcgSJS3iYWgYo877dcEWYyxQj1brF9Awpump,Chico,SELL,dev sold,0,0.06122,-38.8,stop loss -37%,5532,62.8,-33.5,48
+2026-10-17 16:38:36,MxuYxy8F98vagdSMWdbhNZ3EQj19CRATFJ8SfDTpump,LePoing,SELL,dev sold,0,0.06246,-37.5,stop loss -36%,7499,7.6,-32.2,16
+2026-10-17 16:40:19,1B4HrroWJ3aWnyZzPfdGc8Us5KQTgZNX5VgqFbfpump,AR,BUY,score below threshold,59.0,0.1,,,12173,,,
+2026-10-17 16:41:11,1B4HrroWJ3aWnyZzPfdGc8Us5KQTgZNX5VgqFbfpump,AR,SELL,score below threshold,59.0,0.06066,-39.3,stop loss -38%,8013,0.0,-34.2,52
+2026-10-17 16:43:05,5pA7micXgknYakGvPpJih6v2kK4hBC85XTWDH6eipump,QUID,BUY,dev sold,0,0.1,,,20026,,,
+2026-10-17 16:44:10,AErLgMQUaCPx4XQYbzqy3JSdvfLc7Fcdv5GHAZnZpump,PRODIGY,BUY,dev sold,0,0.1,,,15762,,,
+2026-10-17 16:44:23,4dZPJtxkSaucwgQzSYgpP5jBtufiDAwzWUipge58pump,PRODIGY,BUY,dev holds 15.3%,0,0.1,,,13560,,,
+2026-10-17 16:44:55,AErLgMQUaCPx4XQYbzqy3JSdvfLc7Fcdv5GHAZnZpump,PRODIGY,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,10858,52.1,-31.1,44
+2026-10-17 16:45:25,HJydR6ZwKv8WXd4SvpJKq8x39wJg3mAsK8RfzLp1zrhf,APOLLO,BUY,dev sold,0,0.1,,,10955,,,
+2026-10-17 16:45:35,9wFfN1auPKrAgNbZkXp7psiP4jYUKimkQXG9Af3Bpump,MOBO,BUY,dev sold,0,0.1,,,8890,,,
+2026-10-17 16:45:43,5pA7micXgknYakGvPpJih6v2kK4hBC85XTWDH6eipump,QUID,SELL,dev sold,0,0.06338,-36.6,stop loss -35%,13760,37.7,-31.3,157
+2026-10-17 16:45:47,4dZPJtxkSaucwgQzSYgpP5jBtufiDAwzWUipge58pump,PRODIGY,SELL,dev holds 15.3%,0,0.06206,-37.9,stop loss -37%,9129,30.2,-32.7,84
+2026-10-17 16:47:09,ipE6GC92gP3oCsUNd7gYjLk2gCAhpLUH7gZRhoDpump,CLERK,BUY,past buy window (late mover),69.0,0.1,,,8335,,,
+2026-10-17 16:47:29,623vsScWJS4C4GBvzNxotZivGRiw3pCQttyusRsspump,AI,BUY,dev sold,0,0.1,,,8282,,,
+2026-10-17 16:47:44,HJydR6ZwKv8WXd4SvpJKq8x39wJg3mAsK8RfzLp1zrhf,APOLLO,SELL,dev sold,0,0.06225,-37.8,stop loss -36%,7400,125.7,-32.5,140
+2026-10-17 16:47:46,623vsScWJS4C4GBvzNxotZivGRiw3pCQttyusRsspump,AI,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,5710,7.9,-31.1,17
+2026-10-17 16:48:28,16dXyK7TaabtaTDwceyh4kngcSNDacRKxjNqbTApump,Precedent,BUY,bundled: 7 launch wallets own 27%,0,0.1,,,9848,,,
+2026-10-17 16:48:32,GEykrxsSKNtSaCzKEk9tfQLVzqQS4xmCdBGYFAEzpump,Hello,BUY,dev sold,0,0.1,,,9592,,,
+2026-10-17 16:49:15,9wFfN1auPKrAgNbZkXp7psiP4jYUKimkQXG9Af3Bpump,MOBO,SELL,dev sold,0,0.11291,12.9,shift ended,10863,34.9,-20.7,221
+2026-10-17 16:49:15,ipE6GC92gP3oCsUNd7gYjLk2gCAhpLUH7gZRhoDpump,CLERK,SELL,past buy window (late mover),69.0,0.11329,13.3,shift ended,10219,22.6,-5.1,127
+2026-10-17 16:49:15,16dXyK7TaabtaTDwceyh4kngcSNDacRKxjNqbTApump,Precedent,SELL,bundled: 7 launch wallets own 27%,0,0.11823,18.2,shift ended,12596,51.4,-5.7,48
+2026-10-17 16:49:15,GEykrxsSKNtSaCzKEk9tfQLVzqQS4xmCdBGYFAEzpump,Hello,SELL,dev sold,0,0.0855,-14.5,shift ended,8883,8.8,-13.7,44
