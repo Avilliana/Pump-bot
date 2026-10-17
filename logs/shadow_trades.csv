@@ -5945,3 +5945,35 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 14:47:05,wSYcmMbpDmugyh5xES42g5akh3dGkQ1cNjg8Mn8pump,ClaudeJak,BUY,dev sold,0,0.1,,,8115,,,
 2026-10-17 14:47:21,ATkPwdMMvJDFY5Y5BxaZ5998wzx2x8Pg84hYkTm21fam,21M,SELL,score below threshold,52.3,0.31178,211.8,take profit +216%,34998,236.8,-10.9,202
 2026-10-17 14:47:55,wSYcmMbpDmugyh5xES42g5akh3dGkQ1cNjg8Mn8pump,ClaudeJak,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,5589,3.7,-31.1,50
+2026-10-17 15:19:43,2RK9Vs3Kw8iisG9aHF12PuFbF19AMRTjZBZ7nV79pump,BARRON,BUY,dev sold,0,0.1,,,8245,,,
+2026-10-17 15:20:17,VFJudeZzRdptxmytqBTVMdmqEgJwTj5fTk9U8kDpump,ANIMA,BUY,bundled: 14 launch wallets own 16%,0,0.1,,,10972,,,
+2026-10-17 15:22:36,C1hF64xr1fsVRLX5dCCMbFaYZNzeULbTZty5fQCdpump,SOT,BUY,dev holds 15.6%,0,0.1,,,9773,,,
+2026-10-17 15:22:36,2RK9Vs3Kw8iisG9aHF12PuFbF19AMRTjZBZ7nV79pump,BARRON,SELL,dev sold,0,0.06325,-36.8,stop loss -35%,5661,127.2,-31.3,173
+2026-10-17 15:24:19,6KRStsup7pj3PQm9NngYCYbQaKXmhMfUQShDwMegpump,Solpack,BUY,top10 hold 74%,0,0.1,,,31155,,,
+2026-10-17 15:24:41,6KRStsup7pj3PQm9NngYCYbQaKXmhMfUQShDwMegpump,Solpack,SELL,top10 hold 74%,0,0.0398,-60.2,stop loss -59%,13498,4.1,-56.7,22
+2026-10-17 15:25:28,C1hF64xr1fsVRLX5dCCMbFaYZNzeULbTZty5fQCdpump,SOT,SELL,dev holds 15.6%,0,0.06352,-36.5,stop loss -35%,6736,30.5,-31.1,173
+2026-10-17 15:25:40,6AxWknSrp2a6MCNQByqgJr2wP6uXXQNkUk34xfa5pump,ELOL,BUY,dev sold,0,0.1,,,9436,,,
+2026-10-17 15:26:00,5xh3iDXX75wYjgQeuzt14nF6kE8ZZxyo1eysEiNPpump,VEST,BUY,dev sold,0,0.1,,,8710,,,
+2026-10-17 15:26:31,buAzhduHTMdKmqMg8yqEHmJJpbVZJ7Mn6V49cicpump,INVEST,BUY,dev sold,0,0.1,,,14267,,,
+2026-10-17 15:26:31,VFJudeZzRdptxmytqBTVMdmqEgJwTj5fTk9U8kDpump,ANIMA,SELL,bundled: 14 launch wallets own 16%,0,0.29621,196.2,take profit +200%,35100,219.9,-27.9,374
+2026-10-17 15:26:59,buAzhduHTMdKmqMg8yqEHmJJpbVZJ7Mn6V49cicpump,INVEST,SELL,dev sold,0,0.06306,-36.9,stop loss -36%,9758,15.2,-31.6,28
+2026-10-17 15:27:21,6AxWknSrp2a6MCNQByqgJr2wP6uXXQNkUk34xfa5pump,ELOL,SELL,dev sold,0,0.06214,-37.9,stop loss -37%,6364,8.9,-32.6,101
+2026-10-17 15:28:20,8QSdDwALz22v9w4XRQVcez67iZCMwChKwuSdqwpmpump,PANTHER,BUY,dev sold,0,0.1,,,22157,,,
+2026-10-17 15:28:35,8QSdDwALz22v9w4XRQVcez67iZCMwChKwuSdqwpmpump,PANTHER,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,15155,3.9,-31.4,15
+2026-10-17 15:28:48,Cd2vsS6JjUxoCwuxyHnasqgrrAEKDzoUJLWfzdp8pump,INVEST,BUY,dev sold,0,0.1,,,8000,,,
+2026-10-17 15:28:53,5xh3iDXX75wYjgQeuzt14nF6kE8ZZxyo1eysEiNPpump,VEST,SELL,dev sold,0,0.09233,-7.7,no trading (stale),8688,0.0,0.0,173
+2026-10-17 15:30:50,7PZgekCxHChckwx8E9znx6bXTmR2tcuwaKiHbzypump,FOTB,BUY,top10 hold 73%,0,0.1,,,29887,,,
+2026-10-17 15:31:06,1gyQM9TBHMDU672ZWeS1YSvTf3yciZc7zM4SQSMpump,[alon],BUY,dev sold,0,0.1,,,8242,,,
+2026-10-17 15:31:28,1gyQM9TBHMDU672ZWeS1YSvTf3yciZc7zM4SQSMpump,[alon],SELL,dev sold,0,0.06218,-37.8,stop loss -37%,5564,1.4,-32.5,21
+2026-10-17 15:31:48,FWjru82gm6zX5dubMWiGNYQroq5iQTJBVa2gjtiypump,Panthère,BUY,dev sold,0,0.1,,,12663,,,
+2026-10-17 15:31:51,Cd2vsS6JjUxoCwuxyHnasqgrrAEKDzoUJLWfzdp8pump,INVEST,SELL,dev sold,0,0.03387,-66.1,stop loss -65%,2960,58.3,-63.0,182
+2026-10-17 15:32:40,FWjru82gm6zX5dubMWiGNYQroq5iQTJBVa2gjtiypump,Panthère,SELL,dev sold,0,0.06207,-37.9,stop loss -37%,8527,33.2,-32.7,52
+2026-10-17 15:34:07,3Fvj1BbMw6ENDVc21MPtP4mc3twhxSHHzrkCF99d79p6,IN,BUY,dev sold,0,0.1,,,9260,,,
+2026-10-17 15:34:35,fz2XfQeUzpXEC83RAe1hCsfp2LJGTTL2EADNmyWpump,ROGUE,BUY,dev holds 53.3%,0,0.1,,,10633,,,
+2026-10-17 15:35:16,3Fvj1BbMw6ENDVc21MPtP4mc3twhxSHHzrkCF99d79p6,IN,SELL,dev sold,0,0.06204,-38.0,stop loss -37%,6235,52.4,-32.7,69
+2026-10-17 15:36:45,F7vs3bbu7Qn3aB2L6WAs28Vq6tgXw4CLby5LDRUwpump,DT,BUY,dev sold,0,0.1,,,13113,,,
+2026-10-17 15:37:30,7PZgekCxHChckwx8E9znx6bXTmR2tcuwaKiHbzypump,FOTB,SELL,top10 hold 73%,0,0.1322,32.2,no trading (stale),42658,42.7,-0.1,399
+2026-10-17 15:38:12,4PWScUpkY2RboBkcWNkQ69UwK3WGsaCC9xPbZJmbpump,Panthère,BUY,dev holds 15.2%,0,0.1,,,35512,,,
+2026-10-17 15:38:27,fz2XfQeUzpXEC83RAe1hCsfp2LJGTTL2EADNmyWpump,ROGUE,SELL,dev holds 53.3%,0,0.09562,-4.4,shift ended,11006,20.0,-17.1,232
+2026-10-17 15:38:27,F7vs3bbu7Qn3aB2L6WAs28Vq6tgXw4CLby5LDRUwpump,DT,SELL,dev sold,0,0.08913,-10.9,shift ended,12651,51.6,-25.4,102
+2026-10-17 15:38:27,4PWScUpkY2RboBkcWNkQ69UwK3WGsaCC9xPbZJmbpump,Panthère,SELL,dev holds 15.2%,0,0.09381,-6.2,shift ended,36010,1.4,0.4,16
