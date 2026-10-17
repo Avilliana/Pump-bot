@@ -6019,3 +6019,33 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 17:35:04,BLxKyrthQm9YZzvFS2Pk5ZUs8tx5TSiMz27cP1z4pump,anon,SELL,dev sold,0,0.06308,-36.9,stop loss -36%,5689,2.3,-31.5,82
 2026-10-17 17:40:28,95xHYwN8o3cvSPJNpE3vMEnLF9zhCiUdJbPwAa8Dpump,LION,BUY,dev sold,0,0.1,,,10070,,,
 2026-10-17 17:41:52,95xHYwN8o3cvSPJNpE3vMEnLF9zhCiUdJbPwAa8Dpump,LION,SELL,dev sold,0,0.06349,-36.5,stop loss -35%,6938,36.2,-31.1,83
+2026-10-17 18:19:21,6Y4UYdjd5EnNTi5czuBpwAoWe4n32GJHuiZisNrXpump,CAT,BUY,dev sold,0,0.1,,,9686,,,
+2026-10-17 18:19:26,6Y4UYdjd5EnNTi5czuBpwAoWe4n32GJHuiZisNrXpump,CAT,SELL,dev sold,0,0.05392,-46.1,stop loss -45%,5675,0.0,-41.4,4
+2026-10-17 18:20:02,2Ecss2Ff1pjcJNh63XTedimZgtUabrzXFCzR7zSLpump,HiGrok,BUY,dev sold,0,0.1,,,8096,,,
+2026-10-17 18:20:17,2Ecss2Ff1pjcJNh63XTedimZgtUabrzXFCzR7zSLpump,HiGrok,SELL,dev sold,0,0.05957,-40.4,stop loss -39%,5238,0.0,-35.3,14
+2026-10-17 18:23:27,FFUKuupYNuXvtt1YGDe95UYe2aqaE9cB3R9QBh2apump,ELON,BUY,dev sold,0,0.1,,,10441,,,
+2026-10-17 18:23:47,2uk9me9xBAawuzZR3WcESsTFsMapD4d6zmfupM6wpump,ココロボ,BUY,dev sold,0,0.1,,,8711,,,
+2026-10-17 18:23:48,2oXX2BfHahoWkd1iPgpZ8URh7D1iYRkdGr4YqN9cpump,Interim,BUY,score below threshold,55.9,0.1,,,25576,,,
+2026-10-17 18:24:01,2uk9me9xBAawuzZR3WcESsTFsMapD4d6zmfupM6wpump,ココロボ,SELL,dev sold,0,0.06337,-36.6,stop loss -35%,5991,0.0,-31.2,14
+2026-10-17 18:24:07,FFUKuupYNuXvtt1YGDe95UYe2aqaE9cB3R9QBh2apump,ELON,SELL,dev sold,0,0.05862,-41.4,stop loss -40%,6645,16.4,-36.4,41
+2026-10-17 18:25:20,2oXX2BfHahoWkd1iPgpZ8URh7D1iYRkdGr4YqN9cpump,Interim,SELL,score below threshold,55.9,0.06165,-38.3,stop loss -37%,17094,9.3,-33.2,93
+2026-10-17 18:27:57,BXM79fJLumE5UobajyTnQRgw58qWm1LAQ87fEqKMpump,MUCHO,BUY,bundled: 9 launch wallets own 75%,0,0.1,,,36771,,,
+2026-10-17 18:28:13,55bmo9MgrEV9NgSBYU5AMhBbvMPUeHZuwZqfrG6Ypump,hash1320912,BUY,dev sold,0,0.1,,,16399,,,
+2026-10-17 18:28:19,9tLkmr4JhiFcAKKijkEGdE3N9HGgxNeryqusFimPpump,ELON,BUY,dev sold,0,0.1,,,13626,,,
+2026-10-17 18:28:22,55bmo9MgrEV9NgSBYU5AMhBbvMPUeHZuwZqfrG6Ypump,hash1320912,SELL,dev sold,0,0.06343,-36.6,stop loss -35%,11280,0.0,-31.2,9
+2026-10-17 18:29:25,BXM79fJLumE5UobajyTnQRgw58qWm1LAQ87fEqKMpump,MUCHO,SELL,bundled: 9 launch wallets own 75%,0,0.01527,-84.7,stop loss -84%,6238,12.9,-83.1,88
+2026-10-17 18:29:38,9tLkmr4JhiFcAKKijkEGdE3N9HGgxNeryqusFimPpump,ELON,SELL,dev sold,0,0.06281,-37.2,stop loss -36%,9296,95.2,-31.9,79
+2026-10-17 18:29:54,KH2Egne6A1AcgYGympGfkUVGtKueyDbMykiQTg5pump,WORMAT,BUY,bundled: 13.9 SOL bought in launch block,0,0.1,,,11760,,,
+2026-10-17 18:31:09,BG35ZgNeSoSw36cQv58kMahU82wfYwzeNYoRNiwMVent,Ventrion,BUY,dev holds 10.0%,0,0.1,,,42629,,,
+2026-10-17 18:32:48,GzVEG1cYkSEH4X9dZuPrfSGDiVr1yD15zNYSNDR1pump,blocus,BUY,dev holds 17.4%,0,0.1,,,36788,,,
+2026-10-17 18:32:59,GzVEG1cYkSEH4X9dZuPrfSGDiVr1yD15zNYSNDR1pump,blocus,SELL,dev holds 17.4%,0,0.05636,-43.6,stop loss -42%,22483,1.2,-38.9,12
+2026-10-17 18:33:01,GET5Gj5bizV6A694EtBoUSAJBmLPrek3TcZAMewBpump,SEEDS,BUY,dev sold,0,0.1,,,14684,,,
+2026-10-17 18:33:04,6XK4eR46U6Wb9oEqhMXHdm6uCHBvedPV8kJ8S7ixpump,SSBB,BUY,dev sold,0,0.1,,,10985,,,
+2026-10-17 18:33:23,GET5Gj5bizV6A694EtBoUSAJBmLPrek3TcZAMewBpump,SEEDS,SELL,dev sold,0,0.06065,-39.4,stop loss -38%,9661,30.1,-34.2,22
+2026-10-17 18:33:47,BG35ZgNeSoSw36cQv58kMahU82wfYwzeNYoRNiwMVent,Ventrion,SELL,dev holds 10.0%,0,0.09252,-7.5,no trading (stale),42629,0.0,0.0,157
+2026-10-17 18:35:01,6XK4eR46U6Wb9oEqhMXHdm6uCHBvedPV8kJ8S7ixpump,SSBB,SELL,dev sold,0,0.05721,-42.8,stop loss -42%,6824,37.7,-37.9,117
+2026-10-17 18:36:04,6TAFBuNtJ7p4ciVkXSGXFhzNvk1DVkudSySJ2Ti8pump,blocus,BUY,dev holds 17.1%,0,0.1,,,38211,,,
+2026-10-17 18:36:27,8wMaNEFDD668o1efcXfc9xNN8MH4pCTExeruQborpump,GREEN,BUY,dev sold,0,0.1,,,13609,,,
+2026-10-17 18:36:50,8wMaNEFDD668o1efcXfc9xNN8MH4pCTExeruQborpump,GREEN,SELL,dev sold,0,0.05962,-40.4,stop loss -39%,8805,0.3,-35.3,23
+2026-10-17 18:38:28,KH2Egne6A1AcgYGympGfkUVGtKueyDbMykiQTg5pump,WORMAT,SELL,bundled: 13.9 SOL bought in launch block,0,0.12913,29.1,shift ended,16417,138.1,0.3,514
+2026-10-17 18:38:28,6TAFBuNtJ7p4ciVkXSGXFhzNvk1DVkudSySJ2Ti8pump,blocus,SELL,dev holds 17.1%,0,0.10326,3.3,shift ended,42629,11.6,0.0,144
