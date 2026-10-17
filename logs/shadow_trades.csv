@@ -5883,3 +5883,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 07:53:49,AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk,AE,SELL,dev sold,0,0.09722,-2.8,shift ended,9150,24.9,-0.5,50
 2026-10-17 08:37:02,9uwTXupocZ2BBAZ5jBDHhZXjctJY4RUxx4h4rAVZpump,FTA,BUY,dev sold,0,0.1,,,26852,,,
 2026-10-17 08:41:31,9uwTXupocZ2BBAZ5jBDHhZXjctJY4RUxx4h4rAVZpump,FTA,SELL,dev sold,0,0.14862,48.6,no trading (stale),43040,60.4,1.2,268
+2026-10-17 09:40:21,HzR1r6Dtf5NMdTxtwc9TnT3YtTsi4ho6dSmnwzAFpump,FTF,BUY,dev sold,0,0.1,,,29091,,,
+2026-10-17 09:44:26,HzR1r6Dtf5NMdTxtwc9TnT3YtTsi4ho6dSmnwzAFpump,FTF,SELL,dev sold,0,0.1372,37.2,no trading (stale),43089,48.1,-11.3,245
+2026-10-17 09:45:03,BZA6zWos2MhHESLos7KtMRy8iYd5X3MEWGSoGmvNpump,AI,BUY,dev sold,0,0.1,,,8625,,,
+2026-10-17 09:46:22,BZA6zWos2MhHESLos7KtMRy8iYd5X3MEWGSoGmvNpump,AI,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,5939,8.3,-31.1,79
