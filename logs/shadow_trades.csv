@@ -5827,3 +5827,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 01:51:26,FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump,MOMO,SELL,dev holds 10.0%,0,0.09252,-7.5,no trading (stale),42847,0.0,0.0,156
 2026-10-17 01:51:38,3STQfPiqZGaHMZvY4KVuSZummz872ZBD9xj6ShDWpump,pwf,BUY,past buy window (late mover),63.1,0.1,,,13870,,,
 2026-10-17 01:52:03,3STQfPiqZGaHMZvY4KVuSZummz872ZBD9xj6ShDWpump,pwf,SELL,past buy window (late mover),63.1,0.10452,4.5,shift ended,15680,13.1,-0.6,25
+2026-10-17 02:31:59,2tj1CQBjS25zTBM3gcPdQ3sQPY79kNUmVBPNbHoApump,TFLY,BUY,bundled: 10 launch wallets own 75%,0,0.1,,,41145,,,
+2026-10-17 02:35:00,2tj1CQBjS25zTBM3gcPdQ3sQPY79kNUmVBPNbHoApump,TFLY,SELL,bundled: 10 launch wallets own 75%,0,0.09637,-3.6,no trading (stale),42851,4.1,0.5,181
+2026-10-17 02:36:02,Av6ZrS8s53xCVx8WPRm7bEK7Nxewz1VqeoAkMc7dpump,CHAMELEON,BUY,dev sold,0,0.1,,,8821,,,
+2026-10-17 02:36:45,Av6ZrS8s53xCVx8WPRm7bEK7Nxewz1VqeoAkMc7dpump,CHAMELEON,SELL,dev sold,0,0.06274,-37.3,stop loss -36%,6007,2.1,-31.9,42
+2026-10-17 02:38:25,DwThmz6mqFFuK7tdgmqpeUBTFGf7kjaL7SyduUe9pump,SEXCOIN,BUY,dev sold,0,0.1,,,9925,,,
+2026-10-17 02:39:05,DwThmz6mqFFuK7tdgmqpeUBTFGf7kjaL7SyduUe9pump,SEXCOIN,SELL,dev sold,0,0.29651,196.5,take profit +201%,31791,220.3,-11.6,40
+2026-10-17 02:41:43,3v51nr6jYbC6zBnSZbt2C8MQXpZ5T6kqpuxPaBsMpump,ECAR,BUY,bundled: 6 launch wallets own 76%,0,0.1,,,34092,,,
+2026-10-17 02:43:35,DjhHEHSKU1yWd6rtPPgtnzrqFxCTX8CtLPhqnigbpump,Chameleon,BUY,dev sold,0,0.1,,,10639,,,
+2026-10-17 02:44:02,DjhHEHSKU1yWd6rtPPgtnzrqFxCTX8CtLPhqnigbpump,Chameleon,SELL,dev sold,0,0.06361,-36.4,stop loss -35%,7342,37.3,-31.0,27
+2026-10-17 02:44:29,7QATrK8yQsM5mCU9yf1ZfFFgVdTZdvZq3oguafoRpump,Chameleon,BUY,dev sold,0,0.1,,,16450,,,
+2026-10-17 02:45:20,3v51nr6jYbC6zBnSZbt2C8MQXpZ5T6kqpuxPaBsMpump,ECAR,SELL,bundled: 6 launch wallets own 76%,0,0.11618,16.2,no trading (stale),42777,25.5,-18.4,217
+2026-10-17 02:45:21,2BhiWsbd794EohZWerCNNenp7A2QDzPePb11RoFNpump,TRUTH,BUY,dev sold,0,0.1,,,8495,,,
+2026-10-17 02:45:41,2BhiWsbd794EohZWerCNNenp7A2QDzPePb11RoFNpump,TRUTH,SELL,dev sold,0,0.06176,-38.2,stop loss -37%,5696,6.4,-32.9,20
+2026-10-17 02:46:05,6Ynp2T5gxW4Lg9DJ9fmKufEoidBDGECQ8XSYUXzepump,SSPEARL,BUY,dev sold,0,0.1,,,12469,,,
+2026-10-17 02:46:25,6Ynp2T5gxW4Lg9DJ9fmKufEoidBDGECQ8XSYUXzepump,SSPEARL,SELL,dev sold,0,0.05455,-45.5,stop loss -44%,7378,9.9,-40.8,20
+2026-10-17 02:47:28,CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump,Eternia,BUY,dev holds 52.4%,0,0.1,,,29412,,,
+2026-10-17 02:47:41,7QATrK8yQsM5mCU9yf1ZfFFgVdTZdvZq3oguafoRpump,Chameleon,SELL,dev sold,0,0.06365,-36.4,stop loss -35%,11353,81.9,-31.0,192
+2026-10-17 02:50:51,CY27QvCQBCmLBuz3V7c8snEeD4z67iyoSTkwo35Ypump,Eternia,SELL,dev holds 52.4%,0,0.13471,34.7,no trading (stale),42777,45.4,0.0,202
