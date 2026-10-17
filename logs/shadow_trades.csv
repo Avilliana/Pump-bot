@@ -5887,3 +5887,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 09:44:26,HzR1r6Dtf5NMdTxtwc9TnT3YtTsi4ho6dSmnwzAFpump,FTF,SELL,dev sold,0,0.1372,37.2,no trading (stale),43089,48.1,-11.3,245
 2026-10-17 09:45:03,BZA6zWos2MhHESLos7KtMRy8iYd5X3MEWGSoGmvNpump,AI,BUY,dev sold,0,0.1,,,8625,,,
 2026-10-17 09:46:22,BZA6zWos2MhHESLos7KtMRy8iYd5X3MEWGSoGmvNpump,AI,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,5939,8.3,-31.1,79
+2026-10-17 10:35:15,GXpi5zd85nWvGmewydv7vGRtRgba7Lrs32eNQK6ipump,ApeMaxxing,BUY,bundled: 12 launch wallets own 72%,0,0.1,,,33243,,,
+2026-10-17 10:39:24,GXpi5zd85nWvGmewydv7vGRtRgba7Lrs32eNQK6ipump,ApeMaxxing,SELL,bundled: 12 launch wallets own 72%,0,0.11973,19.7,no trading (stale),43044,29.3,-9.0,248
+2026-10-17 10:42:01,B7ugmaxAYKSCSzvfvsUtupQZrFt8HnEqwxohAwhPpump,OIDS,BUY,bundled: 17 launch wallets own 45%,0,0.1,,,10823,,,
+2026-10-17 10:47:50,7j8btevNo2ytjwCpPCjoJL2tY3yGDvjMjhpaVuZ8pump,DSBot,BUY,dev sold,0,0.1,,,8652,,,
+2026-10-17 10:48:31,B7ugmaxAYKSCSzvfvsUtupQZrFt8HnEqwxohAwhPpump,OIDS,SELL,bundled: 17 launch wallets own 45%,0,0.08491,-15.1,shift ended,9953,0.5,-15.2,390
+2026-10-17 10:48:31,7j8btevNo2ytjwCpPCjoJL2tY3yGDvjMjhpaVuZ8pump,DSBot,SELL,dev sold,0,0.13066,30.7,shift ended,12229,58.8,-13.6,41
