@@ -5917,3 +5917,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 12:25:19,GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump,Cart,BUY,score below threshold,58.4,0.1,,,8676,,,
 2026-10-17 12:38:37,3zZe2CAvY1dvAeRe3hf94i8zToMgRbyJA4yP3Rm3pump,Frank,SELL,bundled: 14 launch wallets own 5%,0,0.15997,60.0,shift ended,15180,120.6,-24.5,873
 2026-10-17 12:38:37,GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump,Cart,SELL,score below threshold,58.4,0.09194,-8.1,shift ended,8639,26.5,-30.2,798
+2026-10-17 13:33:00,9Fg2EDntJu74RrxWENVeRptyqr194Vdw2noD8F5npump,chigga,BUY,dev sold,0,0.1,,,9736,,,
+2026-10-17 13:33:25,9Fg2EDntJu74RrxWENVeRptyqr194Vdw2noD8F5npump,chigga,SELL,dev sold,0,0.06227,-37.7,stop loss -36%,6580,0.0,-32.4,25
+2026-10-17 13:37:12,8yr696kDkQgDpZcEnerYVkbiJkLcHmGhXduzop8xpump,CATEPLING,BUY,dev sold,0,0.1,,,27372,,,
+2026-10-17 13:39:35,CJFiW87AjK5G5CRDj88xPwhgd95yWYEU9mLdMchfpump,在一起,BUY,dev sold,0,0.1,,,11024,,,
+2026-10-17 13:40:23,CJFiW87AjK5G5CRDj88xPwhgd95yWYEU9mLdMchfpump,在一起,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,7459,12.0,-32.3,48
+2026-10-17 13:41:43,8yr696kDkQgDpZcEnerYVkbiJkLcHmGhXduzop8xpump,CATEPLING,SELL,dev sold,0,0.14469,44.7,no trading (stale),42649,56.2,-8.1,270
+2026-10-17 13:47:13,FBUnhNqv3KtYtdWzQBJ2mdT5SsbL17MuzV3YhD6Lpump,QUANT,BUY,dev sold,0,0.1,,,8002,,,
+2026-10-17 13:48:22,EAytFavDD5NaEJ1UWWLMKpewDxbqdPkKTfvMgG6rpump,quAnt,BUY,dev sold,0,0.1,,,9915,,,
+2026-10-17 13:48:35,EAytFavDD5NaEJ1UWWLMKpewDxbqdPkKTfvMgG6rpump,quAnt,SELL,dev sold,0,0.05915,-40.8,stop loss -40%,6368,20.5,-35.8,13
+2026-10-17 13:50:43,FBUnhNqv3KtYtdWzQBJ2mdT5SsbL17MuzV3YhD6Lpump,QUANT,SELL,dev sold,0,0.14647,46.5,shift ended,12677,98.5,-25.5,210
