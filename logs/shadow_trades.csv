@@ -6127,3 +6127,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 22:45:59,Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump,anir,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,8285,71.1,-31.3,348
 2026-10-17 22:46:40,EvevQjrEAchSw7VUDU4r9zRdNMCT6kYtKhDsLm5Upump,[BRACAT],BUY,dev sold,0,0.1,,,8788,,,
 2026-10-17 22:47:18,EvevQjrEAchSw7VUDU4r9zRdNMCT6kYtKhDsLm5Upump,[BRACAT],SELL,dev sold,0,0.13418,34.2,shift ended,12754,46.4,-0.2,38
+2026-10-17 23:24:13,FdbKf39AQ8X2VDeLAFFdKdt8vE1iGJzp6WWkf7F8pump,SOCIAL,BUY,dev sold,0,0.1,,,9181,,,
+2026-10-17 23:25:51,9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump,COMAN,BUY,dev sold,0,0.1,,,12711,,,
+2026-10-17 23:26:50,9xh9Ji35euqzbgoXKALWyg3jVppqtk4WnkAK5Lugpump,COMAN,SELL,dev sold,0,0.02162,-78.4,stop loss -78%,3025,28.0,-76.2,60
+2026-10-17 23:28:03,FdbKf39AQ8X2VDeLAFFdKdt8vE1iGJzp6WWkf7F8pump,SOCIAL,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,6249,52.8,-31.9,230
+2026-10-17 23:32:35,HoTeEDxYsBATit4242c8yirRXQqQGL5fHVxXk4jPpump,TikTok,BUY,dev sold,0,0.1,,,11842,,,
+2026-10-17 23:33:45,HoTeEDxYsBATit4242c8yirRXQqQGL5fHVxXk4jPpump,TikTok,SELL,dev sold,0,0.02505,-74.9,stop loss -74%,3255,116.1,-72.5,70
+2026-10-17 23:35:20,D9hPcfh2GbpFvuaauAcnLvf4WLToFAA4MsFPMttMpump,Avinnaarjuk,BUY,dev sold,0,0.1,,,14506,,,
+2026-10-17 23:35:41,D9hPcfh2GbpFvuaauAcnLvf4WLToFAA4MsFPMttMpump,Avinnaarjuk,SELL,dev sold,0,0.02193,-78.1,stop loss -77%,3500,52.3,-75.9,21
