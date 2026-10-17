@@ -5911,3 +5911,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 11:36:53,GzsqQNMFiXDdAJwVeg4W6RsUiVVjCLhXjZMPZrnZpump,MFTR,BUY,dev sold,0,0.1,,,31527,,,
 2026-10-17 11:38:14,GzsqQNMFiXDdAJwVeg4W6RsUiVVjCLhXjZMPZrnZpump,MFTR,SELL,dev sold,0,0.04726,-52.7,stop loss -52%,16187,11.5,-48.7,81
 2026-10-17 11:38:18,3PDrGxRL6pAUfH7QYJrMufHsvyK8NMTqAP3vEvkTpump,ACQUIRE,SELL,score below threshold,49.0,0.11127,11.3,shift ended,22085,27.0,-13.3,299
+2026-10-17 12:20:58,76ZYb6vqZJMAb1GE6UuFa7udMz7LVaHzT23SCu5kpump,1DOPE,BUY,dev sold,0,0.1,,,29177,,,
+2026-10-17 12:24:04,3zZe2CAvY1dvAeRe3hf94i8zToMgRbyJA4yP3Rm3pump,Frank,BUY,bundled: 14 launch wallets own 5%,0,0.1,,,8778,,,
+2026-10-17 12:25:17,76ZYb6vqZJMAb1GE6UuFa7udMz7LVaHzT23SCu5kpump,1DOPE,SELL,dev sold,0,0.13601,36.0,no trading (stale),42842,46.8,-7.3,258
+2026-10-17 12:25:19,GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump,Cart,BUY,score below threshold,58.4,0.1,,,8676,,,
+2026-10-17 12:38:37,3zZe2CAvY1dvAeRe3hf94i8zToMgRbyJA4yP3Rm3pump,Frank,SELL,bundled: 14 launch wallets own 5%,0,0.15997,60.0,shift ended,15180,120.6,-24.5,873
+2026-10-17 12:38:37,GLX4XzV2E8iuaf2uX94HL5AGrmRKNUxCjtGWZMmZpump,Cart,SELL,score below threshold,58.4,0.09194,-8.1,shift ended,8639,26.5,-30.2,798
