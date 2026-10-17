@@ -5881,3 +5881,5 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 07:45:10,FBEY51xNBGHSY7VQv3JErwaUSfEWMVwiQ66ahKuGpump,sin,SELL,bundled: 7 launch wallets own 76%,0,0.09064,-9.4,dev sold,35239,0.0,-13.3,47
 2026-10-17 07:52:58,AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk,AE,BUY,dev sold,0,0.1,,,8692,,,
 2026-10-17 07:53:49,AeLonprCt3y4dZEWEeRTkPqnUPW2FngSD2YeUmPP6GDk,AE,SELL,dev sold,0,0.09722,-2.8,shift ended,9150,24.9,-0.5,50
+2026-10-17 08:37:02,9uwTXupocZ2BBAZ5jBDHhZXjctJY4RUxx4h4rAVZpump,FTA,BUY,dev sold,0,0.1,,,26852,,,
+2026-10-17 08:41:31,9uwTXupocZ2BBAZ5jBDHhZXjctJY4RUxx4h4rAVZpump,FTA,SELL,dev sold,0,0.14862,48.6,no trading (stale),43040,60.4,1.2,268
