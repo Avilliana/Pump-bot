@@ -6011,3 +6011,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 16:49:15,ipE6GC92gP3oCsUNd7gYjLk2gCAhpLUH7gZRhoDpump,CLERK,SELL,past buy window (late mover),69.0,0.11329,13.3,shift ended,10219,22.6,-5.1,127
 2026-10-17 16:49:15,16dXyK7TaabtaTDwceyh4kngcSNDacRKxjNqbTApump,Precedent,SELL,bundled: 7 launch wallets own 27%,0,0.11823,18.2,shift ended,12596,51.4,-5.7,48
 2026-10-17 16:49:15,GEykrxsSKNtSaCzKEk9tfQLVzqQS4xmCdBGYFAEzpump,Hello,SELL,dev sold,0,0.0855,-14.5,shift ended,8883,8.8,-13.7,44
+2026-10-17 17:28:09,4oZCs1KvXudU7ovbdMDUaHFC68weVk9E2rrStWbvpump,callcat,BUY,dev sold,0,0.1,,,9362,,,
+2026-10-17 17:29:46,4oZCs1KvXudU7ovbdMDUaHFC68weVk9E2rrStWbvpump,callcat,SELL,dev sold,0,0.06008,-39.9,stop loss -39%,6107,40.0,-34.8,97
+2026-10-17 17:31:52,48UVWdvT3UH1iADw59muFnjrY37eomJUD8uYSaxJpump,call,BUY,dev sold,0,0.1,,,8440,,,
+2026-10-17 17:31:57,48UVWdvT3UH1iADw59muFnjrY37eomJUD8uYSaxJpump,call,SELL,dev sold,0,0.06055,-39.5,stop loss -38%,5549,0.0,-34.3,5
+2026-10-17 17:33:42,BLxKyrthQm9YZzvFS2Pk5ZUs8tx5TSiMz27cP1z4pump,anon,BUY,dev sold,0,0.1,,,8309,,,
+2026-10-17 17:35:04,BLxKyrthQm9YZzvFS2Pk5ZUs8tx5TSiMz27cP1z4pump,anon,SELL,dev sold,0,0.06308,-36.9,stop loss -36%,5689,2.3,-31.5,82
+2026-10-17 17:40:28,95xHYwN8o3cvSPJNpE3vMEnLF9zhCiUdJbPwAa8Dpump,LION,BUY,dev sold,0,0.1,,,10070,,,
+2026-10-17 17:41:52,95xHYwN8o3cvSPJNpE3vMEnLF9zhCiUdJbPwAa8Dpump,LION,SELL,dev sold,0,0.06349,-36.5,stop loss -35%,6938,36.2,-31.1,83
