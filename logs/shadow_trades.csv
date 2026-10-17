@@ -5801,3 +5801,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-16 23:44:31,94YZQRL1ruSvqyRBdRsRo7k2UyQBonNNX38mQmERpump,FWR,SELL,bundled: 11 launch wallets own 75%,0,0.06274,-37.3,stop loss -36%,17503,33.4,-32.0,38
 2026-10-16 23:45:31,4c5B2u7XbNYLuAWzq3Wv1DdkfHj3Fy8G9jrtDHJ1pump,MAPLE,BUY,dev sold,0,0.1,,,9399,,,
 2026-10-16 23:45:55,4c5B2u7XbNYLuAWzq3Wv1DdkfHj3Fy8G9jrtDHJ1pump,MAPLE,SELL,dev sold,0,0.031,-69.0,stop loss -68%,3187,59.7,-66.1,25
+2026-10-17 00:21:37,43VUZgdjYwSZQdSdmsti94PCzjSSc681QXNwvrorpump,FCC,BUY,dev sold,0,0.1,,,14117,,,
+2026-10-17 00:22:20,43VUZgdjYwSZQdSdmsti94PCzjSSc681QXNwvrorpump,FCC,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,9736,3.9,-31.0,43
+2026-10-17 00:25:19,GbFe7BfScHoS7QaXj8HvwjAVB8kPCtKyZrDZ8s91pump,IA,BUY,dev sold,0,0.1,,,8356,,,
+2026-10-17 00:25:43,GbFe7BfScHoS7QaXj8HvwjAVB8kPCtKyZrDZ8s91pump,IA,SELL,dev sold,0,0.06261,-37.4,stop loss -36%,5679,38.2,-32.0,25
+2026-10-17 00:26:51,7VfVfKeL1cqiAeszwZtGMpkutJehWTMKmfEA7n2Dpump,IA,BUY,dev sold,0,0.1,,,19446,,,
+2026-10-17 00:29:48,Dh5hJksT7Vj6PvbA5F4FibDMBa4Jh45RTYmh255Lpump,IA,BUY,dev sold,0,0.1,,,11156,,,
+2026-10-17 00:30:29,7VfVfKeL1cqiAeszwZtGMpkutJehWTMKmfEA7n2Dpump,IA,SELL,dev sold,0,0.20429,104.3,no trading (stale),42818,120.5,2.4,218
+2026-10-17 00:30:57,Dh5hJksT7Vj6PvbA5F4FibDMBa4Jh45RTYmh255Lpump,IA,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,7599,33.7,-31.9,69
+2026-10-17 00:32:09,FESFoBLxuZ2PFfnugbyqbVgBsVf4dqLupdf34ZKupump,TDH,BUY,bundled: 5 launch wallets own 74%,0,0.1,,,33492,,,
+2026-10-17 00:33:38,6p8hdxTDH4fJmHYR3bXzUhA8ptAAYDmcFF7u1BX6pump,KIT,BUY,bundled: 7 launch wallets own 75%,0,0.1,,,33971,,,
+2026-10-17 00:35:24,AKoaEDx4bquvTKXCAMf8ejZwJBr6pJtmQJjK8HL9pump,LEVERAGE,BUY,bundled: 13 launch wallets own 16%,0,0.1,,,11801,,,
+2026-10-17 00:36:57,FESFoBLxuZ2PFfnugbyqbVgBsVf4dqLupdf34ZKupump,TDH,SELL,bundled: 5 launch wallets own 74%,0,0.11838,18.4,no trading (stale),42818,27.8,-6.5,287
+2026-10-17 00:37:11,6p8hdxTDH4fJmHYR3bXzUhA8ptAAYDmcFF7u1BX6pump,KIT,SELL,bundled: 7 launch wallets own 75%,0,0.11671,16.7,no trading (stale),42818,26.0,-12.7,212
+2026-10-17 00:38:15,AKoaEDx4bquvTKXCAMf8ejZwJBr6pJtmQJjK8HL9pump,LEVERAGE,SELL,bundled: 13 launch wallets own 16%,0,0.16152,61.5,shift ended,20595,165.5,-14.1,170
