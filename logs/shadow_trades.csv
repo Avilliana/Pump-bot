@@ -6111,3 +6111,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 21:48:03,6PNh8P9MSekjWH7sQrcEdbXHLVAV3iuP4wyaNVf1pump,Start,SELL,score below threshold,58.3,0.06203,-38.0,stop loss -37%,6745,0.3,-32.7,62
 2026-10-17 21:48:06,9xPPBqjSC7Xhy7YzWqSELk72UjnmakbVCWwDzML6pump,MEEMR,SELL,dev sold,0,0.1258,25.8,shift ended,16128,73.0,-20.6,649
 2026-10-17 21:48:06,BX9ypngBjXjxpuYtQcVkBeoxsPn33MBCToHGCVc4pump,If,SELL,dev sold,0,0.08042,-19.6,shift ended,8019,25.8,-30.0,72
+2026-10-17 22:31:17,ATPfS9APxYedNvu4FJWr11KXjbyH34i11uKWPjaopump,Taz,BUY,dev sold,0,0.1,,,10152,,,
+2026-10-17 22:31:20,ATPfS9APxYedNvu4FJWr11KXjbyH34i11uKWPjaopump,Taz,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,6995,0.0,-31.1,4
+2026-10-17 22:33:01,GX8Z38TvFU92fLgURPyqSeyycQJ5PADf6Qz124Jkpump,FEG,BUY,dev sold,0,0.1,,,9901,,,
+2026-10-17 22:34:25,GX8Z38TvFU92fLgURPyqSeyycQJ5PADf6Qz124Jkpump,FEG,SELL,dev sold,0,0.06247,-37.5,stop loss -36%,6713,63.3,-32.2,84
+2026-10-17 22:36:19,FUYYEsUexpWRnGGggVDLTB1HGCpeeY7cazoobeB3pump,FEG,BUY,dev sold,0,0.1,,,8723,,,
+2026-10-17 22:36:35,72jmsAhZzMLEZhHf31bAfK6s7Zph3Xtm8wgWsrgEpump,VELUM,BUY,bundled: 28 launch wallets own 11%,0,0.1,,,10393,,,
+2026-10-17 22:36:40,FUYYEsUexpWRnGGggVDLTB1HGCpeeY7cazoobeB3pump,FEG,SELL,dev sold,0,0.06206,-37.9,stop loss -37%,5877,43.4,-32.6,21
+2026-10-17 22:37:41,5uxVMQmrAf879j3tcd5pnVzYiuf5PL7pJF9R7p66pump,FEG,BUY,dev sold,0,0.1,,,9074,,,
+2026-10-17 22:40:12,Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump,anir,BUY,dev sold,0,0.1,,,12067,,,
+2026-10-17 22:40:21,B7DvNvuXg4sis8XUxCrsvFnWDeWBuzPU2ybZ4c1Lpump,inu,BUY,dev sold,0,0.1,,,8840,,,
+2026-10-17 22:40:21,B7DvNvuXg4sis8XUxCrsvFnWDeWBuzPU2ybZ4c1Lpump,inu,SELL,dev sold,0,0.0554,-44.6,stop loss -43%,5321,6.8,-39.8,1
+2026-10-17 22:42:01,5uxVMQmrAf879j3tcd5pnVzYiuf5PL7pJF9R7p66pump,FEG,SELL,dev sold,0,0.29598,196.0,take profit +200%,29019,219.8,-0.2,260
+2026-10-17 22:43:12,72jmsAhZzMLEZhHf31bAfK6s7Zph3Xtm8wgWsrgEpump,VELUM,SELL,bundled: 28 launch wallets own 11%,0,0.06357,-36.4,stop loss -35%,7163,26.5,-31.0,397
+2026-10-17 22:45:59,Abw5GpgLXnMabe2UpZkFNaDeCed3rALQVmQXi9Gupump,anir,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,8285,71.1,-31.3,348
+2026-10-17 22:46:40,EvevQjrEAchSw7VUDU4r9zRdNMCT6kYtKhDsLm5Upump,[BRACAT],BUY,dev sold,0,0.1,,,8788,,,
+2026-10-17 22:47:18,EvevQjrEAchSw7VUDU4r9zRdNMCT6kYtKhDsLm5Upump,[BRACAT],SELL,dev sold,0,0.13418,34.2,shift ended,12754,46.4,-0.2,38
