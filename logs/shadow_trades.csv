@@ -5893,3 +5893,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 10:47:50,7j8btevNo2ytjwCpPCjoJL2tY3yGDvjMjhpaVuZ8pump,DSBot,BUY,dev sold,0,0.1,,,8652,,,
 2026-10-17 10:48:31,B7ugmaxAYKSCSzvfvsUtupQZrFt8HnEqwxohAwhPpump,OIDS,SELL,bundled: 17 launch wallets own 45%,0,0.08491,-15.1,shift ended,9953,0.5,-15.2,390
 2026-10-17 10:48:31,7j8btevNo2ytjwCpPCjoJL2tY3yGDvjMjhpaVuZ8pump,DSBot,SELL,dev sold,0,0.13066,30.7,shift ended,12229,58.8,-13.6,41
+2026-10-17 11:20:24,GbZFsgscTVZXUFyJ5ZtXPfzRXmCecxi8kHemwMwhpump, FTS,BUY,dev sold,0,0.1,,,30801,,,
+2026-10-17 11:21:40,9Wj4uda5jXt4idyR17A1xb4gM4afAHRiCgEf3jL6pump,NULLA,BUY,dev sold,0,0.1,,,13113,,,
+2026-10-17 11:22:09,Hy8RVU1uukJ7WEQ2FSA5ZFWkVe8CT5RhPBhdxHLkpump,3AM,BUY,bundled: 10 launch wallets own 71%,0,0.1,,,27630,,,
+2026-10-17 11:22:27,9Wj4uda5jXt4idyR17A1xb4gM4afAHRiCgEf3jL6pump,NULLA,SELL,dev sold,0,0.05759,-42.4,stop loss -41%,8197,0.3,-37.5,47
+2026-10-17 11:24:57,GbZFsgscTVZXUFyJ5ZtXPfzRXmCecxi8kHemwMwhpump, FTS,SELL,dev sold,0,0.12935,29.3,no trading (stale),43015,39.7,-24.5,273
+2026-10-17 11:26:37,Hy8RVU1uukJ7WEQ2FSA5ZFWkVe8CT5RhPBhdxHLkpump,3AM,SELL,bundled: 10 launch wallets own 71%,0,0.14422,44.2,no trading (stale),43015,55.7,1.8,267
+2026-10-17 11:28:45,BrEQWHgjRgVq996NRDTEb4Kb6DUoqF9QE9YyoYV6pump,PUMPERS,BUY,bundled: 12 launch wallets own 9%,0,0.1,,,11729,,,
+2026-10-17 11:30:34,BrEQWHgjRgVq996NRDTEb4Kb6DUoqF9QE9YyoYV6pump,PUMPERS,SELL,bundled: 12 launch wallets own 9%,0,0.06124,-38.8,stop loss -37%,7794,14.8,-33.5,109
+2026-10-17 11:33:19,3PDrGxRL6pAUfH7QYJrMufHsvyK8NMTqAP3vEvkTpump,ACQUIRE,BUY,score below threshold,49.0,0.1,,,18361,,,
+2026-10-17 11:33:27,5uDrqELrZrYPqaRLbLFT2LzjyWsakT3jv27uwoeBpump,BUDDIES,BUY,dev sold,0,0.1,,,23840,,,
+2026-10-17 11:33:49,8wjBwbmcdaT4LWDnfpegAZ5wjGf2oTtRcAyLWr2ypump,BUDDIES,BUY,dev sold,0,0.1,,,8972,,,
+2026-10-17 11:33:51,5uDrqELrZrYPqaRLbLFT2LzjyWsakT3jv27uwoeBpump,BUDDIES,SELL,dev sold,0,0.06308,-36.9,stop loss -36%,16301,30.5,-31.6,24
+2026-10-17 11:34:22,8wjBwbmcdaT4LWDnfpegAZ5wjGf2oTtRcAyLWr2ypump,BUDDIES,SELL,dev sold,0,0.06345,-36.6,stop loss -35%,6178,36.6,-31.1,33
+2026-10-17 11:34:56,BYySsjazPAqLwkn9eQHhzgeLXw5GpXnvhZZHXkNRpump,BUDDIES,BUY,dev sold,0,0.1,,,11519,,,
+2026-10-17 11:35:38,BYySsjazPAqLwkn9eQHhzgeLXw5GpXnvhZZHXkNRpump,BUDDIES,SELL,dev sold,0,0.06154,-38.5,stop loss -37%,7692,28.0,-33.2,42
+2026-10-17 11:36:53,GzsqQNMFiXDdAJwVeg4W6RsUiVVjCLhXjZMPZrnZpump,MFTR,BUY,dev sold,0,0.1,,,31527,,,
+2026-10-17 11:38:14,GzsqQNMFiXDdAJwVeg4W6RsUiVVjCLhXjZMPZrnZpump,MFTR,SELL,dev sold,0,0.04726,-52.7,stop loss -52%,16187,11.5,-48.7,81
+2026-10-17 11:38:18,3PDrGxRL6pAUfH7QYJrMufHsvyK8NMTqAP3vEvkTpump,ACQUIRE,SELL,score below threshold,49.0,0.11127,11.3,shift ended,22085,27.0,-13.3,299
