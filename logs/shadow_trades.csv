@@ -6507,3 +6507,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 22:45:44,A8iv6SsU2vvXq4wdnEfde9rptEK9CvFjzwAJ9Viepump,COIN,SELL,dev sold,0,0.06261,-37.4,stop loss -36%,12503,20.5,-32.1,214
 2026-10-18 22:46:23,2ixnoZ9Emw2odc93L7sSnAEBzepPhjFtqYzvE2iTpump,Croissant,BUY,dev sold,0,0.1,,,9694,,,
 2026-10-18 22:46:35,2ixnoZ9Emw2odc93L7sSnAEBzepPhjFtqYzvE2iTpump,Croissant,SELL,dev sold,0,0.03525,-64.7,stop loss -64%,3730,11.6,-61.5,12
+2026-10-18 23:18:55,DJ2Tbo9uNurhRtCC7ASpgPFmukmd77F9EnT87AmBpump,Croissant,BUY,dev sold,0,0.1,,,9357,,,
+2026-10-18 23:19:16,5TwJN87RDBtb9ypQffPTFjgGdhZ49LLQPZKVnGiHpump,DouDou,BUY,dev sold,0,0.1,,,9139,,,
+2026-10-18 23:20:22,DJ2Tbo9uNurhRtCC7ASpgPFmukmd77F9EnT87AmBpump,Croissant,SELL,dev sold,0,0.06311,-36.9,stop loss -36%,6409,85.8,-31.5,87
+2026-10-18 23:22:09,ECHR4kPDrpR28Gmd9XjtgqVPGWX285Hfar5vK5AQpump,RIP,BUY,dev sold,0,0.1,,,11045,,,
+2026-10-18 23:22:54,5TwJN87RDBtb9ypQffPTFjgGdhZ49LLQPZKVnGiHpump,DouDou,SELL,dev sold,0,0.06345,-36.5,stop loss -35%,6293,73.2,-31.1,219
+2026-10-18 23:24:39,BfshNCcnaQ2rUEaVVbGdWM516cbuZxCg7auQarvTpump,HASSAN,BUY,dev sold,0,0.1,,,26255,,,
+2026-10-18 23:27:45,BfshNCcnaQ2rUEaVVbGdWM516cbuZxCg7auQarvTpump,HASSAN,SELL,dev sold,0,0.15007,50.1,no trading (stale),42530,62.0,6.6,186
+2026-10-18 23:31:40,3xCyUyBtJTHy4sKqA1vQr7YBHpRD8VPTXc6jhiXJpump,KIM,BUY,dev sold,0,0.1,,,10872,,,
+2026-10-18 23:31:50,AhNC14XY29y75YdiyiVMEwYTZuCkodq9aZWCHijkpump,PIERREDON,BUY,top10 hold 57%,0,0.1,,,15687,,,
+2026-10-18 23:32:27,ECHR4kPDrpR28Gmd9XjtgqVPGWX285Hfar5vK5AQpump,RIP,SELL,dev sold,0,0.06063,-39.4,stop loss -38%,7289,88.2,-34.2,618
+2026-10-18 23:32:27,3xCyUyBtJTHy4sKqA1vQr7YBHpRD8VPTXc6jhiXJpump,KIM,SELL,dev sold,0,0.06203,-38.0,stop loss -37%,7318,18.5,-32.7,47
+2026-10-18 23:32:32,AhNC14XY29y75YdiyiVMEwYTZuCkodq9aZWCHijkpump,PIERREDON,SELL,top10 hold 57%,0,0.06236,-37.6,stop loss -36%,10609,30.4,-32.4,41
+2026-10-18 23:37:37,GWCSN4ppBBStkpQxems9T28Bewzni8xkHt77btB2pump,Usuba,BUY,dev sold,0,0.1,,,14441,,,
+2026-10-18 23:38:13,GWCSN4ppBBStkpQxems9T28Bewzni8xkHt77btB2pump,Usuba,SELL,dev sold,0,0.10742,7.4,shift ended,16776,69.6,-7.5,36
