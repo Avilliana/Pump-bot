@@ -6479,3 +6479,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 21:34:27,6m2vxHpRoD6PJ876TYPRZHfgZqzuSRsY62KwtTJ1pump,immigrunt,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,6182,14.7,-31.3,36
 2026-10-18 21:37:25,8pAVCXsFvZnDwqAzVxmc7gZJ3fVXQQQW2EMDTSsvpump,MO,BUY,top10 hold 55%,0,0.1,,,17756,,,
 2026-10-18 21:38:41,8pAVCXsFvZnDwqAzVxmc7gZJ3fVXQQQW2EMDTSsvpump,MO,SELL,top10 hold 55%,0,0.08893,-11.1,shift ended,17085,9.2,-23.6,76
+2026-10-18 22:28:19,5BKMDk3jtXgdVQVPdbL6G1gA3RDBCbgi1EreLDhPpump,SLAP,BUY,dev sold,0,0.1,,,11026,,,
+2026-10-18 22:28:24,Fj29nh9r5Zmi9Zkh5zWhKv8eAc3rEeQBHoMvGfzCpump,Assay,BUY,top10 hold 51%,0,0.1,,,10766,,,
+2026-10-18 22:28:26,61UyS1cr9XSoqECktFur5dFcc3CdHZPdpoNNARXgpump,SLAP,BUY,dev sold,0,0.1,,,23839,,,
+2026-10-18 22:28:30,61UyS1cr9XSoqECktFur5dFcc3CdHZPdpoNNARXgpump,SLAP,SELL,dev sold,0,0.06288,-37.1,stop loss -36%,16248,0.0,-31.8,4
+2026-10-18 22:28:35,5BKMDk3jtXgdVQVPdbL6G1gA3RDBCbgi1EreLDhPpump,SLAP,SELL,dev sold,0,0.06201,-38.0,stop loss -37%,7418,2.4,-32.7,16
+2026-10-18 22:28:42,HA2mbc5VM9mB9XytiLfcPyv8Kazb8CjreLtvhhS7pump,Simopia,BUY,top10 hold 37%,0,0.1,,,10103,,,
+2026-10-18 22:28:45,HA2mbc5VM9mB9XytiLfcPyv8Kazb8CjreLtvhhS7pump,Simopia,SELL,top10 hold 37%,0,0.09221,-7.8,dev sold,10087,12.5,-0.2,3
+2026-10-18 22:29:13,Fj29nh9r5Zmi9Zkh5zWhKv8eAc3rEeQBHoMvGfzCpump,Assay,SELL,top10 hold 51%,0,0.06289,-37.1,stop loss -36%,7346,31.0,-31.8,49
+2026-10-18 22:30:13,BXvuBfHGzRaqLbAk414LQkmWDyQGwz1CmNiWpYAjpump,Croissant,BUY,dev sold,0,0.1,,,8695,,,
+2026-10-18 22:32:37,BXvuBfHGzRaqLbAk414LQkmWDyQGwz1CmNiWpYAjpump,Croissant,SELL,dev sold,0,0.06257,-37.4,stop loss -36%,5905,96.4,-32.1,144
+2026-10-18 22:34:46,BQ7qeUvhAnonPbTQYkuYjwQqFQ1GmhTyPs5n3YdKpump,Hehe,BUY,dev sold,0,0.1,,,8068,,,
+2026-10-18 22:36:24,HDa7AksF8Vu6eoc25VJZQxrT9XiuPTyJrUc7n77upump,Croissant,BUY,dev sold,0,0.1,,,9432,,,
+2026-10-18 22:37:41,HDa7AksF8Vu6eoc25VJZQxrT9XiuPTyJrUc7n77upump,Croissant,SELL,dev sold,0,0.06094,-39.1,stop loss -38%,6241,79.7,-33.8,77
+2026-10-18 22:38:00,8qDrAWnTXuadsenMj9MTU4rPFY4mPjbzqgJmcevYpump,CABALCHECK,BUY,bundled: 52 launch wallets own 14%,0,0.1,,,11691,,,
+2026-10-18 22:38:03,8qDrAWnTXuadsenMj9MTU4rPFY4mPjbzqgJmcevYpump,CABALCHECK,SELL,bundled: 52 launch wallets own 14%,0,0.05561,-44.4,stop loss -43%,7060,0.3,-39.6,4
+2026-10-18 22:38:16,7sH8Gq9TRr2pE4YkMrbzcoNYp4d8icBfrCib6mXBpump,MONKEY,BUY,dev sold,0,0.1,,,10422,,,
+2026-10-18 22:38:50,74hEvemv3Ff1vtyew8X4eXGEnEu7DF6dRsZH3g5wpump,Croissant,BUY,dev sold,0,0.1,,,10126,,,
+2026-10-18 22:39:03,7sH8Gq9TRr2pE4YkMrbzcoNYp4d8icBfrCib6mXBpump,MONKEY,SELL,dev sold,0,0.02773,-72.3,stop loss -71%,3166,48.3,-69.6,47
+2026-10-18 22:39:33,8MPozNWPmS1aWVouBzaAduMv1MdeccKuy9JjudiEpump,MEAL,BUY,bundled: 33 launch wallets own 17%,0,0.1,,,10322,,,
+2026-10-18 22:40:04,74hEvemv3Ff1vtyew8X4eXGEnEu7DF6dRsZH3g5wpump,Croissant,SELL,dev sold,0,0.06189,-38.1,stop loss -37%,6802,85.2,-32.8,74
+2026-10-18 22:40:19,8MPozNWPmS1aWVouBzaAduMv1MdeccKuy9JjudiEpump,MEAL,SELL,bundled: 33 launch wallets own 17%,0,0.0629,-37.1,stop loss -36%,7046,4.0,-31.7,47
+2026-10-18 22:41:56,9jCE7BT7SVreqbWPoCWPPy5LwwysyHJsbYwdGnTdpump,Croissant,BUY,dev sold,0,0.1,,,8721,,,
+2026-10-18 22:42:10,A8iv6SsU2vvXq4wdnEfde9rptEK9CvFjzwAJ9Viepump,COIN,BUY,dev sold,0,0.1,,,18419,,,
+2026-10-18 22:43:56,BQ7qeUvhAnonPbTQYkuYjwQqFQ1GmhTyPs5n3YdKpump,Hehe,SELL,dev sold,0,0.06306,-36.9,stop loss -36%,5523,70.8,-31.6,550
+2026-10-18 22:45:15,9jCE7BT7SVreqbWPoCWPPy5LwwysyHJsbYwdGnTdpump,Croissant,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,6026,210.5,-30.9,199
+2026-10-18 22:45:44,A8iv6SsU2vvXq4wdnEfde9rptEK9CvFjzwAJ9Viepump,COIN,SELL,dev sold,0,0.06261,-37.4,stop loss -36%,12503,20.5,-32.1,214
+2026-10-18 22:46:23,2ixnoZ9Emw2odc93L7sSnAEBzepPhjFtqYzvE2iTpump,Croissant,BUY,dev sold,0,0.1,,,9694,,,
+2026-10-18 22:46:35,2ixnoZ9Emw2odc93L7sSnAEBzepPhjFtqYzvE2iTpump,Croissant,SELL,dev sold,0,0.03525,-64.7,stop loss -64%,3730,11.6,-61.5,12
