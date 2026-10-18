@@ -6445,3 +6445,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 19:46:19,CzzSZ2Hpqr79ZhczgjxhaD9gtGU1MM9Tod9pyCtXpump,VENDEUR,SELL,dev sold,0,0.11754,17.5,shift ended,11013,134.7,-28.6,368
 2026-10-18 19:46:19,5MTEiux1q76eqKDnNHSNHXAoEG6gTrvFP4DKzQfKpump,TLON,SELL,dev sold,0,0.25651,156.5,shift ended,32806,188.5,-4.7,100
 2026-10-18 19:46:19,3VQhyBd7VbgWWrUvZrbEYrg51CfUZo9RqLjSEVV9pump,Vanity,SELL,dev sold,0,0.23979,139.8,shift ended,22937,162.6,-4.8,92
+2026-10-18 20:20:57,8DYMKU1ww8pBAvgCLUxnGszgqQrn8Lw1HEL3ER55pump,Piccolo,BUY,dev sold,0,0.1,,,10047,,,
+2026-10-18 20:21:33,8DYMKU1ww8pBAvgCLUxnGszgqQrn8Lw1HEL3ER55pump,Piccolo,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,6907,85.4,-31.3,36
+2026-10-18 20:23:44,B36qzC9BxFcDNEE9QGdTHcbw2mbJiTUaP3fAg7tDpump,Mhafuz,BUY,dev sold,0,0.1,,,8926,,,
+2026-10-18 20:24:02,AhH3jutDQGw63tZH8GbbsixQ8TZngdhF2deTJQFxM5K7,Mhafuz,BUY,dev sold,0,0.1,,,8404,,,
+2026-10-18 20:24:27,4FkHx8D9x9aSHAdj1Fg4d7oqaBJ6cHnGQc3Zj5nrpump,ANTH,BUY,dev sold,0,0.1,,,14448,,,
+2026-10-18 20:24:39,AhH3jutDQGw63tZH8GbbsixQ8TZngdhF2deTJQFxM5K7,Mhafuz,SELL,dev sold,0,0.06255,-37.5,stop loss -36%,5706,0.0,-32.1,37
+2026-10-18 20:25:06,B36qzC9BxFcDNEE9QGdTHcbw2mbJiTUaP3fAg7tDpump,Mhafuz,SELL,dev sold,0,0.06362,-36.4,stop loss -35%,6163,28.0,-31.0,82
+2026-10-18 20:27:04,4FkHx8D9x9aSHAdj1Fg4d7oqaBJ6cHnGQc3Zj5nrpump,ANTH,SELL,dev sold,0,0.06288,-37.1,stop loss -36%,9853,32.5,-31.8,157
+2026-10-18 20:27:37,5yoMchdUwWVBCWNEPMTQRDTrnJKaFTA9TniQF3Dtpump,A-UBI,BUY,dev sold,0,0.1,,,25487,,,
+2026-10-18 20:28:09,BDexz3gZr67bc9RJJhTZzt3ChRpFRRMis5o9SUZkpump,MODELS,BUY,dev sold,0,0.1,,,8679,,,
+2026-10-18 20:28:33,BDexz3gZr67bc9RJJhTZzt3ChRpFRRMis5o9SUZkpump,MODELS,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,5938,1.2,-31.6,24
+2026-10-18 20:29:08,5yoMchdUwWVBCWNEPMTQRDTrnJKaFTA9TniQF3Dtpump,A-UBI,SELL,dev sold,0,0.062,-38.0,stop loss -37%,17193,24.3,-32.8,91
+2026-10-18 20:30:16,DUQhkhnWiAFRwDBx6cQJNEoRszMkKQH6R3A7d8P6pump,MEMEVENGERS,BUY,dev sold,0,0.1,,,10836,,,
+2026-10-18 20:30:34,DUQhkhnWiAFRwDBx6cQJNEoRszMkKQH6R3A7d8P6pump,MEMEVENGERS,SELL,dev sold,0,0.06235,-37.7,stop loss -36%,7330,8.7,-32.4,18
+2026-10-18 20:37:03,3Gno7dX8KpdEY2fpBRsD5eGnewvmfzPocWqZrD6jpump,LURK,BUY,bundled: 17 launch wallets own 24%,0,0.1,,,8424,,,
+2026-10-18 20:38:06,3Gno7dX8KpdEY2fpBRsD5eGnewvmfzPocWqZrD6jpump,LURK,SELL,bundled: 17 launch wallets own 24%,0,0.16812,68.1,shift ended,15310,81.8,-16.4,63
