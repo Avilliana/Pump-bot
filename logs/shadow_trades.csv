@@ -6461,3 +6461,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 20:30:34,DUQhkhnWiAFRwDBx6cQJNEoRszMkKQH6R3A7d8P6pump,MEMEVENGERS,SELL,dev sold,0,0.06235,-37.7,stop loss -36%,7330,8.7,-32.4,18
 2026-10-18 20:37:03,3Gno7dX8KpdEY2fpBRsD5eGnewvmfzPocWqZrD6jpump,LURK,BUY,bundled: 17 launch wallets own 24%,0,0.1,,,8424,,,
 2026-10-18 20:38:06,3Gno7dX8KpdEY2fpBRsD5eGnewvmfzPocWqZrD6jpump,LURK,SELL,bundled: 17 launch wallets own 24%,0,0.16812,68.1,shift ended,15310,81.8,-16.4,63
+2026-10-18 21:19:21,c1iXgedpcGp5stwTbJNpMtvi7ANb1mKumH3RAWWpump,safufun,BUY,dev sold,0,0.1,,,12300,,,
+2026-10-18 21:20:14,CM6xY1aAVmKhD2EFKpa3USzcfsnTC4qRVsjnzVhQpump,safufun,BUY,dev sold,0,0.1,,,10342,,,
+2026-10-18 21:20:21,DBZajSqHrYGa8J4hap5YBjwqLBv2rC9T2W7ikbzNpump,MO,BUY,bundled: 9 launch wallets own 42%,0,0.1,,,15139,,,
+2026-10-18 21:20:35,DBZajSqHrYGa8J4hap5YBjwqLBv2rC9T2W7ikbzNpump,MO,SELL,bundled: 9 launch wallets own 42%,0,0.06263,-37.4,stop loss -36%,10283,23.0,-32.1,14
+2026-10-18 21:21:49,c1iXgedpcGp5stwTbJNpMtvi7ANb1mKumH3RAWWpump,safufun,SELL,dev sold,0,0.05931,-40.7,stop loss -39%,7918,51.8,-35.6,148
+2026-10-18 21:22:19,CM6xY1aAVmKhD2EFKpa3USzcfsnTC4qRVsjnzVhQpump,safufun,SELL,dev sold,0,0.0578,-42.2,stop loss -41%,6490,86.7,-37.2,125
+2026-10-18 21:28:51,8rghWwSTHSzEzp5GZd9nUzRZ8oZ4JUrdQjNd5a2spump,safu,BUY,top10 hold 37%,0,0.1,,,18727,,,
+2026-10-18 21:29:08,CrM59ZJuhSb8sEdztDxvEzTg3koCnHQWpCrpS18pump,SONAFI,BUY,bundled: 6 launch wallets own 47%,0,0.1,,,14257,,,
+2026-10-18 21:29:08,CrM59ZJuhSb8sEdztDxvEzTg3koCnHQWpCrpS18pump,SONAFI,SELL,bundled: 6 launch wallets own 47%,0,0.06128,-38.7,stop loss -37%,9478,0.0,-33.5,1
+2026-10-18 21:29:21,EXQLz2y1beXH3tJU58deJRHZvkqiF5X3QdcFn94qpump,PVP,BUY,dev sold,0,0.1,,,9436,,,
+2026-10-18 21:29:22,8rghWwSTHSzEzp5GZd9nUzRZ8oZ4JUrdQjNd5a2spump,safu,SELL,top10 hold 37%,0,0.06335,-36.6,stop loss -35%,12862,42.4,-31.3,31
+2026-10-18 21:30:27,4YZrJtt6Zpr2SA3DdRmBkHi8ozsurzS2hh9NFR2upump,MO,BUY,bundled: 10 launch wallets own 28%,0,0.1,,,12332,,,
+2026-10-18 21:31:20,EXQLz2y1beXH3tJU58deJRHZvkqiF5X3QdcFn94qpump,PVP,SELL,dev sold,0,0.06012,-39.9,stop loss -39%,6158,67.1,-34.7,119
+2026-10-18 21:31:43,4YZrJtt6Zpr2SA3DdRmBkHi8ozsurzS2hh9NFR2upump,MO,SELL,bundled: 10 launch wallets own 28%,0,0.06275,-37.2,stop loss -36%,8395,20.5,-31.9,76
+2026-10-18 21:33:51,6m2vxHpRoD6PJ876TYPRZHfgZqzuSRsY62KwtTJ1pump,immigrunt,BUY,dev sold,0,0.1,,,9003,,,
+2026-10-18 21:34:27,6m2vxHpRoD6PJ876TYPRZHfgZqzuSRsY62KwtTJ1pump,immigrunt,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,6182,14.7,-31.3,36
+2026-10-18 21:37:25,8pAVCXsFvZnDwqAzVxmc7gZJ3fVXQQQW2EMDTSsvpump,MO,BUY,top10 hold 55%,0,0.1,,,17756,,,
+2026-10-18 21:38:41,8pAVCXsFvZnDwqAzVxmc7gZJ3fVXQQQW2EMDTSsvpump,MO,SELL,top10 hold 55%,0,0.08893,-11.1,shift ended,17085,9.2,-23.6,76
