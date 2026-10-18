@@ -6179,3 +6179,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 03:44:54,FLU4Js9mbEFP6iaurnwLsZksFUirpZGRDdaXdEjZRXSW,FLUENCER,SELL,bundled: 11 launch wallets own 20%,0,0.06299,-37.0,stop loss -36%,8092,0.2,-31.7,51
 2026-10-18 03:46:47,J893NEEGbX46q7D3L3fsjgM5EScf3PQ5Yjvfh6RWpump,WMODE,BUY,bundled: 13 launch wallets own 72%,0,0.1,,,30462,,,
 2026-10-18 03:50:47,J893NEEGbX46q7D3L3fsjgM5EScf3PQ5Yjvfh6RWpump,WMODE,SELL,bundled: 13 launch wallets own 72%,0,0.13,30.0,shift ended,42756,40.4,-3.6,240
+2026-10-18 04:36:02,8DcxUHCd4pD7pQzrJ6nXMXMHCY1tFUXoLbfeS4ciPN86,FRUIRFLY,BUY,dev sold,0,0.1,,,8518,,,
+2026-10-18 04:36:26,2sEYeTSggd8mYRBgfFew5GTDY38Ujn2LTaabNivWpump,WOJITSU,BUY,bundled: 11 launch wallets own 72%,0,0.1,,,31544,,,
+2026-10-18 04:37:05,3qqM8YivXUX8TCCQAeQLAsDjkwQJC91Lc6JzMtNppump,ANSENJEO,BUY,dev sold,0,0.1,,,8719,,,
+2026-10-18 04:37:06,8DcxUHCd4pD7pQzrJ6nXMXMHCY1tFUXoLbfeS4ciPN86,FRUIRFLY,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,5879,19.5,-31.0,64
+2026-10-18 04:39:19,CjXViS7hFxCUYTLqQP4pu2DNGja8D3wNGt2URfV7pump,InuButt,BUY,dev sold,0,0.1,,,11375,,,
+2026-10-18 04:41:17,2sEYeTSggd8mYRBgfFew5GTDY38Ujn2LTaabNivWpump,WOJITSU,SELL,bundled: 11 launch wallets own 72%,0,0.12559,25.6,no trading (stale),42777,35.6,-6.7,290
+2026-10-18 04:42:55,CjXViS7hFxCUYTLqQP4pu2DNGja8D3wNGt2URfV7pump,InuButt,SELL,dev sold,0,0.06251,-37.5,stop loss -36%,7699,43.2,-32.2,216
+2026-10-18 04:43:08,6jFNAzhR1tgPtKbMXZK3ucn5dR1XnqfbKJXZmS1cpump,Attention,BUY,dev sold,0,0.1,,,10715,,,
+2026-10-18 04:43:34,6jFNAzhR1tgPtKbMXZK3ucn5dR1XnqfbKJXZmS1cpump,Attention,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,7383,0.6,-31.1,26
+2026-10-18 04:47:20,CB6uea19T8ML5bKSgTUviyZHEpwCueVu69W3KHaspump,DM,BUY,bundled: 7 launch wallets own 74%,0,0.1,,,33093,,,
+2026-10-18 04:49:47,ELYwH8qtF7PX7fHUp4qpioS7BKrPAa23Gv9MXcYPpump,hicoin,BUY,bundled: 11 launch wallets own 74%,0,0.1,,,31486,,,
+2026-10-18 04:50:29,4wAGZPcdPs9XswXsE5xQn6bdxzfvcnqwuzG2s4DBpump,CYBERLEEK,BUY,dev sold,0,0.1,,,24165,,,
+2026-10-18 04:50:34,4wAGZPcdPs9XswXsE5xQn6bdxzfvcnqwuzG2s4DBpump,CYBERLEEK,SELL,dev sold,0,0.06266,-37.3,stop loss -36%,16413,0.0,-32.1,5
+2026-10-18 04:51:34,3qqM8YivXUX8TCCQAeQLAsDjkwQJC91Lc6JzMtNppump,ANSENJEO,SELL,dev sold,0,0.08174,-18.3,shift ended,7707,149.1,-20.1,870
+2026-10-18 04:51:34,CB6uea19T8ML5bKSgTUviyZHEpwCueVu69W3KHaspump,DM,SELL,bundled: 7 launch wallets own 74%,0,0.11944,19.4,shift ended,42686,29.0,-7.6,254
+2026-10-18 04:51:34,ELYwH8qtF7PX7fHUp4qpioS7BKrPAa23Gv9MXcYPpump,hicoin,SELL,bundled: 11 launch wallets own 74%,0,0.12556,25.6,shift ended,42686,35.6,-0.8,107
