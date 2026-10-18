@@ -6423,3 +6423,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 18:37:14,CA22ayY5apTg5RjGZbU2gwAHNKCE6tDTNi9GiuPEpump,Greb,SELL,dev holds 15.3%,0,0.0583,-41.7,stop loss -40%,5555,0.4,-36.7,40
 2026-10-18 18:37:20,BV7bhkJbgKHMR4835RHnd9UdVqwdiLnwD5xEhyS9pump,Greb,SELL,dev sold,0,0.0628,-37.2,stop loss -36%,10626,60.3,-31.9,34
 2026-10-18 18:38:19,As1JqLBYBdyd4xDAgBpMwBBs3en1ZCaJBLtVwDAkpump,Greb,SELL,dev sold,0,0.18614,86.1,shift ended,18894,108.0,-15.2,73
+2026-10-18 19:27:20,F2nZABQNh7GxrEEEpgxmTx1ASe4QyQ1ZADsJaPzLpump,MAXIMUS,BUY,bundled: 4 launch wallets own 76%,0,0.1,,,36320,,,
+2026-10-18 19:27:25,6Y1wQeDPV422k76ok7ea86iWXjautfDDrEgCzDyYpump,frérot,BUY,dev sold,0,0.1,,,8701,,,
+2026-10-18 19:27:49,6Y1wQeDPV422k76ok7ea86iWXjautfDDrEgCzDyYpump,frérot,SELL,dev sold,0,0.06282,-37.2,stop loss -36%,5933,12.1,-31.8,24
+2026-10-18 19:28:39,F2nZABQNh7GxrEEEpgxmTx1ASe4QyQ1ZADsJaPzLpump,MAXIMUS,SELL,bundled: 4 launch wallets own 76%,0,0.08694,-13.1,dev sold,34143,0.0,-13.8,78
+2026-10-18 19:30:33,AKoEWZWMNnzEjLeWYSHdv2StYJz23qmfz52cU4SXpump,MFGA,BUY,dev sold,0,0.1,,,12340,,,
+2026-10-18 19:34:06,q4KNrNHRjeYtozPB8R963U5GBEgdx9QM8F8gokopump,MFGA,BUY,dev sold,0,0.1,,,8746,,,
+2026-10-18 19:34:37,9xUzZhFdCTDkBqKdqqjeVbtbwzSmxtHm5LbuQ5Dxpump,MFGA,BUY,dev sold,0,0.1,,,8890,,,
+2026-10-18 19:34:45,AKoEWZWMNnzEjLeWYSHdv2StYJz23qmfz52cU4SXpump,MFGA,SELL,dev sold,0,0.2963,196.3,take profit +201%,39476,219.9,-4.4,253
+2026-10-18 19:35:08,F7DeDhxXjejubuja5mM3937JjLHiP6JuSstEbXLJpump,MFGA,BUY,dev sold,0,0.1,,,15793,,,
+2026-10-18 19:36:04,q4KNrNHRjeYtozPB8R963U5GBEgdx9QM8F8gokopump,MFGA,SELL,dev sold,0,0.06307,-36.9,stop loss -36%,5987,97.5,-31.6,118
+2026-10-18 19:36:06,9xUzZhFdCTDkBqKdqqjeVbtbwzSmxtHm5LbuQ5Dxpump,MFGA,SELL,dev sold,0,0.06367,-36.3,stop loss -35%,6143,85.2,-30.9,89
+2026-10-18 19:36:15,24AE2Us47iWsxE1cHD7jX7ojdZPdo2kMFYCV7EJFpump,europoors,BUY,dev sold,0,0.1,,,11864,,,
+2026-10-18 19:36:34,24AE2Us47iWsxE1cHD7jX7ojdZPdo2kMFYCV7EJFpump,europoors,SELL,dev sold,0,0.06172,-38.3,stop loss -37%,7911,0.8,-33.0,19
+2026-10-18 19:38:53,F7DeDhxXjejubuja5mM3937JjLHiP6JuSstEbXLJpump,MFGA,SELL,dev sold,0,0.24543,145.4,no trading (stale),41651,164.9,-11.0,225
+2026-10-18 19:39:04,3jJ3MF3hdEmPE1N8adVo4Eq18KBf3GvTcagvqsh8pump,MEMELESS,BUY,dev sold,0,0.1,,,8380,,,
+2026-10-18 19:39:24,3jJ3MF3hdEmPE1N8adVo4Eq18KBf3GvTcagvqsh8pump,MEMELESS,SELL,dev sold,0,0.06318,-36.8,stop loss -36%,5746,26.4,-31.4,20
+2026-10-18 19:40:11,CzzSZ2Hpqr79ZhczgjxhaD9gtGU1MM9Tod9pyCtXpump,VENDEUR,BUY,dev sold,0,0.1,,,8660,,,
+2026-10-18 19:44:39,5MTEiux1q76eqKDnNHSNHXAoEG6gTrvFP4DKzQfKpump,TLON,BUY,dev sold,0,0.1,,,11844,,,
+2026-10-18 19:44:47,3VQhyBd7VbgWWrUvZrbEYrg51CfUZo9RqLjSEVV9pump,Vanity,BUY,dev sold,0,0.1,,,8852,,,
+2026-10-18 19:46:19,CzzSZ2Hpqr79ZhczgjxhaD9gtGU1MM9Tod9pyCtXpump,VENDEUR,SELL,dev sold,0,0.11754,17.5,shift ended,11013,134.7,-28.6,368
+2026-10-18 19:46:19,5MTEiux1q76eqKDnNHSNHXAoEG6gTrvFP4DKzQfKpump,TLON,SELL,dev sold,0,0.25651,156.5,shift ended,32806,188.5,-4.7,100
+2026-10-18 19:46:19,3VQhyBd7VbgWWrUvZrbEYrg51CfUZo9RqLjSEVV9pump,Vanity,SELL,dev sold,0,0.23979,139.8,shift ended,22937,162.6,-4.8,92
