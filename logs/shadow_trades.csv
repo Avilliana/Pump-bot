@@ -6219,3 +6219,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 06:51:34,ARXiAXSKPmKbQjNNZ7n7WoA4aBL9F4LD5Sus3cVKpump,mushy,SELL,bundled: 9 launch wallets own 74%,0,0.03567,-64.3,stop loss -63%,10322,13.8,-61.1,54
 2026-10-18 06:54:31,FnzRHyz1gvNx2mtMWY8hHD2uBSsU7suvDgVQH5zxpump,DOPE,BUY,dev sold,0,0.1,,,30231,,,
 2026-10-18 06:55:31,FnzRHyz1gvNx2mtMWY8hHD2uBSsU7suvDgVQH5zxpump,DOPE,SELL,dev sold,0,0.08853,-11.5,shift ended,28942,17.5,-15.9,60
+2026-10-18 07:38:52,5Ja57LFEEBuvRarzLxMgVKXecdNoiCSkTCkQybqMpump,BUBBLE,BUY,bundled: 8 launch wallets own 71%,0,0.1,,,31644,,,
+2026-10-18 07:43:30,5Ja57LFEEBuvRarzLxMgVKXecdNoiCSkTCkQybqMpump,BUBBLE,SELL,bundled: 8 launch wallets own 71%,0,0.12432,24.3,no trading (stale),42427,34.2,-4.6,278
+2026-10-18 07:44:07,4iT6zjb2gGDQ1SQow2TPeTd86VQ8pu9UScxn9Ghtpump,YELLOW,BUY,dev sold,0,0.1,,,8573,,,
+2026-10-18 07:48:30,D2oVgVFCBnDQgcqX5Zz7Sxy3txdnRMyGqPWpvGf1pump,LFANG,BUY,bundled: 7 launch wallets own 74%,0,0.1,,,25296,,,
+2026-10-18 07:49:18,D2oVgVFCBnDQgcqX5Zz7Sxy3txdnRMyGqPWpvGf1pump,LFANG,SELL,bundled: 7 launch wallets own 74%,0,0.05469,-45.3,stop loss -44%,15013,13.4,-40.7,48
+2026-10-18 07:50:35,Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57,BOUNCE,BUY,dev sold,0,0.1,,,14459,,,
+2026-10-18 07:50:47,4iT6zjb2gGDQ1SQow2TPeTd86VQ8pu9UScxn9Ghtpump,YELLOW,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,5887,103.8,-31.3,400
+2026-10-18 07:51:32,7VcY31BM24ER4iMg2j8Pa5dtFXfcUsejVU1csPL6pump,ZIBBO,BUY,bundled: 12 launch wallets own 72%,0,0.1,,,32583,,,
+2026-10-18 07:52:42,Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57,BOUNCE,SELL,dev sold,0,0.12223,22.2,shift ended,19104,68.2,1.5,128
+2026-10-18 07:52:42,7VcY31BM24ER4iMg2j8Pa5dtFXfcUsejVU1csPL6pump,ZIBBO,SELL,bundled: 12 launch wallets own 72%,0,0.0855,-14.5,shift ended,30130,7.1,-13.3,70
