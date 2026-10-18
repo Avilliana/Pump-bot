@@ -6391,3 +6391,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 16:34:10,8EbiZr39QcY3VpfyBDjcwoCkMmnchM9PLZi7e2Fjpump,Estate,SELL,dev sold,0,0.06264,-37.4,stop loss -36%,6315,58.3,-32.0,198
 2026-10-18 16:35:33,9VXBaCXXQyyUKLiafNjH8ohAYn9SLKhEpGbJRqaxpump,DATABASE,BUY,dev sold,0,0.1,,,8392,,,
 2026-10-18 16:36:03,9VXBaCXXQyyUKLiafNjH8ohAYn9SLKhEpGbJRqaxpump,DATABASE,SELL,dev sold,0,0.06334,-36.7,stop loss -35%,5770,23.0,-31.3,30
+2026-10-18 17:33:57,47bNBdXRqh4vhHvo4mQr2PxpNTQPTAGZShUoorQFpump,DREAM,BUY,dev sold,0,0.1,,,11683,,,
+2026-10-18 17:34:43,47bNBdXRqh4vhHvo4mQr2PxpNTQPTAGZShUoorQFpump,DREAM,SELL,dev sold,0,0.06147,-38.5,stop loss -37%,7792,0.1,-33.3,46
+2026-10-18 17:36:25,CGyUvBWQfsnwWm5uXRm2MxFP6Xd7B2pcgYD7fwvfpump,Cate Doge,BUY,dev sold,0,0.1,,,11594,,,
+2026-10-18 17:36:42,CGyUvBWQfsnwWm5uXRm2MxFP6Xd7B2pcgYD7fwvfpump,Cate Doge,SELL,dev sold,0,0.06056,-39.4,stop loss -38%,7620,0.0,-34.3,17
+2026-10-18 17:38:52,A42xDiBpBYoT1mQ839Achw3MMUqd1DqrEtWPLodcpump,DCITY,BUY,dev holds 17.4%,0,0.1,,,37255,,,
+2026-10-18 17:38:54,8yVQmm4JpHnVtdQMBvanjmHe38DEmQohSBzkJHvCpump,coge,BUY,dev sold,0,0.1,,,10880,,,
+2026-10-18 17:40:42,26hzFD7RuTFinnYZHT3uofGWBB8ie4DWymF7Y1tcpump,coge,BUY,dev sold,0,0.1,,,10112,,,
+2026-10-18 17:41:33,26hzFD7RuTFinnYZHT3uofGWBB8ie4DWymF7Y1tcpump,coge,SELL,dev sold,0,0.29706,197.1,take profit +201%,32445,220.9,-10.8,52
+2026-10-18 17:41:38,8yVQmm4JpHnVtdQMBvanjmHe38DEmQohSBzkJHvCpump,coge,SELL,dev sold,0,0.06222,-37.8,stop loss -36%,7345,191.6,-32.5,164
+2026-10-18 17:42:19,A42xDiBpBYoT1mQ839Achw3MMUqd1DqrEtWPLodcpump,DCITY,SELL,dev holds 17.4%,0,0.10406,4.1,no trading (stale),41881,12.4,0.0,206
