@@ -6167,3 +6167,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 02:46:29,2TchsDkKLZjrtUR9B9MHW7KuQRBMomxwwRjQ1YTwpump,AC,BUY,dev sold,0,0.1,,,10685,,,
 2026-10-18 02:47:26,2TchsDkKLZjrtUR9B9MHW7KuQRBMomxwwRjQ1YTwpump,AC,SELL,dev sold,0,0.0626,-37.4,stop loss -36%,7258,76.2,-32.1,57
 2026-10-18 02:48:37,247hxSSfHi9NWmyEeBg7jJHMeHy5JpeRBUPgCBCMpump,AFC,SELL,dev sold,0,0.26465,164.7,no trading (stale),42612,185.6,-14.2,252
+2026-10-18 03:34:46,EfYBDsCWVE2X9F3W19HZb6PCujSw4tfsYeJWL6inpump,cheesebutt,BUY,bundled: 8 launch wallets own 23%,0,0.1,,,14351,,,
+2026-10-18 03:36:37,EfYBDsCWVE2X9F3W19HZb6PCujSw4tfsYeJWL6inpump,cheesebutt,SELL,bundled: 8 launch wallets own 23%,0,0.06306,-36.9,stop loss -36%,9815,112.7,-31.6,111
+2026-10-18 03:39:27,MhdZCTktHrXFkpxkiawKH69QNgszDDwxKSj1MJxj14L,CUTE,BUY,dev sold,0,0.1,,,9409,,,
+2026-10-18 03:40:41,BWUUATQ2MHpg1WSjaz91qcXvU75uK3hpPwfCGtLxpump,UPP,BUY,dev sold,0,0.1,,,13837,,,
+2026-10-18 03:41:01,MhdZCTktHrXFkpxkiawKH69QNgszDDwxKSj1MJxj14L,CUTE,SELL,dev sold,0,0.06187,-38.1,stop loss -37%,6330,79.8,-32.8,95
+2026-10-18 03:41:11,ANsn9nGMrYfWTe3tVKd5uZJL4UKLTp1xwRJ1byAEpump,Cutecoin,BUY,dev sold,0,0.1,,,18973,,,
+2026-10-18 03:42:42,BWUUATQ2MHpg1WSjaz91qcXvU75uK3hpPwfCGtLxpump,UPP,SELL,dev sold,0,0.09255,-7.4,no trading (stale),13861,0.0,0.0,121
+2026-10-18 03:44:03,FLU4Js9mbEFP6iaurnwLsZksFUirpZGRDdaXdEjZRXSW,FLUENCER,BUY,bundled: 11 launch wallets own 20%,0,0.1,,,11841,,,
+2026-10-18 03:44:43,ANsn9nGMrYfWTe3tVKd5uZJL4UKLTp1xwRJ1byAEpump,Cutecoin,SELL,dev sold,0,0.05975,-40.3,stop loss -39%,12296,27.5,-35.2,212
+2026-10-18 03:44:54,FLU4Js9mbEFP6iaurnwLsZksFUirpZGRDdaXdEjZRXSW,FLUENCER,SELL,bundled: 11 launch wallets own 20%,0,0.06299,-37.0,stop loss -36%,8092,0.2,-31.7,51
+2026-10-18 03:46:47,J893NEEGbX46q7D3L3fsjgM5EScf3PQ5Yjvfh6RWpump,WMODE,BUY,bundled: 13 launch wallets own 72%,0,0.1,,,30462,,,
+2026-10-18 03:50:47,J893NEEGbX46q7D3L3fsjgM5EScf3PQ5Yjvfh6RWpump,WMODE,SELL,bundled: 13 launch wallets own 72%,0,0.13,30.0,shift ended,42756,40.4,-3.6,240
