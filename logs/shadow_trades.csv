@@ -6307,3 +6307,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 12:38:36,3C1TeGmtzUzRj3iXJ9kLUdvNNLvPRBtuqQbVEttWpump,PIPI,SELL,dev sold,0,0.0893,-10.7,shift ended,8543,13.5,-3.3,67
 2026-10-18 12:38:36,tXcMpxwyuEnN8n7PST9SgPhuQum78qoVtGLiHVwpump,Mbappé,SELL,dev sold,0,0.08578,-14.2,shift ended,8283,13.6,-7.4,32
 2026-10-18 12:38:36,DsxwDhPnsHKG4JCEajCRcxotUTjy9HsyL6W72rfRpump,SHELL,SELL,top10 hold 47%,0,0.09308,-6.9,shift ended,13748,5.5,-21.3,17
+2026-10-18 13:40:33,6Y7quBMHR2XcYCbiKoP9inDAniDPWEkh2c1URYKzpump,buildr,BUY,past buy window (late mover),63.4,0.1,,,9140,,,
+2026-10-18 13:42:39,5aCV4QVJAqQDrioZhVpMSwy15gnZSsfE2P1FdGBGVbTh,Aurora,BUY,dev sold,0,0.1,,,8777,,,
+2026-10-18 13:43:44,5aCV4QVJAqQDrioZhVpMSwy15gnZSsfE2P1FdGBGVbTh,Aurora,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,6064,12.7,-30.9,66
+2026-10-18 13:44:55,DgzyQZLhnnMSUXdfUbkWpup8YAs1KcoLiRQaGFQ5pump,SHELL,BUY,dev sold,0,0.1,,,8931,,,
+2026-10-18 13:45:55,DgzyQZLhnnMSUXdfUbkWpup8YAs1KcoLiRQaGFQ5pump,SHELL,SELL,dev sold,0,0.06273,-37.3,stop loss -36%,6081,41.1,-31.9,61
+2026-10-18 13:47:26,3LnWVrPNthbGVyer9PAZZJFpvXJUsEDVeJJoCKNbASUc,Nègrebutt,BUY,dev sold,0,0.1,,,11260,,,
+2026-10-18 13:47:57,3LnWVrPNthbGVyer9PAZZJFpvXJUsEDVeJJoCKNbASUc,Nègrebutt,SELL,dev sold,0,0.06309,-36.9,stop loss -36%,7707,2.2,-31.6,31
+2026-10-18 13:48:24,87CtUS56xwK8UgaD3UixGvaiyanHw1ZBnERGzKq9pump,MARTIN,BUY,dev sold,0,0.1,,,8750,,,
+2026-10-18 13:48:36,87CtUS56xwK8UgaD3UixGvaiyanHw1ZBnERGzKq9pump,MARTIN,SELL,dev sold,0,0.06045,-39.6,stop loss -38%,5743,0.0,-34.4,12
+2026-10-18 13:49:06,4gbxeyiNfFxukJjgz6WCU4PfdBgAVXewbumorvqXpump,baguette,BUY,dev sold,0,0.1,,,14085,,,
+2026-10-18 13:49:40,4gbxeyiNfFxukJjgz6WCU4PfdBgAVXewbumorvqXpump,baguette,SELL,dev sold,0,0.06284,-37.2,stop loss -36%,9599,3.6,-31.8,33
+2026-10-18 13:50:47,6Y7quBMHR2XcYCbiKoP9inDAniDPWEkh2c1URYKzpump,buildr,SELL,past buy window (late mover),63.4,0.07476,-25.2,shift ended,7395,7.7,-21.9,614
