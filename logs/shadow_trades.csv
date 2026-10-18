@@ -6229,3 +6229,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 07:51:32,7VcY31BM24ER4iMg2j8Pa5dtFXfcUsejVU1csPL6pump,ZIBBO,BUY,bundled: 12 launch wallets own 72%,0,0.1,,,32583,,,
 2026-10-18 07:52:42,Bouncec5ivdidyfHH8GtXadgpqSrYcWUYyHWhsVEro57,BOUNCE,SELL,dev sold,0,0.12223,22.2,shift ended,19104,68.2,1.5,128
 2026-10-18 07:52:42,7VcY31BM24ER4iMg2j8Pa5dtFXfcUsejVU1csPL6pump,ZIBBO,SELL,bundled: 12 launch wallets own 72%,0,0.0855,-14.5,shift ended,30130,7.1,-13.3,70
+2026-10-18 08:39:11,3hhtv5GXhqC3jp3zY7ADTBEJcdA2ch3BLCEF6y3Apump,PICCOLO,BUY,score below threshold,60.0,0.1,,,8879,,,
+2026-10-18 08:40:09,vestu2UrxhGCEAjeguSZ1yEcgWR4jbogMBiiwU1MRcR,Vest,BUY,dev sold,0,0.1,,,22030,,,
+2026-10-18 08:42:52,3hhtv5GXhqC3jp3zY7ADTBEJcdA2ch3BLCEF6y3Apump,PICCOLO,SELL,score below threshold,60.0,0.06085,-39.2,stop loss -38%,5859,44.5,-33.9,220
+2026-10-18 08:46:14,vestu2UrxhGCEAjeguSZ1yEcgWR4jbogMBiiwU1MRcR,Vest,SELL,dev sold,0,0.17821,78.2,no trading (stale),42329,92.3,-14.5,364
