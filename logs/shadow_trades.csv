@@ -6363,3 +6363,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 15:38:42,96q1PwG7eueEWr6tvjMfggPVNjhcewDV14Cajp87pump,tremp,BUY,dev sold,0,0.1,,,9588,,,
 2026-10-18 15:38:42,3bQBwwFkyzTbQVHLcnqbjvkMVnoQXmUjRAP5Q9tbpump,OFFMUC,SELL,bundled: 12 launch wallets own 77%,0,0.09252,-7.5,shift ended,41939,0.0,0.0,144
 2026-10-18 15:38:42,96q1PwG7eueEWr6tvjMfggPVNjhcewDV14Cajp87pump,tremp,SELL,dev sold,0,0.09235,-7.6,shift ended,9588,0.0,0.0,0
+2026-10-18 16:21:15,AvREh2L15GiwV895Fvb7r7vMuSgM41H5pDK5C71upump,bien,BUY,dev sold,0,0.1,,,8070,,,
+2026-10-18 16:23:31,X4quuresdmfpdrk8iXj68M2jkSinKNKQHonDjGEpump,HelloWorld,BUY,dev sold,0,0.1,,,14874,,,
+2026-10-18 16:23:44,AvREh2L15GiwV895Fvb7r7vMuSgM41H5pDK5C71upump,bien,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,5499,95.4,-31.9,149
+2026-10-18 16:23:52,X4quuresdmfpdrk8iXj68M2jkSinKNKQHonDjGEpump,HelloWorld,SELL,dev sold,0,0.06299,-37.0,stop loss -36%,10161,0.6,-31.7,21
+2026-10-18 16:25:25,5Vkxe8BNqGW4Sm5gf1khhe5J8PoifwVdEBQeLMZppump,GptPUMP,BUY,bundled: 3.9 SOL bought in launch block,0,0.1,,,10413,,,
+2026-10-18 16:25:44,9tpHqTJ2d8jMZJjZzsf9MCfnCEmbAjsqjPJ56PzSpump,OPEQ,BUY,score below threshold,59.6,0.1,,,37339,,,
+2026-10-18 16:27:12,2ZYrmGVbcNh9LHK9s9hgm4R9C1H3wEUvzGAiRwNtiTcc,bien,BUY,past buy window (late mover),85.8,0.1,,,13573,,,
+2026-10-18 16:27:58,2ZYrmGVbcNh9LHK9s9hgm4R9C1H3wEUvzGAiRwNtiTcc,bien,SELL,past buy window (late mover),85.8,0.07847,-21.5,dev sold,11536,8.1,-15.0,46
+2026-10-18 16:27:58,9tpHqTJ2d8jMZJjZzsf9MCfnCEmbAjsqjPJ56PzSpump,OPEQ,SELL,score below threshold,59.6,0.09251,-7.5,no trading (stale),37339,0.0,0.0,134
+2026-10-18 16:28:26,Ggpb6AL4D9xa7cd72m3F2y6nwzZFxLxjjrGj2eYRpump,LIBERLAND,BUY,dev sold,0,0.1,,,14994,,,
+2026-10-18 16:28:52,Ggpb6AL4D9xa7cd72m3F2y6nwzZFxLxjjrGj2eYRpump,LIBERLAND,SELL,dev sold,0,0.06361,-36.4,stop loss -35%,10352,1.2,-31.0,26
+2026-10-18 16:29:23,4nP6wgB7zDKp8CbRvwQ1dKrz6G75nxNYTmke2TZppump,baguette,BUY,dev holds 11.2%,0,0.1,,,33642,,,
+2026-10-18 16:30:26,7Z6sL3Zs7tLVrTQXobygv7TKUuKE1rWwHpGDSyVUvcwV,BLACK BLOC,BUY,dev sold,0,0.1,,,9448,,,
+2026-10-18 16:30:41,7Z6sL3Zs7tLVrTQXobygv7TKUuKE1rWwHpGDSyVUvcwV,BLACK BLOC,SELL,dev sold,0,0.06268,-37.3,stop loss -36%,6427,1.8,-32.0,15
+2026-10-18 16:30:52,5Vkxe8BNqGW4Sm5gf1khhe5J8PoifwVdEBQeLMZppump,GptPUMP,SELL,bundled: 3.9 SOL bought in launch block,0,0.06366,-36.3,stop loss -35%,7199,15.5,-30.9,327
+2026-10-18 16:30:52,8EbiZr39QcY3VpfyBDjcwoCkMmnchM9PLZi7e2Fjpump,Estate,BUY,dev sold,0,0.1,,,9289,,,
+2026-10-18 16:31:08,DeuBLaB269Evum71g1cRayLYoF9hGT2YuVURMnAvpump,ELON,BUY,dev sold,0,0.1,,,11883,,,
+2026-10-18 16:31:21,DeuBLaB269Evum71g1cRayLYoF9hGT2YuVURMnAvpump,ELON,SELL,dev sold,0,0.06324,-36.8,stop loss -35%,8152,20.9,-31.4,13
+2026-10-18 16:31:24,BioC6TGRvrGubxV3vsuPxQNhskRxsT6Y99PHofCvpump,ITRENCH,BUY,top10 hold 77%,0,0.1,,,38483,,,
+2026-10-18 16:31:52,7JzC5nnSwyXy6xsJuhJ5xC41Wz3PRUCM3LBVTmYZpump,Wildblood,BUY,dev sold,0,0.1,,,10204,,,
+2026-10-18 16:32:01,BioC6TGRvrGubxV3vsuPxQNhskRxsT6Y99PHofCvpump,ITRENCH,SELL,top10 hold 77%,0,0.01651,-83.5,stop loss -83%,7034,4.4,-81.7,38
+2026-10-18 16:32:36,7JzC5nnSwyXy6xsJuhJ5xC41Wz3PRUCM3LBVTmYZpump,Wildblood,SELL,dev sold,0,0.06205,-38.0,stop loss -37%,6871,8.7,-32.7,44
+2026-10-18 16:33:00,6sUvPysD91LXgKtQGCFMJDno4Y43mArfeZzXYxxTpump,banana,BUY,dev sold,0,0.1,,,14664,,,
+2026-10-18 16:33:37,4nP6wgB7zDKp8CbRvwQ1dKrz6G75nxNYTmke2TZppump,baguette,SELL,dev holds 11.2%,0,0.11535,15.3,no trading (stale),41910,24.6,0.0,254
+2026-10-18 16:33:50,6sUvPysD91LXgKtQGCFMJDno4Y43mArfeZzXYxxTpump,banana,SELL,dev sold,0,0.05936,-40.6,stop loss -39%,9444,21.3,-35.6,50
+2026-10-18 16:34:10,8EbiZr39QcY3VpfyBDjcwoCkMmnchM9PLZi7e2Fjpump,Estate,SELL,dev sold,0,0.06264,-37.4,stop loss -36%,6315,58.3,-32.0,198
+2026-10-18 16:35:33,9VXBaCXXQyyUKLiafNjH8ohAYn9SLKhEpGbJRqaxpump,DATABASE,BUY,dev sold,0,0.1,,,8392,,,
+2026-10-18 16:36:03,9VXBaCXXQyyUKLiafNjH8ohAYn9SLKhEpGbJRqaxpump,DATABASE,SELL,dev sold,0,0.06334,-36.7,stop loss -35%,5770,23.0,-31.3,30
