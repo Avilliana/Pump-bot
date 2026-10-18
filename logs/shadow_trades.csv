@@ -6233,3 +6233,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 08:40:09,vestu2UrxhGCEAjeguSZ1yEcgWR4jbogMBiiwU1MRcR,Vest,BUY,dev sold,0,0.1,,,22030,,,
 2026-10-18 08:42:52,3hhtv5GXhqC3jp3zY7ADTBEJcdA2ch3BLCEF6y3Apump,PICCOLO,SELL,score below threshold,60.0,0.06085,-39.2,stop loss -38%,5859,44.5,-33.9,220
 2026-10-18 08:46:14,vestu2UrxhGCEAjeguSZ1yEcgWR4jbogMBiiwU1MRcR,Vest,SELL,dev sold,0,0.17821,78.2,no trading (stale),42329,92.3,-14.5,364
+2026-10-18 09:32:26,Hkd1KXTddmjK1Fh71WXY2YDbABHFN68XnpNVw9Q1pump,PIPS,BUY,dev sold,0,0.1,,,12983,,,
+2026-10-18 09:32:56,5rqjxzzPiJ4qaJxvH8FG6ibKwcgqJtDHS85PrWfYpump,UGAINS,BUY,bundled: 8 launch wallets own 74%,0,0.1,,,30271,,,
+2026-10-18 09:35:32,Hkd1KXTddmjK1Fh71WXY2YDbABHFN68XnpNVw9Q1pump,PIPS,SELL,dev sold,0,0.3036,203.6,take profit +208%,42553,227.8,0.5,186
+2026-10-18 09:40:05,r4Jzt69o8t3RjLdWM2WbMUfac1pj3XG3xWuD5Gvpump,MINERO,BUY,dev sold,0,0.1,,,8826,,,
+2026-10-18 09:40:15,5rqjxzzPiJ4qaJxvH8FG6ibKwcgqJtDHS85PrWfYpump,UGAINS,SELL,bundled: 8 launch wallets own 74%,0,0.13027,30.3,no trading (stale),42732,40.6,-15.1,439
+2026-10-18 09:46:02,GAoKDJhCW3iNSjQQ6VH68Dr4ZwGyD3tnR6hnaDbsaeiu,PHASEONE,BUY,dev sold,0,0.1,,,12959,,,
+2026-10-18 09:48:58,HW6ith8rBD3BTFFF1NjTBHeotxhRXqP8aKM628eppump,PHASEONE10841,BUY,dev sold,0,0.1,,,8733,,,
+2026-10-18 09:49:21,r4Jzt69o8t3RjLdWM2WbMUfac1pj3XG3xWuD5Gvpump,MINERO,SELL,dev sold,0,0.17566,75.7,shift ended,16760,107.1,-23.6,556
+2026-10-18 09:49:21,GAoKDJhCW3iNSjQQ6VH68Dr4ZwGyD3tnR6hnaDbsaeiu,PHASEONE,SELL,dev sold,0,0.11553,15.5,shift ended,16190,46.2,-12.0,199
+2026-10-18 09:49:21,HW6ith8rBD3BTFFF1NjTBHeotxhRXqP8aKM628eppump,PHASEONE10841,SELL,dev sold,0,0.11293,12.9,shift ended,10673,22.2,0.8,23
