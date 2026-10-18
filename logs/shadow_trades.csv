@@ -6145,3 +6145,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 00:35:33,FjLi4PdJpWkpMejopU1E9z8b9KMHdLdiKvYMuW1apump,inugrant,BUY,dev sold,0,0.1,,,10178,,,
 2026-10-18 00:35:43,FjLi4PdJpWkpMejopU1E9z8b9KMHdLdiKvYMuW1apump,inugrant,SELL,dev sold,0,0.06362,-36.4,stop loss -35%,7026,0.7,-31.0,10
 2026-10-18 00:38:27,Eg9JBFThqf6EqGCAv3qJLzb6GaVqerTNre3Rqo3apump,BITE,SELL,bundled: 18 launch wallets own 16%,0,0.15647,56.5,shift ended,15239,86.0,-11.1,953
+2026-10-18 01:40:38,3tizcwwtneKensiXDj98wfhvZ9k96togNdp74w9kpump,DWELL,BUY,score below threshold,48.1,0.1,,,8294,,,
+2026-10-18 01:41:22,3tizcwwtneKensiXDj98wfhvZ9k96togNdp74w9kpump,DWELL,SELL,score below threshold,48.1,0.0836,-16.4,dev sold,7514,13.1,-9.4,44
+2026-10-18 01:52:10,7B7LNCsLwaFMAC9SyztcweYdh8hHskgv6YXxnhU3pump,enclosure,BUY,bundled: 15 launch wallets own 23%,0,0.1,,,9847,,,
+2026-10-18 01:53:00,7B7LNCsLwaFMAC9SyztcweYdh8hHskgv6YXxnhU3pump,enclosure,SELL,bundled: 15 launch wallets own 23%,0,0.12002,20.0,shift ended,12784,54.8,-3.9,50
