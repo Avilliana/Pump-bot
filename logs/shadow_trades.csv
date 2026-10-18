@@ -6319,3 +6319,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 13:49:06,4gbxeyiNfFxukJjgz6WCU4PfdBgAVXewbumorvqXpump,baguette,BUY,dev sold,0,0.1,,,14085,,,
 2026-10-18 13:49:40,4gbxeyiNfFxukJjgz6WCU4PfdBgAVXewbumorvqXpump,baguette,SELL,dev sold,0,0.06284,-37.2,stop loss -36%,9599,3.6,-31.8,33
 2026-10-18 13:50:47,6Y7quBMHR2XcYCbiKoP9inDAniDPWEkh2c1URYKzpump,buildr,SELL,past buy window (late mover),63.4,0.07476,-25.2,shift ended,7395,7.7,-21.9,614
+2026-10-18 14:29:28,Do3wpyGQHDLMh2KeqWWb372NZnRRKRS7DEM25U9ESTCL,RIOT,BUY,dev sold,0,0.1,,,13446,,,
+2026-10-18 14:30:51,Do3wpyGQHDLMh2KeqWWb372NZnRRKRS7DEM25U9ESTCL,RIOT,SELL,dev sold,0,0.06272,-37.3,stop loss -36%,9149,14.7,-32.0,83
+2026-10-18 14:35:22,4onQW7TWbvzuyeJ8XUXHs2zm8fSPESXBLAyrLNA1pump,Glow,BUY,dev holds 42.9%,0,0.1,,,10632,,,
+2026-10-18 14:35:22,88MweUaWzk13iLxCKsqpgSmTmdfsi3E2cJz13Dgapump,RCPTS,BUY,bundled: 9 launch wallets own 10%,0,0.1,,,12385,,,
+2026-10-18 14:38:47,9KJLvhHzT2jK7EZ9zoMTHiB7df2xgER7WdtbkxBvuuV3,Tortue,BUY,dev sold,0,0.1,,,9492,,,
+2026-10-18 14:39:06,3BvXAmGDYBDHdb2mWrzk99b6zHV4nPG6CafnLTuzpump,DEPE,BUY,dev sold,0,0.1,,,9353,,,
+2026-10-18 14:39:27,9KJLvhHzT2jK7EZ9zoMTHiB7df2xgER7WdtbkxBvuuV3,Tortue,SELL,dev sold,0,0.06135,-38.6,stop loss -37%,6321,0.5,-33.4,40
+2026-10-18 14:40:04,3BvXAmGDYBDHdb2mWrzk99b6zHV4nPG6CafnLTuzpump,DEPE,SELL,dev sold,0,0.06191,-38.1,stop loss -37%,6285,25.3,-32.8,58
+2026-10-18 14:40:06,88MweUaWzk13iLxCKsqpgSmTmdfsi3E2cJz13Dgapump,RCPTS,SELL,bundled: 9 launch wallets own 10%,0,0.02537,-74.6,stop loss -74%,3425,55.8,-72.2,284
+2026-10-18 14:40:43,4qWwt9BywFnyacSJT7HD1Ke8jD1c7qrfwsYuvccJpump,Pepé,BUY,dev holds 14.8%,0,0.1,,,34741,,,
+2026-10-18 14:41:45,9KFp3EU4K2sjiHR3MFB5hJySyZaAQsSZsG5c5s5xpump,FARTLON,BUY,dev holds 20.3%,0,0.1,,,41906,,,
+2026-10-18 14:42:15,6eb3NjfB25iggkApQuifiD1aUzPwHNNimhUuShvtpump,FTR,BUY,dev holds 15.3%,0,0.1,,,20059,,,
+2026-10-18 14:42:21,6eb3NjfB25iggkApQuifiD1aUzPwHNNimhUuShvtpump,FTR,SELL,dev holds 15.3%,0,0.06192,-38.1,stop loss -37%,13467,13.2,-32.9,6
+2026-10-18 14:42:22,EU1hfr1gHAm9QXG1rFoifZ9UmeXsZErgAtQiwLS6pump,fartlon,BUY,dev sold,0,0.1,,,12399,,,
+2026-10-18 14:42:29,EU1hfr1gHAm9QXG1rFoifZ9UmeXsZErgAtQiwLS6pump,fartlon,SELL,dev sold,0,0.06328,-36.7,stop loss -35%,8512,0.0,-31.4,6
+2026-10-18 14:42:48,BQjji228bLkqG9Rj6uSBzgeam2fBTEgDqfP1UGYipump,JOVIR,BUY,score below threshold,55.9,0.1,,,9462,,,
+2026-10-18 14:43:03,4onQW7TWbvzuyeJ8XUXHs2zm8fSPESXBLAyrLNA1pump,Glow,SELL,dev holds 42.9%,0,0.3076,207.6,take profit +212%,35101,232.2,1.1,462
+2026-10-18 14:43:04,7kxTnPr4cnboiiCmE3RKgj65jcDf36QKiYyXE2igpump,FTR,BUY,dev sold,0,0.1,,,11468,,,
+2026-10-18 14:43:30,7kxTnPr4cnboiiCmE3RKgj65jcDf36QKiYyXE2igpump,FTR,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,7810,49.1,-31.9,26
+2026-10-18 14:44:25,9KFp3EU4K2sjiHR3MFB5hJySyZaAQsSZsG5c5s5xpump,FARTLON,SELL,dev holds 20.3%,0,0.09252,-7.5,no trading (stale),41906,0.0,0.0,160
+2026-10-18 14:44:39,4qWwt9BywFnyacSJT7HD1Ke8jD1c7qrfwsYuvccJpump,Pepé,SELL,dev holds 14.8%,0,0.11168,11.7,no trading (stale),41906,20.6,3.2,236
+2026-10-18 14:46:44,6hgCbySsJFVxHCZEy4H9E7WnSY7HVnZkBrUHCa9rpump,thrust,BUY,dev sold,0,0.1,,,10815,,,
+2026-10-18 14:48:24,BQjji228bLkqG9Rj6uSBzgeam2fBTEgDqfP1UGYipump,JOVIR,SELL,score below threshold,55.9,0.07867,-21.3,shift ended,8067,11.6,-18.7,336
+2026-10-18 14:48:24,6hgCbySsJFVxHCZEy4H9E7WnSY7HVnZkBrUHCa9rpump,thrust,SELL,dev sold,0,0.10661,6.6,shift ended,12475,39.7,-16.6,101
