@@ -6149,3 +6149,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 01:41:22,3tizcwwtneKensiXDj98wfhvZ9k96togNdp74w9kpump,DWELL,SELL,score below threshold,48.1,0.0836,-16.4,dev sold,7514,13.1,-9.4,44
 2026-10-18 01:52:10,7B7LNCsLwaFMAC9SyztcweYdh8hHskgv6YXxnhU3pump,enclosure,BUY,bundled: 15 launch wallets own 23%,0,0.1,,,9847,,,
 2026-10-18 01:53:00,7B7LNCsLwaFMAC9SyztcweYdh8hHskgv6YXxnhU3pump,enclosure,SELL,bundled: 15 launch wallets own 23%,0,0.12002,20.0,shift ended,12784,54.8,-3.9,50
+2026-10-18 02:34:22,BqQ4gxJw21Sg9kbreAucGNv2QmVKznLdwvwdn5Uspump,WHISKEYGUY,BUY,dev sold,0,0.1,,,22749,,,
+2026-10-18 02:35:03,BqQ4gxJw21Sg9kbreAucGNv2QmVKznLdwvwdn5Uspump,WHISKEYGUY,SELL,dev sold,0,0.06318,-36.8,stop loss -36%,15580,22.4,-31.5,40
+2026-10-18 02:37:09,GRxJ4kXj8FVLTguCe8WxNYnmAoPggxiVrK4tsjRvpump,Pairless,BUY,dev sold,0,0.1,,,9657,,,
+2026-10-18 02:39:34,2yRAST1sQJepoHj4sJtzSjAshwN4rSj59792zm2Kpump,10/19,BUY,dev sold,0,0.1,,,17486,,,
+2026-10-18 02:39:47,2yRAST1sQJepoHj4sJtzSjAshwN4rSj59792zm2Kpump,10/19,SELL,dev sold,0,0.06242,-37.6,stop loss -36%,11836,1.7,-32.3,13
+2026-10-18 02:40:32,E8SDanuym3xVPQspZwWXbnsW2qD6B1hruBtDCC5Vpump,Dodo,BUY,dev sold,0,0.1,,,8179,,,
+2026-10-18 02:41:16,E8SDanuym3xVPQspZwWXbnsW2qD6B1hruBtDCC5Vpump,Dodo,SELL,dev sold,0,0.06342,-36.6,stop loss -35%,5628,19.4,-31.2,44
+2026-10-18 02:42:26,3t4BsgLNAQ1bHbP7CEFtvZeDrWMYJtuvC3Ucter7pump,AFC,BUY,dev holds 9.8%,0,0.1,,,23116,,,
+2026-10-18 02:42:30,CPZyY7PtZUJhzSGqgBevdydBhz7xuSBxV1nBazorpump,SCAM,BUY,dev sold,0,0.1,,,9011,,,
+2026-10-18 02:43:01,GdMK7TWC16ud7nSDNZTvyGFaxjnndXBsRMqFsv84i4tr,AFC,BUY,dev sold,0,0.1,,,21880,,,
+2026-10-18 02:43:02,CPZyY7PtZUJhzSGqgBevdydBhz7xuSBxV1nBazorpump,SCAM,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,6140,0.0,-31.9,32
+2026-10-18 02:43:47,GdMK7TWC16ud7nSDNZTvyGFaxjnndXBsRMqFsv84i4tr,AFC,SELL,dev sold,0,0.06284,-37.2,stop loss -36%,14905,36.4,-31.9,46
+2026-10-18 02:44:25,247hxSSfHi9NWmyEeBg7jJHMeHy5JpeRBUPgCBCMpump,AFC,BUY,dev sold,0,0.1,,,14918,,,
+2026-10-18 02:45:38,3t4BsgLNAQ1bHbP7CEFtvZeDrWMYJtuvC3Ucter7pump,AFC,SELL,dev holds 9.8%,0,0.1708,70.8,no trading (stale),42612,84.3,-3.3,192
+2026-10-18 02:45:54,GRxJ4kXj8FVLTguCe8WxNYnmAoPggxiVrK4tsjRvpump,Pairless,SELL,dev sold,0,0.06359,-36.4,stop loss -35%,6661,139.8,-31.0,526
+2026-10-18 02:46:29,2TchsDkKLZjrtUR9B9MHW7KuQRBMomxwwRjQ1YTwpump,AC,BUY,dev sold,0,0.1,,,10685,,,
+2026-10-18 02:47:26,2TchsDkKLZjrtUR9B9MHW7KuQRBMomxwwRjQ1YTwpump,AC,SELL,dev sold,0,0.0626,-37.4,stop loss -36%,7258,76.2,-32.1,57
+2026-10-18 02:48:37,247hxSSfHi9NWmyEeBg7jJHMeHy5JpeRBUPgCBCMpump,AFC,SELL,dev sold,0,0.26465,164.7,no trading (stale),42612,185.6,-14.2,252
