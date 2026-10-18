@@ -6135,3 +6135,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-17 23:33:45,HoTeEDxYsBATit4242c8yirRXQqQGL5fHVxXk4jPpump,TikTok,SELL,dev sold,0,0.02505,-74.9,stop loss -74%,3255,116.1,-72.5,70
 2026-10-17 23:35:20,D9hPcfh2GbpFvuaauAcnLvf4WLToFAA4MsFPMttMpump,Avinnaarjuk,BUY,dev sold,0,0.1,,,14506,,,
 2026-10-17 23:35:41,D9hPcfh2GbpFvuaauAcnLvf4WLToFAA4MsFPMttMpump,Avinnaarjuk,SELL,dev sold,0,0.02193,-78.1,stop loss -77%,3500,52.3,-75.9,21
+2026-10-18 00:22:35,Eg9JBFThqf6EqGCAv3qJLzb6GaVqerTNre3Rqo3apump,BITE,BUY,bundled: 18 launch wallets own 16%,0,0.1,,,9011,,,
+2026-10-18 00:24:08,A4f6bjxoMe2FSpXeck3mLmFr6MdStK7etovWeBUKpump,Mechanicus,BUY,dev sold,0,0.1,,,12649,,,
+2026-10-18 00:24:08,A4f6bjxoMe2FSpXeck3mLmFr6MdStK7etovWeBUKpump,Mechanicus,SELL,dev sold,0,0.05754,-42.5,stop loss -41%,7901,0.0,-37.5,0
+2026-10-18 00:29:11,7DD5HYkrCN2yGhELfPygcW6VvG79iGRxhMZtZjS9pump,DPWG,BUY,bundled: 11 launch wallets own 77%,0,0.1,,,42440,,,
+2026-10-18 00:31:58,7DD5HYkrCN2yGhELfPygcW6VvG79iGRxhMZtZjS9pump,DPWG,SELL,bundled: 11 launch wallets own 77%,0,0.09252,-7.5,no trading (stale),42440,0.0,0.0,166
+2026-10-18 00:34:05,FSRTeLbHVkCqvtB9eVQRojc5TCeqeGX7vSB7tKLvpump,Pair,BUY,dev sold,0,0.1,,,9601,,,
+2026-10-18 00:34:32,FSRTeLbHVkCqvtB9eVQRojc5TCeqeGX7vSB7tKLvpump,Pair,SELL,dev sold,0,0.06248,-37.5,stop loss -36%,6511,0.0,-32.2,27
+2026-10-18 00:35:33,FjLi4PdJpWkpMejopU1E9z8b9KMHdLdiKvYMuW1apump,inugrant,BUY,dev sold,0,0.1,,,10178,,,
+2026-10-18 00:35:43,FjLi4PdJpWkpMejopU1E9z8b9KMHdLdiKvYMuW1apump,inugrant,SELL,dev sold,0,0.06362,-36.4,stop loss -35%,7026,0.7,-31.0,10
+2026-10-18 00:38:27,Eg9JBFThqf6EqGCAv3qJLzb6GaVqerTNre3Rqo3apump,BITE,SELL,bundled: 18 launch wallets own 16%,0,0.15647,56.5,shift ended,15239,86.0,-11.1,953
