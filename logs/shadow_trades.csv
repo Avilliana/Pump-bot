@@ -6243,3 +6243,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 09:49:21,r4Jzt69o8t3RjLdWM2WbMUfac1pj3XG3xWuD5Gvpump,MINERO,SELL,dev sold,0,0.17566,75.7,shift ended,16760,107.1,-23.6,556
 2026-10-18 09:49:21,GAoKDJhCW3iNSjQQ6VH68Dr4ZwGyD3tnR6hnaDbsaeiu,PHASEONE,SELL,dev sold,0,0.11553,15.5,shift ended,16190,46.2,-12.0,199
 2026-10-18 09:49:21,HW6ith8rBD3BTFFF1NjTBHeotxhRXqP8aKM628eppump,PHASEONE10841,SELL,dev sold,0,0.11293,12.9,shift ended,10673,22.2,0.8,23
+2026-10-18 10:32:51,2oAaLAj6njhdVYGefCovjFBAXkMDxeaiWvTzEhxypump,CALVITIÉ,BUY,dev sold,0,0.1,,,15141,,,
+2026-10-18 10:36:00,2oAaLAj6njhdVYGefCovjFBAXkMDxeaiWvTzEhxypump,CALVITIÉ,SELL,dev sold,0,0.06215,-37.9,stop loss -37%,10207,70.5,-32.6,189
+2026-10-18 10:37:41,4ccWjaac1UqqoJRkF9xhiAcD9tf7MfCkehjombaCQUcB,Pepé,BUY,dev sold,0,0.1,,,10510,,,
+2026-10-18 10:42:41,J4CdTFSAGCYXYbdzifND1GjkBuxbfncZyc8F9rT1oAVE,BIEN,BUY,dev sold,0,0.1,,,9353,,,
+2026-10-18 10:43:11,J4CdTFSAGCYXYbdzifND1GjkBuxbfncZyc8F9rT1oAVE,BIEN,SELL,dev sold,0,0.06164,-38.4,stop loss -37%,6258,24.3,-33.1,30
+2026-10-18 10:43:40,4ccWjaac1UqqoJRkF9xhiAcD9tf7MfCkehjombaCQUcB,Pepé,SELL,dev sold,0,0.29632,196.3,take profit +201%,33654,220.1,-8.7,360
+2026-10-18 10:45:58,HzAbvFA1PgDm9pESrFW2zr3rugcxz8u1CX8PjKYRpump,MEMEVENGERS,BUY,dev sold,0,0.1,,,9947,,,
+2026-10-18 10:46:30,HzAbvFA1PgDm9pESrFW2zr3rugcxz8u1CX8PjKYRpump,MEMEVENGERS,SELL,dev sold,0,0.06341,-36.6,stop loss -35%,6844,5.7,-31.2,32
+2026-10-18 10:47:44,CM5B4eqTQCFD95VJDkjmF62cNDC9nZbNgA6kcw74pump,Sagace,BUY,dev sold,0,0.1,,,8738,,,
+2026-10-18 10:48:49,CYZh9rtYpUfGty69FsHomhL9EF4rwGzmAHz871VSpump,Frenchie,BUY,dev sold,0,0.1,,,8767,,,
+2026-10-18 10:48:55,CM5B4eqTQCFD95VJDkjmF62cNDC9nZbNgA6kcw74pump,Sagace,SELL,dev sold,0,0.24983,149.8,shift ended,23591,186.9,-0.1,71
+2026-10-18 10:48:55,CYZh9rtYpUfGty69FsHomhL9EF4rwGzmAHz871VSpump,Frenchie,SELL,dev sold,0,0.08909,-10.9,shift ended,8461,0.0,-11.1,6
