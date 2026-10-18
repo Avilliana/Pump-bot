@@ -6195,3 +6195,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 04:51:34,3qqM8YivXUX8TCCQAeQLAsDjkwQJC91Lc6JzMtNppump,ANSENJEO,SELL,dev sold,0,0.08174,-18.3,shift ended,7707,149.1,-20.1,870
 2026-10-18 04:51:34,CB6uea19T8ML5bKSgTUviyZHEpwCueVu69W3KHaspump,DM,SELL,bundled: 7 launch wallets own 74%,0,0.11944,19.4,shift ended,42686,29.0,-7.6,254
 2026-10-18 04:51:34,ELYwH8qtF7PX7fHUp4qpioS7BKrPAa23Gv9MXcYPpump,hicoin,SELL,bundled: 11 launch wallets own 74%,0,0.12556,25.6,shift ended,42686,35.6,-0.8,107
+2026-10-18 05:31:33,GmkVFzu2CTXn85rZwUfM96tiDuMZPn9NFr6yzbRYpump,FOMOGATO,BUY,bundled: 10 launch wallets own 74%,0,0.1,,,30828,,,
+2026-10-18 05:34:26,AFxTQUTDndep8NP8twxsZfKhu6rabSdrNzSTfe6ipump,HellDon,BUY,bundled: 7 launch wallets own 73%,0,0.1,,,35408,,,
+2026-10-18 05:36:35,8femDbY95xNU2JfFhhpXVoSaRhi3p9jcT3d7ocywpump,SWARM,BUY,bundled: 10 launch wallets own 5%,0,0.1,,,8193,,,
+2026-10-18 05:38:06,GmkVFzu2CTXn85rZwUfM96tiDuMZPn9NFr6yzbRYpump,FOMOGATO,SELL,bundled: 10 launch wallets own 74%,0,0.1277,27.7,no trading (stale),42506,37.9,-3.8,394
+2026-10-18 05:39:08,AFxTQUTDndep8NP8twxsZfKhu6rabSdrNzSTfe6ipump,HellDon,SELL,bundled: 7 launch wallets own 73%,0,0.11114,11.1,no trading (stale),42506,20.0,-15.5,282
+2026-10-18 05:45:52,8femDbY95xNU2JfFhhpXVoSaRhi3p9jcT3d7ocywpump,SWARM,SELL,bundled: 10 launch wallets own 5%,0,0.06188,-38.1,stop loss -37%,5499,150.0,-32.8,556
