@@ -6843,3 +6843,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 16:49:04,9pxjA873utNJmkfTerLQ7ggivRCAH3k5eMh7N4bPYcWa,Premarket,SELL,bundled: 25 launch wallets own 20%,0,0.04122,-58.8,stop loss -58%,5305,73.4,-55.1,118
 2026-10-19 16:49:05,GaNDz4FXgLLgUW5FPgeaRKj7knERQRgxdCkfpcbipump,stockfolio,BUY,dev sold,0,0.1,,,14183,,,
 2026-10-19 16:50:46,GaNDz4FXgLLgUW5FPgeaRKj7knERQRgxdCkfpcbipump,stockfolio,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,9783,29.1,-31.0,101
+2026-10-19 17:34:59,7PvDXoFaHGoAAfPopE3vNfqRJcDCsz2fVbVYionopump,TA,BUY,dev sold,0,0.1,,,13728,,,
+2026-10-19 17:35:34,7PvDXoFaHGoAAfPopE3vNfqRJcDCsz2fVbVYionopump,TA,SELL,dev sold,0,0.06259,-37.4,stop loss -36%,9320,12.6,-32.1,35
+2026-10-19 17:37:22,BvZ3NdoMYiuF8Y8321tZuodEwMLo6TypcxmBFbp4pump,Boss,BUY,dev sold,0,0.1,,,10740,,,
+2026-10-19 17:38:06,4gCSMp8FmLZvdEMxaaGD7GaWMNjosetjyTdarS5vpump,RCPTS,BUY,bundled: 11 launch wallets own 6%,0,0.1,,,12887,,,
+2026-10-19 17:38:19,Bjai5BdkNpzsiqsMrCLEUo9vmoYLjtX5tfWbyUyPkkr3,MUSK,BUY,bundled: 34 launch wallets own 29%,0,0.1,,,16415,,,
+2026-10-19 17:38:58,4gCSMp8FmLZvdEMxaaGD7GaWMNjosetjyTdarS5vpump,RCPTS,SELL,bundled: 11 launch wallets own 6%,0,0.02092,-79.1,dev sold,2970,13.6,-77.0,53
+2026-10-19 17:39:00,BvZ3NdoMYiuF8Y8321tZuodEwMLo6TypcxmBFbp4pump,Boss,SELL,dev sold,0,0.06368,-36.3,stop loss -35%,7421,76.5,-30.9,98
+2026-10-19 17:40:17,F2NrPqU4LAFL9F9BNEWTbqcnSN7Tynbwv1eoCfEdpump,VAULT,BUY,dev sold,0,0.1,,,13810,,,
+2026-10-19 17:41:29,3eYs1iGSBQTzxZ94RN8W5c4RCipUJmVbAnueFrrapump,MIRIAM,BUY,dev sold,0,0.1,,,11196,,,
+2026-10-19 17:43:10,Bjai5BdkNpzsiqsMrCLEUo9vmoYLjtX5tfWbyUyPkkr3,MUSK,SELL,bundled: 34 launch wallets own 29%,0,0.02477,-75.2,stop loss -74%,4461,133.1,-72.8,291
+2026-10-19 17:43:18,3eYs1iGSBQTzxZ94RN8W5c4RCipUJmVbAnueFrrapump,MIRIAM,SELL,dev sold,0,0.29581,195.8,take profit +200%,35767,219.5,-4.2,108
+2026-10-19 17:43:38,F2NrPqU4LAFL9F9BNEWTbqcnSN7Tynbwv1eoCfEdpump,VAULT,SELL,dev sold,0,0.06212,-37.9,stop loss -37%,9307,111.2,-32.6,201
+2026-10-19 17:45:14,8w1PrUFe3sQFW6Hd1FaodqfChX7kkRVoxsbyUWkspump,ALIENLON,BUY,dev sold,0,0.1,,,12649,,,
+2026-10-19 17:45:24,H3c7ui7kwPpYeH69DHdP6EtZweVmK3kUToJtpMmJpump,Tengu,BUY,dev sold,0,0.1,,,12516,,,
+2026-10-19 17:45:46,2JHkoTXtK8FUP5urGXU8nxR6gyteYXZQnmyrzMjXpump,ALIENLON,BUY,dev sold,0,0.1,,,9107,,,
+2026-10-19 17:45:57,8w1PrUFe3sQFW6Hd1FaodqfChX7kkRVoxsbyUWkspump,ALIENLON,SELL,dev sold,0,0.06362,-36.4,stop loss -35%,8730,40.5,-31.0,43
+2026-10-19 17:47:31,H3c7ui7kwPpYeH69DHdP6EtZweVmK3kUToJtpMmJpump,Tengu,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,8573,32.4,-31.5,127
+2026-10-19 17:47:36,2JHkoTXtK8FUP5urGXU8nxR6gyteYXZQnmyrzMjXpump,ALIENLON,SELL,dev sold,0,0.02929,-70.7,stop loss -70%,2920,76.6,-67.9,111
+2026-10-19 17:49:16,DvxfjmNYsqPScHZ1T3Um4cjPFmEJ9UfvTpmHhAi5pump,TESLALEAGUE,BUY,score below threshold,59.3,0.1,,,8825,,,
+2026-10-19 17:49:43,6vpvzk8ipp8h5K8sMf3AABmuRAJfkmDJgQZViNzvpump,CLAWDM,BUY,bundled: 12 launch wallets own 29%,0,0.1,,,12149,,,
+2026-10-19 17:50:35,AwqEbE4Y2uMsryboJPk7oyCgLMmXH5Hy4Wkqu8F5pump,PRECUM,BUY,dev sold,0,0.1,,,14992,,,
+2026-10-19 17:50:50,BZiRwrQdYoHXkDctRzKpudSbMFFTWoXVum2zUYVUpump,PAGER,BUY,dev sold,0,0.1,,,9227,,,
+2026-10-19 17:51:09,AwqEbE4Y2uMsryboJPk7oyCgLMmXH5Hy4Wkqu8F5pump,PRECUM,SELL,dev sold,0,0.06297,-37.0,stop loss -36%,10239,25.4,-31.7,34
+2026-10-19 17:52:14,DvxfjmNYsqPScHZ1T3Um4cjPFmEJ9UfvTpmHhAi5pump,TESLALEAGUE,SELL,score below threshold,59.3,0.10488,4.9,dev sold,10019,31.8,0.0,178
+2026-10-19 17:52:58,6vpvzk8ipp8h5K8sMf3AABmuRAJfkmDJgQZViNzvpump,CLAWDM,SELL,bundled: 12 launch wallets own 29%,0,0.1406,40.6,shift ended,18462,57.2,-6.9,195
+2026-10-19 17:52:58,BZiRwrQdYoHXkDctRzKpudSbMFFTWoXVum2zUYVUpump,PAGER,SELL,dev sold,0,0.21666,116.7,shift ended,21602,134.9,0.0,128
