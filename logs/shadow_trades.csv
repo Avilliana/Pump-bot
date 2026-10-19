@@ -6941,3 +6941,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 19:52:25,F6wySbZ1KCSeMqq3YKjp19zCPwQ4fNHAAKvqCWpHpump,SENTINEL,BUY,bundled: 56.9 SOL bought in launch block,0,0.1,,,27668,,,
 2026-10-19 19:53:25,F6wySbZ1KCSeMqq3YKjp19zCPwQ4fNHAAKvqCWpHpump,SENTINEL,SELL,bundled: 56.9 SOL bought in launch block,0,0.06236,-37.6,stop loss -36%,18700,10.0,-32.4,60
 2026-10-19 19:55:00,2E6J1cRC9LqA3LG13M6JAGQ7nf8b6fBG1g9SQfGiFFUN,GIF,SELL,bundled: 57.8 SOL bought in launch block,0,0.13595,36.0,shift ended,36290,58.0,-21.8,688
+2026-10-19 20:34:42,EBeWB1Co1LehJF1Mm4rgFTEE23ADzLYVGzPdBabepump,license,BUY,top10 hold 64%,0,0.1,,,12809,,,
+2026-10-19 20:36:00,DpG3k5Bs2sHqRjwVhQHMBmvqqoFEVDwcATGt7SaUpump,KITKAT,BUY,dev sold,0,0.1,,,11525,,,
+2026-10-19 20:36:01,EBeWB1Co1LehJF1Mm4rgFTEE23ADzLYVGzPdBabepump,license,SELL,top10 hold 64%,0,0.06084,-39.2,stop loss -38%,8456,80.5,-34.0,79
+2026-10-19 20:37:52,6nMDuK7NUyAXrKRFSCfTMwgzKzpRNm9hg8PQzQ6Gpump,Mamdani,BUY,dev sold,0,0.1,,,17799,,,
+2026-10-19 20:40:07,DpG3k5Bs2sHqRjwVhQHMBmvqqoFEVDwcATGt7SaUpump,KITKAT,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,7910,161.4,-31.4,248
+2026-10-19 20:42:46,GU8vViusPzhF5m2Uy7bEy9o6ryXmUD4vxXpYvEo6pump,swordinu,BUY,dev sold,0,0.1,,,17156,,,
+2026-10-19 20:43:08,4Qox3BTREkrFXizKq7D735tYJxwkhvvspwnFzBQVpump,NERU,BUY,dev sold,0,0.1,,,12995,,,
+2026-10-19 20:44:43,336REanZawGQGV4oWwF8qh642P8MceSGiPiWfofRpump,archive,BUY,bundled: 15 launch wallets own 24%,0,0.1,,,12178,,,
+2026-10-19 20:46:34,4Qox3BTREkrFXizKq7D735tYJxwkhvvspwnFzBQVpump,NERU,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,8963,52.1,-31.1,207
+2026-10-19 20:48:20,AUzWccw5dvR9NtLMKzK8Xkh5KeMDEaEzWQDAyVWVpump,READY,BUY,bundled: 16 launch wallets own 57%,0,0.1,,,15977,,,
+2026-10-19 20:48:42,A1SqomQQjGDXJ7iGciZEwDurbnRo77K1xoGsGvaepump,CLAVCAT,BUY,bundled: 43 launch wallets own 17%,0,0.1,,,9254,,,
+2026-10-19 20:50:03,A1SqomQQjGDXJ7iGciZEwDurbnRo77K1xoGsGvaepump,CLAVCAT,SELL,bundled: 43 launch wallets own 17%,0,0.0626,-37.4,stop loss -36%,6287,29.3,-32.1,81
+2026-10-19 20:50:54,6nMDuK7NUyAXrKRFSCfTMwgzKzpRNm9hg8PQzQ6Gpump,Mamdani,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,12173,123.5,-31.6,782
+2026-10-19 20:52:06,GU8vViusPzhF5m2Uy7bEy9o6ryXmUD4vxXpYvEo6pump,swordinu,SELL,dev sold,0,0.23177,131.8,no trading (stale),42933,150.1,-13.8,560
+2026-10-19 20:52:23,4GfErbT1zPAvGzQpJezt6jwVF1JnoRLPc2QrCgaqpump,GODS,BUY,top10 hold 35%,0,0.1,,,8783,,,
+2026-10-19 20:54:02,336REanZawGQGV4oWwF8qh642P8MceSGiPiWfofRpump,archive,SELL,bundled: 15 launch wallets own 24%,0,0.22271,122.7,shift ended,29289,176.8,-15.5,559
+2026-10-19 20:54:02,AUzWccw5dvR9NtLMKzK8Xkh5KeMDEaEzWQDAyVWVpump,READY,SELL,bundled: 16 launch wallets own 57%,0,0.24898,149.0,shift ended,42933,168.7,-26.3,342
+2026-10-19 20:54:02,4GfErbT1zPAvGzQpJezt6jwVF1JnoRLPc2QrCgaqpump,GODS,SELL,top10 hold 35%,0,0.09233,-7.7,shift ended,8783,0.0,0.0,98
