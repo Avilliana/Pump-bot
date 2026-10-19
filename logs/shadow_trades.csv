@@ -6869,3 +6869,51 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 17:52:14,DvxfjmNYsqPScHZ1T3Um4cjPFmEJ9UfvTpmHhAi5pump,TESLALEAGUE,SELL,score below threshold,59.3,0.10488,4.9,dev sold,10019,31.8,0.0,178
 2026-10-19 17:52:58,6vpvzk8ipp8h5K8sMf3AABmuRAJfkmDJgQZViNzvpump,CLAWDM,SELL,bundled: 12 launch wallets own 29%,0,0.1406,40.6,shift ended,18462,57.2,-6.9,195
 2026-10-19 17:52:58,BZiRwrQdYoHXkDctRzKpudSbMFFTWoXVum2zUYVUpump,PAGER,SELL,dev sold,0,0.21666,116.7,shift ended,21602,134.9,0.0,128
+2026-10-19 18:39:55,5ffmgD39gfxHN3siVfLQKu38cTRiiw83fvEXusTjpump,FOMOBILL,BUY,top10 hold 56%,0,0.1,,,19275,,,
+2026-10-19 18:39:58,5ffmgD39gfxHN3siVfLQKu38cTRiiw83fvEXusTjpump,FOMOBILL,SELL,top10 hold 56%,0,0.06348,-36.5,stop loss -35%,13265,5.1,-31.2,3
+2026-10-19 18:41:29,2kNXUpEXB8kApFoQ5zjQhzTcajob8kkCwkio1eTxpump,SPLIT,BUY,dev sold,0,0.1,,,9813,,,
+2026-10-19 18:41:30,AUag3yNa9vk5rtbeWJ3KyY8gVYKpNgWAuAqQNMjApump,SB,BUY,dev sold,0,0.1,,,9436,,,
+2026-10-19 18:41:37,AUag3yNa9vk5rtbeWJ3KyY8gVYKpNgWAuAqQNMjApump,SB,SELL,dev sold,0,0.06165,-38.4,stop loss -37%,6314,5.5,-33.1,6
+2026-10-19 18:41:46,2kNXUpEXB8kApFoQ5zjQhzTcajob8kkCwkio1eTxpump,SPLIT,SELL,dev sold,0,0.05558,-44.4,stop loss -43%,5924,1.4,-39.6,16
+2026-10-19 18:41:52,J3mqqRBZ91xSMBqzCqMG8RRVh3TXxpZXiHwzp9QzN7Q6,slop,BUY,dev sold,0,0.1,,,8958,,,
+2026-10-19 18:42:38,J3mqqRBZ91xSMBqzCqMG8RRVh3TXxpZXiHwzp9QzN7Q6,slop,SELL,dev sold,0,0.05834,-41.7,stop loss -40%,5675,6.0,-36.6,45
+2026-10-19 18:43:59,MgRf5QZLW7Tcq42o1A2KTWSJiM5j5CaEPdFKKEawFxf,PumpPack,BUY,dev sold,0,0.1,,,35802,,,
+2026-10-19 18:44:39,G8esysbwSKWZM78aDi1aH5p8ksXfExSVGKVfofRypump,FOMOBILL,BUY,top10 hold 54%,0,0.1,,,18795,,,
+2026-10-19 18:45:01,DzrJvo7Z4yvFkeaPVQgrGdrUUVz86tpQ357cLL1N9tWg,PUMPPACK,BUY,dev sold,0,0.1,,,9435,,,
+2026-10-19 18:45:03,GePcyXjbG9wxfKo7E5MjeAnq34rFrzaNs5dDQ2Shpump,PSA10,BUY,dev sold,0,0.1,,,25754,,,
+2026-10-19 18:45:15,DzrJvo7Z4yvFkeaPVQgrGdrUUVz86tpQ357cLL1N9tWg,PUMPPACK,SELL,dev sold,0,0.06234,-37.7,stop loss -36%,6384,0.0,-32.3,15
+2026-10-19 18:45:20,GePcyXjbG9wxfKo7E5MjeAnq34rFrzaNs5dDQ2Shpump,PSA10,SELL,dev sold,0,0.02327,-76.7,stop loss -76%,6582,9.9,-74.4,17
+2026-10-19 18:45:44,FgBZsq1SXSWmf2XNXZQbSrbSqDZJnjizMXCph9Cmpump,PSA10,BUY,dev sold,0,0.1,,,22388,,,
+2026-10-19 18:45:55,FgBZsq1SXSWmf2XNXZQbSrbSqDZJnjizMXCph9Cmpump,PSA10,SELL,dev sold,0,0.06174,-38.3,stop loss -37%,14986,0.0,-33.1,11
+2026-10-19 18:46:28,4WqriB9jmvgGaTKkSCnAgsuvjWfkLsBpGjyAM9yMpump,PumpBall,BUY,dev sold,0,0.1,,,9214,,,
+2026-10-19 18:46:47,4WqriB9jmvgGaTKkSCnAgsuvjWfkLsBpGjyAM9yMpump,PumpBall,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,6323,12.1,-31.4,19
+2026-10-19 18:47:03,MgRf5QZLW7Tcq42o1A2KTWSJiM5j5CaEPdFKKEawFxf,PumpPack,SELL,dev sold,0,0.10532,5.3,no trading (stale),40737,13.9,0.9,184
+2026-10-19 18:47:13,BH7KLuydT4tYzkFzfW6XiNMNBJsRzJtt4gPzgcHHpump,CELESTIAL,BUY,dev sold,0,0.1,,,24141,,,
+2026-10-19 18:47:18,BH7KLuydT4tYzkFzfW6XiNMNBJsRzJtt4gPzgcHHpump,CELESTIAL,SELL,dev sold,0,0.05185,-48.1,stop loss -47%,13591,4.6,-43.7,5
+2026-10-19 18:48:07,Dmr2CvnwHSgNhUjwQtety8E4age3khFnLnbJeYDkpump,COLLECTOOOR,BUY,dev sold,0,0.1,,,19596,,,
+2026-10-19 18:48:14,F8HU5yuz226rYu3zqucvizqUjfq7vnF5D2So6BqSpump,COLLECTOOOR,BUY,dev sold,0,0.1,,,20413,,,
+2026-10-19 18:48:15,Dmr2CvnwHSgNhUjwQtety8E4age3khFnLnbJeYDkpump,COLLECTOOOR,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,13324,0.0,-32.0,8
+2026-10-19 18:48:17,F8HU5yuz226rYu3zqucvizqUjfq7vnF5D2So6BqSpump,COLLECTOOOR,SELL,dev sold,0,0.06257,-37.4,stop loss -36%,13848,7.5,-32.2,3
+2026-10-19 18:48:35,EnX17e7yYk3cjh8a8rVLEhpuG6XQLdK2eNK2aUAopump,COLLECTOOO,BUY,dev sold,0,0.1,,,12620,,,
+2026-10-19 18:48:44,EnX17e7yYk3cjh8a8rVLEhpuG6XQLdK2eNK2aUAopump,COLLECTOOO,SELL,dev sold,0,0.05609,-43.9,stop loss -43%,7686,0.0,-39.1,9
+2026-10-19 18:50:10,RNwuRujw2zmFeV78Qnys8d1r9xcjHYx1ygqjXBCpump,COLLECTOOOR,BUY,dev sold,0,0.1,,,13076,,,
+2026-10-19 18:50:50,Gj27mDEpeeah51qGddVG3CRVSjLarK2q6i7UACFjpump,WATCH500,BUY,bundled: 7.5 SOL bought in launch block,0,0.1,,,9944,,,
+2026-10-19 18:51:38,RNwuRujw2zmFeV78Qnys8d1r9xcjHYx1ygqjXBCpump,COLLECTOOOR,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,8978,162.5,-31.3,88
+2026-10-19 18:51:43,5FNDJduvCW6sb5JH7AWMwucRUgn8SmohKv49uqg6pump,FRIENDS,BUY,dev sold,0,0.1,,,14175,,,
+2026-10-19 18:51:45,2KsUazdnDiQYCSNt46ZMpRb3K4skG4BZVxKR6tropump,EPIC,BUY,dev sold,0,0.1,,,9108,,,
+2026-10-19 18:51:50,2KsUazdnDiQYCSNt46ZMpRb3K4skG4BZVxKR6tropump,EPIC,SELL,dev sold,0,0.06044,-39.6,stop loss -38%,5977,3.3,-34.4,6
+2026-10-19 18:52:07,4h1RcSiMxPHQKk6mA2QGyuNJenjyMqxU9QntpxNRpump,PHOLIS,BUY,past buy window (late mover),66.3,0.1,,,9035,,,
+2026-10-19 18:52:18,EGNW1maCdc5L56oa1cfZubsKBJqj2jTKF2YE2cFApump,PikaJew,BUY,dev sold,0,0.1,,,16734,,,
+2026-10-19 18:52:28,DrYf5BNiKXxiUVbxzwrGfkBPU2jJvXbNT9C9b2gGpump,EPIC,BUY,dev sold,0,0.1,,,8227,,,
+2026-10-19 18:52:49,EGNW1maCdc5L56oa1cfZubsKBJqj2jTKF2YE2cFApump,PikaJew,SELL,dev sold,0,0.05771,-42.3,stop loss -41%,10479,30.4,-37.4,31
+2026-10-19 18:53:31,DrYf5BNiKXxiUVbxzwrGfkBPU2jJvXbNT9C9b2gGpump,EPIC,SELL,dev sold,0,0.32424,224.2,take profit +229%,28828,250.4,-0.1,63
+2026-10-19 18:53:57,Gj27mDEpeeah51qGddVG3CRVSjLarK2q6i7UACFjpump,WATCH500,SELL,bundled: 7.5 SOL bought in launch block,0,0.09364,-6.4,no trading (stale),10082,1.4,0.0,187
+2026-10-19 18:54:23,CA71Y4YhVPuB8f2SmrkAsriuc2qBhB9RjAaGZPLVpump,EPIC,BUY,dev sold,0,0.1,,,8907,,,
+2026-10-19 18:54:24,CA71Y4YhVPuB8f2SmrkAsriuc2qBhB9RjAaGZPLVpump,EPIC,SELL,dev sold,0,0.04484,-55.2,stop loss -54%,4348,0.0,-51.2,1
+2026-10-19 18:55:08,4h1RcSiMxPHQKk6mA2QGyuNJenjyMqxU9QntpxNRpump,PHOLIS,SELL,past buy window (late mover),66.3,0.08484,-15.2,dev sold,8305,9.8,-18.7,181
+2026-10-19 18:56:13,J4PrukF58wwxg2p46fHtKjddGCaAYBmqisJcxYycpump,Collectible,BUY,dev sold,0,0.1,,,10589,,,
+2026-10-19 18:56:24,J4PrukF58wwxg2p46fHtKjddGCaAYBmqisJcxYycpump,Collectible,SELL,dev sold,0,0.06165,-38.4,stop loss -37%,7084,0.9,-33.1,11
+2026-10-19 18:56:47,DNhLwB48snrYLRCckoAE7wzP4uMh6KbgP1T3Z7AYpump,PACKS,BUY,dev sold,0,0.1,,,21675,,,
+2026-10-19 18:56:53,DNhLwB48snrYLRCckoAE7wzP4uMh6KbgP1T3Z7AYpump,PACKS,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,14874,1.8,-31.4,6
+2026-10-19 18:58:21,5FNDJduvCW6sb5JH7AWMwucRUgn8SmohKv49uqg6pump,FRIENDS,SELL,dev sold,0,0.27914,179.1,no trading (stale),42711,201.3,-0.5,398
+2026-10-19 18:58:56,G8esysbwSKWZM78aDi1aH5p8ksXfExSVGKVfofRypump,FOMOBILL,SELL,top10 hold 54%,0,0.16399,64.0,shift ended,33290,113.1,-6.6,858
