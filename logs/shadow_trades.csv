@@ -6629,3 +6629,37 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 06:40:12,9PhmZt9CDomXZduL1twu7RNhAXLSpJn44KZUUUaBpump,SPSI,SELL,dev sold,0,0.0284,-71.6,stop loss -71%,3663,34.8,-68.9,18
 2026-10-19 06:41:06,1uFTT7hqZiQpmjq2TWVvny3vVvqagpticsoUbAEpump,SPSI,BUY,dev sold,0,0.1,,,13178,,,
 2026-10-19 06:43:27,1uFTT7hqZiQpmjq2TWVvny3vVvqagpticsoUbAEpump,SPSI,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,9049,143.7,-31.3,141
+2026-10-19 07:53:23,JBhkD6mxFwp96Lta2CscU4XGRKJnijSQkZMtRhK9pump,CONED,BUY,bundled: 11 launch wallets own 71%,0,0.1,,,31126,,,
+2026-10-19 07:53:30,GnawyhUgyYmfwurgAqpvxFup35EFrYyvJgKBWTD5n8mR,SPACEXDROP,BUY,dev sold,0,0.1,,,11343,,,
+2026-10-19 07:54:11,FuFGMXmAfMXKBzanvrg5Ns5HXKsvzAKZtkMqYBo5pump,AMERICA,BUY,dev sold,0,0.1,,,21429,,,
+2026-10-19 07:54:11,GnawyhUgyYmfwurgAqpvxFup35EFrYyvJgKBWTD5n8mR,SPACEXDROP,SELL,dev sold,0,0.06212,-37.9,stop loss -37%,7646,88.9,-32.6,40
+2026-10-19 07:54:36,FuFGMXmAfMXKBzanvrg5Ns5HXKsvzAKZtkMqYBo5pump,AMERICA,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,14702,45.0,-31.4,26
+2026-10-19 07:54:43,7sYqBZqMsoU8Nu1KG29doBS4kSpdPPdm17qvnZrdpump,UHI,BUY,dev sold,0,0.1,,,15649,,,
+2026-10-19 07:54:50,7sYqBZqMsoU8Nu1KG29doBS4kSpdPPdm17qvnZrdpump,UHI,SELL,dev sold,0,0.05996,-40.0,stop loss -39%,10180,0.0,-34.9,7
+2026-10-19 07:55:34,7gAettzedUjvAciWTaVkr43QQebeGN2M1fFUXfbQpump,UHI,BUY,dev sold,0,0.1,,,16388,,,
+2026-10-19 07:55:34,7gAettzedUjvAciWTaVkr43QQebeGN2M1fFUXfbQpump,UHI,SELL,dev sold,0,0.06281,-37.2,stop loss -36%,11163,0.4,-31.9,1
+2026-10-19 07:57:01,Gdsy3q6iHgjnswX5daivSdCK84oqMpgfJKSCuTaoWMoY,WWM,BUY,dev holds 30.4%,0,0.1,,,12715,,,
+2026-10-19 07:57:21,3H6syfXRyX1TaoHtosYrGiKvyLUPR7R6xEVCtfbwC7bB,WWM,BUY,dev sold,0,0.1,,,24491,,,
+2026-10-19 07:57:26,3H6syfXRyX1TaoHtosYrGiKvyLUPR7R6xEVCtfbwC7bB,WWM,SELL,dev sold,0,0.0634,-36.6,stop loss -35%,16830,6.9,-31.3,5
+2026-10-19 07:57:28,8ggyhjUd682oSZHjkVaEW7NmhsMAKHFDLatzZ4czpump,WWM,BUY,dev sold,0,0.1,,,43364,,,
+2026-10-19 07:57:54,HXznHtPwAnCWWBsmYDWqLidsjchd8LLAaukZA5yLpump,WWM,BUY,dev sold,0,0.1,,,14667,,,
+2026-10-19 07:58:00,H6FhfrFUWJ2sth8f1pVujLyMK4yuYFA3SXCUbCNSpump,WWM,BUY,dev holds 12.6%,0,0.1,,,14679,,,
+2026-10-19 07:58:03,HXznHtPwAnCWWBsmYDWqLidsjchd8LLAaukZA5yLpump,WWM,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,9921,0.7,-32.4,9
+2026-10-19 07:58:21,H6FhfrFUWJ2sth8f1pVujLyMK4yuYFA3SXCUbCNSpump,WWM,SELL,dev holds 12.6%,0,0.04375,-56.2,stop loss -55%,6988,40.0,-52.4,22
+2026-10-19 07:58:27,JBhkD6mxFwp96Lta2CscU4XGRKJnijSQkZMtRhK9pump,CONED,SELL,bundled: 11 launch wallets own 71%,0,0.12904,29.0,no trading (stale),43364,39.3,-8.4,303
+2026-10-19 07:58:30,DGGapJoCKa62ioMYuVQYbU3PZQZW8F4zvW6KVaCUvuxq,WWM,BUY,dev sold,0,0.1,,,12683,,,
+2026-10-19 07:59:33,7Xw324uSLhyAW2i9aq5xNDiaPcXiRL2rtMNf4auVpump,WWM,BUY,dev sold,0,0.1,,,15500,,,
+2026-10-19 07:59:38,Gdsy3q6iHgjnswX5daivSdCK84oqMpgfJKSCuTaoWMoY,WWM,SELL,dev holds 30.4%,0,0.09239,-7.6,no trading (stale),12715,0.0,0.0,157
+2026-10-19 07:59:58,DGGapJoCKa62ioMYuVQYbU3PZQZW8F4zvW6KVaCUvuxq,WWM,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,8687,62.1,-31.5,89
+2026-10-19 08:00:01,7Xw324uSLhyAW2i9aq5xNDiaPcXiRL2rtMNf4auVpump,WWM,SELL,dev sold,0,0.05861,-41.4,stop loss -40%,9857,45.6,-36.4,28
+2026-10-19 08:00:10,8ggyhjUd682oSZHjkVaEW7NmhsMAKHFDLatzZ4czpump,WWM,SELL,dev sold,0,0.09252,-7.5,no trading (stale),43364,0.0,0.0,162
+2026-10-19 08:00:29,ECLwQbfhedcgcuaJMMLnkSB25bnWDhAoZFXsg6rD1Vpn,WWM,BUY,dev sold,0,0.1,,,13064,,,
+2026-10-19 08:01:56,ECLwQbfhedcgcuaJMMLnkSB25bnWDhAoZFXsg6rD1Vpn,WWM,SELL,dev sold,0,0.06364,-36.4,stop loss -35%,9018,39.0,-31.0,87
+2026-10-19 08:02:08,5SDHu9YwJuM1qKp4WjkobTbeR6FKQt9BHkCDNpgmpump,WWM,BUY,dev sold,0,0.1,,,9374,,,
+2026-10-19 08:02:11,5SDHu9YwJuM1qKp4WjkobTbeR6FKQt9BHkCDNpgmpump,WWM,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,6454,0.5,-31.2,2
+2026-10-19 08:04:28,EbuQ8VxWNoazdk7bAZ8TiP33MQJj6RTepzezmoey19vv,WWM,BUY,dev sold,0,0.1,,,26378,,,
+2026-10-19 08:05:15,EbuQ8VxWNoazdk7bAZ8TiP33MQJj6RTepzezmoey19vv,WWM,SELL,dev sold,0,0.06283,-37.2,stop loss -36%,17962,28.2,-31.9,46
+2026-10-19 08:06:54,AuMrL3P8dYnC4CMQwYzPeLja4WcDGT2mHMiyKrVWpump,WWM,BUY,dev sold,0,0.1,,,8373,,,
+2026-10-19 08:07:19,AuMrL3P8dYnC4CMQwYzPeLja4WcDGT2mHMiyKrVWpump,WWM,SELL,dev sold,0,0.06268,-37.3,stop loss -36%,5697,0.4,-32.0,25
+2026-10-19 08:09:21,8ySbKzJoRDZoczxMGAqvh2QC89Ur4CaLptWeAFUapump,Croissant,BUY,dev sold,0,0.1,,,9865,,,
+2026-10-19 08:10:18,8ySbKzJoRDZoczxMGAqvh2QC89Ur4CaLptWeAFUapump,Croissant,SELL,dev sold,0,0.12896,29.0,shift ended,13759,39.5,-0.1,57
