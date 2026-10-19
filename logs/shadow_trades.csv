@@ -6547,3 +6547,21 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 01:48:26,8FMMf5ETzrXE3DbdfxfHq8jy1bmsYfYWfkQjtccgpump,Gomi,SELL,dev sold,0,0.05877,-41.2,stop loss -40%,5920,19.0,-36.2,417
 2026-10-19 01:50:36,Gg7MXJQJDY4ZGcWfy677HkRWKViGNAa9PnPRhCudpump,Catnomics,BUY,dev sold,0,0.1,,,9497,,,
 2026-10-19 01:51:45,Gg7MXJQJDY4ZGcWfy677HkRWKViGNAa9PnPRhCudpump,Catnomics,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,6551,43.9,-31.0,68
+2026-10-19 02:33:31,2wZ3VLu1pEoDt6PxyLJ1ojhkVPnpAYNiXVLn7hvKpump,Galika,BUY,dev sold,0,0.1,,,18378,,,
+2026-10-19 02:37:35,2wZ3VLu1pEoDt6PxyLJ1ojhkVPnpAYNiXVLn7hvKpump,Galika,SELL,dev sold,0,0.0627,-37.3,stop loss -36%,12495,14.3,-32.0,244
+2026-10-19 02:39:58,HqKn8TmvexjTt112b65PJifwmRgAew2EZGbbqw1Mpump,BETTY,BUY,dev sold,0,0.1,,,8991,,,
+2026-10-19 02:41:12,Du3MesSqTNe1akmdxjUFSv5WNiHuJg3tbjp8iJrMpump,吕吕,BUY,dev sold,0,0.1,,,20865,,,
+2026-10-19 02:41:18,6DtvbdyGNr8jZbdFJX9fh5HN8gRRd7fDpwq9cAEbpump,BETTY,BUY,dev sold,0,0.1,,,8584,,,
+2026-10-19 02:41:30,Du3MesSqTNe1akmdxjUFSv5WNiHuJg3tbjp8iJrMpump,吕吕,SELL,dev sold,0,0.01477,-85.2,stop loss -85%,3425,9.6,-83.6,18
+2026-10-19 02:41:54,HqKn8TmvexjTt112b65PJifwmRgAew2EZGbbqw1Mpump,BETTY,SELL,dev sold,0,0.06293,-37.1,stop loss -36%,6141,80.2,-31.7,115
+2026-10-19 02:42:52,6DtvbdyGNr8jZbdFJX9fh5HN8gRRd7fDpwq9cAEbpump,BETTY,SELL,dev sold,0,0.06202,-38.0,stop loss -37%,5781,72.9,-32.7,94
+2026-10-19 02:44:39,LqbSzVCimk2PcS7shoSt5Nfa5xYYCHW2fiCVg7Xpump,room,BUY,bundled: 14 launch wallets own 16%,0,0.1,,,8105,,,
+2026-10-19 02:44:56,3pCzo4UP5HXKgYG5qQR2FiCwFxfXL9uEf5SBuNA2pump,coge,BUY,dev sold,0,0.1,,,9517,,,
+2026-10-19 02:45:03,9ZNG2UUGR6NFGKtGMDsqnihe9ZGaqfXmxNXQQNivr5up,吕吕,BUY,dev sold,0,0.1,,,8739,,,
+2026-10-19 02:45:14,3pCzo4UP5HXKgYG5qQR2FiCwFxfXL9uEf5SBuNA2pump,coge,SELL,dev sold,0,0.06089,-39.1,stop loss -38%,6290,17.0,-33.9,18
+2026-10-19 02:45:38,9ZNG2UUGR6NFGKtGMDsqnihe9ZGaqfXmxNXQQNivr5up,吕吕,SELL,dev sold,0,0.0629,-37.1,stop loss -36%,5966,2.6,-31.7,36
+2026-10-19 02:49:08,LqbSzVCimk2PcS7shoSt5Nfa5xYYCHW2fiCVg7Xpump,room,SELL,bundled: 14 launch wallets own 16%,0,0.06304,-37.0,stop loss -36%,5547,53.2,-31.6,269
+2026-10-19 02:50:23,FBAkaBzq7koUMjVRhZSLUFxj5G1TwU3pokdAWeTjpump,SYLPHRENA,BUY,dev sold,0,0.1,,,10415,,,
+2026-10-19 02:50:25,6xiyUC6GUJtSDoKUUbR4K9HEofy9z48rLTcVJxuBQkDk,Sylphrena,BUY,dev sold,0,0.1,,,8496,,,
+2026-10-19 02:51:41,6xiyUC6GUJtSDoKUUbR4K9HEofy9z48rLTcVJxuBQkDk,Sylphrena,SELL,dev sold,0,0.062,-38.0,stop loss -37%,5718,24.3,-32.7,77
+2026-10-19 02:52:09,FBAkaBzq7koUMjVRhZSLUFxj5G1TwU3pokdAWeTjpump,SYLPHRENA,SELL,dev sold,0,0.06159,-38.4,stop loss -37%,6962,60.8,-33.2,106
