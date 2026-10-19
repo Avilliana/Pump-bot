@@ -7005,3 +7005,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 22:51:51,4eHSsLsAeGBxCwx2ymKa8aBu8Bs4kBsxKZUyyWEipump,PAPERTRAIL,SELL,bundled: 9 launch wallets own 29%,0,0.08501,-15.0,shift ended,8236,35.2,-23.7,332
 2026-10-19 22:51:51,8PeWSC8WFAyvFUHFAhRpVT2bajFsvVqb4EVL1ihJpump,PIP,SELL,dev sold,0,0.08226,-17.7,shift ended,7463,28.1,-15.1,98
 2026-10-19 22:51:51,FSPAUvMR9qr6RhASqyhMdyiEdMGPK3SRoQUfamB4pump,remy,SELL,dev sold,0,0.1377,37.7,shift ended,20067,48.8,0.1,10
+2026-10-19 23:39:22,7AjtgfcEpgpTunGHDNZLo1fJxLNFUBGZJ2MqEvnUpump,TUSK,BUY,dev sold,0,0.1,,,12168,,,
+2026-10-19 23:39:46,7AjtgfcEpgpTunGHDNZLo1fJxLNFUBGZJ2MqEvnUpump,TUSK,SELL,dev sold,0,0.03432,-65.7,stop loss -65%,4559,52.9,-62.5,24
+2026-10-19 23:41:16,JDnbcXGzw2SKgaAYDujbfs7rZUKfBYiwufRZtGfjpump,BCLI,BUY,score below threshold,59.4,0.1,,,12619,,,
+2026-10-19 23:43:31,FXXHnq9HcXbFofQuykAHMHYLWoqrXtrtMeNHSsCypump,HALLOWEEN,BUY,dev sold,0,0.1,,,24298,,,
+2026-10-19 23:44:24,FXXHnq9HcXbFofQuykAHMHYLWoqrXtrtMeNHSsCypump,HALLOWEEN,SELL,dev sold,0,0.06122,-38.8,stop loss -37%,16127,19.9,-33.6,53
+2026-10-19 23:45:52,4RyBkJWeBbbEPAmvfQXoRUZTi1jJXs79tExmxpvNpump,solienne,BUY,dev sold,0,0.1,,,14621,,,
+2026-10-19 23:47:52,4RyBkJWeBbbEPAmvfQXoRUZTi1jJXs79tExmxpvNpump,solienne,SELL,dev sold,0,0.06077,-39.2,stop loss -38%,9640,54.5,-34.1,120
+2026-10-19 23:48:07,hexxYuy87tkW8TgjbCUKVsFoFx3VoapYc9yzMA13SyA,hexx,BUY,top10 hold 37%,0,0.1,,,10821,,,
+2026-10-19 23:48:10,hexxYuy87tkW8TgjbCUKVsFoFx3VoapYc9yzMA13SyA,hexx,SELL,top10 hold 37%,0,0.08383,-16.2,dev sold,9826,7.4,-9.2,3
+2026-10-19 23:48:23,J5WwwvcVmDq8rsKaJzyTbDGYTQDxoioj2SaLZzMw5MKa,PikaJew,BUY,dev sold,0,0.1,,,14065,,,
+2026-10-19 23:49:12,5pVkeonXxfhjoFvGWuVFwGFQPgwBYowyyv1H72tEpump,FATPIKA,BUY,dev sold,0,0.1,,,12340,,,
+2026-10-19 23:49:23,5pVkeonXxfhjoFvGWuVFwGFQPgwBYowyyv1H72tEpump,FATPIKA,SELL,dev sold,0,0.02759,-72.4,stop loss -72%,3729,9.9,-69.8,11
+2026-10-19 23:51:43,BduvkQfRXfHAkEA8twA6bejSWzDoDxDiXoCzUEsupump,POKEDOLLAR,BUY,dev sold,0,0.1,,,10179,,,
+2026-10-19 23:51:49,BduvkQfRXfHAkEA8twA6bejSWzDoDxDiXoCzUEsupump,POKEDOLLAR,SELL,dev sold,0,0.06347,-36.5,stop loss -35%,7011,0.0,-31.1,7
+2026-10-19 23:52:30,JDnbcXGzw2SKgaAYDujbfs7rZUKfBYiwufRZtGfjpump,BCLI,SELL,score below threshold,59.4,0.13247,32.5,shift ended,18087,81.4,-22.2,674
+2026-10-19 23:52:30,J5WwwvcVmDq8rsKaJzyTbDGYTQDxoioj2SaLZzMw5MKa,PikaJew,SELL,dev sold,0,0.28459,184.6,shift ended,43208,207.2,3.8,247
