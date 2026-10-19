@@ -6581,3 +6581,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 03:51:51,X4jabCiumwxD7SBh6nCLSLzVUtk69ECnfgGu1bkpump,Turn,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,10378,169.2,-32.0,294
 2026-10-19 03:52:46,2S22g4rHVKWUb85hfCy6dPJxvb5XeBX4SRUNBW2ipump,MUSK,SELL,dev sold,0,0.06094,-39.1,stop loss -38%,6866,13.5,-33.9,109
 2026-10-19 03:53:52,EmhidYGzkvobJsPy4g6Cj1JNFhn7XzszrqAxxjnRpump,SI,SELL,dev sold,0,0.30079,200.8,take profit +205%,43220,224.7,-12.8,262
+2026-10-19 04:41:51,DkkXyawaT1BKTENDpTRY2PgJqX8bcdah2mT5SsVcpump,SVIA,BUY,dev sold,0,0.1,,,10390,,,
+2026-10-19 04:42:22,DkkXyawaT1BKTENDpTRY2PgJqX8bcdah2mT5SsVcpump,SVIA,SELL,dev sold,0,0.06237,-37.6,stop loss -36%,7033,0.0,-32.3,31
+2026-10-19 04:43:28,2h2MDDQiFygSh47tFnagtY2CSxepcxT4MUC2ZA3Npump,TBC,BUY,dev sold,0,0.1,,,12074,,,
+2026-10-19 04:44:58,2LHRtqWP99NhU2yQtJyKT238D38rHy8Y7uUR6RAFpump,TBC,BUY,dev sold,0,0.1,,,8851,,,
+2026-10-19 04:45:07,JCLLH9BaLhxHWuWGZtEYT7sheDHPpEnTYXCW49zDpump,TBC,BUY,dev sold,0,0.1,,,11631,,,
+2026-10-19 04:45:13,2LHRtqWP99NhU2yQtJyKT238D38rHy8Y7uUR6RAFpump,TBC,SELL,dev sold,0,0.06155,-38.4,stop loss -37%,5914,0.1,-33.2,14
+2026-10-19 04:45:17,JCLLH9BaLhxHWuWGZtEYT7sheDHPpEnTYXCW49zDpump,TBC,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,7987,0.8,-31.3,9
+2026-10-19 04:48:49,EJ3Xvbq58bbwvwevxujCnfYR2BseKWoCvzeTdJS8pump,Elong,BUY,top10 hold 37%,0,0.1,,,8457,,,
+2026-10-19 04:52:48,EJ3Xvbq58bbwvwevxujCnfYR2BseKWoCvzeTdJS8pump,Elong,SELL,top10 hold 37%,0,0.06329,-36.7,stop loss -35%,5810,9.4,-31.3,239
+2026-10-19 04:55:27,2h2MDDQiFygSh47tFnagtY2CSxepcxT4MUC2ZA3Npump,TBC,SELL,dev sold,0,0.13332,33.3,shift ended,17437,216.6,-14.5,719
