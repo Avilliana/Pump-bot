@@ -6533,3 +6533,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 00:37:21,J4dyfXc8EY3TXAeFdpAKZqWyW4S8XpdoABib7JMnpump,HOOT,SELL,dev sold,0,0.22211,122.1,no trading (stale),42674,139.7,-25.0,320
 2026-10-19 00:38:03,8kun8K9TvNDyqx6RMUpUCJP6dZQMMFUeJYHagYSDpump,Hitler,BUY,dev sold,0,0.1,,,10832,,,
 2026-10-19 00:38:04,8kun8K9TvNDyqx6RMUpUCJP6dZQMMFUeJYHagYSDpump,Hitler,SELL,dev sold,0,0.08707,-12.9,shift ended,10214,0.0,-5.7,0
+2026-10-19 01:40:39,8mjERkv3juRwmFZ6NFWPw6YLFDnUV8roVyLLzDjdpump,UMI,BUY,dev sold,0,0.1,,,13417,,,
+2026-10-19 01:41:16,8mjERkv3juRwmFZ6NFWPw6YLFDnUV8roVyLLzDjdpump,UMI,SELL,dev sold,0,0.06101,-39.0,stop loss -38%,8882,26.4,-33.8,37
+2026-10-19 01:41:26,8DNmFPy2gb1rTxnNGGu85ysN1oLa76Vp2WeaZKuzpump,trendpad,BUY,bundled: 26 launch wallets own 23%,0,0.1,,,30996,,,
+2026-10-19 01:41:30,8FMMf5ETzrXE3DbdfxfHq8jy1bmsYfYWfkQjtccgpump,Gomi,BUY,dev sold,0,0.1,,,9272,,,
+2026-10-19 01:42:32,8DNmFPy2gb1rTxnNGGu85ysN1oLa76Vp2WeaZKuzpump,trendpad,SELL,bundled: 26 launch wallets own 23%,0,0.06367,-36.3,stop loss -35%,21384,10.7,-31.0,67
+2026-10-19 01:42:37,6wYhQmyA7GwCKJS1nTLSuMFcgkUW8BZdcn3tpWNSpump,Inucome,BUY,dev sold,0,0.1,,,19609,,,
+2026-10-19 01:42:57,6wYhQmyA7GwCKJS1nTLSuMFcgkUW8BZdcn3tpWNSpump,Inucome,SELL,dev sold,0,0.01514,-84.9,stop loss -84%,3298,12.2,-83.2,20
+2026-10-19 01:45:47,CLnUWS2KA1aqQy7LeayNZvM6NaPLHgNYu4gNff13pump,UMI,BUY,dev sold,0,0.1,,,8522,,,
+2026-10-19 01:45:54,CLnUWS2KA1aqQy7LeayNZvM6NaPLHgNYu4gNff13pump,UMI,SELL,dev sold,0,0.06233,-37.7,stop loss -36%,5766,0.1,-32.3,7
+2026-10-19 01:47:35,EENeNdf9mGEmpkFxt9VHY59TpKgi3HrCTaYbZxm1pump,KARASU,BUY,dev sold,0,0.1,,,9423,,,
+2026-10-19 01:48:20,EENeNdf9mGEmpkFxt9VHY59TpKgi3HrCTaYbZxm1pump,KARASU,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,6510,0.0,-30.9,45
+2026-10-19 01:48:26,8FMMf5ETzrXE3DbdfxfHq8jy1bmsYfYWfkQjtccgpump,Gomi,SELL,dev sold,0,0.05877,-41.2,stop loss -40%,5920,19.0,-36.2,417
+2026-10-19 01:50:36,Gg7MXJQJDY4ZGcWfy677HkRWKViGNAa9PnPRhCudpump,Catnomics,BUY,dev sold,0,0.1,,,9497,,,
+2026-10-19 01:51:45,Gg7MXJQJDY4ZGcWfy677HkRWKViGNAa9PnPRhCudpump,Catnomics,SELL,dev sold,0,0.06357,-36.4,stop loss -35%,6551,43.9,-31.0,68
