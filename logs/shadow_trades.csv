@@ -6827,3 +6827,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 15:55:47,z1YjH3V5CVxK4HkUSJbTJbbCN9qY8SURNrB5T3kpump,YUZUA,SELL,score below threshold,60.2,0.07554,-24.5,shift ended,13691,39.6,-18.2,588
 2026-10-19 15:55:47,DibA96Vv9bAbgtN3bGsWDF6qhcr1gRqx9H8GWULppump,REXA,SELL,score below threshold,48.4,0.08166,-18.3,shift ended,7301,0.0,-11.5,101
 2026-10-19 15:55:47,BeV58A2fTfq4fWqzjiotrT2WLH3BHhnCoJyxKqR4pump,PEMP,SELL,bundled: 4 launch wallets own 19%,0,0.13578,35.8,shift ended,15966,47.1,-0.1,56
+2026-10-19 16:37:34,AG6H3gBgZD4ysNMetWSkAkJxXEnQwvX84Eq65WW8pump,Frenchie,BUY,dev sold,0,0.1,,,17870,,,
+2026-10-19 16:38:09,8xx2G8GVgDE8vzLSTbHyEkbwoaFKRUr6qVFqDFAVpump,Trillionaire,BUY,dev sold,0,0.1,,,9722,,,
+2026-10-19 16:38:37,AvUUYNspXkyUtTxpzMx1ZrR8EvGuPkoCJ5qDmtX5pump,Fugazi,BUY,dev sold,0,0.1,,,11125,,,
+2026-10-19 16:39:18,BPWxHgVSf5JfM7k6M3mqxozWzz1RWxDSuckyJNuvpump,MAC,BUY,dev sold,0,0.1,,,17166,,,
+2026-10-19 16:39:18,AvUUYNspXkyUtTxpzMx1ZrR8EvGuPkoCJ5qDmtX5pump,Fugazi,SELL,dev sold,0,0.05786,-42.1,stop loss -41%,6989,2.5,-37.2,41
+2026-10-19 16:39:23,8xx2G8GVgDE8vzLSTbHyEkbwoaFKRUr6qVFqDFAVpump,Trillionaire,SELL,dev sold,0,0.02837,-71.6,stop loss -71%,3021,82.7,-68.9,74
+2026-10-19 16:39:56,f35QgDzkuTk82XPAeWbzNyC9o94RqWHJeL95G1zpump,Wheels,BUY,bundled: 20 launch wallets own 19%,0,0.1,,,20616,,,
+2026-10-19 16:41:38,f35QgDzkuTk82XPAeWbzNyC9o94RqWHJeL95G1zpump,Wheels,SELL,bundled: 20 launch wallets own 19%,0,0.06365,-36.3,stop loss -35%,14226,32.9,-31.0,102
+2026-10-19 16:42:09,3cm4qs7mzaivvj3ieQbLyUKVuNgP9v8bKynobUXTpump,PikaJew,BUY,bundled: 6 launch wallets own 24%,0,0.1,,,9857,,,
+2026-10-19 16:42:38,3cm4qs7mzaivvj3ieQbLyUKVuNgP9v8bKynobUXTpump,PikaJew,SELL,bundled: 6 launch wallets own 24%,0,0.11867,18.7,dev sold,12654,47.1,-21.9,29
+2026-10-19 16:45:01,AG6H3gBgZD4ysNMetWSkAkJxXEnQwvX84Eq65WW8pump,Frenchie,SELL,dev sold,0,0.22269,122.7,no trading (stale),42945,140.3,-3.5,447
+2026-10-19 16:46:34,BPWxHgVSf5JfM7k6M3mqxozWzz1RWxDSuckyJNuvpump,MAC,SELL,dev sold,0,0.23181,131.8,no trading (stale),42945,150.2,-0.4,437
+2026-10-19 16:47:05,9pxjA873utNJmkfTerLQ7ggivRCAH3k5eMh7N4bPYcWa,Premarket,BUY,bundled: 25 launch wallets own 20%,0,0.1,,,11816,,,
+2026-10-19 16:49:04,9pxjA873utNJmkfTerLQ7ggivRCAH3k5eMh7N4bPYcWa,Premarket,SELL,bundled: 25 launch wallets own 20%,0,0.04122,-58.8,stop loss -58%,5305,73.4,-55.1,118
+2026-10-19 16:49:05,GaNDz4FXgLLgUW5FPgeaRKj7knERQRgxdCkfpcbipump,stockfolio,BUY,dev sold,0,0.1,,,14183,,,
+2026-10-19 16:50:46,GaNDz4FXgLLgUW5FPgeaRKj7knERQRgxdCkfpcbipump,stockfolio,SELL,dev sold,0,0.0636,-36.4,stop loss -35%,9783,29.1,-31.0,101
