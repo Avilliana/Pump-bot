@@ -6713,3 +6713,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 11:55:00,B7bPFY3w3sEd2HMExLgdmfbUaiMWpF6HFEzJfZryPPAD,persona,BUY,bundled: 21 launch wallets own 8%,0,0.1,,,8240,,,
 2026-10-19 11:55:02,Dgt5Dz9QmYw38yeg1498JQY4NaMRoWVt66Lw2zZUpump,DOPER,SELL,bundled: 5 launch wallets own 50%,0,0.1005,0.5,shift ended,12126,14.2,0.0,119
 2026-10-19 11:55:02,B7bPFY3w3sEd2HMExLgdmfbUaiMWpF6HFEzJfZryPPAD,persona,SELL,bundled: 21 launch wallets own 8%,0,0.0951,-4.9,shift ended,8487,3.0,-0.8,1
+2026-10-19 12:33:28,5dvKR9N3zBkYpCCjNwEouPrufxYQsyWQ14TST6p8UN3B,AIRDROP,BUY,dev sold,0,0.1,,,11939,,,
+2026-10-19 12:33:44,5dvKR9N3zBkYpCCjNwEouPrufxYQsyWQ14TST6p8UN3B,AIRDROP,SELL,dev sold,0,0.06361,-36.4,stop loss -35%,8239,9.2,-31.0,15
+2026-10-19 12:37:22,G3fzUvAot8cgANnmJiF3EjU8SQ9oJAkwWB6eXY7Qpump,WOJAK,BUY,dev sold,0,0.1,,,13227,,,
+2026-10-19 12:38:53,G3fzUvAot8cgANnmJiF3EjU8SQ9oJAkwWB6eXY7Qpump,WOJAK,SELL,dev sold,0,0.06313,-36.9,stop loss -36%,9073,14.6,-31.5,91
+2026-10-19 12:39:49,8dxJpPDmw6UEsfHVQuTEy4kfcEJKV15cF89fVKBEpump,FRAG,BUY,dev holds 10.0%,0,0.1,,,11651,,,
+2026-10-19 12:42:09,8dxJpPDmw6UEsfHVQuTEy4kfcEJKV15cF89fVKBEpump,FRAG,SELL,dev holds 10.0%,0,0.30805,208.0,take profit +212%,38759,232.7,0.0,140
+2026-10-19 12:42:22,F1Y52Gpnb1tsabRdG5gyvGbVHXEMofoso9NRgERnpump,Benny,BUY,dev sold,0,0.1,,,8233,,,
+2026-10-19 12:42:24,2cahhxdw3N9SvouNDaYbv31HBiEM8A2GTioZqzPBpump,FI,BUY,bundled: 24 launch wallets own 36%,0,0.1,,,9694,,,
+2026-10-19 12:42:53,2cahhxdw3N9SvouNDaYbv31HBiEM8A2GTioZqzPBpump,FI,SELL,bundled: 24 launch wallets own 36%,0,0.0981,-1.9,dev sold,10295,19.8,0.1,28
+2026-10-19 12:44:13,8Vb5f7enGjp2uHuRqh1F5AVoXoXrYVZHwuw2orjepump,Monaka,BUY,dev sold,0,0.1,,,8370,,,
+2026-10-19 12:44:17,F1Y52Gpnb1tsabRdG5gyvGbVHXEMofoso9NRgERnpump,Benny,SELL,dev sold,0,0.29916,199.2,take profit +203%,26621,223.3,0.0,115
+2026-10-19 12:44:29,9U1gG4mYU1dUQzAypKvr2CgQyV4E6ka2Qh8hts2ppump,SUCKS,BUY,dev sold,0,0.1,,,9171,,,
+2026-10-19 12:44:51,6RoNeeVTTPc32AX2e1fx6H853VniUHfJpv74XdqEpump,WOJAK,BUY,dev sold,0,0.1,,,10266,,,
+2026-10-19 12:44:59,6RoNeeVTTPc32AX2e1fx6H853VniUHfJpv74XdqEpump,WOJAK,SELL,dev sold,0,0.03222,-67.8,stop loss -67%,3614,33.1,-64.8,8
+2026-10-19 12:45:24,8ZXEt4JawnVCJHgYoAH4BuypdPR2vGfbeKyrC4xnpump,WOJAK,BUY,dev sold,0,0.1,,,8310,,,
+2026-10-19 12:45:35,8ZXEt4JawnVCJHgYoAH4BuypdPR2vGfbeKyrC4xnpump,WOJAK,SELL,dev sold,0,0.06278,-37.2,stop loss -36%,5664,7.9,-31.8,12
+2026-10-19 12:46:46,CJoba29ETpPmDVrdaCAQUsxEiefJfk2uRFattoe8pump,TamPad,BUY,bundled: 7 launch wallets own 17%,0,0.1,,,14456,,,
+2026-10-19 12:46:51,CJoba29ETpPmDVrdaCAQUsxEiefJfk2uRFattoe8pump,TamPad,SELL,bundled: 7 launch wallets own 17%,0,0.06179,-38.2,stop loss -37%,9690,15.5,-33.0,5
+2026-10-19 12:47:29,8Vb5f7enGjp2uHuRqh1F5AVoXoXrYVZHwuw2orjepump,Monaka,SELL,dev sold,0,0.13172,31.7,shift ended,11927,71.6,-3.9,196
+2026-10-19 12:47:29,9U1gG4mYU1dUQzAypKvr2CgQyV4E6ka2Qh8hts2ppump,SUCKS,SELL,dev sold,0,0.15629,56.3,shift ended,15497,88.6,-9.8,180
