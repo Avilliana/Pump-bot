@@ -6959,3 +6959,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 20:54:02,336REanZawGQGV4oWwF8qh642P8MceSGiPiWfofRpump,archive,SELL,bundled: 15 launch wallets own 24%,0,0.22271,122.7,shift ended,29289,176.8,-15.5,559
 2026-10-19 20:54:02,AUzWccw5dvR9NtLMKzK8Xkh5KeMDEaEzWQDAyVWVpump,READY,SELL,bundled: 16 launch wallets own 57%,0,0.24898,149.0,shift ended,42933,168.7,-26.3,342
 2026-10-19 20:54:02,4GfErbT1zPAvGzQpJezt6jwVF1JnoRLPc2QrCgaqpump,GODS,SELL,top10 hold 35%,0,0.09233,-7.7,shift ended,8783,0.0,0.0,98
+2026-10-19 21:34:55,2dXSktvki3yBbU8U9qgLWSdKxwW3x1vvHmasXknqpump,UHI,BUY,dev sold,0,0.1,,,9945,,,
+2026-10-19 21:36:32,2dXSktvki3yBbU8U9qgLWSdKxwW3x1vvHmasXknqpump,UHI,SELL,dev sold,0,0.05128,-48.7,stop loss -48%,5543,103.4,-44.3,97
+2026-10-19 21:37:46,BFyLfMLwXZpHSkbQLgGLLPf4tfNhZKQKwd5gFVCMpump,Fraudlon,BUY,dev sold,0,0.1,,,12930,,,
+2026-10-19 21:41:05,6jbgFt9yYoQcxzS7LC8dawqtEWbqPqSABNrF7oeCpump,SAMA4,BUY,dev sold,0,0.1,,,9270,,,
+2026-10-19 21:41:18,6jbgFt9yYoQcxzS7LC8dawqtEWbqPqSABNrF7oeCpump,SAMA4,SELL,dev sold,0,0.06148,-38.5,stop loss -37%,6186,0.0,-33.3,13
+2026-10-19 21:41:51,BWYgTTEbGjdcTp7dL64DfUwhZKs41od7QnaNBTQFpump,Onion,BUY,dev sold,0,0.1,,,11736,,,
+2026-10-19 21:41:55,BWYgTTEbGjdcTp7dL64DfUwhZKs41od7QnaNBTQFpump,Onion,SELL,dev sold,0,0.06157,-38.4,stop loss -37%,7840,1.5,-33.2,3
+2026-10-19 21:42:12,FdmK7EJU3vTxpYN66dF53px2cMZEVRGuCXRZbz4epump,Memeless,BUY,dev sold,0,0.1,,,37158,,,
+2026-10-19 21:45:54,3sacwJKxseFQQViwGRgqTk7apL9r6bvy2Vfv7DKFpump,eepy,BUY,dev sold,0,0.1,,,12897,,,
+2026-10-19 21:46:24,BFyLfMLwXZpHSkbQLgGLLPf4tfNhZKQKwd5gFVCMpump,Fraudlon,SELL,dev sold,0,0.29453,194.5,no trading (stale),41086,218.4,-4.7,518
+2026-10-19 21:47:41,3fufjKhTLDnrZsuEbiBKsFbhH2nhREeRz38QQAWxpump,Dillon,BUY,bundled: 17.8 SOL bought in launch block,0,0.1,,,8920,,,
+2026-10-19 21:48:37,3fufjKhTLDnrZsuEbiBKsFbhH2nhREeRz38QQAWxpump,Dillon,SELL,bundled: 17.8 SOL bought in launch block,0,0.03843,-61.6,stop loss -61%,3739,58.5,-58.1,56
+2026-10-19 21:49:40,FdmK7EJU3vTxpYN66dF53px2cMZEVRGuCXRZbz4epump,Memeless,SELL,dev sold,0,0.1137,13.7,no trading (stale),45536,23.9,-0.1,448
+2026-10-19 21:50:11,3sacwJKxseFQQViwGRgqTk7apL9r6bvy2Vfv7DKFpump,eepy,SELL,dev sold,0,0.30878,208.8,take profit +213%,42995,233.4,-18.0,258
+2026-10-19 21:50:13,Gtyhzx5eY8WcEMM3KT1xqRk6ML5EZyJ7gk9E5mXypump,Inuvestor,BUY,dev sold,0,0.1,,,8034,,,
+2026-10-19 21:50:41,Gtyhzx5eY8WcEMM3KT1xqRk6ML5EZyJ7gk9E5mXypump,Inuvestor,SELL,dev sold,0,0.06266,-37.3,stop loss -36%,5465,91.3,-32.0,28
+2026-10-19 21:50:49,9YUjnsFY82tKEG3egMZ4WvbKCUi7FZ6ng6kWv62ppump,Breadcat,BUY,bundled: 29.9 SOL bought in launch block,0,0.1,,,14179,,,
+2026-10-19 21:51:20,FcRKiMmAdGx7aRLRPa8wLYU7gNPy1fXCXSXJeR4vpump,sex,BUY,dev sold,0,0.1,,,11496,,,
+2026-10-19 21:51:38,FcRKiMmAdGx7aRLRPa8wLYU7gNPy1fXCXSXJeR4vpump,sex,SELL,dev sold,0,0.06201,-38.0,stop loss -37%,7736,18.9,-32.7,18
+2026-10-19 21:53:05,AAr4NH7i4mT5PcXKuU2cvjjMQUtSzKhEWkxWxKtbpump,banana,BUY,dev sold,0,0.1,,,13387,,,
+2026-10-19 21:53:08,9YUjnsFY82tKEG3egMZ4WvbKCUi7FZ6ng6kWv62ppump,Breadcat,SELL,bundled: 29.9 SOL bought in launch block,0,0.26094,160.9,shift ended,39939,195.3,-8.7,139
+2026-10-19 21:53:08,AAr4NH7i4mT5PcXKuU2cvjjMQUtSzKhEWkxWxKtbpump,banana,SELL,dev sold,0,0.10246,2.5,shift ended,14839,17.3,2.7,3
