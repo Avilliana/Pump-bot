@@ -6679,3 +6679,7 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 08:58:59,BgupnCe1zJsru8odL5ZP9cuRu2i92497hzD6xp7Spump,QMART,SELL,bundled: 6 launch wallets own 68%,0,0.02744,-72.6,stop loss -72%,8704,10.2,-70.0,25
 2026-10-19 09:00:27,BVpFpksfdEwDgaUhZxdG8kSyfAekeYfKV4BdUfNJpump,SPSI,SELL,dev sold,0,0.19297,93.0,no trading (stale),43409,108.2,-29.9,560
 2026-10-19 09:01:52,9K6eUJjjmWwVdPV4hcvoUdNL4dcgJUMzJu25a79opump,SPSI,SELL,dev sold,0,0.19802,98.0,shift ended,18255,184.7,-20.1,301
+2026-10-19 09:46:26,EXV7bi3oWQV7zCUv3uVxyqvPygjFjuJb6WvS4Pi4pump,incum,BUY,dev sold,0,0.1,,,9857,,,
+2026-10-19 09:49:21,EXV7bi3oWQV7zCUv3uVxyqvPygjFjuJb6WvS4Pi4pump,incum,SELL,dev sold,0,0.06339,-36.6,stop loss -35%,6770,82.2,-31.2,175
+2026-10-19 09:54:18,5AJBdaLaC19kxUAVXrsxTXEMm5F1XfFGJzefZDnCpump,muhehehehe,BUY,bundled: 25 launch wallets own 62%,0,0.1,,,26529,,,
+2026-10-19 09:54:57,5AJBdaLaC19kxUAVXrsxTXEMm5F1XfFGJzefZDnCpump,muhehehehe,SELL,bundled: 25 launch wallets own 62%,0,0.06062,-39.4,stop loss -38%,17435,20.7,-34.3,39
