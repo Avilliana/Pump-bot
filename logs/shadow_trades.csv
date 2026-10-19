@@ -6521,3 +6521,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-18 23:32:32,AhNC14XY29y75YdiyiVMEwYTZuCkodq9aZWCHijkpump,PIERREDON,SELL,top10 hold 57%,0,0.06236,-37.6,stop loss -36%,10609,30.4,-32.4,41
 2026-10-18 23:37:37,GWCSN4ppBBStkpQxems9T28Bewzni8xkHt77btB2pump,Usuba,BUY,dev sold,0,0.1,,,14441,,,
 2026-10-18 23:38:13,GWCSN4ppBBStkpQxems9T28Bewzni8xkHt77btB2pump,Usuba,SELL,dev sold,0,0.10742,7.4,shift ended,16776,69.6,-7.5,36
+2026-10-19 00:20:41,5iH2gA4QC3wnJpaRWWnyfyMMmhaQq4Lb8rijatUGhWst,Disney,BUY,dev sold,0,0.1,,,10452,,,
+2026-10-19 00:21:07,Gp7MPQHCRsgXwuvZkihho9DZDbGgqshV9XKLtgZnpump,POUCH,BUY,dev sold,0,0.1,,,8556,,,
+2026-10-19 00:21:18,5iH2gA4QC3wnJpaRWWnyfyMMmhaQq4Lb8rijatUGhWst,Disney,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,7113,0.0,-31.9,37
+2026-10-19 00:21:23,Gp7MPQHCRsgXwuvZkihho9DZDbGgqshV9XKLtgZnpump,POUCH,SELL,dev sold,0,0.06292,-37.1,stop loss -36%,5843,0.0,-31.7,16
+2026-10-19 00:27:26,GMoKUk89B3pr1Ct988fiKFf8MiyAcWG2g1zmLoVEpump,NIGGER,BUY,dev sold,0,0.1,,,10881,,,
+2026-10-19 00:30:02,GMoKUk89B3pr1Ct988fiKFf8MiyAcWG2g1zmLoVEpump,NIGGER,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,7488,20.4,-31.2,156
+2026-10-19 00:31:08,HjHs5oYGYDhtWxE5rSb7cv4qESd6o8XeD2L96S59pump,Baguecat,BUY,dev sold,0,0.1,,,8343,,,
+2026-10-19 00:32:01,J4dyfXc8EY3TXAeFdpAKZqWyW4S8XpdoABib7JMnpump,HOOT,BUY,dev sold,0,0.1,,,17803,,,
+2026-10-19 00:33:24,HjHs5oYGYDhtWxE5rSb7cv4qESd6o8XeD2L96S59pump,Baguecat,SELL,dev sold,0,0.06336,-36.6,stop loss -35%,5738,65.2,-31.2,136
+2026-10-19 00:37:21,J4dyfXc8EY3TXAeFdpAKZqWyW4S8XpdoABib7JMnpump,HOOT,SELL,dev sold,0,0.22211,122.1,no trading (stale),42674,139.7,-25.0,320
+2026-10-19 00:38:03,8kun8K9TvNDyqx6RMUpUCJP6dZQMMFUeJYHagYSDpump,Hitler,BUY,dev sold,0,0.1,,,10832,,,
+2026-10-19 00:38:04,8kun8K9TvNDyqx6RMUpUCJP6dZQMMFUeJYHagYSDpump,Hitler,SELL,dev sold,0,0.08707,-12.9,shift ended,10214,0.0,-5.7,0
