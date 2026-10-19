@@ -6755,3 +6755,47 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 14:07:58,3KNGUL6Yi7iStjNBTtd3bSihGNNfi4SPvqzSTs1vpump,Wojak,BUY,top10 hold 61%,0,0.1,,,42879,,,
 2026-10-19 14:08:04,5jJXEwdFwZJtFfpqjSGmxXaDiEhMoiFjXgBixNB4pump,spcx,SELL,dev sold,0,0.02832,-71.7,stop loss -71%,2994,43.6,-69.0,56
 2026-10-19 14:08:39,3KNGUL6Yi7iStjNBTtd3bSihGNNfi4SPvqzSTs1vpump,Wojak,SELL,top10 hold 61%,0,0.09252,-7.5,shift ended,42879,0.0,0.0,40
+2026-10-19 14:39:50,DURNeFdg7ws8ZVGrQBstxGeRRECYV9Jn3PLwLkFpump,BAGUETTE,BUY,dev sold,0,0.1,,,19846,,,
+2026-10-19 14:40:54,BfrUAToUJ2Q2H2gCfhRcWuNZC7MwfxDQmN6Re2UDpump,TRUMPFOLIO,BUY,dev sold,0,0.1,,,15568,,,
+2026-10-19 14:41:53,2xMxgqBYdBeDLju9ssqR3Mxzr1NMtiXc1Bkd8G8wpump,TI6900,BUY,dev sold,0,0.1,,,11804,,,
+2026-10-19 14:41:55,6cik2NZPGAu4ZCBgDYaaAQ2V3Paz2jt2NehYrSB7HpWD,TRUMP,BUY,dev sold,0,0.1,,,8298,,,
+2026-10-19 14:42:00,BfrUAToUJ2Q2H2gCfhRcWuNZC7MwfxDQmN6Re2UDpump,TRUMPFOLIO,SELL,dev sold,0,0.01783,-82.2,stop loss -81%,3069,122.6,-80.3,66
+2026-10-19 14:42:02,2xMxgqBYdBeDLju9ssqR3Mxzr1NMtiXc1Bkd8G8wpump,TI6900,SELL,dev sold,0,0.06026,-39.7,stop loss -38%,7719,0.0,-34.6,9
+2026-10-19 14:42:09,6cik2NZPGAu4ZCBgDYaaAQ2V3Paz2jt2NehYrSB7HpWD,TRUMP,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,5717,10.3,-31.1,14
+2026-10-19 14:42:17,GH1b4VznsXCdvccPcVX917pcEBkujDJiCFDorY68pump,TRUMPFOLIO,BUY,dev sold,0,0.1,,,14320,,,
+2026-10-19 14:43:16,9tx93RvmCjjfzf5UgtUE4cWXFQNaxfT26Xu1kK2dpump,erm,BUY,dev sold,0,0.1,,,10391,,,
+2026-10-19 14:43:27,HosEpJrznzdYJYtcA5V8Ga4zpRZ8XdZQZWGRhMsZpump,TRUMP,BUY,dev sold,0,0.1,,,10490,,,
+2026-10-19 14:43:29,HosEpJrznzdYJYtcA5V8Ga4zpRZ8XdZQZWGRhMsZpump,TRUMP,SELL,dev sold,0,0.05116,-48.8,stop loss -48%,5833,0.6,-44.4,2
+2026-10-19 14:43:44,BpiFazwQQBWcM8ZZXmsGcn1WKAsKv2ba419b5xUspump,TRUMP,BUY,dev sold,0,0.1,,,9417,,,
+2026-10-19 14:44:25,BpiFazwQQBWcM8ZZXmsGcn1WKAsKv2ba419b5xUspump,TRUMP,SELL,dev sold,0,0.06351,-36.5,stop loss -35%,6490,96.6,-31.1,41
+2026-10-19 14:44:51,9tx93RvmCjjfzf5UgtUE4cWXFQNaxfT26Xu1kK2dpump,erm,SELL,dev sold,0,0.06063,-39.4,stop loss -38%,6839,152.2,-34.2,95
+2026-10-19 14:45:02,B3FJV7gHPPnJUJvkMGMQXR54boHuBm8GGGy4Ny3Ppump,POH,BUY,score below threshold,36.0,0.1,,,18909,,,
+2026-10-19 14:45:47,HuKsSE3WXuwvwv4z4qZbMc1DJVd6pi4CWto8m12cpump,TRUMPFOLIO,BUY,dev sold,0,0.1,,,8179,,,
+2026-10-19 14:46:21,HuKsSE3WXuwvwv4z4qZbMc1DJVd6pi4CWto8m12cpump,TRUMPFOLIO,SELL,dev sold,0,0.05998,-40.0,stop loss -39%,5327,6.7,-34.9,34
+2026-10-19 14:46:51,GH1b4VznsXCdvccPcVX917pcEBkujDJiCFDorY68pump,TRUMPFOLIO,SELL,dev sold,0,0.27575,175.8,no trading (stale),42625,197.6,-26.4,274
+2026-10-19 14:47:21,B3FJV7gHPPnJUJvkMGMQXR54boHuBm8GGGy4Ny3Ppump,POH,SELL,score below threshold,36.0,0.06135,-38.7,stop loss -37%,12580,89.1,-33.5,139
+2026-10-19 14:48:35,CK2GeJxg14YwSqswmJ9AeD9V6jz3mjvhM68gep9jpump,Trump,BUY,dev sold,0,0.1,,,8513,,,
+2026-10-19 14:49:02,CK2GeJxg14YwSqswmJ9AeD9V6jz3mjvhM68gep9jpump,Trump,SELL,dev sold,0,0.06296,-37.0,stop loss -36%,5817,20.1,-31.7,28
+2026-10-19 14:49:30,3S1Xqwr6gDLw5cLuEdEWvhJjcRPN8FF1nuxtzsVEpump,WOLFPERP,BUY,bundled: 6 launch wallets own 18%,0,0.1,,,8302,,,
+2026-10-19 14:49:33,3S1Xqwr6gDLw5cLuEdEWvhJjcRPN8FF1nuxtzsVEpump,WOLFPERP,SELL,bundled: 6 launch wallets own 18%,0,0.08542,-14.6,dev sold,7684,0.0,-7.4,4
+2026-10-19 14:50:42,GRtZ9SYwTD3Gpns2XyVyUYJe11oc7eFXmFtnBrESpump,EXO,BUY,score below threshold,57.3,0.1,,,10950,,,
+2026-10-19 14:51:02,7zuE3rxsvihteWv1Qs87aPTXs3WWwMgfZ3HFRKEipump,Mosscap,BUY,dev sold,0,0.1,,,12356,,,
+2026-10-19 14:51:37,HDgqb7KL8pswA2ZMPzoAGKcvmpR24Uie1Ziagkihpump,KIBI,BUY,dev sold,0,0.1,,,29559,,,
+2026-10-19 14:51:49,HDgqb7KL8pswA2ZMPzoAGKcvmpR24Uie1Ziagkihpump,KIBI,SELL,dev sold,0,0.05152,-48.5,stop loss -47%,16532,27.0,-44.1,12
+2026-10-19 14:52:07,7u8BTjCUoTYvQXbPGZyxRUYUAA9pjhGaaNy7rHNrpump,KASUMI,BUY,dev sold,0,0.1,,,9148,,,
+2026-10-19 14:52:48,7zuE3rxsvihteWv1Qs87aPTXs3WWwMgfZ3HFRKEipump,Mosscap,SELL,dev sold,0,0.06154,-38.5,stop loss -37%,8250,152.1,-33.2,106
+2026-10-19 14:52:50,7u8BTjCUoTYvQXbPGZyxRUYUAA9pjhGaaNy7rHNrpump,KASUMI,SELL,dev sold,0,0.05216,-47.8,stop loss -47%,5186,0.0,-43.3,44
+2026-10-19 14:53:31,pumpewnYyt9AQAHujkqTPaSkFftPykZ6kujEvmg7oLq,SAM,BUY,dev sold,0,0.1,,,19619,,,
+2026-10-19 14:54:50,pumpewnYyt9AQAHujkqTPaSkFftPykZ6kujEvmg7oLq,SAM,SELL,dev sold,0,0.06303,-37.0,stop loss -36%,13406,10.0,-31.7,79
+2026-10-19 14:55:06,9gJkjqQmWsVvh5U8qoxxekzK3pu122kbmHPkxXLcpump,TOGI,BUY,dev sold,0,0.1,,,21510,,,
+2026-10-19 14:55:21,Gxen7TuVvdDEpurhmWDab6H4HRWkekV97ETGUeBvpump,Moonshot,BUY,dev sold,0,0.1,,,8848,,,
+2026-10-19 14:55:47,9gJkjqQmWsVvh5U8qoxxekzK3pu122kbmHPkxXLcpump,TOGI,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,14637,12.6,-32.0,41
+2026-10-19 14:55:53,4CzJDyG5RSyib1L9wAErCpLsNmKxtV9sTUBVK2z2pump,TOJI,BUY,dev sold,0,0.1,,,8921,,,
+2026-10-19 14:56:18,4CzJDyG5RSyib1L9wAErCpLsNmKxtV9sTUBVK2z2pump,TOJI,SELL,dev sold,0,0.05818,-41.8,stop loss -41%,5637,18.4,-36.8,24
+2026-10-19 14:56:30,BG7321meCAhd2uco5mx8QFhfoaBU122K2fSG8Y1epump,DELL,BUY,score below threshold,48.4,0.1,,,8244,,,
+2026-10-19 14:56:42,BG7321meCAhd2uco5mx8QFhfoaBU122K2fSG8Y1epump,DELL,SELL,score below threshold,48.4,0.0839,-16.1,dev sold,7495,0.0,-9.1,12
+2026-10-19 14:56:46,Gxen7TuVvdDEpurhmWDab6H4HRWkekV97ETGUeBvpump,Moonshot,SELL,dev sold,0,0.30111,201.1,take profit +205%,28789,225.4,3.3,85
+2026-10-19 14:57:08,GRtZ9SYwTD3Gpns2XyVyUYJe11oc7eFXmFtnBrESpump,EXO,SELL,score below threshold,57.3,0.06194,-38.1,stop loss -37%,7360,0.0,-32.8,386
+2026-10-19 14:58:01,ADNL5zVnkYfDyPfWSbYHTtQ2112oNMpbduePzZRApump,baguette,BUY,score below threshold,54.9,0.1,,,9618,,,
+2026-10-19 14:59:15,DURNeFdg7ws8ZVGrQBstxGeRRECYV9Jn3PLwLkFpump,BAGUETTE,SELL,dev sold,0,0.11884,18.8,shift ended,25685,57.2,-22.4,1165
+2026-10-19 14:59:15,ADNL5zVnkYfDyPfWSbYHTtQ2112oNMpbduePzZRApump,baguette,SELL,score below threshold,54.9,0.09112,-8.9,shift ended,9491,8.1,-2.8,73
