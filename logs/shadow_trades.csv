@@ -6591,3 +6591,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 04:48:49,EJ3Xvbq58bbwvwevxujCnfYR2BseKWoCvzeTdJS8pump,Elong,BUY,top10 hold 37%,0,0.1,,,8457,,,
 2026-10-19 04:52:48,EJ3Xvbq58bbwvwevxujCnfYR2BseKWoCvzeTdJS8pump,Elong,SELL,top10 hold 37%,0,0.06329,-36.7,stop loss -35%,5810,9.4,-31.3,239
 2026-10-19 04:55:27,2h2MDDQiFygSh47tFnagtY2CSxepcxT4MUC2ZA3Npump,TBC,SELL,dev sold,0,0.13332,33.3,shift ended,17437,216.6,-14.5,719
+2026-10-19 05:36:04,D9T3NqpNYXit2UF2TYNxnAfQFg2X3L2B1MwXzE9mpump,KIBI,BUY,dev sold,0,0.1,,,10795,,,
+2026-10-19 05:38:23,FSvJVaz7wZBvCGB1tSgZ86ZzpmSGB6G6HxnmzPbdpump,KIBI,BUY,dev sold,0,0.1,,,12566,,,
+2026-10-19 05:38:46,D9T3NqpNYXit2UF2TYNxnAfQFg2X3L2B1MwXzE9mpump,KIBI,SELL,dev sold,0,0.05668,-43.3,stop loss -42%,6644,99.7,-38.4,162
+2026-10-19 05:39:16,GrokCyFRqTM3HKboJAwHxWEfRCtSWyjHH6pdFSmn46VG,INTERN,BUY,score below threshold,56.1,0.1,,,10091,,,
+2026-10-19 05:39:37,FSvJVaz7wZBvCGB1tSgZ86ZzpmSGB6G6HxnmzPbdpump,KIBI,SELL,dev sold,0,0.06136,-38.6,stop loss -37%,8366,96.1,-33.4,74
+2026-10-19 05:40:20,Q9GsXCE2DRP6jUbWsDQoR5xePzCxh1jMmsojgFopump,KASUMI,BUY,dev sold,0,0.1,,,22745,,,
+2026-10-19 05:40:37,Q9GsXCE2DRP6jUbWsDQoR5xePzCxh1jMmsojgFopump,KASUMI,SELL,dev sold,0,0.06291,-37.1,stop loss -36%,15512,9.1,-31.8,17
+2026-10-19 05:41:23,GrokCyFRqTM3HKboJAwHxWEfRCtSWyjHH6pdFSmn46VG,INTERN,SELL,score below threshold,56.1,0.06342,-36.6,stop loss -35%,6944,0.0,-31.2,127
+2026-10-19 05:44:24,4TwumdAGJtGQTsFt6EWmYZEwjsydp379PDoLfjSDpump,wojakpot,BUY,bundled: 10 launch wallets own 72%,0,0.1,,,31066,,,
+2026-10-19 05:44:55,77qtYudD3mX3v5mQ3HJr2J2odhDJbvbYVwUYwBM7pump,refcat,BUY,dev sold,0,0.1,,,11707,,,
+2026-10-19 05:44:59,2Fz7iDcSCBxe3Rur8xmeYyMYZHpnmPZUthZWcSaBpump,Millet,BUY,dev sold,0,0.1,,,9197,,,
+2026-10-19 05:45:13,2Fz7iDcSCBxe3Rur8xmeYyMYZHpnmPZUthZWcSaBpump,Millet,SELL,dev sold,0,0.06022,-39.8,stop loss -39%,6013,0.0,-34.6,14
+2026-10-19 05:45:15,77qtYudD3mX3v5mQ3HJr2J2odhDJbvbYVwUYwBM7pump,refcat,SELL,dev sold,0,0.05028,-49.7,stop loss -49%,6398,0.0,-45.3,20
+2026-10-19 05:46:39,4TwumdAGJtGQTsFt6EWmYZEwjsydp379PDoLfjSDpump,wojakpot,SELL,bundled: 10 launch wallets own 72%,0,0.02518,-74.8,stop loss -74%,8574,28.2,-72.4,135
+2026-10-19 05:50:41,GJn3rpD5HdtnXSsJ4gBvNNGCYN8rvbzbAJwR7otQpump,FLNA,BUY,dev sold,0,0.1,,,8236,,,
+2026-10-19 05:50:59,GJn3rpD5HdtnXSsJ4gBvNNGCYN8rvbzbAJwR7otQpump,FLNA,SELL,dev sold,0,0.06346,-36.5,stop loss -35%,5674,37.4,-31.1,18
