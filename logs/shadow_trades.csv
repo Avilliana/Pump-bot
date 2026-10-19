@@ -6733,3 +6733,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 12:46:51,CJoba29ETpPmDVrdaCAQUsxEiefJfk2uRFattoe8pump,TamPad,SELL,bundled: 7 launch wallets own 17%,0,0.06179,-38.2,stop loss -37%,9690,15.5,-33.0,5
 2026-10-19 12:47:29,8Vb5f7enGjp2uHuRqh1F5AVoXoXrYVZHwuw2orjepump,Monaka,SELL,dev sold,0,0.13172,31.7,shift ended,11927,71.6,-3.9,196
 2026-10-19 12:47:29,9U1gG4mYU1dUQzAypKvr2CgQyV4E6ka2Qh8hts2ppump,SUCKS,SELL,dev sold,0,0.15629,56.3,shift ended,15497,88.6,-9.8,180
+2026-10-19 13:50:39,7FNfWWJ1PjYd3C7Ef7XhuDR6QgneZnAqB6SCd7Cmpump,fine,BUY,dev sold,0,0.1,,,8356,,,
+2026-10-19 13:51:19,EfNU2f4PcMGLSnXau5J4kg1RFcvLW6fVnj6bta6hpump,EMOINK,BUY,top10 hold 78%,0,0.1,,,43023,,,
+2026-10-19 13:51:32,7FNfWWJ1PjYd3C7Ef7XhuDR6QgneZnAqB6SCd7Cmpump,fine,SELL,dev sold,0,0.05496,-45.0,stop loss -44%,4990,24.4,-40.3,53
+2026-10-19 13:52:37,3XbMjrTKKB1FWTg5XYcuNPxtARAcfjkHJM4kf4uZpump,ZipCat,BUY,dev sold,0,0.1,,,8544,,,
+2026-10-19 13:53:12,3XbMjrTKKB1FWTg5XYcuNPxtARAcfjkHJM4kf4uZpump,ZipCat,SELL,dev sold,0,0.0517,-48.3,stop loss -47%,4802,0.0,-43.8,35
+2026-10-19 13:53:35,A5gb5T9Q8z5kfFPawJqDxxdcKL4doR3Js5qzFDSJpump,Rocky,BUY,dev sold,0,0.1,,,8687,,,
+2026-10-19 13:54:15,EfNU2f4PcMGLSnXau5J4kg1RFcvLW6fVnj6bta6hpump,EMOINK,SELL,top10 hold 78%,0,0.09252,-7.5,no trading (stale),43023,0.0,0.0,176
+2026-10-19 13:54:53,5bcYvME5Ky6QkpizvVSWF2yPxM4sNpfLDxwpQJ1Jpump,Heera,BUY,dev sold,0,0.1,,,8726,,,
+2026-10-19 13:55:12,5bcYvME5Ky6QkpizvVSWF2yPxM4sNpfLDxwpQJ1Jpump,Heera,SELL,dev sold,0,0.06124,-38.8,stop loss -37%,5801,0.7,-33.5,18
+2026-10-19 13:55:26,7nZqc9uAUL7HX1iucX3gdebWpgbjGQ8qZpvHZED9pump,HÉROS,BUY,dev sold,0,0.1,,,8180,,,
+2026-10-19 13:56:27,A5gb5T9Q8z5kfFPawJqDxxdcKL4doR3Js5qzFDSJpump,Rocky,SELL,dev sold,0,0.06156,-38.4,stop loss -37%,5805,55.7,-33.2,172
+2026-10-19 13:56:50,7nZqc9uAUL7HX1iucX3gdebWpgbjGQ8qZpvHZED9pump,HÉROS,SELL,dev sold,0,0.06121,-38.8,stop loss -38%,5437,36.1,-33.5,84
+2026-10-19 14:02:27,8ugTYK1SVo4ntfFq4QZ8c7S3enLb2t5Uqat9YAdopump,PIERRE,BUY,dev sold,0,0.1,,,12306,,,
+2026-10-19 14:02:43,8ugTYK1SVo4ntfFq4QZ8c7S3enLb2t5Uqat9YAdopump,PIERRE,SELL,dev sold,0,0.06367,-36.3,stop loss -35%,8499,11.4,-30.9,16
+2026-10-19 14:03:05,9gEHexwouLJcqGpP4o1BpLSY2uUZ8ok25BgHzjp9pump,ginger,BUY,dev sold,0,0.1,,,8671,,,
+2026-10-19 14:04:16,9AWAUtt2Q89FvCu9KwAxX78z6MWDi5Hpr93KfoVspump,FEDORA,BUY,top10 hold 37%,0,0.1,,,8257,,,
+2026-10-19 14:04:23,9AWAUtt2Q89FvCu9KwAxX78z6MWDi5Hpr93KfoVspump,FEDORA,SELL,top10 hold 37%,0,0.07006,-29.9,dev sold,6275,0.0,-24.0,7
+2026-10-19 14:04:38,9gEHexwouLJcqGpP4o1BpLSY2uUZ8ok25BgHzjp9pump,ginger,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,5957,56.0,-31.3,93
+2026-10-19 14:07:07,5jJXEwdFwZJtFfpqjSGmxXaDiEhMoiFjXgBixNB4pump,spcx,BUY,dev sold,0,0.1,,,9652,,,
+2026-10-19 14:07:58,3KNGUL6Yi7iStjNBTtd3bSihGNNfi4SPvqzSTs1vpump,Wojak,BUY,top10 hold 61%,0,0.1,,,42879,,,
+2026-10-19 14:08:04,5jJXEwdFwZJtFfpqjSGmxXaDiEhMoiFjXgBixNB4pump,spcx,SELL,dev sold,0,0.02832,-71.7,stop loss -71%,2994,43.6,-69.0,56
+2026-10-19 14:08:39,3KNGUL6Yi7iStjNBTtd3bSihGNNfi4SPvqzSTs1vpump,Wojak,SELL,top10 hold 61%,0,0.09252,-7.5,shift ended,42879,0.0,0.0,40
