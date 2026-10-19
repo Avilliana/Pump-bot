@@ -6565,3 +6565,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 02:50:25,6xiyUC6GUJtSDoKUUbR4K9HEofy9z48rLTcVJxuBQkDk,Sylphrena,BUY,dev sold,0,0.1,,,8496,,,
 2026-10-19 02:51:41,6xiyUC6GUJtSDoKUUbR4K9HEofy9z48rLTcVJxuBQkDk,Sylphrena,SELL,dev sold,0,0.062,-38.0,stop loss -37%,5718,24.3,-32.7,77
 2026-10-19 02:52:09,FBAkaBzq7koUMjVRhZSLUFxj5G1TwU3pokdAWeTjpump,SYLPHRENA,SELL,dev sold,0,0.06159,-38.4,stop loss -37%,6962,60.8,-33.2,106
+2026-10-19 03:39:37,Bxi9e7k5AoEdFs222LMEHi7i5jtT7qUFLvs55p4pump,Hotdawgs,BUY,score below threshold,61.0,0.1,,,17249,,,
+2026-10-19 03:40:14,Bt63BoBusFWfrMDGLbv4YMvzsUUkp5S1PhYyStQJpump,GREEN,BUY,dev sold,0,0.1,,,8382,,,
+2026-10-19 03:40:35,Bt63BoBusFWfrMDGLbv4YMvzsUUkp5S1PhYyStQJpump,GREEN,SELL,dev sold,0,0.06031,-39.7,stop loss -38%,5489,0.0,-34.5,21
+2026-10-19 03:44:03,74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump,MrP,BUY,bundled: 12 launch wallets own 71%,0,0.1,,,33507,,,
+2026-10-19 03:44:17,Bxi9e7k5AoEdFs222LMEHi7i5jtT7qUFLvs55p4pump,Hotdawgs,SELL,score below threshold,61.0,0.05832,-41.7,stop loss -40%,10914,121.9,-36.7,280
+2026-10-19 03:44:22,BPvYmDDKhuDaEoKJnwYZ4UznRNn54y2ccAqWphApump,SAKE,BUY,bundled: 8 launch wallets own 62%,0,0.1,,,17598,,,
+2026-10-19 03:44:54,ChrNukxWdg6qdx8tFCaBtybVwsKbnkq9Q6phf1qWpump,DEIGO ,BUY,dev sold,0,0.1,,,10540,,,
+2026-10-19 03:46:56,X4jabCiumwxD7SBh6nCLSLzVUtk69ECnfgGu1bkpump,Turn,BUY,dev sold,0,0.1,,,15259,,,
+2026-10-19 03:47:21,ChrNukxWdg6qdx8tFCaBtybVwsKbnkq9Q6phf1qWpump,DEIGO ,SELL,dev sold,0,0.05633,-43.7,stop loss -42%,6448,86.7,-38.8,147
+2026-10-19 03:49:30,EmhidYGzkvobJsPy4g6Cj1JNFhn7XzszrqAxxjnRpump,SI,BUY,dev sold,0,0.1,,,13310,,,
+2026-10-19 03:49:52,BPvYmDDKhuDaEoKJnwYZ4UznRNn54y2ccAqWphApump,SAKE,SELL,bundled: 8 launch wallets own 62%,0,0.09629,-3.7,dev sold,18298,7.9,-4.5,330
+2026-10-19 03:50:29,74AcneobDy2VTQ97tZJGJYgY1mR1EmSZWP2kMwhepump,MrP,SELL,bundled: 12 launch wallets own 71%,0,0.11964,19.6,no trading (stale),43220,29.2,-22.8,386
+2026-10-19 03:50:57,2S22g4rHVKWUb85hfCy6dPJxvb5XeBX4SRUNBW2ipump,MUSK,BUY,dev sold,0,0.1,,,10382,,,
+2026-10-19 03:51:51,X4jabCiumwxD7SBh6nCLSLzVUtk69ECnfgGu1bkpump,Turn,SELL,dev sold,0,0.06271,-37.3,stop loss -36%,10378,169.2,-32.0,294
+2026-10-19 03:52:46,2S22g4rHVKWUb85hfCy6dPJxvb5XeBX4SRUNBW2ipump,MUSK,SELL,dev sold,0,0.06094,-39.1,stop loss -38%,6866,13.5,-33.9,109
+2026-10-19 03:53:52,EmhidYGzkvobJsPy4g6Cj1JNFhn7XzszrqAxxjnRpump,SI,SELL,dev sold,0,0.30079,200.8,take profit +205%,43220,224.7,-12.8,262
