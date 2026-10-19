@@ -6981,3 +6981,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 21:53:05,AAr4NH7i4mT5PcXKuU2cvjjMQUtSzKhEWkxWxKtbpump,banana,BUY,dev sold,0,0.1,,,13387,,,
 2026-10-19 21:53:08,9YUjnsFY82tKEG3egMZ4WvbKCUi7FZ6ng6kWv62ppump,Breadcat,SELL,bundled: 29.9 SOL bought in launch block,0,0.26094,160.9,shift ended,39939,195.3,-8.7,139
 2026-10-19 21:53:08,AAr4NH7i4mT5PcXKuU2cvjjMQUtSzKhEWkxWxKtbpump,banana,SELL,dev sold,0,0.10246,2.5,shift ended,14839,17.3,2.7,3
+2026-10-19 22:37:52,GEWYYYKTBvXRE8C5oEBJ8kkh5e7Vo2phJiN47AnNpump,TOWERZ,BUY,bundled: 14 launch wallets own 30%,0,0.1,,,17350,,,
+2026-10-19 22:38:15,GEWYYYKTBvXRE8C5oEBJ8kkh5e7Vo2phJiN47AnNpump,TOWERZ,SELL,bundled: 14 launch wallets own 30%,0,0.06352,-36.5,stop loss -35%,11949,1.8,-31.1,22
+2026-10-19 22:38:41,2KcCriQhQzzWyBgegPohMQ37TKehSFkD5EcPEj7vpump,Wallahi,BUY,dev sold,0,0.1,,,8982,,,
+2026-10-19 22:38:56,487AomnNmDKygGG8Lbk9hcBSMPmMjEUH9L5AzqdEpump,Wallahi,BUY,dev sold,0,0.1,,,9774,,,
+2026-10-19 22:40:21,goatcZCkcoHEZaBvrmxPtT89yS7gDzcZx1aSrVCcrLu,goat,BUY,dev sold,0,0.1,,,23569,,,
+2026-10-19 22:40:22,487AomnNmDKygGG8Lbk9hcBSMPmMjEUH9L5AzqdEpump,Wallahi,SELL,dev sold,0,0.03446,-65.5,stop loss -65%,3678,179.6,-62.4,86
+2026-10-19 22:40:52,2KcCriQhQzzWyBgegPohMQ37TKehSFkD5EcPEj7vpump,Wallahi,SELL,dev sold,0,0.06255,-37.4,stop loss -36%,6099,89.9,-32.1,131
+2026-10-19 22:42:30,BGZDyABC7RxqqTCNEev7Hby2mHwo5hQSe7yKj3XKpump,25XX,BUY,dev sold,0,0.1,,,13896,,,
+2026-10-19 22:42:50,3xeFhgMsfLXBU225VZ17wx2nfjMz8CA93ZrhC1Sipump,DOGEK,BUY,top10 hold 76%,0,0.1,,,36549,,,
+2026-10-19 22:43:19,BGZDyABC7RxqqTCNEev7Hby2mHwo5hQSe7yKj3XKpump,25XX,SELL,dev sold,0,0.02039,-79.6,stop loss -79%,3122,65.7,-77.5,49
+2026-10-19 22:44:05,Fp8EsmfPzZQdRCub4CSdHUDA9YAACGY2KzaUdSPKpump,Wallahi,BUY,dev sold,0,0.1,,,20618,,,
+2026-10-19 22:45:40,goatcZCkcoHEZaBvrmxPtT89yS7gDzcZx1aSrVCcrLu,goat,SELL,dev sold,0,0.16988,69.9,no trading (stale),43175,83.3,-24.4,319
+2026-10-19 22:45:42,DuZowwzwx2GYtoQnLM8Bv5vwNA7KQcVUQ1hPjtpspump,pip,BUY,dev sold,0,0.1,,,21450,,,
+2026-10-19 22:45:54,DuZowwzwx2GYtoQnLM8Bv5vwNA7KQcVUQ1hPjtpspump,pip,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,14713,10.4,-31.4,12
+2026-10-19 22:45:56,3xeFhgMsfLXBU225VZ17wx2nfjMz8CA93ZrhC1Sipump,DOGEK,SELL,top10 hold 76%,0,0.10936,9.4,no trading (stale),43175,18.1,-0.0,186
+2026-10-19 22:46:19,4eHSsLsAeGBxCwx2ymKa8aBu8Bs4kBsxKZUyyWEipump,PAPERTRAIL,BUY,bundled: 9 launch wallets own 29%,0,0.1,,,8942,,,
+2026-10-19 22:47:38,Fp8EsmfPzZQdRCub4CSdHUDA9YAACGY2KzaUdSPKpump,Wallahi,SELL,dev sold,0,0.19405,94.0,no trading (stale),43175,109.4,2.0,213
+2026-10-19 22:47:39,27ELfo936Yp3NALDyAzKzPyxubFTDNLWtwySSJ7Cpump,Shadow,BUY,dev sold,0,0.1,,,11068,,,
+2026-10-19 22:48:38,27ELfo936Yp3NALDyAzKzPyxubFTDNLWtwySSJ7Cpump,Shadow,SELL,dev sold,0,0.06354,-36.5,stop loss -35%,7631,74.2,-31.1,59
+2026-10-19 22:50:13,8PeWSC8WFAyvFUHFAhRpVT2bajFsvVqb4EVL1ihJpump,PIP,BUY,dev sold,0,0.1,,,8371,,,
+2026-10-19 22:51:41,FSPAUvMR9qr6RhASqyhMdyiEdMGPK3SRoQUfamB4pump,remy,BUY,dev sold,0,0.1,,,13485,,,
+2026-10-19 22:51:51,4eHSsLsAeGBxCwx2ymKa8aBu8Bs4kBsxKZUyyWEipump,PAPERTRAIL,SELL,bundled: 9 launch wallets own 29%,0,0.08501,-15.0,shift ended,8236,35.2,-23.7,332
+2026-10-19 22:51:51,8PeWSC8WFAyvFUHFAhRpVT2bajFsvVqb4EVL1ihJpump,PIP,SELL,dev sold,0,0.08226,-17.7,shift ended,7463,28.1,-15.1,98
+2026-10-19 22:51:51,FSPAUvMR9qr6RhASqyhMdyiEdMGPK3SRoQUfamB4pump,remy,SELL,dev sold,0,0.1377,37.7,shift ended,20067,48.8,0.1,10
