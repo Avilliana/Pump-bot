@@ -7151,3 +7151,13 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 08:49:18,4Tr49scC8nZ1WfSUf2rQBgXBgMKPaUCVktdjEGBypump,Packs,BUY,dev holds 9.6%,0,0.1,,,13339,,,
 2026-10-20 08:50:02,4Tr49scC8nZ1WfSUf2rQBgXBgMKPaUCVktdjEGBypump,Packs,SELL,dev holds 9.6%,0,0.06188,-38.1,dev sold,8955,0.0,-32.9,43
 2026-10-20 08:56:43,DugbrXAYbznG2s4QsqzGRVCcf4gQoY8Gc4z68MVcpump,BUILD,SELL,score below threshold,43.7,0.07539,-24.6,shift ended,8268,1.1,-19.3,803
+2026-10-20 09:37:49,ijsLxSsvoH2ianECZivsdK7hhaM9fPp4LCuKUnspump,PROWLER,BUY,bundled: 14 launch wallets own 73%,0,0.1,,,31942,,,
+2026-10-20 09:41:50,ijsLxSsvoH2ianECZivsdK7hhaM9fPp4LCuKUnspump,PROWLER,SELL,bundled: 14 launch wallets own 73%,0,0.12388,23.9,no trading (stale),42727,33.8,0.0,241
+2026-10-20 09:45:12,28W8YUP4pEUGCuwXDPrAA7cPcBNWfd6tfzWpZKqSpump,Anonymous,BUY,dev sold,0,0.1,,,9686,,,
+2026-10-20 09:45:35,28W8YUP4pEUGCuwXDPrAA7cPcBNWfd6tfzWpZKqSpump,Anonymous,SELL,dev sold,0,0.0634,-36.6,stop loss -35%,6663,1.8,-31.2,23
+2026-10-20 09:47:34,H6Dw5uzGvHVNH3dMAvzRq3gPv84XUcNMepPMZZ7Fpump,SNAILMAIL,BUY,top10 hold 73%,0,0.1,,,26024,,,
+2026-10-20 09:49:45,CgQ32Jcw4eE4nZoM9jzEDpNYnitEEXi4ttRqtcQaGm2P,BLM,BUY,dev sold,0,0.1,,,12757,,,
+2026-10-20 09:53:05,H6Dw5uzGvHVNH3dMAvzRq3gPv84XUcNMepPMZZ7Fpump,SNAILMAIL,SELL,top10 hold 73%,0,0.15196,52.0,no trading (stale),42686,64.0,-6.3,331
+2026-10-20 09:53:06,9zFC6iGhKBZ9zbTxszbUHMud9UqoGbBT29AobEG9pump,HALO,BUY,dev sold,0,0.1,,,8214,,,
+2026-10-20 09:54:28,CgQ32Jcw4eE4nZoM9jzEDpNYnitEEXi4ttRqtcQaGm2P,BLM,SELL,dev sold,0,0.11636,16.4,shift ended,16052,58.1,-26.1,283
+2026-10-20 09:54:28,9zFC6iGhKBZ9zbTxszbUHMud9UqoGbBT29AobEG9pump,HALO,SELL,dev sold,0,0.19973,99.7,shift ended,17735,146.5,1.6,82
