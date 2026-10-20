@@ -7143,3 +7143,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 07:55:11,SXKk2T8ugnUuQNJGLouArqKX7XN6PAhjyihbdcnpump,UPCAT,BUY,dev sold,0,0.1,,,16066,,,
 2026-10-20 07:55:43,SXKk2T8ugnUuQNJGLouArqKX7XN6PAhjyihbdcnpump,UPCAT,SELL,dev sold,0,0.06181,-38.2,stop loss -37%,10771,0.0,-33.0,32
 2026-10-20 08:02:43,HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd,RIPPED,SELL,score below threshold,61.3,0.16405,64.0,shift ended,42871,77.1,-20.4,601
+2026-10-20 08:41:19,F5Xk3gxLhxycoMpXFVjK2j1XtLHn5spyg8sGi1eZ8sYt,Buddy,BUY,bundled: 13 launch wallets own 11%,0,0.1,,,9045,,,
+2026-10-20 08:42:42,F5Xk3gxLhxycoMpXFVjK2j1XtLHn5spyg8sGi1eZ8sYt,Buddy,SELL,bundled: 13 launch wallets own 11%,0,0.05805,-42.0,stop loss -41%,5702,24.2,-37.0,83
+2026-10-20 08:43:21,DugbrXAYbznG2s4QsqzGRVCcf4gQoY8Gc4z68MVcpump,BUILD,BUY,score below threshold,43.7,0.1,,,10115,,,
+2026-10-20 08:46:21,Eaq9UHfQepPfk2zYnjnuRr5KUapcyv4xbaYwH4dWpump,GOOBZ,BUY,bundled: 12 launch wallets own 72%,0,0.1,,,26196,,,
+2026-10-20 08:48:50,Eaq9UHfQepPfk2zYnjnuRr5KUapcyv4xbaYwH4dWpump,GOOBZ,SELL,bundled: 12 launch wallets own 72%,0,0.0617,-38.3,stop loss -37%,17526,32.4,-33.1,149
+2026-10-20 08:49:18,4Tr49scC8nZ1WfSUf2rQBgXBgMKPaUCVktdjEGBypump,Packs,BUY,dev holds 9.6%,0,0.1,,,13339,,,
+2026-10-20 08:50:02,4Tr49scC8nZ1WfSUf2rQBgXBgMKPaUCVktdjEGBypump,Packs,SELL,dev holds 9.6%,0,0.06188,-38.1,dev sold,8955,0.0,-32.9,43
+2026-10-20 08:56:43,DugbrXAYbznG2s4QsqzGRVCcf4gQoY8Gc4z68MVcpump,BUILD,SELL,score below threshold,43.7,0.07539,-24.6,shift ended,8268,1.1,-19.3,803
