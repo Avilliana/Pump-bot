@@ -7129,3 +7129,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 06:59:21,D7qoU3V8WZXw8pkUBLGYSN56FF8jHD3qrUsV3GEVpump,Waiting,BUY,bundled: 5 launch wallets own 44%,0,0.1,,,10258,,,
 2026-10-20 06:59:37,9o3iDgNPnZTMF8GcXKxzFTxRqme9mJw5WF7RnXtMpump,Rowley,SELL,dev sold,0,0.09391,-6.1,shift ended,14769,35.5,-0.3,42
 2026-10-20 06:59:37,D7qoU3V8WZXw8pkUBLGYSN56FF8jHD3qrUsV3GEVpump,Waiting,SELL,bundled: 5 launch wallets own 44%,0,0.10828,8.3,shift ended,12018,17.2,-0.6,16
+2026-10-20 07:44:48,4YewqGbAEWgkHgbEwttwGkPmWX9B7Tc889nBWb8rTaSA,kohaku,BUY,dev sold,0,0.1,,,8440,,,
+2026-10-20 07:46:01,5McasMt5r1W1N4mRvdvV5c6P7xNb1sUq2f4w1D3tpump,PokePacks,BUY,dev sold,0,0.1,,,9054,,,
+2026-10-20 07:46:10,5McasMt5r1W1N4mRvdvV5c6P7xNb1sUq2f4w1D3tpump,PokePacks,SELL,dev sold,0,0.062,-38.0,stop loss -37%,6094,1.8,-32.7,9
+2026-10-20 07:49:29,4iEkxLniFMPbKssUcKc7DtXTtvzpJN8QsAXpfXw1pump,kohaku,BUY,dev sold,0,0.1,,,8727,,,
+2026-10-20 07:49:44,4YewqGbAEWgkHgbEwttwGkPmWX9B7Tc889nBWb8rTaSA,kohaku,SELL,dev sold,0,0.06327,-36.7,stop loss -35%,5796,101.7,-31.3,296
+2026-10-20 07:51:55,4iEkxLniFMPbKssUcKc7DtXTtvzpJN8QsAXpfXw1pump,kohaku,SELL,dev sold,0,0.29582,195.8,take profit +200%,27898,219.7,-12.9,146
+2026-10-20 07:52:41,HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd,RIPPED,BUY,score below threshold,61.3,0.1,,,24221,,,
+2026-10-20 07:53:30,aERvwPaNwmZtGmrbqpGTfRKsCAAynAQ8gY33dTSpump,UPCAT,BUY,dev sold,0,0.1,,,9464,,,
+2026-10-20 07:54:01,EYKbSqTB1Bv7zVozkabaGqtfs7VytwsduQXquyWwpump,BEEBOTS,BUY,dev sold,0,0.1,,,10079,,,
+2026-10-20 07:54:11,aERvwPaNwmZtGmrbqpGTfRKsCAAynAQ8gY33dTSpump,UPCAT,SELL,dev sold,0,0.06187,-38.1,stop loss -37%,6355,10.4,-32.8,41
+2026-10-20 07:54:17,EYKbSqTB1Bv7zVozkabaGqtfs7VytwsduQXquyWwpump,BEEBOTS,SELL,dev sold,0,0.06253,-37.5,stop loss -36%,6839,0.0,-32.1,16
+2026-10-20 07:55:11,SXKk2T8ugnUuQNJGLouArqKX7XN6PAhjyihbdcnpump,UPCAT,BUY,dev sold,0,0.1,,,16066,,,
+2026-10-20 07:55:43,SXKk2T8ugnUuQNJGLouArqKX7XN6PAhjyihbdcnpump,UPCAT,SELL,dev sold,0,0.06181,-38.2,stop loss -37%,10771,0.0,-33.0,32
+2026-10-20 08:02:43,HZWVVVNCEnexYYi8HV2if4QB6zocNsGERB6qyU8TRipd,RIPPED,SELL,score below threshold,61.3,0.16405,64.0,shift ended,42871,77.1,-20.4,601
