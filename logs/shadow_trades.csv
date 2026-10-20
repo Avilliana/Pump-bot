@@ -7499,3 +7499,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 22:51:40,9We437nBTZzRUNNmxz88RsoxeEoNwaFAZSAmg9bvpump,GL,SELL,bundled: 15 launch wallets own 7%,0,0.08332,-16.7,dev sold,12832,4.5,-11.4,67
 2026-10-20 22:52:04,dij2xs8oFJc8YckXooDCH6XXuexAmBp7W8A6Y5t6YA1,DITTO,SELL,score below threshold,57.8,0.16279,62.8,shift ended,16020,148.3,-13.4,898
 2026-10-20 22:52:04,XQ9cvU6UBPVzwHsLeAmAhbjDkU75UsV6YC9zSeepump,TCG,SELL,bundled: 39 launch wallets own 19%,0,0.20038,100.4,shift ended,19070,135.6,0.2,148
+2026-10-20 23:34:12,3z4F9atfScxCiJYs593mz4puEWKVdJUhgJsneatCpump,CUPSEY,BUY,dev sold,0,0.1,,,11226,,,
+2026-10-20 23:34:17,3z4F9atfScxCiJYs593mz4puEWKVdJUhgJsneatCpump,CUPSEY,SELL,dev sold,0,0.06046,-39.5,stop loss -38%,7366,9.9,-34.4,5
+2026-10-20 23:34:38,7FoVj9aWZcaf6BY8XjVbsCkKeFvdVdnrHm4XNbmipump,KIMCHI,BUY,top10 hold 53%,0,0.1,,,12008,,,
+2026-10-20 23:37:30,7FoVj9aWZcaf6BY8XjVbsCkKeFvdVdnrHm4XNbmipump,KIMCHI,SELL,top10 hold 53%,0,0.06312,-36.9,stop loss -36%,8223,51.7,-31.5,172
+2026-10-20 23:38:22,4K4pbJ7ogxRhjdmRYBvdaVz6fx1KnvUJbguxErvupump,EMC2,BUY,dev sold,0,0.1,,,9757,,,
+2026-10-20 23:38:23,4K4pbJ7ogxRhjdmRYBvdaVz6fx1KnvUJbguxErvupump,EMC2,SELL,dev sold,0,0.06197,-38.0,stop loss -37%,6555,15.2,-32.8,1
+2026-10-20 23:44:22,AUcE6dxatumGdbirWKTidtiJwwukmHoSfEmw4fhipump,Larp,BUY,dev sold,0,0.1,,,41266,,,
+2026-10-20 23:46:06,E6ZjKuP8XnipuXLiKYnEhkKxPFtBY6PMZfS4w91Cpump,HAYDEN,BUY,bundled: 19 launch wallets own 14%,0,0.1,,,25790,,,
+2026-10-20 23:46:11,Bnqf6qKJji4GSYXjs5bHiEYNUDidb5zbn5f6b7F1pump,HAYDEN,BUY,bundled: 13 launch wallets own 6%,0,0.1,,,18460,,,
+2026-10-20 23:47:25,AUcE6dxatumGdbirWKTidtiJwwukmHoSfEmw4fhipump,Larp,SELL,dev sold,0,0.098,-2.0,no trading (stale),43701,5.9,-0.0,183
+2026-10-20 23:49:04,42w87Mr7a79MjVEe46bRJeTgKG29WqcbewmTv9T8pump,celebrity,BUY,dev sold,0,0.1,,,28436,,,
+2026-10-20 23:49:35,26Ym1KruRk91WmXVBWiaH3TLLDPJFiTs1JWxa4VKpump,Profit,BUY,dev sold,0,0.1,,,8426,,,
+2026-10-20 23:49:40,E6ZjKuP8XnipuXLiKYnEhkKxPFtBY6PMZfS4w91Cpump,HAYDEN,SELL,bundled: 19 launch wallets own 14%,0,0.08906,-10.9,shift ended,24842,0.0,-9.5,214
+2026-10-20 23:49:40,Bnqf6qKJji4GSYXjs5bHiEYNUDidb5zbn5f6b7F1pump,HAYDEN,SELL,bundled: 13 launch wallets own 6%,0,0.08642,-13.6,shift ended,17264,0.2,-9.6,209
+2026-10-20 23:49:40,42w87Mr7a79MjVEe46bRJeTgKG29WqcbewmTv9T8pump,celebrity,SELL,dev sold,0,0.07137,-28.6,shift ended,21977,2.6,-25.3,36
+2026-10-20 23:49:40,26Ym1KruRk91WmXVBWiaH3TLLDPJFiTs1JWxa4VKpump,Profit,SELL,dev sold,0,0.0764,-23.6,shift ended,6979,0.0,-17.5,4
