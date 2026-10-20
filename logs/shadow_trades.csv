@@ -7035,3 +7035,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 00:58:33,HjSwFV9QwRzHthigpUVhtGH28rPYVUdjH1G6kGhpump,Chunke,SELL,dev sold,0,0.06235,-37.6,stop loss -36%,5750,92.0,-32.3,337
 2026-10-20 01:00:40,DxMTw4EDvMcnbLedo9W7i5pycF4pNanVqJR7Bh8wpump,lilrocketman,BUY,dev sold,0,0.1,,,19350,,,
 2026-10-20 01:03:55,DxMTw4EDvMcnbLedo9W7i5pycF4pNanVqJR7Bh8wpump,lilrocketman,SELL,dev sold,0,0.20595,106.0,shift ended,43007,122.3,0.5,196
+2026-10-20 01:45:22,5HBkf6UguGDazCrXfN6U5bLxWMEzGVTg8HujhTLDpump,Lacy,BUY,dev sold,0,0.1,,,9454,,,
+2026-10-20 01:45:50,5HBkf6UguGDazCrXfN6U5bLxWMEzGVTg8HujhTLDpump,Lacy,SELL,dev sold,0,0.31346,213.5,take profit +218%,32016,238.7,2.9,28
+2026-10-20 01:48:42,5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump,DUST,BUY,dev sold,0,0.1,,,33141,,,
+2026-10-20 01:49:16,5TkGfphHPLvr7GpGEQeUQEimvq6Qc6Wom4pwGRn7pump,Lacy,BUY,dev sold,0,0.1,,,8776,,,
+2026-10-20 01:50:15,5TkGfphHPLvr7GpGEQeUQEimvq6Qc6Wom4pwGRn7pump,Lacy,SELL,dev sold,0,0.06313,-36.9,stop loss -36%,6013,43.2,-31.5,58
+2026-10-20 01:51:54,5org5Hza3TQ3ps5LHYzQfZkJhokHF73AWc1vZZcmpump,DUST,SELL,dev sold,0,0.12007,20.1,no trading (stale),42970,29.7,-8.7,191
+2026-10-20 01:55:21,7SqUZZTJqCfpAS2m5Vg3M5BXgHdmx176NTTSGN78pump,ZORO,BUY,dev sold,0,0.1,,,8635,,,
+2026-10-20 01:56:19,7SqUZZTJqCfpAS2m5Vg3M5BXgHdmx176NTTSGN78pump,ZORO,SELL,dev sold,0,0.06027,-39.7,stop loss -38%,5651,7.1,-34.6,59
