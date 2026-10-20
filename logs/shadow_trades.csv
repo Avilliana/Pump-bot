@@ -7201,3 +7201,27 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 11:53:26,9EwJf13LSn67VNDgEcDnjXsaVeuNEW6xrS2wUVsDpump,VELUM,SELL,dev sold,0,0.06076,-39.2,stop loss -38%,9237,43.3,-34.1,109
 2026-10-20 11:53:51,Cna8np1K1Txo19KDoF33r3X8csKDhDUSmTizN2qfpump,Grokpad,SELL,score below threshold,60.8,0.12954,29.5,shift ended,14864,87.4,-13.9,502
 2026-10-20 11:53:51,4Z8f9af4HregXtVQhQyEBCkXsn9w47piVBNoJZGYpump,MANLETS,SELL,bundled: 22 launch wallets own 14%,0,0.17116,71.2,shift ended,15040,85.3,-1.1,140
+2026-10-20 12:45:52,8n1bUSp2rmJZkLEqXzYZpwzCHTjRX3vZd1RjjsNGpump,PumpCards,BUY,score below threshold,46.4,0.1,,,8500,,,
+2026-10-20 12:46:44,FVvsN9kt9psKWJySstgNKdyg5tjjxn8SpAGrk11Ypump,PROTOC,BUY,dev sold,0,0.1,,,9561,,,
+2026-10-20 12:47:19,FVvsN9kt9psKWJySstgNKdyg5tjjxn8SpAGrk11Ypump,PROTOC,SELL,dev sold,0,0.06017,-39.8,stop loss -39%,6246,26.8,-34.7,34
+2026-10-20 12:48:21,DhEzk9WGKePbmNeuybRL8HH7hfrPuuLg4DpZnewLpump,fone,BUY,dev sold,0,0.1,,,8280,,,
+2026-10-20 12:48:27,DhEzk9WGKePbmNeuybRL8HH7hfrPuuLg4DpZnewLpump,fone,SELL,dev sold,0,0.06255,-37.4,stop loss -36%,5622,0.0,-32.1,6
+2026-10-20 12:48:32,5tnjTFUAyoxmWX46tr37ck3bgZdMvfTLPrLqzftKpump,CMD,BUY,score below threshold,51.5,0.1,,,8035,,,
+2026-10-20 12:48:51,J2i9gnf8G9anfmYVsgZYP2zEvPxiTYyKEjZKBtCKpump,GIGAPIG,BUY,dev sold,0,0.1,,,15913,,,
+2026-10-20 12:48:56,J2i9gnf8G9anfmYVsgZYP2zEvPxiTYyKEjZKBtCKpump,GIGAPIG,SELL,dev sold,0,0.06027,-39.7,stop loss -38%,10404,3.7,-34.6,6
+2026-10-20 12:49:36,5tnjTFUAyoxmWX46tr37ck3bgZdMvfTLPrLqzftKpump,CMD,SELL,score below threshold,51.5,0.08167,-18.3,dev sold,7113,18.2,-13.6,64
+2026-10-20 12:49:43,8n1bUSp2rmJZkLEqXzYZpwzCHTjRX3vZd1RjjsNGpump,PumpCards,SELL,score below threshold,46.4,0.06209,-37.9,stop loss -37%,5730,6.2,-32.6,230
+2026-10-20 12:50:49,HUVim8efrcHpzgAoccT3X1rFXRphgnvKfn1FUQipump,Rocketman,BUY,dev sold,0,0.1,,,12139,,,
+2026-10-20 12:51:14,HUVim8efrcHpzgAoccT3X1rFXRphgnvKfn1FUQipump,Rocketman,SELL,dev sold,0,0.06344,-36.6,stop loss -35%,8353,21.3,-31.2,26
+2026-10-20 12:51:42,6KEiPuRtAEcGgv9Ryi9Zx27yg4mZXm69sZpHUrBZKD9D,PUNANI,BUY,dev sold,0,0.1,,,12958,,,
+2026-10-20 12:52:08,6KEiPuRtAEcGgv9Ryi9Zx27yg4mZXm69sZpHUrBZKD9D,PUNANI,SELL,dev sold,0,0.29575,195.8,take profit +200%,41373,219.3,0.6,26
+2026-10-20 12:53:30,3pdgNuXxt95RaJgSTS849mwTi5JWYmCQF2HrzVkepump,PUNANI,BUY,dev sold,0,0.1,,,9363,,,
+2026-10-20 12:53:36,3pdgNuXxt95RaJgSTS849mwTi5JWYmCQF2HrzVkepump,PUNANI,SELL,dev sold,0,0.06309,-36.9,stop loss -36%,6412,1.4,-31.5,6
+2026-10-20 12:53:57,JLgGSwd1eSdsa6bpCFp76fpGALnRJFwGe7aQDyVpump,TripleD,BUY,dev sold,0,0.1,,,11623,,,
+2026-10-20 12:54:16,CeHxVUDjLCwFzzNZbwyXwZXwNUeo8vxnqLCtYjfhpump,DOG,BUY,dev sold,0,0.1,,,10314,,,
+2026-10-20 12:54:30,CeHxVUDjLCwFzzNZbwyXwZXwNUeo8vxnqLCtYjfhpump,DOG,SELL,dev sold,0,0.0615,-38.5,stop loss -37%,6884,6.6,-33.3,14
+2026-10-20 12:54:39,577aGvMQ33ZMrhX961nk91otCkpUSH6GwEauQ38Ppump,MUNK,BUY,top10 hold 59%,0,0.1,,,14518,,,
+2026-10-20 12:56:43,JLgGSwd1eSdsa6bpCFp76fpGALnRJFwGe7aQDyVpump,TripleD,SELL,dev sold,0,0.06363,-36.4,stop loss -35%,8023,111.0,-31.0,166
+2026-10-20 12:58:13,577aGvMQ33ZMrhX961nk91otCkpUSH6GwEauQ38Ppump,MUNK,SELL,top10 hold 59%,0,0.09176,-8.2,dev sold,14416,6.9,-1.8,214
+2026-10-20 12:59:30,DqEaojRtuwZgtKXQF5H6Qak91dq4DAV62cCKquTcBBdm,PUNANI,BUY,dev sold,0,0.1,,,8884,,,
+2026-10-20 13:00:49,DqEaojRtuwZgtKXQF5H6Qak91dq4DAV62cCKquTcBBdm,PUNANI,SELL,dev sold,0,0.06252,-37.5,stop loss -36%,6029,31.2,-32.1,80
