@@ -7479,3 +7479,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 21:52:49,8tWatwDBrfVy7ebJmH6kDEzdF23Cicn9xXvQxYLepump,WIPD,BUY,score below threshold,56.4,0.1,,,23243,,,
 2026-10-20 21:53:04,8J6ekK7njMQkA5kvQC67BwkpoSUGVRvtcfU9Jiovpump,POKEFOLIO,SELL,bundled: 22 launch wallets own 9%,0,0.06262,-37.4,stop loss -36%,15332,66.1,-32.1,201
 2026-10-20 21:53:43,8tWatwDBrfVy7ebJmH6kDEzdF23Cicn9xXvQxYLepump,WIPD,SELL,score below threshold,56.4,0.11099,11.0,shift ended,27877,19.9,-4.5,54
+2026-10-20 22:32:48,86qoUv6i8SM2c9aA7dZ7UN4hF3YLMQWk1ehqNgMypump,SILVER,BUY,dev sold,0,0.1,,,38190,,,
+2026-10-20 22:32:49,86qoUv6i8SM2c9aA7dZ7UN4hF3YLMQWk1ehqNgMypump,SILVER,SELL,dev sold,0,0.06289,-37.1,stop loss -36%,26022,0.2,-31.9,0
+2026-10-20 22:36:11,5GJ3gNMEPkDTLhHyhFCocDdW2UjH9nRdMtE4cuYhpump,Noppy,BUY,dev sold,0,0.1,,,10496,,,
+2026-10-20 22:36:15,5GJ3gNMEPkDTLhHyhFCocDdW2UjH9nRdMtE4cuYhpump,Noppy,SELL,dev sold,0,0.04834,-51.7,stop loss -51%,5518,0.0,-47.4,5
+2026-10-20 22:36:17,93K5Y3scQpSPwZL2NqSaKEm5SjcGaHSdJAGhxphdpump,DON,BUY,top10 hold 35%,0,0.1,,,9508,,,
+2026-10-20 22:36:32,93K5Y3scQpSPwZL2NqSaKEm5SjcGaHSdJAGhxphdpump,DON,SELL,top10 hold 35%,0,0.06295,-37.1,stop loss -36%,6495,1.8,-31.7,15
+2026-10-20 22:36:40,E2AuxyVptsdNBvy9xsXgBr7mxgPHxJUs4T2xQXf2pump,Noppy,BUY,dev sold,0,0.1,,,8585,,,
+2026-10-20 22:37:07,dij2xs8oFJc8YckXooDCH6XXuexAmBp7W8A6Y5t6YA1,DITTO,BUY,score below threshold,57.8,0.1,,,9084,,,
+2026-10-20 22:38:20,2MGFAp6DWqTZEE6jwcjMwWod5qYzCY5TzuGV8rnxpump,bcat,BUY,score below threshold,55.0,0.1,,,10399,,,
+2026-10-20 22:40:32,E2AuxyVptsdNBvy9xsXgBr7mxgPHxJUs4T2xQXf2pump,Noppy,SELL,dev sold,0,0.3173,217.3,take profit +222%,29440,242.9,-19.1,232
+2026-10-20 22:41:20,2MGFAp6DWqTZEE6jwcjMwWod5qYzCY5TzuGV8rnxpump,bcat,SELL,score below threshold,55.0,0.29879,198.8,take profit +203%,33563,222.8,0.0,180
+2026-10-20 22:42:05,5f4uPHZ2Ta3L1R7bHW1Kyj6sB13PEs8EFB6ezN8dpump,SHMÜNK,BUY,dev sold,0,0.1,,,16721,,,
+2026-10-20 22:44:57,5f4uPHZ2Ta3L1R7bHW1Kyj6sB13PEs8EFB6ezN8dpump,SHMÜNK,SELL,dev sold,0,0.0277,-72.3,stop loss -71%,5071,142.1,-69.7,172
+2026-10-20 22:48:11,HZhSAT4uy3ExAdRdpzLzhZfTmi5ukGVybCjJ6FCTpump,Melonie,BUY,dev sold,0,0.1,,,14334,,,
+2026-10-20 22:48:30,HZhSAT4uy3ExAdRdpzLzhZfTmi5ukGVybCjJ6FCTpump,Melonie,SELL,dev sold,0,0.06016,-39.8,stop loss -39%,9356,48.3,-34.7,19
+2026-10-20 22:49:36,XQ9cvU6UBPVzwHsLeAmAhbjDkU75UsV6YC9zSeepump,TCG,BUY,bundled: 39 launch wallets own 19%,0,0.1,,,8805,,,
+2026-10-20 22:50:33,9We437nBTZzRUNNmxz88RsoxeEoNwaFAZSAmg9bvpump,GL,BUY,bundled: 15 launch wallets own 7%,0,0.1,,,14223,,,
+2026-10-20 22:51:40,9We437nBTZzRUNNmxz88RsoxeEoNwaFAZSAmg9bvpump,GL,SELL,bundled: 15 launch wallets own 7%,0,0.08332,-16.7,dev sold,12832,4.5,-11.4,67
+2026-10-20 22:52:04,dij2xs8oFJc8YckXooDCH6XXuexAmBp7W8A6Y5t6YA1,DITTO,SELL,score below threshold,57.8,0.16279,62.8,shift ended,16020,148.3,-13.4,898
+2026-10-20 22:52:04,XQ9cvU6UBPVzwHsLeAmAhbjDkU75UsV6YC9zSeepump,TCG,SELL,bundled: 39 launch wallets own 19%,0,0.20038,100.4,shift ended,19070,135.6,0.2,148
