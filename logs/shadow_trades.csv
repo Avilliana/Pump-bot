@@ -7241,3 +7241,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 14:02:50,EeDGMaZzBDWA1opMhUyNmupAdVA7up45p6bhH6orpump,FLOAT,SELL,bundled: 21 launch wallets own 41%,0,0.12258,22.6,dev sold,27332,99.8,-3.1,259
 2026-10-20 14:03:07,8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump,FREN,SELL,bundled: 19 launch wallets own 18%,0,0.12647,26.5,shift ended,18776,41.1,-12.5,128
 2026-10-20 14:03:07,D46xBpfrKru9H3T4KvWNzJyEr2Ka6C1DpE1KaCBrpump,SAAS,SELL,score below threshold,60.9,0.12327,23.3,shift ended,34172,48.4,-0.8,60
+2026-10-20 14:36:06,FvrisDdnq4cuYgtn8Ld9jE9tMyyAq3st4gqgqyKGpump,HALVE,BUY,bundled: 19 launch wallets own 35%,0,0.1,,,10786,,,
+2026-10-20 14:36:25,FvrisDdnq4cuYgtn8Ld9jE9tMyyAq3st4gqgqyKGpump,HALVE,SELL,bundled: 19 launch wallets own 35%,0,0.06201,-38.0,stop loss -37%,7258,12.3,-32.7,19
+2026-10-20 14:37:36,GXdyH2rLvBrCjWoEptPBMjPQ15TP8VuVjuBYkjFypump,lp-cards,BUY,bundled: 14 launch wallets own 12%,0,0.1,,,8437,,,
+2026-10-20 14:37:38,4DKfQ1QmccUZ4i3dK4etauwQG5Ew8dinqABRyrwBpump,CLIFFTON,BUY,dev sold,0,0.1,,,11407,,,
+2026-10-20 14:38:15,4DKfQ1QmccUZ4i3dK4etauwQG5Ew8dinqABRyrwBpump,CLIFFTON,SELL,dev sold,0,0.06326,-36.7,stop loss -35%,7829,21.9,-31.4,37
+2026-10-20 14:39:19,79FD9yP99TPTwqB74XLUj3Sx6ScWfm7LQTUGhrJpump,BLM,BUY,dev sold,0,0.1,,,9366,,,
+2026-10-20 14:40:24,79FD9yP99TPTwqB74XLUj3Sx6ScWfm7LQTUGhrJpump,BLM,SELL,dev sold,0,0.06247,-37.5,stop loss -36%,6350,3.8,-32.2,65
+2026-10-20 14:40:44,4KJG9TV5V5yzVf7h9ahNezgz5Qv8HVz4XyRDt8zupump,ELONCOIN,BUY,dev sold,0,0.1,,,9049,,,
+2026-10-20 14:40:56,4KJG9TV5V5yzVf7h9ahNezgz5Qv8HVz4XyRDt8zupump,ELONCOIN,SELL,dev sold,0,0.0628,-37.2,stop loss -36%,6169,8.9,-31.8,12
+2026-10-20 14:41:44,3M1d44bW5GvHbzCAPMLquUpBQcZfhjumQxDDpkYMpump,SOL,BUY,dev sold,0,0.1,,,10814,,,
+2026-10-20 14:42:18,3M1d44bW5GvHbzCAPMLquUpBQcZfhjumQxDDpkYMpump,SOL,SELL,dev sold,0,0.05885,-41.2,stop loss -40%,6909,40.8,-36.1,33
+2026-10-20 14:42:49,GXdyH2rLvBrCjWoEptPBMjPQ15TP8VuVjuBYkjFypump,lp-cards,SELL,bundled: 14 launch wallets own 12%,0,0.06363,-36.4,stop loss -35%,5828,31.3,-30.9,313
+2026-10-20 14:44:37,4xc54WRi3HUwoGPg6gngZjx2yYuo7Vnv9DKiedULpump,TURNIP,BUY,bundled: 17 launch wallets own 25%,0,0.1,,,9259,,,
+2026-10-20 14:45:52,Hx83JYfSJGgXKetthVvtYjDGEuDGpjWZHfjPHaDCpump,Blades,BUY,dev holds 9.6%,0,0.1,,,11128,,,
+2026-10-20 14:46:34,4xc54WRi3HUwoGPg6gngZjx2yYuo7Vnv9DKiedULpump,TURNIP,SELL,bundled: 17 launch wallets own 25%,0,0.14227,42.3,dev sold,14262,76.9,-1.5,118
+2026-10-20 14:47:23,385ir8rHyFocfTgaGURKh9jVy95fnQa7ZCvS8z5gpump,Rocketman,BUY,dev sold,0,0.1,,,9842,,,
+2026-10-20 14:47:26,F5mWUoSaynbGY4qopQXUq1nkxHojiTXqgBENJYxpump,LEBREL,BUY,bundled: 17 launch wallets own 34%,0,0.1,,,18501,,,
+2026-10-20 14:48:30,F5mWUoSaynbGY4qopQXUq1nkxHojiTXqgBENJYxpump,LEBREL,SELL,bundled: 17 launch wallets own 34%,0,0.06353,-36.5,stop loss -35%,12744,21.2,-31.1,64
+2026-10-20 14:48:36,385ir8rHyFocfTgaGURKh9jVy95fnQa7ZCvS8z5gpump,Rocketman,SELL,dev sold,0,0.06307,-36.9,stop loss -36%,6736,33.0,-31.6,73
+2026-10-20 14:48:54,DyPM8v5w4k4KC9aSU5Yh9USvJ2gYAALvUoYqavw4pump,TRacer,BUY,bundled: 31 launch wallets own 25%,0,0.1,,,13643,,,
+2026-10-20 14:49:28,DyPM8v5w4k4KC9aSU5Yh9USvJ2gYAALvUoYqavw4pump,TRacer,SELL,bundled: 31 launch wallets own 25%,0,0.11297,13.0,dev sold,16667,26.1,-8.6,34
+2026-10-20 14:52:31,5N3rtsMetj3PEZWGYJy4Xfy8kTDxCME4QiXNtmnRpump,SOL,BUY,bundled: 10 launch wallets own 26%,0,0.1,,,8481,,,
+2026-10-20 14:52:42,5N3rtsMetj3PEZWGYJy4Xfy8kTDxCME4QiXNtmnRpump,SOL,SELL,bundled: 10 launch wallets own 26%,0,0.09826,-1.7,dev sold,9025,11.6,0.1,11
+2026-10-20 14:53:18,5k8bTV2bT3fBrJAGRdZEZtHAnp92eZzZ1ZRn3wLmpump,OMNICHAIN,BUY,top10 hold 40%,0,0.1,,,10219,,,
+2026-10-20 14:55:19,ASo59Z3BAS5CdsfrMZQatPFuDRjrknkiybcVhYFspump,BAKED,BUY,bundled: 12 launch wallets own 24%,0,0.1,,,9308,,,
+2026-10-20 14:55:34,Hx83JYfSJGgXKetthVvtYjDGEuDGpjWZHfjPHaDCpump,Blades,SELL,dev holds 9.6%,0,0.18296,83.0,shift ended,21998,153.1,-20.7,582
+2026-10-20 14:55:34,5k8bTV2bT3fBrJAGRdZEZtHAnp92eZzZ1ZRn3wLmpump,OMNICHAIN,SELL,top10 hold 40%,0,0.11966,19.7,shift ended,13227,69.7,-4.2,135
+2026-10-20 14:55:34,ASo59Z3BAS5CdsfrMZQatPFuDRjrknkiybcVhYFspump,BAKED,SELL,bundled: 12 launch wallets own 24%,0,0.1314,31.4,shift ended,13229,42.2,0.2,15
