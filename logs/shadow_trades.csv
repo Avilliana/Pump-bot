@@ -7073,3 +7073,29 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 02:51:32,wvLcckQE5kheL9mPK4MdguuJ1rna64rdGar4yVXpump,UHI,SELL,dev sold,0,0.25548,155.5,shift ended,36263,210.5,0.0,433
 2026-10-20 02:51:32,EdwVSdZUad6CF5YNBSwSYj3oyS4VRSEhnEHekYw7pump,FYP,SELL,score below threshold,43.2,0.12644,26.4,shift ended,13964,47.5,-12.8,343
 2026-10-20 02:51:32,3W3DGjeShFuLjR4bJcYhL63khUg7nzYCN5r7zw1ppump,PECITY,SELL,bundled: 13 launch wallets own 76%,0,0.08622,-13.8,shift ended,30673,12.3,-7.4,58
+2026-10-20 03:36:22,EhdpRsP38ki8bTnugzdDM4cLUrrH57Sx9fxoGkCspump,TROAD,BUY,dev holds 52.4%,0,0.1,,,16450,,,
+2026-10-20 03:36:39,ESBh9qwQai8Rr9MFcWzQt14WSFo7zjLy1mfWkBAYpump,BRACEY,BUY,bundled: 10 launch wallets own 74%,0,0.1,,,32166,,,
+2026-10-20 03:37:18,EhdpRsP38ki8bTnugzdDM4cLUrrH57Sx9fxoGkCspump,TROAD,SELL,dev holds 52.4%,0,0.02655,-73.5,dev sold,4785,106.8,-70.9,56
+2026-10-20 03:37:58,ESBh9qwQai8Rr9MFcWzQt14WSFo7zjLy1mfWkBAYpump,BRACEY,SELL,bundled: 10 launch wallets own 74%,0,0.05369,-46.3,stop loss -45%,18739,11.6,-41.7,79
+2026-10-20 03:39:13,6a2fmwc2LvbVsR3NRi7HCGhh1W4ENsvzSFjdCL1Tpump,TROAD,BUY,dev holds 52.4%,0,0.1,,,12561,,,
+2026-10-20 03:39:51,6a2fmwc2LvbVsR3NRi7HCGhh1W4ENsvzSFjdCL1Tpump,TROAD,SELL,dev holds 52.4%,0,0.02989,-70.1,dev sold,4107,84.6,-67.3,39
+2026-10-20 03:40:58,67oWn9YNFadYNhuL9PzahVfuV5PA9ACvKmHe3hfyMDpd,VIE,BUY,dev sold,0,0.1,,,23981,,,
+2026-10-20 03:41:18,HsM7vtzwCpoWDNE4zRp91j4JxkLMSv3cK46rggE3pump,Bien,BUY,dev sold,0,0.1,,,8655,,,
+2026-10-20 03:41:23,67oWn9YNFadYNhuL9PzahVfuV5PA9ACvKmHe3hfyMDpd,VIE,SELL,dev sold,0,0.0635,-36.5,stop loss -35%,16506,35.2,-31.2,25
+2026-10-20 03:41:49,C5Dj6kKnHGXyCxNGQ9c3kWSaHVzSv4D9q1V7ToMGpump,TROAD,BUY,dev holds 52.4%,0,0.1,,,12491,,,
+2026-10-20 03:42:10,8RSDFx4VNbHGQFTGV6BEsppJAfnE1ZRUevTNRuLupump,TAPINO,BUY,top10 hold 73%,0,0.1,,,30967,,,
+2026-10-20 03:42:22,C5Dj6kKnHGXyCxNGQ9c3kWSaHVzSv4D9q1V7ToMGpump,TROAD,SELL,dev holds 52.4%,0,0.02527,-74.7,dev sold,3463,26.2,-72.3,33
+2026-10-20 03:43:16,CeNCkk2xeNnebncinUMYxB3WsMnkQMi7eVo41kL8pump,FLIPHIL,BUY,top10 hold 76%,0,0.1,,,31628,,,
+2026-10-20 03:43:25,4b8WZbVZF6LCefon3md6SMr1fmtNfh1YJ2n2HyZHpump,Bien,BUY,dev sold,0,0.1,,,10986,,,
+2026-10-20 03:43:26,6oG7JSYmXzUggu34Qg7yD6QZxFfsmU7VA98gJq31pump,TROAD,BUY,dev holds 52.4%,0,0.1,,,17186,,,
+2026-10-20 03:44:44,8R5kjJYqydJf4PPWYzJW5t9ZNy6UDhtYZdPUEGoY9k9y,VANILLA,BUY,dev sold,0,0.1,,,9387,,,
+2026-10-20 03:44:49,HsM7vtzwCpoWDNE4zRp91j4JxkLMSv3cK46rggE3pump,Bien,SELL,dev sold,0,0.2967,196.7,take profit +201%,27818,220.6,-6.9,211
+2026-10-20 03:45:47,4b8WZbVZF6LCefon3md6SMr1fmtNfh1YJ2n2HyZHpump,Bien,SELL,dev sold,0,0.06227,-37.7,stop loss -36%,7442,98.2,-32.4,142
+2026-10-20 03:46:13,8R5kjJYqydJf4PPWYzJW5t9ZNy6UDhtYZdPUEGoY9k9y,VANILLA,SELL,dev sold,0,0.06249,-37.5,stop loss -36%,6367,104.2,-32.2,89
+2026-10-20 03:48:49,65aS6WdN3x5jYk68g7QbdUhtQryevm2pfdr4LhYvpump,NERU,BUY,dev sold,0,0.1,,,8101,,,
+2026-10-20 03:49:10,6oG7JSYmXzUggu34Qg7yD6QZxFfsmU7VA98gJq31pump,TROAD,SELL,dev holds 52.4%,0,0.23226,132.3,no trading (stale),43184,150.7,-0.4,343
+2026-10-20 03:49:21,65aS6WdN3x5jYk68g7QbdUhtQryevm2pfdr4LhYvpump,NERU,SELL,dev sold,0,0.05608,-43.9,stop loss -43%,4936,1.3,-39.1,32
+2026-10-20 03:49:45,GAtzNxdKixmvJ5so6TTopj7WTh9VY52iutSq52pSpump,VIE,BUY,dev sold,0,0.1,,,15866,,,
+2026-10-20 03:49:49,8RSDFx4VNbHGQFTGV6BEsppJAfnE1ZRUevTNRuLupump,TAPINO,SELL,top10 hold 73%,0,0.12884,28.8,no trading (stale),43184,39.1,-9.1,459
+2026-10-20 03:50:03,GAtzNxdKixmvJ5so6TTopj7WTh9VY52iutSq52pSpump,VIE,SELL,dev sold,0,0.0626,-37.4,stop loss -36%,10772,24.1,-32.1,19
+2026-10-20 03:50:09,CeNCkk2xeNnebncinUMYxB3WsMnkQMi7eVo41kL8pump,FLIPHIL,SELL,top10 hold 76%,0,0.12614,26.1,no trading (stale),43184,36.2,-4.9,413
