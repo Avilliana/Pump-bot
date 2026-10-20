@@ -7121,3 +7121,11 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 05:47:08,B99E2trXXUE6WzGBizUnHPdNLsbTEyW9WpWpRhN8pump,BIPPY,SELL,top10 hold 76%,0,0.12741,27.4,no trading (stale),42982,37.6,-14.4,392
 2026-10-20 05:49:27,BrxRop1T3Dhdaf9pQEzczyAdN8RKa66u5TKdtUS1pump,PokeWorld,BUY,dev sold,0,0.1,,,10460,,,
 2026-10-20 05:53:45,BrxRop1T3Dhdaf9pQEzczyAdN8RKa66u5TKdtUS1pump,PokeWorld,SELL,dev sold,0,0.07915,-20.8,shift ended,8971,12.2,-28.8,258
+2026-10-20 06:47:54,687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump,EVOLVE,BUY,score below threshold,61.1,0.1,,,17763,,,
+2026-10-20 06:53:39,2JDvP3WgzUKEyk6mG2WpJHWFo2P4trPb2gJbnZbrpump,Packs,BUY,bundled: 13 launch wallets own 32%,0,0.1,,,10544,,,
+2026-10-20 06:53:47,2JDvP3WgzUKEyk6mG2WpJHWFo2P4trPb2gJbnZbrpump,Packs,SELL,bundled: 13 launch wallets own 32%,0,0.09217,-7.8,dev sold,10523,13.2,-8.6,8
+2026-10-20 06:55:59,687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump,EVOLVE,SELL,score below threshold,61.1,0.22411,124.1,no trading (stale),42999,141.9,-8.4,486
+2026-10-20 06:58:55,9o3iDgNPnZTMF8GcXKxzFTxRqme9mJw5WF7RnXtMpump,Rowley,BUY,dev sold,0,0.1,,,14534,,,
+2026-10-20 06:59:21,D7qoU3V8WZXw8pkUBLGYSN56FF8jHD3qrUsV3GEVpump,Waiting,BUY,bundled: 5 launch wallets own 44%,0,0.1,,,10258,,,
+2026-10-20 06:59:37,9o3iDgNPnZTMF8GcXKxzFTxRqme9mJw5WF7RnXtMpump,Rowley,SELL,dev sold,0,0.09391,-6.1,shift ended,14769,35.5,-0.3,42
+2026-10-20 06:59:37,D7qoU3V8WZXw8pkUBLGYSN56FF8jHD3qrUsV3GEVpump,Waiting,SELL,bundled: 5 launch wallets own 44%,0,0.10828,8.3,shift ended,12018,17.2,-0.6,16
