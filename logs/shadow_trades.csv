@@ -7269,3 +7269,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 14:55:34,Hx83JYfSJGgXKetthVvtYjDGEuDGpjWZHfjPHaDCpump,Blades,SELL,dev holds 9.6%,0,0.18296,83.0,shift ended,21998,153.1,-20.7,582
 2026-10-20 14:55:34,5k8bTV2bT3fBrJAGRdZEZtHAnp92eZzZ1ZRn3wLmpump,OMNICHAIN,SELL,top10 hold 40%,0,0.11966,19.7,shift ended,13227,69.7,-4.2,135
 2026-10-20 14:55:34,ASo59Z3BAS5CdsfrMZQatPFuDRjrknkiybcVhYFspump,BAKED,SELL,bundled: 12 launch wallets own 24%,0,0.1314,31.4,shift ended,13229,42.2,0.2,15
+2026-10-20 15:40:49,DpASZDCT5asUSpdYdNwh2QvLw6DgDYD55hnLqQs7pump,FOMOPUG,BUY,dev sold,0,0.1,,,11233,,,
+2026-10-20 15:41:05,ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump,Jamie,BUY,dev sold,0,0.1,,,10271,,,
+2026-10-20 15:41:24,DCgxnc8jQhqVnMa33NF1T3fDPfKTkNBan5hNS7hgpump,wDog,BUY,dev sold,0,0.1,,,11038,,,
+2026-10-20 15:41:28,DpASZDCT5asUSpdYdNwh2QvLw6DgDYD55hnLqQs7pump,FOMOPUG,SELL,dev sold,0,0.32476,224.8,take profit +229%,39329,250.1,-12.7,39
+2026-10-20 15:44:17,DCgxnc8jQhqVnMa33NF1T3fDPfKTkNBan5hNS7hgpump,wDog,SELL,dev sold,0,0.09237,-7.6,no trading (stale),11038,0.0,0.0,173
+2026-10-20 15:46:52,HXzh7ApNjnNZEH6BzDT4fYPys4dKUzw5jB24antRpump,WolfShearing,BUY,dev sold,0,0.1,,,15867,,,
+2026-10-20 15:46:55,HXzh7ApNjnNZEH6BzDT4fYPys4dKUzw5jB24antRpump,WolfShearing,SELL,dev sold,0,0.06297,-37.0,stop loss -36%,10836,0.0,-31.7,3
+2026-10-20 15:47:16,BMux7FyL1CqXWgKbAJuHLqkn1NBBuGRyc2rrrQs2pump,PEPEKING,BUY,top10 hold 43%,0,0.1,,,13814,,,
+2026-10-20 15:47:16,BMux7FyL1CqXWgKbAJuHLqkn1NBBuGRyc2rrrQs2pump,PEPEKING,SELL,top10 hold 43%,0,0.08731,-12.7,dev sold,13047,0.0,-5.6,0
+2026-10-20 15:48:15,tvfXo16iYADF6rBB6UFhGRx6auymvSayNzuuN3Hrcnu,FCKED,BUY,dev sold,0,0.1,,,13460,,,
+2026-10-20 15:48:44,tvfXo16iYADF6rBB6UFhGRx6auymvSayNzuuN3Hrcnu,FCKED,SELL,dev sold,0,0.0417,-58.3,stop loss -57%,6111,21.1,-54.6,30
+2026-10-20 15:51:14,7cthSSEVZKkcZTFoKBHiVk4rgfdttxMk5sKDcRTapump,GOAT,BUY,dev sold,0,0.1,,,8171,,,
+2026-10-20 15:52:45,78bwg8BgoFAtwpi9ebaL8Pxwdz3Ei3izSnhiXgxTpump,Pungsan,BUY,dev sold,0,0.1,,,11749,,,
+2026-10-20 15:52:56,78bwg8BgoFAtwpi9ebaL8Pxwdz3Ei3izSnhiXgxTpump,Pungsan,SELL,dev sold,0,0.0471,-52.9,stop loss -52%,6018,0.1,-48.8,11
+2026-10-20 15:53:33,6wMtjEgZgpNfQSZ35deGvBBWT93cJQ4pV6Hc7Z6spump,ILARION,BUY,bundled: 22.6 SOL bought in launch block,0,0.1,,,8861,,,
+2026-10-20 15:54:35,GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump,kitty,BUY,dev sold,0,0.1,,,9183,,,
+2026-10-20 15:55:19,GwQeGpdncu6q4VaVKGj1UdNVE13M45QB6obDKxpBpump,kitty,SELL,dev sold,0,0.06323,-36.8,stop loss -35%,6301,13.2,-31.4,44
+2026-10-20 15:55:25,ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump,Jamie,SELL,dev sold,0,0.1556,55.6,shift ended,17335,116.9,-12.0,860
+2026-10-20 15:55:25,7cthSSEVZKkcZTFoKBHiVk4rgfdttxMk5sKDcRTapump,GOAT,SELL,dev sold,0,0.08226,-17.7,shift ended,7285,19.7,-22.1,251
+2026-10-20 15:55:25,6wMtjEgZgpNfQSZ35deGvBBWT93cJQ4pV6Hc7Z6spump,ILARION,SELL,bundled: 22.6 SOL bought in launch block,0,0.07711,-22.9,shift ended,7407,2.6,-26.8,112
