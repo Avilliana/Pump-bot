@@ -7225,3 +7225,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 12:58:13,577aGvMQ33ZMrhX961nk91otCkpUSH6GwEauQ38Ppump,MUNK,SELL,top10 hold 59%,0,0.09176,-8.2,dev sold,14416,6.9,-1.8,214
 2026-10-20 12:59:30,DqEaojRtuwZgtKXQF5H6Qak91dq4DAV62cCKquTcBBdm,PUNANI,BUY,dev sold,0,0.1,,,8884,,,
 2026-10-20 13:00:49,DqEaojRtuwZgtKXQF5H6Qak91dq4DAV62cCKquTcBBdm,PUNANI,SELL,dev sold,0,0.06252,-37.5,stop loss -36%,6029,31.2,-32.1,80
+2026-10-20 13:47:38,47eK3bsULc5GtaBD75CM3fMQ8iUhacojwMPiVcyPpump,TACO,BUY,dev sold,0,0.1,,,14131,,,
+2026-10-20 13:48:00,47eK3bsULc5GtaBD75CM3fMQ8iUhacojwMPiVcyPpump,TACO,SELL,dev sold,0,0.06044,-39.6,stop loss -38%,9267,15.1,-34.4,22
+2026-10-20 13:48:05,Ff7qujrpqxiVc9XYmh57298eoE1mzyzDL98vPT6Upump,TACO,BUY,bundled: 4 launch wallets own 17%,0,0.1,,,9425,,,
+2026-10-20 13:48:48,4TfExhRPDTinHdhq1Xp265yZjihxozUQQEDwxR31pump,TACO,BUY,dev sold,0,0.1,,,14252,,,
+2026-10-20 13:49:08,Ff7qujrpqxiVc9XYmh57298eoE1mzyzDL98vPT6Upump,TACO,SELL,bundled: 4 launch wallets own 17%,0,0.06138,-38.6,stop loss -37%,6279,110.2,-33.4,62
+2026-10-20 13:49:18,7EdCUfrxqyyzdjQ5kqZbcuEbSWHFE4TVEeWkJvspump,tacocat,BUY,dev sold,0,0.1,,,8883,,,
+2026-10-20 13:49:45,7EdCUfrxqyyzdjQ5kqZbcuEbSWHFE4TVEeWkJvspump,tacocat,SELL,dev sold,0,0.06236,-37.6,stop loss -36%,6013,24.6,-32.3,27
+2026-10-20 13:50:12,4TfExhRPDTinHdhq1Xp265yZjihxozUQQEDwxR31pump,TACO,SELL,dev sold,0,0.05405,-45.9,stop loss -45%,8366,76.2,-41.3,84
+2026-10-20 13:55:23,HMWuNE8iwF1gfttYKfLU8qZRkKSvFe4EYi8Gw5Q6pump,ChompDuo,BUY,dev sold,0,0.1,,,9421,,,
+2026-10-20 13:55:35,HMWuNE8iwF1gfttYKfLU8qZRkKSvFe4EYi8Gw5Q6pump,ChompDuo,SELL,dev sold,0,0.06189,-38.1,stop loss -37%,6329,2.6,-32.8,12
+2026-10-20 13:58:31,EeDGMaZzBDWA1opMhUyNmupAdVA7up45p6bhH6orpump,FLOAT,BUY,bundled: 21 launch wallets own 41%,0,0.1,,,20638,,,
+2026-10-20 14:00:59,8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump,FREN,BUY,bundled: 19 launch wallets own 18%,0,0.1,,,13735,,,
+2026-10-20 14:02:07,D46xBpfrKru9H3T4KvWNzJyEr2Ka6C1DpE1KaCBrpump,SAAS,BUY,score below threshold,60.9,0.1,,,25665,,,
+2026-10-20 14:02:50,EeDGMaZzBDWA1opMhUyNmupAdVA7up45p6bhH6orpump,FLOAT,SELL,bundled: 21 launch wallets own 41%,0,0.12258,22.6,dev sold,27332,99.8,-3.1,259
+2026-10-20 14:03:07,8H8U6SGQbkqCBeA5vYGx2yAQVud6V5bPfbYQKEzcpump,FREN,SELL,bundled: 19 launch wallets own 18%,0,0.12647,26.5,shift ended,18776,41.1,-12.5,128
+2026-10-20 14:03:07,D46xBpfrKru9H3T4KvWNzJyEr2Ka6C1DpE1KaCBrpump,SAAS,SELL,score below threshold,60.9,0.12327,23.3,shift ended,34172,48.4,-0.8,60
