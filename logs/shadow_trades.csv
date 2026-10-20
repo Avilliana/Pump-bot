@@ -7099,3 +7099,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 03:49:49,8RSDFx4VNbHGQFTGV6BEsppJAfnE1ZRUevTNRuLupump,TAPINO,SELL,top10 hold 73%,0,0.12884,28.8,no trading (stale),43184,39.1,-9.1,459
 2026-10-20 03:50:03,GAtzNxdKixmvJ5so6TTopj7WTh9VY52iutSq52pSpump,VIE,SELL,dev sold,0,0.0626,-37.4,stop loss -36%,10772,24.1,-32.1,19
 2026-10-20 03:50:09,CeNCkk2xeNnebncinUMYxB3WsMnkQMi7eVo41kL8pump,FLIPHIL,SELL,top10 hold 76%,0,0.12614,26.1,no trading (stale),43184,36.2,-4.9,413
+2026-10-20 04:36:49,7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump,FORKIUS,BUY,bundled: 25 launch wallets own 10%,0,0.1,,,9241,,,
+2026-10-20 04:40:06,7xTMgacureYyKpaQZwP6LHR1tywEaBjAYfj9zidipump,FORKIUS,SELL,bundled: 25 launch wallets own 10%,0,0.29895,199.0,take profit +203%,29849,223.0,-19.3,197
+2026-10-20 04:43:39,AHB4HnoPAQuXuUu7eL8HFqQe6bVkYoopTGCXoiWfpump,SHIBORBIT,BUY,bundled: 8 launch wallets own 71%,0,0.1,,,31239,,,
+2026-10-20 04:44:08,BrbHzJvLFimTGin9xBEtJhRDwgoofcmhjSGy11NSpump,DWP,BUY,bundled: 14 launch wallets own 74%,0,0.1,,,36103,,,
+2026-10-20 04:44:52,AHB4HnoPAQuXuUu7eL8HFqQe6bVkYoopTGCXoiWfpump,SHIBORBIT,SELL,bundled: 8 launch wallets own 71%,0,0.03799,-62.0,stop loss -61%,12926,12.4,-58.6,74
+2026-10-20 04:48:01,BrbHzJvLFimTGin9xBEtJhRDwgoofcmhjSGy11NSpump,DWP,SELL,bundled: 14 launch wallets own 74%,0,0.11078,10.8,no trading (stale),43200,19.7,-8.8,233
