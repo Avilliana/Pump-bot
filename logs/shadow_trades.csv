@@ -7021,3 +7021,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-19 23:51:49,BduvkQfRXfHAkEA8twA6bejSWzDoDxDiXoCzUEsupump,POKEDOLLAR,SELL,dev sold,0,0.06347,-36.5,stop loss -35%,7011,0.0,-31.1,7
 2026-10-19 23:52:30,JDnbcXGzw2SKgaAYDujbfs7rZUKfBYiwufRZtGfjpump,BCLI,SELL,score below threshold,59.4,0.13247,32.5,shift ended,18087,81.4,-22.2,674
 2026-10-19 23:52:30,J5WwwvcVmDq8rsKaJzyTbDGYTQDxoioj2SaLZzMw5MKa,PikaJew,SELL,dev sold,0,0.28459,184.6,shift ended,43208,207.2,3.8,247
+2026-10-20 00:45:02,HY7rWGLFCezBrm59KxrHa7ENcZXPwLkRo18qLBkPpump,FOOP,BUY,dev sold,0,0.1,,,8785,,,
+2026-10-20 00:45:04,HY7rWGLFCezBrm59KxrHa7ENcZXPwLkRo18qLBkPpump,FOOP,SELL,dev sold,0,0.03368,-66.3,stop loss -65%,3232,1.0,-63.2,2
+2026-10-20 00:45:20,EA7Baz8uSSwDM5DudhivQyfSSqC7SYmKVm1vRMK9pump,ALIBI,BUY,dev sold,0,0.1,,,12452,,,
+2026-10-20 00:50:34,ByxnDRmTpwR8zNRkm46heTb33rftwPHNFN4Ep4h1pump,NSC,BUY,dev sold,0,0.1,,,24637,,,
+2026-10-20 00:51:49,BA9dMJJZ6ht5kj7Zutedtx5RZVckgHUJikVtAxKmpump,Degen,BUY,dev sold,0,0.1,,,10102,,,
+2026-10-20 00:51:54,6CWLb7c9BJWXo65gAFiHMAjVqTn4rtmvXMukDPn4pump,VEIL,BUY,score below threshold,46.9,0.1,,,11198,,,
+2026-10-20 00:52:22,BA9dMJJZ6ht5kj7Zutedtx5RZVckgHUJikVtAxKmpump,Degen,SELL,dev sold,0,0.06291,-37.1,stop loss -36%,6897,11.0,-31.7,33
+2026-10-20 00:52:56,HjSwFV9QwRzHthigpUVhtGH28rPYVUdjH1G6kGhpump,Chunke,BUY,dev sold,0,0.1,,,8499,,,
+2026-10-20 00:54:05,ByxnDRmTpwR8zNRkm46heTb33rftwPHNFN4Ep4h1pump,NSC,SELL,dev sold,0,0.16183,61.8,no trading (stale),43007,74.7,-27.0,211
+2026-10-20 00:55:04,EA7Baz8uSSwDM5DudhivQyfSSqC7SYmKVm1vRMK9pump,ALIBI,SELL,dev sold,0,0.06094,-39.1,stop loss -38%,8228,90.8,-33.9,584
+2026-10-20 00:58:08,6CWLb7c9BJWXo65gAFiHMAjVqTn4rtmvXMukDPn4pump,VEIL,SELL,score below threshold,46.9,0.06191,-38.1,stop loss -37%,7518,4.8,-32.8,375
+2026-10-20 00:58:33,HjSwFV9QwRzHthigpUVhtGH28rPYVUdjH1G6kGhpump,Chunke,SELL,dev sold,0,0.06235,-37.6,stop loss -36%,5750,92.0,-32.3,337
+2026-10-20 01:00:40,DxMTw4EDvMcnbLedo9W7i5pycF4pNanVqJR7Bh8wpump,lilrocketman,BUY,dev sold,0,0.1,,,19350,,,
+2026-10-20 01:03:55,DxMTw4EDvMcnbLedo9W7i5pycF4pNanVqJR7Bh8wpump,lilrocketman,SELL,dev sold,0,0.20595,106.0,shift ended,43007,122.3,0.5,196
