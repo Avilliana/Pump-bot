@@ -7105,3 +7105,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 04:44:08,BrbHzJvLFimTGin9xBEtJhRDwgoofcmhjSGy11NSpump,DWP,BUY,bundled: 14 launch wallets own 74%,0,0.1,,,36103,,,
 2026-10-20 04:44:52,AHB4HnoPAQuXuUu7eL8HFqQe6bVkYoopTGCXoiWfpump,SHIBORBIT,SELL,bundled: 8 launch wallets own 71%,0,0.03799,-62.0,stop loss -61%,12926,12.4,-58.6,74
 2026-10-20 04:48:01,BrbHzJvLFimTGin9xBEtJhRDwgoofcmhjSGy11NSpump,DWP,SELL,bundled: 14 launch wallets own 74%,0,0.11078,10.8,no trading (stale),43200,19.7,-8.8,233
+2026-10-20 05:34:53,6mM6ju3tS87m1w7pNzEJSbpLbQoYasRNXgeiY6q4pump,NOMO,BUY,top10 hold 73%,0,0.1,,,31492,,,
+2026-10-20 05:35:18,8y84QYFGbpUptszantaZCwP2W27pp2hDPS1m3pFgpump,ECHOTRIBBLE,BUY,dev sold,0,0.1,,,11778,,,
+2026-10-20 05:35:35,HfmbgDL6zMQfKv5QKy164EnZ4L8LCH1dzm2u66e7pump,私 は,BUY,top10 hold 64%,0,0.1,,,15738,,,
+2026-10-20 05:36:18,8y84QYFGbpUptszantaZCwP2W27pp2hDPS1m3pFgpump,ECHOTRIBBLE,SELL,dev sold,0,0.06338,-36.6,stop loss -35%,8099,28.9,-31.2,60
+2026-10-20 05:37:26,HfmbgDL6zMQfKv5QKy164EnZ4L8LCH1dzm2u66e7pump,私 は,SELL,top10 hold 64%,0,0.05249,-47.5,stop loss -46%,8972,21.4,-43.0,111
+2026-10-20 05:37:43,2vP46f4dfuPY8DC4fo1P8Mng53oNfZtwpjKkf4JWpump,MC,BUY,dev sold,0,0.1,,,10951,,,
+2026-10-20 05:39:16,2vP46f4dfuPY8DC4fo1P8Mng53oNfZtwpjKkf4JWpump,MC,SELL,dev sold,0,0.06301,-37.0,stop loss -36%,7487,57.8,-31.6,93
+2026-10-20 05:40:36,B99E2trXXUE6WzGBizUnHPdNLsbTEyW9WpWpRhN8pump,BIPPY,BUY,top10 hold 76%,0,0.1,,,31259,,,
+2026-10-20 05:41:10,6mM6ju3tS87m1w7pNzEJSbpLbQoYasRNXgeiY6q4pump,NOMO,SELL,top10 hold 73%,0,0.11962,19.6,no trading (stale),40684,30.2,-17.7,377
+2026-10-20 05:42:45,AYMhmNjMuDxUT9uiZa8RqLMnwQf5khrb1P4wzVJTpump,PWOG,BUY,top10 hold 61%,0,0.1,,,18746,,,
+2026-10-20 05:43:55,BBosWSCuM31rd99jG9DE27QjZL1JAJaYp26PtF7vpump,TPack,BUY,bundled: 27 launch wallets own 8%,0,0.1,,,17211,,,
+2026-10-20 05:44:02,BBosWSCuM31rd99jG9DE27QjZL1JAJaYp26PtF7vpump,TPack,SELL,bundled: 27 launch wallets own 8%,0,0.05554,-44.5,stop loss -43%,10376,3.0,-39.7,7
+2026-10-20 05:46:59,AYMhmNjMuDxUT9uiZa8RqLMnwQf5khrb1P4wzVJTpump,PWOG,SELL,top10 hold 61%,0,0.06341,-36.6,stop loss -35%,12881,43.0,-31.3,254
+2026-10-20 05:47:08,B99E2trXXUE6WzGBizUnHPdNLsbTEyW9WpWpRhN8pump,BIPPY,SELL,top10 hold 76%,0,0.12741,27.4,no trading (stale),42982,37.6,-14.4,392
+2026-10-20 05:49:27,BrxRop1T3Dhdaf9pQEzczyAdN8RKa66u5TKdtUS1pump,PokeWorld,BUY,dev sold,0,0.1,,,10460,,,
+2026-10-20 05:53:45,BrxRop1T3Dhdaf9pQEzczyAdN8RKa66u5TKdtUS1pump,PokeWorld,SELL,dev sold,0,0.07915,-20.8,shift ended,8971,12.2,-28.8,258
