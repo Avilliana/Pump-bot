@@ -7391,3 +7391,31 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 18:56:33,5WGwxFCtC4h3sty5BJUVrkEgNYS4b9iVT6pzmUvDpump,TABLES,BUY,bundled: 9 launch wallets own 25%,0,0.1,,,10488,,,
 2026-10-20 18:57:27,ACpYHnB7xe7nCzgbxzXvab8y2rDZAi9Pv5E5P9bCpump,manager,SELL,dev sold,0,0.09304,-7.0,shift ended,9815,42.5,-11.6,139
 2026-10-20 18:57:27,5WGwxFCtC4h3sty5BJUVrkEgNYS4b9iVT6pzmUvDpump,TABLES,SELL,bundled: 9 launch wallets own 25%,0,0.1066,6.6,shift ended,12098,41.2,-5.6,55
+2026-10-20 19:37:21,5CbvSJB1YzvwE6k5Y2JbTXwpJia9pgUiAAFpe9Xfpump,ELONCOIN,BUY,bundled: 20 launch wallets own 38%,0,0.1,,,8178,,,
+2026-10-20 19:37:33,5CbvSJB1YzvwE6k5Y2JbTXwpJia9pgUiAAFpe9Xfpump,ELONCOIN,SELL,bundled: 20 launch wallets own 38%,0,0.09689,-3.1,dev sold,8581,12.9,-0.8,12
+2026-10-20 19:40:12,BJKFxwi5M4nEkkSbAa2MVr4JUH5wnHTBkkzAMmeTpump,SOL,BUY,dev sold,0,0.1,,,10963,,,
+2026-10-20 19:40:17,BJKFxwi5M4nEkkSbAa2MVr4JUH5wnHTBkkzAMmeTpump,SOL,SELL,dev sold,0,0.06331,-36.7,stop loss -35%,7531,3.4,-31.3,5
+2026-10-20 19:40:29,FhbdeJbPye8Qk8zBSyVPAGFTSLCiVs3PusEKYA9Qpump,PLAZA,BUY,bundled: 27 launch wallets own 19%,0,0.1,,,10634,,,
+2026-10-20 19:40:36,5qNHR5NVn76yGWvpUv66fcJ8KnD3ePm4JVctqGPkpump,MANGOS,BUY,dev sold,0,0.1,,,17162,,,
+2026-10-20 19:40:39,FhbdeJbPye8Qk8zBSyVPAGFTSLCiVs3PusEKYA9Qpump,PLAZA,SELL,bundled: 27 launch wallets own 19%,0,0.06136,-38.6,stop loss -37%,7081,0.0,-33.4,10
+2026-10-20 19:40:49,5qNHR5NVn76yGWvpUv66fcJ8KnD3ePm4JVctqGPkpump,MANGOS,SELL,dev sold,0,0.06329,-36.7,stop loss -35%,11777,1.5,-31.4,13
+2026-10-20 19:41:37,4wk74Lz939w2jcyFVucJz952As3BLvFFAgJP3YAypump,Pungsan,BUY,dev sold,0,0.1,,,10426,,,
+2026-10-20 19:41:51,4wk74Lz939w2jcyFVucJz952As3BLvFFAgJP3YAypump,Pungsan,SELL,dev sold,0,0.02614,-73.9,stop loss -73%,2988,1.0,-71.3,13
+2026-10-20 19:45:39,7B9oHPvksMfB3UP6jvEvcd1KUjj1MW9o6eYqkm5Tpump,SVIA,BUY,dev holds 10.2%,0,0.1,,,9152,,,
+2026-10-20 19:46:16,7B9oHPvksMfB3UP6jvEvcd1KUjj1MW9o6eYqkm5Tpump,SVIA,SELL,dev holds 10.2%,0,0.06317,-36.8,stop loss -36%,6288,0.4,-31.4,38
+2026-10-20 19:46:28,YHUuWn7gaXtqmcCXAAgijMx1TsvvBn32We2LtzXpump,RIVER,BUY,dev sold,0,0.1,,,12576,,,
+2026-10-20 19:46:45,PRVdQa6Tjwh1c7jgF7jdM8nqzsZj7od2jADGd152dwK,PRV,BUY,top10 hold 39%,0,0.1,,,9401,,,
+2026-10-20 19:47:47,YHUuWn7gaXtqmcCXAAgijMx1TsvvBn32We2LtzXpump,RIVER,SELL,dev sold,0,0.0622,-37.8,stop loss -37%,8487,8.8,-32.5,79
+2026-10-20 19:48:39,J2qYrnmRdw8nyx8rFG5D94X2KPGvwzVi594paCkppump,PUNCHDOG,BUY,bundled: 8 launch wallets own 73%,0,0.1,,,32668,,,
+2026-10-20 19:49:35,Cacr6YgJV42dVJ1pifdscJFX1tPg4L1JoSTABH7Rpump,UMI,BUY,dev sold,0,0.1,,,8810,,,
+2026-10-20 19:49:40,Cacr6YgJV42dVJ1pifdscJFX1tPg4L1JoSTABH7Rpump,UMI,SELL,dev sold,0,0.06142,-38.6,stop loss -37%,5875,0.0,-33.3,5
+2026-10-20 19:50:54,7q6UQZN8WYSAhrQFsaQLixQoo8ecmHH5WaBH3QCXpump,POL,BUY,dev holds 9.8%,0,0.1,,,8795,,,
+2026-10-20 19:51:08,GRJVLhoypkuZzVHkzktMfPdZYh7Pt5qMyjsdDqTopump,POKEDROP,BUY,dev sold,0,0.1,,,12618,,,
+2026-10-20 19:51:20,AqR1N2Sgzpsc5DsJ2A1MT9oFBRtmrChbGaj6ut76pump,FF,BUY,score below threshold,43.2,0.1,,,9533,,,
+2026-10-20 19:51:25,7q6UQZN8WYSAhrQFsaQLixQoo8ecmHH5WaBH3QCXpump,POL,SELL,dev holds 9.8%,0,0.0499,-50.1,stop loss -49%,4773,7.7,-45.7,31
+2026-10-20 19:52:05,J2qYrnmRdw8nyx8rFG5D94X2KPGvwzVi594paCkppump,PUNCHDOG,SELL,bundled: 8 launch wallets own 73%,0,0.12328,23.3,no trading (stale),43488,33.1,0.0,206
+2026-10-20 19:52:31,21nyA32Zyv9WeY8LeYm1doZGrZixuSzaBD1pZySkpump,CCOLLECTOR,BUY,past buy window (late mover),67.0,0.1,,,8045,,,
+2026-10-20 19:52:52,AqR1N2Sgzpsc5DsJ2A1MT9oFBRtmrChbGaj6ut76pump,FF,SELL,score below threshold,43.2,0.06266,-37.3,stop loss -36%,6483,3.5,-32.0,92
+2026-10-20 19:54:01,GRJVLhoypkuZzVHkzktMfPdZYh7Pt5qMyjsdDqTopump,POKEDROP,SELL,dev sold,0,0.06366,-36.3,stop loss -35%,8713,16.9,-30.9,173
+2026-10-20 19:55:51,PRVdQa6Tjwh1c7jgF7jdM8nqzsZj7od2jADGd152dwK,PRV,SELL,top10 hold 39%,0,0.14481,44.8,shift ended,14720,59.4,0.0,546
+2026-10-20 19:55:51,21nyA32Zyv9WeY8LeYm1doZGrZixuSzaBD1pZySkpump,CCOLLECTOR,SELL,past buy window (late mover),67.0,0.14488,44.9,shift ended,12607,72.6,-7.1,200
