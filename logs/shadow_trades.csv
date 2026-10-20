@@ -7289,3 +7289,33 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 15:55:25,ExvXEyTfYLWxPFNefDUzNaSkYpz9VJxAJAA6C5vKpump,Jamie,SELL,dev sold,0,0.1556,55.6,shift ended,17335,116.9,-12.0,860
 2026-10-20 15:55:25,7cthSSEVZKkcZTFoKBHiVk4rgfdttxMk5sKDcRTapump,GOAT,SELL,dev sold,0,0.08226,-17.7,shift ended,7285,19.7,-22.1,251
 2026-10-20 15:55:25,6wMtjEgZgpNfQSZ35deGvBBWT93cJQ4pV6Hc7Z6spump,ILARION,SELL,bundled: 22.6 SOL bought in launch block,0,0.07711,-22.9,shift ended,7407,2.6,-26.8,112
+2026-10-20 16:36:03,F445ZAhbV5psYnuYQzU8UEyhjeePAK1CoZhEz8wxpump,BOTCOIN,BUY,dev sold,0,0.1,,,20396,,,
+2026-10-20 16:36:10,F445ZAhbV5psYnuYQzU8UEyhjeePAK1CoZhEz8wxpump,BOTCOIN,SELL,dev sold,0,0.06261,-37.4,stop loss -36%,13844,3.5,-32.1,6
+2026-10-20 16:39:40,6qcagjcg7DXTymNtifkoHN5efDHKSPCzRfpCWKNEpump,Catahoula,BUY,dev sold,0,0.1,,,8230,,,
+2026-10-20 16:39:47,6qcagjcg7DXTymNtifkoHN5efDHKSPCzRfpCWKNEpump,Catahoula,SELL,dev sold,0,0.06364,-36.4,stop loss -35%,5685,0.4,-30.9,7
+2026-10-20 16:40:15,FsA1wMPSmyboDKeYbRWZpCF9BKYVYzD44fXomL2Lpump,FREEZE,BUY,dev sold,0,0.1,,,29249,,,
+2026-10-20 16:40:42,FsA1wMPSmyboDKeYbRWZpCF9BKYVYzD44fXomL2Lpump,FREEZE,SELL,dev sold,0,0.05995,-40.0,stop loss -39%,19012,20.7,-35.0,27
+2026-10-20 16:41:34,14AiiZiEpWvYRhWnH6Xdm2bETTEEowrSJkUvadbPCALL,CALLED,BUY,score below threshold,53.4,0.1,,,8145,,,
+2026-10-20 16:41:37,HxD7PeAMUKTMvw7K1QsBGBomBJDzqy4T9Ux448iZpump,FREEZE,BUY,dev sold,0,0.1,,,9319,,,
+2026-10-20 16:41:42,HxD7PeAMUKTMvw7K1QsBGBomBJDzqy4T9Ux448iZpump,FREEZE,SELL,dev sold,0,0.06316,-36.8,stop loss -36%,6388,0.0,-31.5,6
+2026-10-20 16:41:47,81Wrah7us3WZDsUwiqBw3sWSENzn2KJs8RXaXYNYpump,STRKVL,BUY,top10 hold 39%,0,0.1,,,16310,,,
+2026-10-20 16:42:19,86FQiEgpMSMfzvZZaZP1Lrn6y7YSRwoTKHHCaTPDpump,FREEZE,BUY,dev sold,0,0.1,,,13351,,,
+2026-10-20 16:42:21,86FQiEgpMSMfzvZZaZP1Lrn6y7YSRwoTKHHCaTPDpump,FREEZE,SELL,dev sold,0,0.06142,-38.6,stop loss -37%,8897,3.8,-33.4,2
+2026-10-20 16:43:29,BekehNp8GaFhYz6PvhYPoH3UaD3XFiP5YVRVX1TTpump,NOXUNEL,BUY,bundled: 17.5 SOL bought in launch block,0,0.1,,,9185,,,
+2026-10-20 16:43:54,CZeDLLXqSU8MFzvpcHBYDzn7BinUNmTfnrENd8gjpump,HOARD,BUY,top10 hold 53%,0,0.1,,,21290,,,
+2026-10-20 16:44:39,F7X2Q7okzXkqer7CtS1dJ9WwSbEYVRZiPv4GrBC3pump,NIGEL,BUY,dev sold,0,0.1,,,8945,,,
+2026-10-20 16:44:45,F7X2Q7okzXkqer7CtS1dJ9WwSbEYVRZiPv4GrBC3pump,NIGEL,SELL,dev sold,0,0.06315,-36.9,stop loss -36%,6131,0.5,-31.5,6
+2026-10-20 16:45:20,kai8sjSxmcxyEyXzy58bBmPFPB4bqZdGMty2ZosxJuP,KAI,BUY,bundled: 13 launch wallets own 72%,0,0.1,,,32550,,,
+2026-10-20 16:45:42,81Wrah7us3WZDsUwiqBw3sWSENzn2KJs8RXaXYNYpump,STRKVL,SELL,top10 hold 39%,0,0.0503,-49.7,stop loss -49%,8918,14.8,-45.4,236
+2026-10-20 16:46:24,5B2aUqCodUg4jaQsoc9VM92E3XvrkjgUkfrHu1F5pump,LUCY,BUY,score below threshold,46.6,0.1,,,8650,,,
+2026-10-20 16:46:38,7BTJg3tRDNJpLfSDiK6vqEHSf6eV4GDkAu325Xvwpump,Jane,BUY,dev sold,0,0.1,,,13086,,,
+2026-10-20 16:47:08,7BTJg3tRDNJpLfSDiK6vqEHSf6eV4GDkAu325Xvwpump,Jane,SELL,dev sold,0,0.03843,-61.6,stop loss -61%,5482,7.1,-58.1,30
+2026-10-20 16:47:33,5B2aUqCodUg4jaQsoc9VM92E3XvrkjgUkfrHu1F5pump,LUCY,SELL,score below threshold,46.6,0.05442,-45.6,stop loss -44%,5115,0.0,-40.9,69
+2026-10-20 16:48:41,kai8sjSxmcxyEyXzy58bBmPFPB4bqZdGMty2ZosxJuP,KAI,SELL,bundled: 13 launch wallets own 72%,0,0.12391,23.9,no trading (stale),43549,33.8,0.0,201
+2026-10-20 16:52:56,HJamJQWEc9VVAqtfBP2QuBdVnBdxTwqvwfsohWBcpump,Lamport,BUY,bundled: 10 launch wallets own 29%,0,0.1,,,8700,,,
+2026-10-20 16:53:01,HJamJQWEc9VVAqtfBP2QuBdVnBdxTwqvwfsohWBcpump,Lamport,SELL,bundled: 10 launch wallets own 29%,0,0.06095,-39.0,stop loss -38%,5757,8.0,-33.8,5
+2026-10-20 16:54:04,BY57nzT3oK4WzjMHbKCycqVSC3bGmFJQP3WBScNspump,Xitter,BUY,dev sold,0,0.1,,,8374,,,
+2026-10-20 16:54:50,14AiiZiEpWvYRhWnH6Xdm2bETTEEowrSJkUvadbPCALL,CALLED,SELL,score below threshold,53.4,0.08098,-19.0,shift ended,7153,37.8,-12.2,796
+2026-10-20 16:54:50,BekehNp8GaFhYz6PvhYPoH3UaD3XFiP5YVRVX1TTpump,NOXUNEL,SELL,bundled: 17.5 SOL bought in launch block,0,0.07969,-20.3,shift ended,7936,36.5,-13.8,681
+2026-10-20 16:54:50,CZeDLLXqSU8MFzvpcHBYDzn7BinUNmTfnrENd8gjpump,HOARD,SELL,top10 hold 53%,0,0.07445,-25.5,shift ended,17175,10.9,-29.2,656
+2026-10-20 16:54:50,BY57nzT3oK4WzjMHbKCycqVSC3bGmFJQP3WBScNspump,Xitter,SELL,dev sold,0,0.08764,-12.4,shift ended,7951,8.3,-21.7,46
