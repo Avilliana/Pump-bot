@@ -1,5 +1,12 @@
 # pump.fun paper-trading bot (v1)
 
+> **Status: retired (Oct 21, 2026).** After 364 paper trades over ~3.5 weeks the bot never stayed
+> profitable: it improved from about -17% per trade to roughly breakeven, but no lasting edge after
+> costs. Its filters (dev sold, dev holdings, bundles, holder concentration) did reliably avoid
+> losers. Workflows are disabled; all code, logs and TUNING_LOG.md are kept for reference.
+> Re-enable both workflows in the Actions tab to run it again.
+
+
 Watches every new pump.fun launch live, throws out the obvious traps, scores the
 rest, and trades **fake SOL**. It has no wallet and no private key, so it cannot
 spend real money.
