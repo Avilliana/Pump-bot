@@ -7541,3 +7541,9 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 01:51:15,9dYMqwikF5hY5zxCRrQBZqL8oEKTYYk5oJbVbAVwpump,Psyop,SELL,dev sold,0,0.06232,-37.7,stop loss -36%,6502,0.0,-32.4,90
 2026-10-21 01:53:14,4ReRp8QN7yiWvw5RB7wUghXbYmFuZbbLw5WwKfarpump,CUPSEY ,BUY,dev holds 64.1%,0,0.1,,,27723,,,
 2026-10-21 01:54:09,4ReRp8QN7yiWvw5RB7wUghXbYmFuZbbLw5WwKfarpump,CUPSEY ,SELL,dev holds 64.1%,0,0.06179,-38.2,stop loss -37%,18569,0.6,-33.0,54
+2026-10-21 02:40:56,4T8v5x2pqHXL5eu73JLB9jYbqKYNGoiz2NKHF4Bxpump,Naseem,BUY,dev sold,0,0.1,,,12209,,,
+2026-10-21 02:41:10,4T8v5x2pqHXL5eu73JLB9jYbqKYNGoiz2NKHF4Bxpump,Naseem,SELL,dev sold,0,0.06201,-38.0,stop loss -37%,8214,6.8,-32.7,14
+2026-10-21 02:49:03,3esBTDkPHi7s8EkhLpuDgVtDBGFdzCv8Y9i68igipump,LUCIK,BUY,bundled: 11 launch wallets own 74%,0,0.1,,,31929,,,
+2026-10-21 02:50:27,3esBTDkPHi7s8EkhLpuDgVtDBGFdzCv8Y9i68igipump,LUCIK,SELL,bundled: 11 launch wallets own 74%,0,0.06079,-39.2,stop loss -38%,21038,0.3,-34.1,84
+2026-10-21 02:51:37,6HeyMsrcTAQrJxVguddfwiNDoM65iPq7xksW3X4pump,SYLPH,BUY,dev holds 52.4%,0,0.1,,,13012,,,
+2026-10-21 02:52:50,6HeyMsrcTAQrJxVguddfwiNDoM65iPq7xksW3X4pump,SYLPH,SELL,dev holds 52.4%,0,0.19938,99.4,shift ended,28017,115.3,-0.2,73
