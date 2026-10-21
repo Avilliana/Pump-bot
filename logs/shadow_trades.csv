@@ -7633,3 +7633,25 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 08:01:26,4tieigPJCAQbw1C9wBLtg9QZGgPFeuyibRD6Hi2spump,GUZZLEGOAT,BUY,bundled: 25 launch wallets own 74%,0,0.1,,,37247,,,
 2026-10-21 08:04:41,4tieigPJCAQbw1C9wBLtg9QZGgPFeuyibRD6Hi2spump,GUZZLEGOAT,SELL,bundled: 25 launch wallets own 74%,0,0.10909,9.1,no trading (stale),43890,17.8,0.1,195
 2026-10-21 08:04:51,36PbfTZdV73dzv8oQD9J8CHQuYgnybH7xnFmKKaLpump,LARRY,SELL,dev sold,0,0.2513,151.3,shift ended,30620,193.8,-14.4,316
+2026-10-21 08:38:59,14CfkJPJMh7mtxMtgw1Ybtw4gibodE4gstfW3CE4pump,NICE,BUY,dev sold,0,0.1,,,8902,,,
+2026-10-21 08:39:27,AmtTsp8x7nE8BsHfEiFp4fs5QvdUHvsA4Jv5a5QApump,zonki,BUY,dev holds 64.1%,0,0.1,,,18895,,,
+2026-10-21 08:39:33,AmtTsp8x7nE8BsHfEiFp4fs5QvdUHvsA4Jv5a5QApump,zonki,SELL,dev holds 64.1%,0,0.01433,-85.7,dev sold,3013,0.0,-84.1,6
+2026-10-21 08:40:47,14CfkJPJMh7mtxMtgw1Ybtw4gibodE4gstfW3CE4pump,NICE,SELL,dev sold,0,0.04983,-50.2,stop loss -49%,4824,122.5,-45.8,108
+2026-10-21 08:41:59,89X1RR4V5wVwqUzUSE68ksjCby6PhkAtJNmqkkBkUmu5,LARRY,BUY,bundled: 18 launch wallets own 10%,0,0.1,,,12587,,,
+2026-10-21 08:42:26,89X1RR4V5wVwqUzUSE68ksjCby6PhkAtJNmqkkBkUmu5,LARRY,SELL,bundled: 18 launch wallets own 10%,0,0.06314,-36.9,stop loss -36%,8621,3.8,-31.5,26
+2026-10-21 08:42:29,FKhxUYC4eqLXRNJGwFvTdK6g5MGi6SCa5EnvsZVY6aQp,Banksy,BUY,dev sold,0,0.1,,,15829,,,
+2026-10-21 08:42:53,FKhxUYC4eqLXRNJGwFvTdK6g5MGi6SCa5EnvsZVY6aQp,Banksy,SELL,dev sold,0,0.06348,-36.5,stop loss -35%,10896,9.5,-31.2,24
+2026-10-21 08:42:59,4hbHSyn4vxJ5wPfbayqT2qDGUaE33AijJe1Ty9q6pump,Kimchi,BUY,dev holds 17.5%,0,0.1,,,8375,,,
+2026-10-21 08:43:03,4hbHSyn4vxJ5wPfbayqT2qDGUaE33AijJe1Ty9q6pump,Kimchi,SELL,dev holds 17.5%,0,0.08041,-19.6,dev sold,7300,0.0,-12.8,3
+2026-10-21 08:43:24,4eVFkWvy5xSdCey7EYUX7pBVmRyin6ZG9h1Q1ThEpump,Girl,BUY,dev sold,0,0.1,,,13760,,,
+2026-10-21 08:44:48,AsQnK7gzzDhTHixR4PYc2wHbYreYPA3H3tB2Fff8o2YJ,GIRL,BUY,bundled: 31 launch wallets own 9%,0,0.1,,,10808,,,
+2026-10-21 08:44:59,5fXsXtDNdjKH2cAF13HGsPGgK85cR67Ykm9zXaBwpump,Kimchi,BUY,dev sold,0,0.1,,,33441,,,
+2026-10-21 08:45:25,AsQnK7gzzDhTHixR4PYc2wHbYreYPA3H3tB2Fff8o2YJ,GIRL,SELL,bundled: 31 launch wallets own 9%,0,0.06279,-37.2,stop loss -36%,7364,8.9,-31.9,37
+2026-10-21 08:46:21,4eVFkWvy5xSdCey7EYUX7pBVmRyin6ZG9h1Q1ThEpump,Girl,SELL,dev sold,0,0.06296,-37.0,stop loss -36%,9397,41.6,-31.7,176
+2026-10-21 08:48:09,Ff6aeLSgkWrcYePvfEoGD9aHSr2jcGvmPMFSh9N8pump,zonki,BUY,dev holds 66.8%,0,0.1,,,21517,,,
+2026-10-21 08:48:16,5fXsXtDNdjKH2cAF13HGsPGgK85cR67Ykm9zXaBwpump,Kimchi,SELL,dev sold,0,0.12115,21.2,no trading (stale),43837,30.8,-11.3,197
+2026-10-21 08:48:21,Ff6aeLSgkWrcYePvfEoGD9aHSr2jcGvmPMFSh9N8pump,zonki,SELL,dev holds 66.8%,0,0.01349,-86.5,dev sold,3236,21.3,-85.0,12
+2026-10-21 08:53:23,BsJkiUA6GDv6y8VhMeohBTJ6H9pwuCWTbzJLY8Btpump,EMBER,BUY,bundled: 15 launch wallets own 75%,0,0.1,,,34531,,,
+2026-10-21 08:54:42,BsJkiUA6GDv6y8VhMeohBTJ6H9pwuCWTbzJLY8Btpump,EMBER,SELL,bundled: 15 launch wallets own 75%,0,0.06352,-36.5,stop loss -35%,23768,8.3,-31.2,79
+2026-10-21 08:55:42,AqkKV4LBdddeGufJJseJfhqcpnLe69NGZW9Cod8opump,Burnham,BUY,dev sold,0,0.1,,,9077,,,
+2026-10-21 08:56:08,AqkKV4LBdddeGufJJseJfhqcpnLe69NGZW9Cod8opump,Burnham,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,6211,2.0,-31.6,26
