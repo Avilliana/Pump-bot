@@ -7515,3 +7515,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-20 23:49:40,Bnqf6qKJji4GSYXjs5bHiEYNUDidb5zbn5f6b7F1pump,HAYDEN,SELL,bundled: 13 launch wallets own 6%,0,0.08642,-13.6,shift ended,17264,0.2,-9.6,209
 2026-10-20 23:49:40,42w87Mr7a79MjVEe46bRJeTgKG29WqcbewmTv9T8pump,celebrity,SELL,dev sold,0,0.07137,-28.6,shift ended,21977,2.6,-25.3,36
 2026-10-20 23:49:40,26Ym1KruRk91WmXVBWiaH3TLLDPJFiTs1JWxa4VKpump,Profit,SELL,dev sold,0,0.0764,-23.6,shift ended,6979,0.0,-17.5,4
+2026-10-21 00:42:49,RfWbefnSCMZspXBmTko96ULy2rb4sMB3m9XtYrPpump,Outsider,BUY,dev sold,0,0.1,,,8492,,,
+2026-10-21 00:43:31,RfWbefnSCMZspXBmTko96ULy2rb4sMB3m9XtYrPpump,Outsider,SELL,dev sold,0,0.06314,-36.9,stop loss -36%,5821,19.0,-31.5,41
+2026-10-21 00:44:37,GF3FcRqHUiCwK4pF3stz5n9UyntXc314CQwK1Ni2pump,Kumchi,BUY,dev holds 10.2%,0,0.1,,,8121,,,
+2026-10-21 00:44:57,Fmp61HgHTQHxXenzzsJNDHs4qoVhmd1PkxLTnG7hpump,boden,BUY,top10 hold 39%,0,0.1,,,9869,,,
+2026-10-21 00:45:34,GF3FcRqHUiCwK4pF3stz5n9UyntXc314CQwK1Ni2pump,Kumchi,SELL,dev holds 10.2%,0,0.06258,-37.4,stop loss -36%,5517,7.9,-32.1,56
+2026-10-21 00:46:26,Fmp61HgHTQHxXenzzsJNDHs4qoVhmd1PkxLTnG7hpump,boden,SELL,top10 hold 39%,0,0.07482,-25.2,dev sold,8004,7.4,-21.4,89
+2026-10-21 00:49:48,zFFcqhgwM8esmWVxH3F2urJcWcr6T417yaFyXQUpump,cented,BUY,dev sold,0,0.1,,,15638,,,
+2026-10-21 00:50:06,zFFcqhgwM8esmWVxH3F2urJcWcr6T417yaFyXQUpump,cented,SELL,dev sold,0,0.0379,-62.1,stop loss -61%,6459,13.4,-58.7,19
+2026-10-21 00:59:40,AyAw9MdH73RqMBHUXdZ6RoBHT2j58iCbkB5aNwy2pump,ANCHI,BUY,dev holds 57.5%,0,0.1,,,17564,,,
+2026-10-21 00:59:55,AyAw9MdH73RqMBHUXdZ6RoBHT2j58iCbkB5aNwy2pump,ANCHI,SELL,dev holds 57.5%,0,0.01751,-82.5,dev sold,3402,7.4,-80.6,16
+2026-10-21 01:00:19,7PXnZncuETQ3Q1SQkfAv7HM2WBUsRjFN3FyYxTFrzazu,zazu,BUY,dev sold,0,0.1,,,10425,,,
+2026-10-21 01:01:00,7PXnZncuETQ3Q1SQkfAv7HM2WBUsRjFN3FyYxTFrzazu,zazu,SELL,dev sold,0,0.06184,-38.2,stop loss -37%,6996,21.8,-32.9,42
