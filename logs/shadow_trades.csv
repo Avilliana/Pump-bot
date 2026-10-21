@@ -7573,3 +7573,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 03:51:07,GMy75xgEigQequSzEuvQdoT1GL8q2LqreaGiwBhRpump,Pepchi,SELL,bundled: 16 launch wallets own 73%,0,0.10785,7.9,no trading (stale),43533,16.5,-11.6,233
 2026-10-21 03:51:25,JDXwZTfo9e6zcNUNkdsQYhBJvhB983W4e45RtBjLpump,DISCIPLINE,SELL,dev sold,0,0.06166,-38.3,stop loss -37%,7738,13.3,-33.1,25
 2026-10-21 03:53:50,G4qP9my8z3Ud2TMj46VBKieqo9AQvUrDA9fLfxrbpump,KIMCHIPAD,SELL,bundled: 13 launch wallets own 10%,0,0.07978,-20.2,shift ended,6966,6.1,-22.3,253
+2026-10-21 04:36:39,2h6cPR6o2mKftSDhviNJKVCSgMqxv6Cey4WZEZ6vKAy2,Elon,BUY,dev sold,0,0.1,,,8743,,,
+2026-10-21 04:41:00,ChQ48ABAKAbZfkBLfHoA94RLJnkjsCHfvK6WicCtJQbB,eCHUDhra,BUY,dev sold,0,0.1,,,8425,,,
+2026-10-21 04:41:15,ChQ48ABAKAbZfkBLfHoA94RLJnkjsCHfvK6WicCtJQbB,eCHUDhra,SELL,dev sold,0,0.06229,-37.7,stop loss -36%,5697,0.4,-32.4,15
+2026-10-21 04:42:25,2h6cPR6o2mKftSDhviNJKVCSgMqxv6Cey4WZEZ6vKAy2,Elon,SELL,dev sold,0,0.0633,-36.7,stop loss -35%,6007,48.1,-31.3,346
+2026-10-21 04:44:21,74q7PnjhMExspBGqienDY3xAFSSc1yYmtNo8kHrGpump,CLICK,BUY,dev sold,0,0.1,,,8199,,,
+2026-10-21 04:44:32,65XbRMb8FrmAjn7wBeTkJdha6aY7vP1Erw13gR2fpump,CLICK,BUY,dev sold,0,0.1,,,18981,,,
+2026-10-21 04:46:52,65XbRMb8FrmAjn7wBeTkJdha6aY7vP1Erw13gR2fpump,CLICK,SELL,dev sold,0,0.06364,-36.4,stop loss -35%,13097,92.5,-31.0,140
+2026-10-21 04:54:08,BvGEiWSp97y7TLH6Fououvi2shYUchjGDZQCp9okpump,ILHAN,BUY,dev sold,0,0.1,,,9637,,,
+2026-10-21 04:54:15,Ht5mNN6eMjoUsk6uUAnZLUAEKkawx54dRjeVd6DWpump,theranos,BUY,dev sold,0,0.1,,,16654,,,
+2026-10-21 04:54:19,74q7PnjhMExspBGqienDY3xAFSSc1yYmtNo8kHrGpump,CLICK,SELL,dev sold,0,0.14138,41.4,shift ended,12538,127.3,-24.9,598
+2026-10-21 04:54:19,BvGEiWSp97y7TLH6Fououvi2shYUchjGDZQCp9okpump,ILHAN,SELL,dev sold,0,0.12389,23.9,shift ended,12915,34.0,-1.3,11
+2026-10-21 04:54:19,Ht5mNN6eMjoUsk6uUAnZLUAEKkawx54dRjeVd6DWpump,theranos,SELL,dev sold,0,0.11308,13.1,shift ended,20327,104.4,1.9,4
