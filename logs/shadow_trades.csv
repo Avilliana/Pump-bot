@@ -7621,3 +7621,15 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 07:00:57,8CH7k7fJzfmQ1sLbiAMggP8k3NmWRYoCPEM8J6btpump,LolliPop,BUY,bundled: 7 launch wallets own 74%,0,0.1,,,29341,,,
 2026-10-21 07:01:53,SFeK5d2W9CNbc9X798kyd7TU1WLUmhgsLo5ET2Tpump,catrooms,SELL,dev sold,0,0.14011,40.1,shift ended,12916,61.8,-22.5,277
 2026-10-21 07:01:53,8CH7k7fJzfmQ1sLbiAMggP8k3NmWRYoCPEM8J6btpump,LolliPop,SELL,bundled: 7 launch wallets own 74%,0,0.08479,-15.2,shift ended,26910,0.1,-9.0,56
+2026-10-21 07:45:59,F7WeFKekxVBPgkWvfBMjgdVDGW2GYfPTezX9S5KQpump,RSPCA,BUY,bundled: 25 launch wallets own 31%,0,0.1,,,11441,,,
+2026-10-21 07:46:24,5sejRhFchp5jhDKHZBcBJxHJkb78DxifUwAMd785pump,DREAM,BUY,dev sold,0,0.1,,,13062,,,
+2026-10-21 07:50:03,F7WeFKekxVBPgkWvfBMjgdVDGW2GYfPTezX9S5KQpump,RSPCA,SELL,bundled: 25 launch wallets own 31%,0,0.06166,-38.3,stop loss -37%,7656,64.5,-33.1,244
+2026-10-21 07:50:22,5sejRhFchp5jhDKHZBcBJxHJkb78DxifUwAMd785pump,DREAM,SELL,dev sold,0,0.0625,-37.5,stop loss -36%,8856,73.6,-32.2,239
+2026-10-21 07:50:23,BkPWApHefAbBc9sNx2fFWtgpt7q1jnuzfr3xQoCEpump,Restore,BUY,dev sold,0,0.1,,,8376,,,
+2026-10-21 07:51:18,BkPWApHefAbBc9sNx2fFWtgpt7q1jnuzfr3xQoCEpump,Restore,SELL,dev sold,0,0.06307,-36.9,stop loss -36%,5735,36.9,-31.5,55
+2026-10-21 07:59:36,36PbfTZdV73dzv8oQD9J8CHQuYgnybH7xnFmKKaLpump,LARRY,BUY,dev sold,0,0.1,,,11281,,,
+2026-10-21 08:00:51,FhWNDGPZm34cGx8c3bWkNKuxiGavtWpZF1rCVGmuzB9s,Drago,BUY,dev sold,0,0.1,,,8346,,,
+2026-10-21 08:00:53,FhWNDGPZm34cGx8c3bWkNKuxiGavtWpZF1rCVGmuzB9s,Drago,SELL,dev sold,0,0.06352,-36.5,stop loss -35%,5755,0.0,-31.0,2
+2026-10-21 08:01:26,4tieigPJCAQbw1C9wBLtg9QZGgPFeuyibRD6Hi2spump,GUZZLEGOAT,BUY,bundled: 25 launch wallets own 74%,0,0.1,,,37247,,,
+2026-10-21 08:04:41,4tieigPJCAQbw1C9wBLtg9QZGgPFeuyibRD6Hi2spump,GUZZLEGOAT,SELL,bundled: 25 launch wallets own 74%,0,0.10909,9.1,no trading (stale),43890,17.8,0.1,195
+2026-10-21 08:04:51,36PbfTZdV73dzv8oQD9J8CHQuYgnybH7xnFmKKaLpump,LARRY,SELL,dev sold,0,0.2513,151.3,shift ended,30620,193.8,-14.4,316
