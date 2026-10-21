@@ -7585,3 +7585,23 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 04:54:19,74q7PnjhMExspBGqienDY3xAFSSc1yYmtNo8kHrGpump,CLICK,SELL,dev sold,0,0.14138,41.4,shift ended,12538,127.3,-24.9,598
 2026-10-21 04:54:19,BvGEiWSp97y7TLH6Fououvi2shYUchjGDZQCp9okpump,ILHAN,SELL,dev sold,0,0.12389,23.9,shift ended,12915,34.0,-1.3,11
 2026-10-21 04:54:19,Ht5mNN6eMjoUsk6uUAnZLUAEKkawx54dRjeVd6DWpump,theranos,SELL,dev sold,0,0.11308,13.1,shift ended,20327,104.4,1.9,4
+2026-10-21 05:38:25,2obQEJURUTQGNVTdwqZQX3HaAAd78dzhPP1PHksvpump,Datacenter,BUY,dev sold,0,0.1,,,15807,,,
+2026-10-21 05:38:50,BiHjcFc3mdR5Q1e83wSJEbaJHwF1bmy75KXF1XBwpump,DATACENTER,BUY,dev sold,0,0.1,,,8164,,,
+2026-10-21 05:39:01,BiHjcFc3mdR5Q1e83wSJEbaJHwF1bmy75KXF1XBwpump,DATACENTER,SELL,dev sold,0,0.0565,-43.5,stop loss -42%,5011,0.0,-38.6,11
+2026-10-21 05:39:06,2obQEJURUTQGNVTdwqZQX3HaAAd78dzhPP1PHksvpump,Datacenter,SELL,dev sold,0,0.0634,-36.6,stop loss -35%,10867,36.7,-31.2,41
+2026-10-21 05:40:07,6jL4GjWE7bVYmdaACvxJMjzH86DQ87XqSjVt1qeMLdap,Datacenter,BUY,dev sold,0,0.1,,,10239,,,
+2026-10-21 05:41:28,9f3DfVULPHxdQN7cLgrQ1dC2tSXSbaPsnYquD48rx22R,X,BUY,dev sold,0,0.1,,,20198,,,
+2026-10-21 05:41:33,9f3DfVULPHxdQN7cLgrQ1dC2tSXSbaPsnYquD48rx22R,X,SELL,dev sold,0,0.03618,-63.8,stop loss -63%,7967,0.7,-60.6,5
+2026-10-21 05:41:47,2jCuh5iQbXCJBt1kfzeUT2KECkxUzRkWnGf5VXUspump,X,BUY,dev sold,0,0.1,,,19066,,,
+2026-10-21 05:42:24,6jL4GjWE7bVYmdaACvxJMjzH86DQ87XqSjVt1qeMLdap,Datacenter,SELL,dev sold,0,0.0626,-37.4,stop loss -36%,6955,40.0,-32.1,137
+2026-10-21 05:42:29,5SPg2B7adWtGx7BH9V96ZjscCoNx3T6mpY2bhThzpump,XHOLDINGS,BUY,dev sold,0,0.1,,,19182,,,
+2026-10-21 05:42:53,5SPg2B7adWtGx7BH9V96ZjscCoNx3T6mpY2bhThzpump,XHOLDINGS,SELL,dev sold,0,0.06082,-39.2,stop loss -38%,12653,0.0,-34.0,24
+2026-10-21 05:43:08,HkPNA4i5syG4CqPC8oS1EZvqFHWZtFRGa2J5xg5opump,Pumkinjak,BUY,top10 hold 68%,0,0.1,,,16223,,,
+2026-10-21 05:44:39,HkPNA4i5syG4CqPC8oS1EZvqFHWZtFRGa2J5xg5opump,Pumkinjak,SELL,top10 hold 68%,0,0.03628,-63.7,stop loss -63%,6408,37.8,-60.4,91
+2026-10-21 05:46:36,2jCuh5iQbXCJBt1kfzeUT2KECkxUzRkWnGf5VXUspump,X,SELL,dev sold,0,0.21166,111.7,no trading (stale),43483,128.4,1.4,288
+2026-10-21 05:47:42,2iJT9vivid86ecwpnJBnYZKzSKUiFyNcF9TMVbXEpump,Chessy,BUY,top10 hold 75%,0,0.1,,,28946,,,
+2026-10-21 05:48:57,2iJT9vivid86ecwpnJBnYZKzSKUiFyNcF9TMVbXEpump,Chessy,SELL,top10 hold 75%,0,0.06228,-37.7,stop loss -36%,19538,1.4,-32.5,75
+2026-10-21 05:52:39,89XXwJdBxvzP18bRpigoY6xYbnKPEmAULnBPo2CQpump,XHOLDINGS,BUY,dev sold,0,0.1,,,9323,,,
+2026-10-21 05:52:47,89XXwJdBxvzP18bRpigoY6xYbnKPEmAULnBPo2CQpump,XHOLDINGS,SELL,dev sold,0,0.05921,-40.8,stop loss -40%,5994,0.0,-35.7,8
+2026-10-21 05:53:10,DJWBtTdK4kn7sUdfYhd612EZLpxJz2JwSrgo6nRwpump,DD,BUY,dev sold,0,0.1,,,12836,,,
+2026-10-21 05:53:12,DJWBtTdK4kn7sUdfYhd612EZLpxJz2JwSrgo6nRwpump,DD,SELL,dev sold,0,0.08605,-13.9,shift ended,11959,3.6,-10.4,1
