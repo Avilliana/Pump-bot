@@ -7655,3 +7655,17 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 08:54:42,BsJkiUA6GDv6y8VhMeohBTJ6H9pwuCWTbzJLY8Btpump,EMBER,SELL,bundled: 15 launch wallets own 75%,0,0.06352,-36.5,stop loss -35%,23768,8.3,-31.2,79
 2026-10-21 08:55:42,AqkKV4LBdddeGufJJseJfhqcpnLe69NGZW9Cod8opump,Burnham,BUY,dev sold,0,0.1,,,9077,,,
 2026-10-21 08:56:08,AqkKV4LBdddeGufJJseJfhqcpnLe69NGZW9Cod8opump,Burnham,SELL,dev sold,0,0.06304,-37.0,stop loss -36%,6211,2.0,-31.6,26
+2026-10-21 09:36:05,WsZNJDGW9vkdwcsNsvq1sSTnQxZVHc8pWkKGJp8pump,PumpkinBot,BUY,dev sold,0,0.1,,,14825,,,
+2026-10-21 09:37:23,FK6BFgmrGgu6a2oBrF88JnrwHoE4QdPgWpTCkqn9pump,Grumpo,BUY,bundled: 15 launch wallets own 74%,0,0.1,,,30944,,,
+2026-10-21 09:37:56,WsZNJDGW9vkdwcsNsvq1sSTnQxZVHc8pWkKGJp8pump,PumpkinBot,SELL,dev sold,0,0.06173,-38.3,stop loss -37%,9927,184.8,-33.0,112
+2026-10-21 09:38:59,U2KdKCsTNCk2E9p6YmRfLvQtEr6oz6b4zttayaRpump,PumpkinBot,BUY,dev sold,0,0.1,,,27082,,,
+2026-10-21 09:39:10,U2KdKCsTNCk2E9p6YmRfLvQtEr6oz6b4zttayaRpump,PumpkinBot,SELL,dev sold,0,0.06356,-36.4,stop loss -35%,18654,15.1,-31.1,11
+2026-10-21 09:40:49,57spFKm47WR9zEGqPj3C443MTrfRares98zMLGgpump,Pumpkin,BUY,dev sold,0,0.1,,,12025,,,
+2026-10-21 09:42:00,5sVsW1m5ZsnP1V8wvg3MdRbvqJ3pLao5WdEwJtVDpump,ANCHOR,BUY,dev sold,0,0.1,,,13243,,,
+2026-10-21 09:42:07,FK6BFgmrGgu6a2oBrF88JnrwHoE4QdPgWpTCkqn9pump,Grumpo,SELL,bundled: 15 launch wallets own 74%,0,0.13157,31.6,no trading (stale),43956,42.0,-2.6,284
+2026-10-21 09:42:07,57spFKm47WR9zEGqPj3C443MTrfRares98zMLGgpump,Pumpkin,SELL,dev sold,0,0.29659,196.6,take profit +201%,38511,220.3,0.0,78
+2026-10-21 09:43:23,5sVsW1m5ZsnP1V8wvg3MdRbvqJ3pLao5WdEwJtVDpump,ANCHOR,SELL,dev sold,0,0.06277,-37.2,stop loss -36%,9018,17.8,-31.9,83
+2026-10-21 09:52:16,9yxQvtqzsdHay96y7kxE8ikrGdi2FnytaCmMr9c9pump,SHELLSHOCK,BUY,bundled: 12 launch wallets own 75%,0,0.1,,,28484,,,
+2026-10-21 09:53:57,47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump,Kimchi,BUY,bundled: 22 launch wallets own 73%,0,0.1,,,33130,,,
+2026-10-21 09:54:07,9yxQvtqzsdHay96y7kxE8ikrGdi2FnytaCmMr9c9pump,SHELLSHOCK,SELL,bundled: 12 launch wallets own 75%,0,0.06334,-36.7,stop loss -35%,19552,26.1,-31.4,111
+2026-10-21 09:54:59,47jtdAbscdtjr5wkWw54kYaAZMBCxe4EWsWE8zegpump,Kimchi,SELL,bundled: 22 launch wallets own 73%,0,0.12271,22.7,shift ended,43898,32.5,-3.2,62
