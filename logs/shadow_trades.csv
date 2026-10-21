@@ -7605,3 +7605,19 @@ time,mint,symbol,action,skip_reason,score,sol,pnl_pct,exit_reason,mcap_usd,max_u
 2026-10-21 05:52:47,89XXwJdBxvzP18bRpigoY6xYbnKPEmAULnBPo2CQpump,XHOLDINGS,SELL,dev sold,0,0.05921,-40.8,stop loss -40%,5994,0.0,-35.7,8
 2026-10-21 05:53:10,DJWBtTdK4kn7sUdfYhd612EZLpxJz2JwSrgo6nRwpump,DD,BUY,dev sold,0,0.1,,,12836,,,
 2026-10-21 05:53:12,DJWBtTdK4kn7sUdfYhd612EZLpxJz2JwSrgo6nRwpump,DD,SELL,dev sold,0,0.08605,-13.9,shift ended,11959,3.6,-10.4,1
+2026-10-21 06:48:47,2iLXJ1D78KW2mFrF3Lka6rdnTHVxavSBssPKSQXJpump,ZERO,BUY,bundled: 12 launch wallets own 74%,0,0.1,,,31945,,,
+2026-10-21 06:50:14,8SW4bRU7T8FVrwHChgAWKGhNXCRb9JEme9ihd2hYpump,WYLIE,BUY,dev sold,0,0.1,,,9217,,,
+2026-10-21 06:50:42,8SW4bRU7T8FVrwHChgAWKGhNXCRb9JEme9ihd2hYpump,WYLIE,SELL,dev sold,0,0.06233,-37.7,stop loss -36%,6236,3.2,-32.3,28
+2026-10-21 06:52:54,91sCUTpW3VpY7eNg1ATPHqmAvQE6bQxEGvneZSTpump,RedPanda,BUY,dev sold,0,0.1,,,13446,,,
+2026-10-21 06:53:11,2iLXJ1D78KW2mFrF3Lka6rdnTHVxavSBssPKSQXJpump,ZERO,SELL,bundled: 12 launch wallets own 74%,0,0.12621,26.2,no trading (stale),43537,36.3,-5.4,264
+2026-10-21 06:53:44,91sCUTpW3VpY7eNg1ATPHqmAvQE6bQxEGvneZSTpump,RedPanda,SELL,dev sold,0,0.05683,-43.2,stop loss -42%,8296,40.8,-38.3,50
+2026-10-21 06:56:00,8DWredY5KicxF5NGykFVvUaYVyizigKaBekM7zzpump,RedPanda,BUY,dev sold,0,0.1,,,15121,,,
+2026-10-21 06:56:09,8DWredY5KicxF5NGykFVvUaYVyizigKaBekM7zzpump,RedPanda,SELL,dev sold,0,0.06096,-39.0,stop loss -38%,10000,17.0,-33.9,9
+2026-10-21 06:56:43,E8JivkT2v8D8FAwbkMsGWCBM9vYt7ATzWqmiJYT3pump,EI,BUY,dev sold,0,0.1,,,8481,,,
+2026-10-21 06:57:17,SFeK5d2W9CNbc9X798kyd7TU1WLUmhgsLo5ET2Tpump,catrooms,BUY,dev sold,0,0.1,,,8522,,,
+2026-10-21 06:58:01,E8JivkT2v8D8FAwbkMsGWCBM9vYt7ATzWqmiJYT3pump,EI,SELL,dev sold,0,0.06337,-36.6,stop loss -35%,5833,34.8,-31.2,78
+2026-10-21 06:59:17,9nqFPtbD9Z1q8EM4mE6BWp5y5aNiZNgtRffg2i7pump,RedPanda,BUY,dev sold,0,0.1,,,15707,,,
+2026-10-21 06:59:30,9nqFPtbD9Z1q8EM4mE6BWp5y5aNiZNgtRffg2i7pump,RedPanda,SELL,dev sold,0,0.05972,-40.3,stop loss -39%,10177,47.8,-35.2,13
+2026-10-21 07:00:57,8CH7k7fJzfmQ1sLbiAMggP8k3NmWRYoCPEM8J6btpump,LolliPop,BUY,bundled: 7 launch wallets own 74%,0,0.1,,,29341,,,
+2026-10-21 07:01:53,SFeK5d2W9CNbc9X798kyd7TU1WLUmhgsLo5ET2Tpump,catrooms,SELL,dev sold,0,0.14011,40.1,shift ended,12916,61.8,-22.5,277
+2026-10-21 07:01:53,8CH7k7fJzfmQ1sLbiAMggP8k3NmWRYoCPEM8J6btpump,LolliPop,SELL,bundled: 7 launch wallets own 74%,0,0.08479,-15.2,shift ended,26910,0.1,-9.0,56
